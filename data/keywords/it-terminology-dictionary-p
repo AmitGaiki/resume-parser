@@ -1,0 +1,2064 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - P for Proxy</title>
+<meta name="keywords" content="pdf, php, pop, pvr, ping, port, portal, p2p, pci, playstation network, ps, psn, pcs, people, photobucket, plc, power, public, pro, pmi">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page171" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm783" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable on"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-p">P</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >P</h1><div class="marker" ></div>
+<div id="pm607" class="tile  m1200 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>P for Proxy</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm748" class="tile  m1465 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>P-x</td>
+        <td>Pentium - (numbers)</td>
+        <td>The brand name for a series of Intel microprocessors used in  IBM-compatible PCs. e.g. Pentium Pro (1995), Pentium II (1997), Pentium III (1999) and Pentium 4 (2002).</td>
+      </tr>
+      <tr>
+        <td>P&S</td>
+        <td>Point And Shoot</td>
+        <td>Digital camera type</td>
+      </tr>
+      <tr>
+        <td>p2mp</td>
+        <td>point-to-multipoint</td>
+        <td>Communication between a series of receivers and  transmitters to a central location. <a href="http://cisco.com">Cisco</a> p2mp typically is set up in  three segments to enable frequency re-use. Cisco offers MMDS, U-NII,  and LMDS systems in p2mp. </td>
+      </tr>
+      <tr>
+        <td>P2P</td>
+        <td>Peer to Peer</td>
+        <td><div align="justify">In  a P2P network, the "peers" are computer systems which are connected to  each other via the Internet. Files can be shared directly between  systems on the network without the need of a central server. </div></td>
+      </tr>
+      <tr>
+        <td>P2SC</td>
+        <td> Power 2 Super Chip</td>
+        <td><a href="http://ibm.com">IBM</a>'s Deep Blue processor</td>
+      </tr>
+      <tr>
+        <td>P3P</td>
+        <td>Platform for Privacy Preferences</td>
+        <td>protocol that specifies a way to determine if a Web site's security policies meet a user's privacy requirements. P3P includes a machine-readable vocabulary and syntax that can be used to describe Web site security policies and consumers' self-identified privacy preferences.</td>
+      </tr>
+      <tr>
+        <td>P4M</td>
+        <td>Pentium 4 Processor-M</td>
+        <td>the processor was specifically designed for use in a laptop. It includes low power technologies that help extend battery life.</td>
+      </tr>
+      <tr>
+        <td>PA-QSA</td>
+        <td>Payment Application Qualified Security Assessor</td>
+        <td>company 
+          approved by the PCI SSC to conduct assessments on payment applications 
+          against the PA-DSS. </td>
+      </tr>
+      <tr>
+        <td>PaaS</td>
+        <td>platform-as-a-service </td>
+        <td>An externally hosted service providing a complete platform to create,  run, and operate applications, including development tools,  administration and management tools, runtime engine, data management  engine, security facilities, and user-management services.</td>
+      </tr>
+      <tr>
+        <td>PABX / PBX</td>
+        <td><p>private automatic branch exchange</p></td>
+        <td><p align="justify"> a telephone switch on a              customer's premises   that primarily establishes voice-grade circuits — over access lines to   a              telephone company CO — between individual users and the PSTN. <br />
+        </p></td>
+      </tr>
+      <tr>
+        <td>PAC</td>
+        <td>Proxy Auto-Configuration</td>
+        <td>A PAC file (which is a .js file) provides a means to allow browser proxy configuration to be configured through the use of a single JavaScript function FindProxyForURL()
+          
+          Conceptually each time the browser needs to download an item, it calls FindProxyForURL() to determine how the item can be downloaded. </td>
+      </tr>
+      <tr>
+        <td>PACE</td>
+        <td>pressures, action, capabilities and enablers</td>
+        <td> indicate corporate behavior in specific business processes</td>
+      </tr>
+      <tr>
+        <td>PAD</td>
+        <td>Packet Assembler and Disassembler</td>
+        <td>Device performing the interface between X.25 data network               and asynchronous device such as personal computer. Assembles user               data into packets with identifying information used to control routing.</td>
+      </tr>
+      <tr>
+        <td>PAE</td>
+        <td>Physical Addressing Extension</td>
+        <td>Extension for Windows 2000/2003 Advanced Server to address more than 4 GB of memory</td>
+      </tr>
+      <tr>
+        <td>PAL</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Phase Alternate Line</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Processor Abstraction Layer</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Publication Access List</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A color television broadcasting system developed in West Germany and  the United Kingdom that uses 650 picture lines and a 50-hertz field  frequency.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Contains the code necessary to initially boot the processor and includes error recovery and processor self-test routines </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> SQL Server replication security mechanism </p></td>
+      </tr>
+      <tr>
+        <td>PAM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Performance Acceleration <br />
+          Module</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Port to Application Mapping</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> pluggable authentication module</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> pulse amplitude modulation</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> formerly <a href="http://www.netapp.com">NetApp</a>’s Flash Cache</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a feature of the Cisco <a href="i">IOS</a> Firewall that allows you to customize TCP or UDP port numbers for network services or applications. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A UNIX programming interface that enables third-party security methods to be used. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A form of signal modulation in which the data is encoded in the amplitude of a series, or train, of regularly recurrent signal pulses. </p></td>
+      </tr>
+      <tr>
+        <td>PAN</td>
+        <td>Personal Area Network</td>
+        <td>Experimental technology in development at IBM, it allows information devices to discreetly communicate and synchronize with one another when in close proximity (using the human body as an antenna).</td>
+      </tr>
+      <tr>
+        <td>PAP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Password Authentication Protocol</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Printer Access Protocol</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A security protocol that uses password authentication to allow access  to a network or host. In the PAP authentication procedure, an  ID/password pair is repeatedly sent by the client to the host until  verification is received.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The standard protocol based on AppleTalk that is used on 
+              Mac OS X, Mac OS X Server, and other platforms for transmitting print job data to a 
+              printer or print server.</p></td>
+      </tr>
+      <tr>
+        <td>PARC</td>
+        <td>Palo Alto Research Center</td>
+        <td><strong> </strong>Xerox research center famed for having developed the first GUI in the 1970s.</td>
+      </tr>
+      <tr>
+        <td>PaRM</td>
+        <td>Patient relationship management</td>
+        <td>central repository for patient data, 
+          therapy, educational content, and alert mechanisms for 
+          the patient.</td>
+      </tr>
+      <tr>
+        <td>PASC</td>
+        <td>Portable Applications Standards Committee</td>
+        <td>a group within the IEEE. PASC is the group that has and continues to develop the POSIX family of standards. See them at <a href="http://www.pasc.org" target="_blank">HTTP://WWW.PASC.ORG</a>.</td>
+      </tr>
+      <tr>
+        <td>PASV</td>
+        <td>Passive (command)</td>
+        <td>a ftp command that requests that the server "listen" on a data port (which is not its default data port) and to wait for a connection rather than initiate one upon receipt of a transfer command.</td>
+      </tr>
+      <tr>
+        <td>PAT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Performance Acceleration Technology</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> port address translation</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Speeds data flow between the processor and system memory to increase performance. Introduced with the Intel 875P chipset</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Type of NAT that also translates the port numbers.</p></td>
+      </tr>
+      <tr>
+        <td>PAVCL</td>
+        <td>Panda Antivirus Command-Line Scanner</td>
+        <td> the anti-malware and heuristic engine from <a href="http://www.panda.com/">Panda</a>. </td>
+      </tr>
+      <tr>
+        <td>PB</td>
+        <td>PetaByte</td>
+        <td>2 to the 50th power bytes. Is equal to 1024 terabytes</td>
+      </tr>
+      <tr>
+        <td>PBM</td>
+        <td>pharmacy benefits management</td>
+        <td><strong> </strong>A category of healthcare services that involves the managing  the delivery of pharmacy and drug-related benefits for members of a  managed care or payer plans.</td>
+      </tr>
+      <tr>
+        <td>PBN</td>
+        <td>policy-based networking</td>
+        <td>The application of business rules to govern network performance.</td>
+      </tr>
+      <tr>
+        <td>PBX</td>
+        <td><p>private branch exchange</p></td>
+        <td><p align="justify">see PABX </p></td>
+      </tr>
+      <tr>
+        <td>PC</td>
+        <td>Personal Computer</td>
+        <td>A computer system used                           primarily by one person.</td>
+      </tr>
+      <tr>
+        <td>PCB</td>
+        <td>Printed Circuit Board</td>
+        <td>A substrate on which a pre-determined
+          interconnect pattern has been formed, used to assemble and connect together ICs
+          and other electronic components into a subassembly</td>
+      </tr>
+      <tr>
+        <td>PCCW</td>
+        <td>(formerly) Pacific Century CyberWorks</td>
+        <td>the holding company of HKT Group Holdings Limited, Hong Kong's premier  telecommunications provider in the <a href="i">ICT</a> industry. <a href="http://www.pccw.com/">http://www.pccw.com/</a></td>
+      </tr>
+      <tr>
+        <td>PCD</td>
+        <td>Photo Compact Disc</td>
+        <td>File format for digitized photos by Kodak</td>
+      </tr>
+      <tr>
+        <td>PCI</td>
+        <td>Peripheral Component Interconnect</td>
+        <td>The industry standard system bus architecture that is used in most  desktop and server models. PCI provides faster communications between  the processor and components (such as memory, disk and video) than the  original IBM bus, Industry Standard Architecture (ISA)</td>
+      </tr>
+      <tr>
+        <td>PCI-E</td>
+        <td>Peripheral Component Interconnect - Express</td>
+        <td>New interface replacing PCI and AGP, max bandwidth of 500MB/sec </td>
+      </tr>
+      <tr>
+        <td>PCI DSS</td>
+        <td>Payment Card Industry Data Security Standard</td>
+        <td>A common industry security  		standard developed from a collaboration between Visa and MasterCard. cf CISP. </td>
+      </tr>
+      <tr>
+        <td>PCL</td>
+        <td>Printer Command Language</td>
+        <td>a command language that was developed by Hewlett-Packard for  controlling Hewlett-Packard printers. Each PCL command consists of an  escape key followed by a series of code numbers.</td>
+      </tr>
+      <tr>
+        <td>PCM</td>
+        <td> Pulse Code Modulation</td>
+        <td>the method of achieving the                   connection speed of 56K modems.</td>
+      </tr>
+      <tr>
+        <td>PCMCIA</td>
+        <td><p>Personal Computer Memory Card International Association</p></td>
+        <td><p align="justify">An  industry association. The term is also used as shorthand for the  standard it has devised for plug-in devices to be connected to notebook  PCs. These can include modems, network cards and hard disks. PCMCIA  devices are now known as PC-Cards. <a href="http://www.pcmcia.org">www.pcmcia.org</a></p></td>
+      </tr>
+      <tr>
+        <td>PCR</td>
+        <td>Peak Cell Rate</td>
+        <td>The                                                   Peak Cell Rate, in cells/sec,                                                   is the cell rate which the source                                                   may never exceed.</td>
+      </tr>
+      <tr>
+        <td>PCRE</td>
+        <td>Perl-compatible regular expressions</td>
+        <td>A special pattern of characters for describing searches and manipulating text.</td>
+      </tr>
+      <tr>
+        <td>PCS</td>
+        <td>Personal Communications Service</td>
+        <td><p align="justify">A  wireless phone service somewhat similar to cellular telephone service.  It's sometimes referred to as digital cellular. Like cellular, PCS is  for mobile users and requires a number of antennas to blanket an area  of coverage. <br />
+        </p></td>
+      </tr>
+      <tr>
+        <td>PCT</td>
+        <td>Private Communication Technology</td>
+        <td><dl>
+            <dt>Microsoft's proprietary alternative to <a href="glossary_s.htm">SSL</a>. Enables a client  browser to communicate privately with a Web server over an encrypted  channel.</dt>
+        </dl></td>
+      </tr>
+      <tr>
+        <td>PDA</td>
+        <td>Personal Digital Assistant</td>
+        <td>PDA are small portable computers which can be
+          held in the hand and are also referred to as handheld or Pocket computers.</td>
+      </tr>
+      <tr>
+        <td>PDB</td>
+        <td>Program DataBase</td>
+        <td>Microsoft's format for debug indormation, not embedded in the object file or executable </td>
+      </tr>
+      <tr>
+        <td>PDC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Personal digital cellular</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Primary Domain Controller</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a 2G mobile-phone standard developed and used exclusively in Japan.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Provides user/computer domain authentication</p></td>
+      </tr>
+      <tr>
+        <td>PDE</td>
+        <td>possible duplicate emission</td>
+        <td>A payment that has been identified as a possible duplicate of another payment,  because the contents of certain fields or combinations of fields in both payments  are identical or similar.</td>
+      </tr>
+      <tr>
+        <td>PDF</td>
+        <td>Portable Document Format</td>
+        <td><div align="justify">a multi-platform file format developed by Adobe Systems. A PDF file  captures document text, fonts, images, and even formatting of documents  from a variety of applications.</div></td>
+      </tr>
+      <tr>
+        <td>PDH</td>
+        <td>Plesiochronous Digital Hierarchy</td>
+        <td>a technology used in telecommunications networks to transport large quantities of data over digital transport equipment such as fibre optic and microwave radio systems.</td>
+      </tr>
+      <tr>
+        <td>PDL</td>
+        <td>Pure Dumb Luck</td>
+        <td> a programmer's or system engineer's best friend when it comes to fixing things.</td>
+      </tr>
+      <tr>
+        <td>PDM</td>
+        <td>Pure Digital Monitor</td>
+        <td>Monitor has no analog capability.</td>
+      </tr>
+      <tr>
+        <td>PDN</td>
+        <td>Primary Directory Number</td>
+        <td>The telephone number that the physical telephone set is associated  with. Generally, the first telephone number listed on a multi-line set.</td>
+      </tr>
+      <tr>
+        <td>PDN</td>
+        <td>public data network</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A communications  common carrier network that provides data communications services over switched  or nonswitched lines.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A network operated by a government or private  organization to provide computer communications to the public, usually for  a fee.</p></td>
+      </tr>
+      <tr>
+        <td>PDP</td>
+        <td>Policy Decision Point</td>
+        <td>The point where policy decisions are made, responsible for handling policy decisions on behalf of PEPs</td>
+      </tr>
+      <tr>
+        <td>PDQ</td>
+        <td>Product Data Quality </td>
+        <td>Oracle MDM term (developed as a result of its acquisition in 2009 of Silver Creek Systems, is licensed based on the number of processors)</td>
+      </tr>
+      <tr>
+        <td>PDS</td>
+        <td>partitioned data set</td>
+        <td>A data  set on direct access storage that is divided into partitions, called members,  each of which can contain a program, part of a program, or data. </td>
+      </tr>
+      <tr>
+        <td>PDU</td>
+        <td>Protocol Data Unit</td>
+        <td>Message of a given protocol comprising payload and protocol-specific               control information, typically contained in header. Passes over protocol               interfaces that exist between layers of protocols (per OSI model).</td>
+      </tr>
+      <tr>
+        <td>PEAP</td>
+        <td>Protected Extensible Authentication Protocol</td>
+        <td>A protocol proposed by Microsoft, Cisco and RSA Security for securely transporting authentication data, including passwords, over 802.11 wireless networks</td>
+      </tr>
+      <tr>
+        <td>PEARL</td>
+        <td>Process and Experiment Automation Realtime Language</td>
+        <td>Process and Experiment Automation Realtime Language</td>
+      </tr>
+      <tr>
+        <td>PEF</td>
+        <td> Preferred Executable Format</td>
+        <td>An executable format understood by the Code Fragment Manager.</td>
+      </tr>
+      <tr>
+        <td>PEM</td>
+        <td>Privacy Enhanced Mail </td>
+        <td>Privacy Enhanced Mail </td>
+      </tr>
+      <tr>
+        <td>PEP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Policy Enforcement Point</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> program entry procedure</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A port on a network device where the policy decisions are actually enforced </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A procedure  provided by the compiler that is the entry point for an ILE program on a dynamic  program call.</p></td>
+      </tr>
+      <tr>
+        <td>Perl</td>
+        <td>Practical Extraction and Report Language</td>
+        <td>Perl is a programming language that is widely used for both very simple, small tasks and for very large complex applications. </td>
+      </tr>
+      <tr>
+        <td>PERT</td>
+        <td>Program Evaluation and Review Technique</td>
+        <td>a method for project
+          planning by analyzing the time required for each step.  It is also called "critical path method".</td>
+      </tr>
+      <tr>
+        <td>PET</td>
+        <td>Personal Electronic Transactor</td>
+        <td>an early (circa 1977-1980, around the same time as the Apple][) home computer featuring a ROM-based BASIC developed by Microsoft which it uses as a default "OS".</td>
+      </tr>
+      <tr>
+        <td>PF Key</td>
+        <td>Program Function Key</td>
+        <td> keyboard shortcut keys for VM/CMS. </td>
+      </tr>
+      <tr>
+        <td>PFM</td>
+        <td>personal financial management</td>
+        <td> A category of desktop applications used to manage personal finances. Examples include <a href="http://Intuit.com">Intuit's</a> Quicken and Microsoft Money.</td>
+      </tr>
+      <tr>
+        <td>PFS</td>
+        <td>Public-Key Forward Secrecy</td>
+        <td>For a key agreement protocol based on asymmetric cryptography, the  property that ensures that a session key derived from a set of  long-term public and private keys will not be compromised if one of the  private keys is compromised in the future.</td>
+      </tr>
+      <tr>
+        <td>PGP</td>
+        <td>Pretty Good Privacy</td>
+        <td>An electronic  transfer protocol that allows for the private exchange of files or mail using  public key encryption.</td>
+      </tr>
+      <tr>
+        <td>PGR</td>
+        <td>presentation graphics routines </td>
+        <td>A group of routines within the operating system that allows business charts  to be defined and displayed procedurally through function routines.</td>
+      </tr>
+      <tr>
+        <td>PGI</td>
+        <td>Premiere Global Services, Inc. </td>
+        <td>global provider of conferencing and collaboration solutions. <a href="http://www.pgi.com/">http://www.pgi.com/</a></td>
+      </tr>
+      <tr>
+        <td>pgSQL</td>
+        <td>PostgreSQL </td>
+        <td>An open source object-relational database management system developed in the late 1980's which supports the SQL standard.</td>
+      </tr>
+      <tr>
+        <td>PHB</td>
+        <td>Per-Hop-Behavior</td>
+        <td>The forwarding treatment given to a specific class of traffic, based on criteria defined in the Differentiated Service field. Routers and switches use PHBs to determine priorities for servicing various traffic flows</td>
+      </tr>
+      <tr>
+        <td>PHI</td>
+        <td>Protected Health Information</td>
+        <td>PHI is a term used in <a href="glossary_h.htm">HIPAA</a> meaning individually 
+          identifiable health information that is transmitted or maintained by electronic media or is 
+          transmitted or maintained in any other form or medium. </td>
+      </tr>
+      <tr>
+        <td><a href="php.htm">PHP</a></td>
+        <td><a href="php.htm">PHP Hypertext Preprocessor </a>(originally Personal Home Page)</td>
+        <td>PHP is a programming language used almost exclusively for creating software that is part of a <em>web site</em>. The PHP language is designed to be intermingled with the <em>HTML</em> that is used to create <em>web pages</em>. See also<a href="http://www.php.net/"> http://www.php.net/ </a></td>
+      </tr>
+      <tr>
+        <td>PHS</td>
+        <td>Personal Handy Phone System</td>
+        <td>Personal communications system used in Japan as both a digital cordless phone  in homes and offices and as a cellular phone outdoors.</td>
+      </tr>
+      <tr>
+        <td>PHY</td>
+        <td>Physical Layer</td>
+        <td>The physical layer provides for                                                   transmission of cells over a physical                                                   medium connecting two ATM devices.</td>
+      </tr>
+      <tr>
+        <td>PHZIP</td>
+        <td>Phil Katz's ZIP</td>
+        <td>an archiving tool originally written by the late Phil Katz, and  marketed by his company PKWARE, Inc. The first version of PKZIP  appeared in 1989.</td>
+      </tr>
+      <tr>
+        <td>PiB</td>
+        <td>pebibyte </td>
+        <td>1,125,899,906,842,624                   bytes. 1024 tebibytes.</td>
+      </tr>
+      <tr>
+        <td>PIC</td>
+        <td>Position-Independent                   Code</td>
+        <td>A file containing object code that is almost ready for execution on the target. The final remaining step is to use a locator or loader to fix the remaining relocatable addresses within the code.</td>
+      </tr>
+      <tr>
+        <td>Picnic</td>
+        <td>Problem In Chair, Not In Computer</td>
+        <td>An abbreviation indicating that a problem was not computer related but lies   	with the person in the chair, i.e. a user related problem.</td>
+      </tr>
+      <tr>
+        <td>PID</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Process ID</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Proportional Integral Derivative</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A number assigned to a UNIX process when it starts. The PID allows you 
+          to refer to the process at a later time.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A three-part technique for                   designing control systems that use feedback. </p></td>
+      </tr>
+      <tr>
+        <td>PIE</td>
+        <td>Presence, Identity and Edge</td>
+        <td>Core constituents of peer to peer (P2P) applications</td>
+      </tr>
+      <tr>
+        <td>PII</td>
+        <td>personally identifiable information</td>
+        <td>PII is any data about an individual that could, potentially identify that person, such as a name, <strong>...</strong></td>
+      </tr>
+      <tr>
+        <td>PIM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Personal Information Manager</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Protocol Independent Multicast</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A PIM is a software application that serves as a planner, notebook, and address book all in one.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IP routing protocol-independent and can leverage whichever unicast routing protocols are used to populate the unicast routing table, including EIGRP, OSPF, BGP, and static routes</p></td>
+      </tr>
+      <tr>
+        <td>PIN</td>
+        <td>personal identification number</td>
+        <td>A numeric code — typed on an automated teller machine or telephone  keypad, or a computer keyboard — used to gain access to personal funds  or information.</td>
+      </tr>
+      <tr>
+        <td>PINE</td>
+        <td>Program for Internet News and E-Mail</td>
+        <td>a character-based E-Mail client for UNIX systems. Developed at the University of Washington, PINE replaces an older E-Mail program called elm.</td>
+      </tr>
+      <tr>
+        <td>ping</td>
+        <td>Packet Internet or Inter-Network Groper</td>
+        <td>To check if a server is running. From the sound that a sonar systems  makes in movies, you know, when they are searching for a submarine. </td>
+      </tr>
+      <tr>
+        <td>PIO</td>
+        <td>Programmed Input/Output</td>
+        <td><p>a method of transferring data between two devices that uses the computer's main processor as part of the data path.</p>
+          <table cellspacing="0" cellpadding="0">
+            <tr>
+              <td><strong>PIO Mode</strong></td>
+              <td><strong>Data Transfer Rate (MBps)</strong> </td>
+              <td><strong>Standard</strong></td>
+            </tr>
+            <tr>
+              <td><div align="center">0</div></td>
+              <td><div align="center">3.3</div></td>
+              <td><div align="center">ATA </div></td>
+            </tr>
+            <tr>
+              <td><div align="center">1</div></td>
+              <td><div align="center">5.2</div></td>
+              <td><div align="center">ATA </div></td>
+            </tr>
+            <tr>
+              <td><div align="center">2</div></td>
+              <td><div align="center">8.3</div></td>
+              <td><div align="center">ATA </div></td>
+            </tr>
+            <tr>
+              <td><div align="center">3</div></td>
+              <td><div align="center">11.1</div></td>
+              <td><div align="center">ATA-2 </div></td>
+            </tr>
+            <tr>
+              <td><div align="center">4</div></td>
+              <td><div align="center">16.6</div></td>
+              <td><div align="center">ATA-2 </div></td>
+            </tr>
+          </table>          </td>
+      </tr>
+      <tr>
+        <td>PIPE</td>
+        <td>Private Internet Protocol Encapsulation</td>
+        <td>Extension of RFC 2003 (IP Encapsulation within IP) which allows to encapsulate and decapsulate private IP addresses in the same way as described in RFC 2003, and  to transfer them across the public Internet</td>
+      </tr>
+      <tr>
+        <td>PIPs</td>
+        <td>process integration packs</td>
+        <td>Oracle Siebel's feature integrating business processes between Siebel CRM and other Oracle applications.</td>
+      </tr>
+      <tr>
+        <td>PIX</td>
+        <td>Private Internet eXchange</td>
+        <td> Popular IP firewall and NAT appliance, the design of which was   	acquired by Cisco systems in 1995.</td>
+      </tr>
+      <tr>
+        <td>pixel / pel</td>
+        <td>Picture Element</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A pixel is the smallest unit of information in a  digital image, resembling a tiny square. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An element  of a raster pattern about which a toned area on a photoconductor can appear.</p></td>
+      </tr>
+      <tr>
+        <td>PKCS</td>
+        <td>Public-Key Cryptography Standards</td>
+        <td>a set of standards developed
+          by RSA Laboratories and others.</td>
+      </tr>
+      <tr>
+        <td>PKI</td>
+        <td>public-key infrastructure</td>
+        <td>The techniques necessary to manage public-key cryptography (see  separate entry), as well as the various systems for authentication,  nonrepudiation and integrity that can be built on top of a public-key  system.</td>
+      </tr>
+      <tr>
+        <td>PL/1</td>
+        <td>Programming Language 1</td>
+        <td> One of the widely used high-level  programming languages oriented toward both business and mathematical  programs. </td>
+      </tr>
+      <tr>
+        <td>PLA</td>
+        <td>Programmable Logic Array</td>
+        <td>a chip (IC) based programmed logical program. </td>
+      </tr>
+      <tr>
+        <td>PLC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> PowerLine Communication</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> product life cycle </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Technology that uses the power lines to connecto to the Internet </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a marketing theory which dictates the the sequence of events, or lifespan divisions of any marketed product or brand, including technologies, consumer goods, and any item which is marketed to the public and sold at retail outlets on a national basis.</p></td>
+      </tr>
+      <tr>
+        <td>PLCP</td>
+        <td>Physical Layer Convergence Protocol</td>
+        <td>Defined by the IEEE 802.6 and used for DS3 transmission               of ATM. ATM cells are encapsulated in 125microsecond frame defined               by PLCP, which is defined inside DS3 M-frame.</td>
+      </tr>
+      <tr>
+        <td>PLD</td>
+        <td>Programmable Logic Device</td>
+        <td>An IC incorporating an array of
+          programmable logic devices that are not pre-connected but where the connections
+          are programmed by the user via blowing fused linked or via other techniques.</td>
+      </tr>
+      <tr>
+        <td>PLL</td>
+        <td>Phase Lock Loop</td>
+        <td> a mechanism whereby                                                   timing information is transferred                                                   within a data stream and the receiver                                                   derives the signal element timing                                                   by locking its local clock source                                                   to the received timing information.</td>
+      </tr>
+      <tr>
+        <td>PLM</td>
+        <td>product life cycle management </td>
+        <td>In the virtual domain, manufacturers design and                     simulate product performance, production plants, manufacturing                     processes, service and maintenance procedures, the customer                     experience, and even the impact of product disposal. </td>
+      </tr>
+      <tr>
+        <td>PLMN</td>
+        <td>public land mobile network</td>
+        <td>generic term for a mobile wireless network that is centrally operated and administrated by an organization and uses land-based radio frequency transmitters or base stations as network hubs. </td>
+      </tr>
+      <tr>
+        <td>PLOGI</td>
+        <td>port login</td>
+        <td>The port-to-port  login process by which initiators establish sessions with targets. </td>
+      </tr>
+      <tr>
+        <td>PLPA</td>
+        <td>pageable link pack area</td>
+        <td>An  area of virtual storage containing supervisor call (SVC) routines, access  methods, and other read-only system and user programs that can be shared among  users of the system.</td>
+      </tr>
+      <tr>
+        <td><a href="oracle_pl_sql.htm">PL/SQL</a></td>
+        <td><a href="oracle_pl_sql.htm">Procedural Language/Structured Query Language</a></td>
+        <td>Oracle's (RDBMS) Procedural Language extension to SQL.</td>
+      </tr>
+      <tr>
+        <td>PMD</td>
+        <td>Physical Media Dependent</td>
+        <td>Sublayer that defines parameters at lowest level, such               as speed of bits on media.</td>
+      </tr>
+      <tr>
+        <td>PMDB</td>
+        <td>performance management database </td>
+        <td>performance management database </td>
+      </tr>
+      <tr>
+        <td>PME</td>
+        <td>Power Management Event</td>
+        <td>Feature that allows most LAN devices to wake up from standby states (S1 or S3) </td>
+      </tr>
+      <tr>
+        <td>PMM</td>
+        <td>Post Memory Manager</td>
+        <td>A mechanism used by option ROMs to allocate RAM memory for use during system startup</td>
+      </tr>
+      <tr>
+        <td>PMI</td>
+        <td>Portable Management Interface<p>
+Project Management Institute<p>Privilege Management Infrastructure<p>
+Product and manufacturing information
+</td>
+        <td>PMI is a platform-dependent interface defined by Sun Microsystems used in network management
+<p>PMI establishes Project Management ISO validated standards and policy<p>
+security infrastructure to authorize users<p>
+annotation shown on 3D CAD models of components and products
+</td>
+      </tr>
+      <tr>
+        <td>PMML</td>
+        <td>Predictive Model Markup Language</td>
+        <td>A standard developed by the Data Mining Group (DMG) to represent predictive analytic models. PMML is supported by leading BI and analytics vendors like IBM, SAS, MicroStrategy, Oracle and SAP.</td>
+      </tr>
+      <tr>
+        <td>PMO</td>
+        <td>Project management office</td>
+        <td>The group that handles the day-to-day  management of offshore projects to ensure that processes are running  smoothly.</td>
+      </tr>
+      <tr>
+        <td>PMR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Perpendicular Magnetic Recording</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Private Mobile Radio </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> How a hard drive records data: magnetic elements are aligned vertically, as opposed to longitudinally on older drives</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a traditional method of communications with mobile assets, where a  centralised base station transmits in all directions to mobile (in  vehicle) and portable (hand held) radios.</p></td>
+      </tr>
+      <tr>
+        <td>PMSM</td>
+        <td>permanent magnet synchronous motors</td>
+        <td>permanent magnet synchronous motors</td>
+      </tr>
+      <tr>
+        <td>pNFS</td>
+        <td>parallel Network File System</td>
+        <td>a protocol extension of NFS 4.1, the first major performance upgrade to the widely deployed NFS in more than a decade. </td>
+      </tr>
+      <tr>
+        <td>PNG</td>
+        <td>Portable Network Graphics</td>
+        <td>PNG is a graphics format specifically designed for use on the World Wide Web.  PNG enable compression of images without any loss of quality,  including high-resolution images. Another important feature of PNG is that  anyone may create software that works with PNG images without paying any  fees - the PNG standard is free of any licensing costs. </td>
+      </tr>
+      <tr>
+        <td>PnP</td>
+        <td>Plug and Play</td>
+        <td><div align="justify">PnP  is a catchy phrase used to describe devices that work with a computer  system as soon as they are connected. The user does not have to  manually install drivers for the device or even tell the computer that  a new device has been added.</div></td>
+      </tr>
+      <tr>
+        <td>PNP</td>
+        <td>Personal Network Platform</td>
+        <td>delivers core network functions to individuals. PNP offers full flexibility, transparency, scalability, and expandability.</td>
+      </tr>
+      <tr>
+        <td>PNRP</td>
+        <td>Peer Name Resolution Protocol</td>
+        <td>Secure, scalable, and dynamic name registration and name resolution protocol first developed for Windows XP and then upgraded in Windows Vista</td>
+      </tr>
+      <tr>
+        <td>POC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Proof of Concept</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Push-to-talk Over Cellular </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Proof of Concept</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the push to talk (PTT) voice service for mobile communications. It provides direct one-to-one and one-to-many voice communication service in the cellular network. </p></td>
+      </tr>
+      <tr>
+        <td>POD</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Proof of Deposit</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Publishing on demand</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Software system used by financial institutions to verify teller transactions. Usually consists of reader/sorter control software, reject-reentry system, and reporting systems</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A process that allows for the printing of individual copies as orders come
+          in </p></td>
+      </tr>
+      <tr>
+        <td>PoE</td>
+        <td>Power Over Ethernet</td>
+        <td><div align="justify">PoE is also called Power over LAN or in-line power. It allows              appliances such   as IP telephones and WLAN access points to receive power over suitable   LAN              cabling. The international standard is known as IEEE 802.3af. However,   some vendors have              implemented proprietary solutions. </div></td>
+      </tr>
+      <tr>
+        <td>pog.com</td>
+        <td>Play Online Games</td>
+        <td> specialize in finding the best minigames on  internet either in flash or shockwave. You need to have them installed  in order to play. All our games are 100% free of charge and can be  played without creating an account. <a href="http://www.pog.com">http://www.pog.com</a></td>
+      </tr>
+      <tr>
+        <td>POLP</td>
+        <td>principle of least privilege</td>
+        <td>POLP is the practice of limiting access to the minimal level that will allow  normal functioning. Applied to employees, the principle of least  privilege translates to giving people the lowest level of user rights  that they can have and still do their jobs. The principle is also  applied to things other than people, including programs and processes.</td>
+      </tr>
+      <tr>
+        <td>PON</td>
+        <td>passive optical networking </td>
+        <td>a unique point-to-multipoint infrastructure that allows for the sharing of one optical fiber among several buildings</td>
+      </tr>
+      <tr>
+        <td>POP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Point of Presence</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Post Office Protocol</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> protected object policy</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> usually means a city or location where a network  can be connected to, often with dial up phone lines. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a way that e-mail <em>client</em> software such as Eudora gets mail from a mail <em>server</em>. When you obtain an account from an <a href="glossary_i.htm">ISP</a> you almost always get a POP account with it, and it is this POP account  that you tell your e-mail software to use to get your mail. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A type  of security policy that imposes additional conditions on the operation permitted  by the ACL policy to access a protected object. </p></td>
+      </tr>
+      <tr>
+        <td>POP3</td>
+        <td>Post Office Protocol v3</td>
+        <td><div align="justify">POP3,  sometimes referred to as just "POP," is a simple, standardized method  of delivering e-mail messages. A POP3 mail server receives e-mails and  filters them into the appropriate user folders. When a user connects to  the mail server to retrieve his mail, the messages are downloaded from  mail server to the user's hard disk.</div></td>
+      </tr>
+      <tr>
+        <td>POS</td>
+        <td>point of sale</td>
+        <td>A category of systems that use personal computers or specialized  terminals in combination with cash registers, optical scanners or  magnetic-stripe readers to capture and record data at the time of  transaction. POS systems are usually online to a central computer for  credit checking and inventory updating. </td>
+      </tr>
+      <tr>
+        <td>POSIX</td>
+        <td> Portable Operating System Interface for UNIX</td>
+        <td>A family of open system 
+          standards based on UNIX, which allows applications to be written to a single target 
+          environment in which they can run unchanged on a variety of systems.</td>
+      </tr>
+      <tr>
+        <td>POST</td>
+        <td>power-on self test</td>
+        <td>Set of hardware diagnostics that runs on a hardware device when that device is powered up. </td>
+      </tr>
+      <tr>
+        <td>POTS</td>
+        <td>Plain Old Telephone Service </td>
+        <td>POTS is the standard telephone service that most homes use. It is also  referred to as the PSTN or the Public Switched Telephone Network. </td>
+      </tr>
+      <tr>
+        <td>POWER</td>
+        <td>Performance Optimization With Enhanced Risc</td>
+        <td>Performance Optimization With Enhanced Risc by IBM</td>
+      </tr>
+      <tr>
+        <td>POX</td>
+        <td>plain old <a href="file_xml.htm">XML</a></td>
+        <td>plain old <a href="file_xml.htm">XML</a></td>
+      </tr>
+      <tr>
+        <td>PPC</td>
+        <td>Pay-Per-Click</td>
+        <td>Where a  		company (or advertiser) pays (a search engine or affiliate site) for  		each click-through on an advertisement. </td>
+      </tr>
+      <tr>
+        <td>PPD</td>
+        <td>Postscript Printer Description </td>
+        <td>A file that contains information about the 
+          capabilities of a particular printer model. The PPD file provides the controls you need to 
+          take advantage of special features such as multiple paper trays, special paper sizes, or 
+          duplex printing. </td>
+      </tr>
+      <tr>
+        <td>PPE</td>
+        <td>PowerPC Processor Element </td>
+        <td>In the Cell Broadband Engine architecture, a grouping of multiple PowerPC  Processor Units (PPUs). </td>
+      </tr>
+      <tr>
+        <td>PPM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Parts  Per Million</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> project portfolio management</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In  positioning  terms,  ppm  is  a  representation  of  position  error  as  a  function  of <br />
+          distance between two communicating devices. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A strategy for oversight of a portfolio of related or interdependent  projects, with the intent of limiting duplicate work efforts and  leveraging decision making and skills across projects.</p></td>
+      </tr>
+      <tr>
+        <td>PPN</td>
+        <td>Primary Port Network</td>
+        <td>The main switching module for the Definity G3R or G3I switch.</td>
+      </tr>
+      <tr>
+        <td>PPP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Point to Point Protocol</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Public–private partnership</p></td>
+        <td><div align="justify">
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  the Internet standard for dial-up modem connections. PPP is a set of  rules that defines how your modem exchanges packets of data with other  systems on the Internet.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> describes a government service or private business venture which is funded and operated through a partnership of government</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>PPPoE</td>
+        <td>Point-to-Point Protocol over Ethernet</td>
+        <td>PPPoE is a specification for connecting multiple computer users on local  network to a remote site using a modem, gateway or router that supports  the appropriate protocol layers and authentication  for the  point-to-point connection to be established.</td>
+      </tr>
+      <tr>
+        <td>PPRC</td>
+        <td>Peer to Peer Remote Copy</td>
+        <td>A remote-copy service that provides a synchronous copy of a volume or disk  for disaster recovery, device migration, and workload migration.</td>
+      </tr>
+      <tr>
+        <td>PPTP</td>
+        <td>Point-to-Point Tunneling Protocol</td>
+        <td><div align="justify">PPTP  is a networking standard for connecting to virtual private networks, or  VPNs. VPNs are secure networks that can be accessed over the Internet,  allowing users to access a network from a remote location. This is  useful for people who need to connect to an office network from home or  access their home computer from another location.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>PPU</td>
+        <td>PowerPC Processor Unit</td>
+        <td>A 64-bit  PowerPC core processor located at the heart of the Cell Broadband Engine multiprocessor,  with associated cache, and a Vector Multimedia Extensions (VMX) unit. </td>
+      </tr>
+      <tr>
+        <td>PQA</td>
+        <td>Palm Query Application</td>
+        <td>A small applet that can be downloaded onto a Palm OS-based PDA that allows for the retrieval of information from the Web.</td>
+      </tr>
+      <tr>
+        <td>PRADO</td>
+        <td>PHP Rapid Application Development Object-oriented</td>
+        <td>an open source, PHP5-based programming framework designed for  professional web applications development. PRADO is an MVC-based  framework, which allows event-driven programming.</td>
+      </tr>
+      <tr>
+        <td>PRC</td>
+        <td>Primary Reference Clock</td>
+        <td>Clock used in synchronous networks like SONET and SDH</td>
+      </tr>
+      <tr>
+        <td>PRI</td>
+        <td>Primary Rate Interface</td>
+        <td>An Integrated Services Digital Network (ISDN) interface that connects  private branch exchanges (PBXs) to the network at the North American  1.544 megabits per second (Mbps) T1 rate. It is electrically identical  to the ISDN Basic Rate Interface (BRI).</td>
+      </tr>
+      <tr>
+        <td>PRINCE</td>
+        <td>Projects in Controlled Environments</td>
+        <td>A public domain standard for IT developers for the U.K. government.  PRINCE provides a process model to define what is involved in setting  up, managing and closing down each stage of a project.</td>
+      </tr>
+      <tr>
+        <td>PROM</td>
+        <td>Programmable ROM</td>
+        <td>A ROM which is programmable by the user</td>
+      </tr>
+      <tr>
+        <td>PRPQ</td>
+        <td>programming request for price quotation </td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A customer request for a price quotation on alterations  or additions to the functional capabilities of system control programming  or licensed programs. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A customer request for a price quotation  for a licensed program to be designed especially for a particular group of  customers or an application.</p></td>
+      </tr>
+      <tr>
+        <td>ps</td>
+        <td>Picosecond</td>
+        <td>1/1000 of a nanosecond, or one trillionth of a second. T</td>
+      </tr>
+      <tr>
+        <td>PS</td>
+        <td>PlayStation<p>PostScript<p>
+Photoshop</td>
+        <td>Game console by Sony<p>
+PostScript (file name extension) <p>
+Photoshop of Adobe Systems, Inc.<p>
+PS is also People Search (Yahoo!), Packet Stream (AT&T), Protection Scheme (Nortel), Protection Switching (Alcatel), PeopleSoft, Inc. (software company)</td>
+      </tr>
+      <tr>
+        <td>PS/2</td>
+        <td> personal system/2</td>
+        <td>A type of connector for attaching a PS/2-compatible keyboard, mouse, or keypad.</td>
+      </tr>
+      <tr>
+        <td>PSA</td>
+        <td>professional service 
+          automation </td>
+        <td>professional service 
+          automation </td>
+      </tr>
+      <tr>
+        <td>PSD</td>
+        <td>PhotoShop Drawing</td>
+        <td>File name extension. Used by Photoshop and other Adobe programs</td>
+      </tr>
+      <tr>
+        <td>PSIP</td>
+        <td>Program and Systems Information Protocol</td>
+        <td>the ATSC standard for digital television channel naming, numbering and navigation. </td>
+      </tr>
+      <tr>
+        <td>PSK</td>
+        <td>phase shift keying</td>
+        <td>Phase modulation that uses discrete changes of phase.</td>
+      </tr>
+      <tr>
+        <td>PSLC</td>
+        <td>Parallel Sysplex License Charge</td>
+        <td>A software licensing arrangement available to vendors if the pieces  making up their Parallel Sysplex complex have been qualified by IBM.  Charges are based on the total machine capacity.</td>
+      </tr>
+      <tr>
+        <td>PSN</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Packet Switch Node</p>
+<p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Playstation Network</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Processor Serial Number</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A dedicated computer whose purpose is to accept, route and forward
+          packets in a packet switched network.</p>
+<p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> PSN stands for Playstation Network of Sony</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An embedded serial number in Intel Pentium III microprocessors. It  allows software manufacturers and websites to identify individuals more  precisely.</p></td>
+      </tr>
+      <tr>
+        <td>PSP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Personal Software Process</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> PlayStation Portable</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Methods                                                   to improve the quality of work                                                   of individual software engineers</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Game console by Sony </p></td>
+      </tr>
+      <tr>
+        <td>PSPs</td>
+        <td>print service providers</td>
+        <td>print service providers</td>
+      </tr>
+      <tr>
+        <td>PSS</td>
+        <td>Print SubSystem</td>
+        <td>Software for IBM mainframes that provides an AFP and line data printing solution using PCL and PostScript printers</td>
+      </tr>
+      <tr>
+        <td>PSTN</td>
+        <td>public switched telephone network</td>
+        <td><div align="justify">
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the worldwide network of public voice              communication facilities.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Any common carrier network that provides circuit switching among public users.</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>PTF</td>
+        <td>Print To Fax</td>
+        <td>Fax driver for Lotus Domino Fax Server </td>
+      </tr>
+      <tr>
+        <td>PTR record</td>
+        <td> Pointer record</td>
+        <td>A DNS record type that translates IP (IPv4) addresses to 
+          domain names. Used in DNS reverse lookups.</td>
+      </tr>
+      <tr>
+        <td>PTT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Push To Talk</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Postal, Telephone, and Telegraph</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Functionality in the group communication terminal device. You have to push PTT-button to get the permission for transmission</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An agency that regulates and administers the telephone and postal systems  in certain countries.</p></td>
+      </tr>
+      <tr>
+        <td>PTTs</td>
+        <td>Post, telegraph, and telephone authorities</td>
+        <td>government agencies responsible for postal mail, telegraph, and  telephone services. Such monopolies existed in many countries, but  since the 1980s many of them have been partially or completely  privatized.</td>
+      </tr>
+      <tr>
+        <td>PTZ</td>
+        <td>pan-tilt-zoom</td>
+        <td> video conferencing camera capability</td>
+      </tr>
+      <tr>
+        <td>PUMA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Privileged user monitoring and auditing</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Protected User Mode Audio</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IBM Tivoli SIEM capability</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Together with UMA, is an engine in the Windows Vista Protected Environment that provides a safer environment for audio playback, as well as checking that the enabled outputs are consistent with what the content allows</p></td>
+      </tr>
+      <tr>
+        <td>PUP</td>
+        <td>Potentially unwanted program</td>
+        <td>a term used to describe unwanted programs such as Trojans, spyware and  adware, along with other malware which may compromise your privacy.  Some antivirus and PC security software packages will scan for and  protect your system against PUPs.</td>
+      </tr>
+      <tr>
+        <td>PUT</td>
+        <td>program update tape</td>
+        <td>A code  release to Transaction Processing Facility customers containing maintenance  (program fixes) and new function.</td>
+      </tr>
+      <tr>
+        <td>PVC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> permanent virtual circuit</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Polyvinyl Chloride</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A virtual circuit that is pre-defined in routing tables among the  various routers and switches in a packet-switched network, rather than  being established on a call-by-call basis.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The common vinyl shielding used to cover the pairs in the copper four-pair wire used for numerous Ethernet standards. </p></td>
+      </tr>
+      <tr>
+        <td>PVR</td>
+        <td>personal video recorder</td>
+        <td><p>A device that records television programs on an internal hard drive in anticipation of viewer preferences.</p></td>
+      </tr>
+      <tr>
+        <td>PVST</td>
+        <td>Per-VLAN Spanning Tree</td>
+        <td>In Ethernet switched environments where multiple Virtual LANs exist, spanning tree can be deployed per Virtual LAN. </td>
+      </tr>
+      <tr>
+        <td>PVV</td>
+        <td>PIN verification value</td>
+        <td>Discretionary value encoded in magnetic 
+          stripe of payment card.</td>
+      </tr>
+      <tr>
+        <td>PWM</td>
+        <td>Pulse width modulation</td>
+        <td>a powerful technique for  controlling analog circuits with a processor's digital outputs. PWM is  employed in a wide variety of applications, ranging from measurement  and communications to power control and conversion.</td>
+      </tr>
+      <tr>
+        <td>PWR</td>
+        <td>PoWeR</td>
+        <td>PoWeR</td>
+      </tr>
+      <tr>
+        <td>PWS</td>
+        <td> Personal Web Server (or Peer Web Services )</td>
+        <td> the baby brother of Microsoft IIS.  Both products are hybrid compilations and substitutes for an Internet  capable web server. </td>
+      </tr>
+      <tr>
+        <td>PXE</td>
+        <td>Preboot eXecution Environment</td>
+        <td>Provides a way for a system to initiate a network connection to various servers prior to loading an OS</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>packet</td>
+        <td>Logical grouping of information that includes a  header containing control information and (usually) user data. Packets  most often are used to refer to network layer units of data.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td><!-- Checking for poke insert -->
+Palladium </td>
+        <td>a plan from Intel, AMD, and Microsoft to build security into personal computers and servers at the microprocessor level. Assuming that enough users buy computers with Palladium capabilities, each user may now for the first time be able to effectively filter out spam, ensure that only authorized programs can ever be run by the computer, and encrypt the data in your computer.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Palm</td>
+        <td>This brand name refers to Palm Inc.'s line of PDA devices, as well as  its operating-system platform, the Palm OS. Palm once dominated the PDA  market with an estimated 80 percent market share</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>parity</td>
+        <td> In RAID storage, a data-protection method that provides the ability to 
+          reconstruct data. When data is protected by parity, it’s still available if a drive fails. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>partition(ing)</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Partitions are physical or logical mechanisms for isolating  operational environments within single or multiple servers.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The act of creating a logical (as opposed to physical) drive.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> To break into smaller sections, such as a hard drive. Partitioning can also be used to allow multiple operating systems on the same drive of a given computer. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>patch</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A software fix for a bug in a program</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A particular type of cable for networking that is a through cable; pin 1 to pin1, pin2 to pin 2 and so on.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Pen-Centric Tablet PCs</td>
+        <td>pen-centric and run full, user-controlled operating systems,  such as <a href="http://www.apple.com/ipad/">Apple's iPad</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Penetration Test </td>
+        <td>Penetration tests attempt to exploit vulnerabilities to determine whether 
+          unauthorized access or other malicious activity is possible. </td>
+      </tr>
+      <tr>
+      <tr>
+        <td> </td>
+        <td>Peoples</td>
+        <td>Peoples is PCS operator in Hong Kong,  now brand name "PEOPLES" of China Mobile Hong Kong. <a href="http://www.peoples.com.hk">http://www.peoples.com.hk</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>phish(ing)</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An e-mail or website designed to redirect you to a bogus website with the intention of gaining bank or credit card information, or to download malicious program onto a computer without the users knowledge.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The technique is also often used to secure credit card  numbers, bank account information, brokerage information, and generally  anything that could yield a financial gain in line with fraud  operations. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>platform-independent</td>
+        <td>A term describing software that can run on a variety of hardware  platforms or software architectures. Platform-independent software can  be used in many different environments, requiring less planning and  translation across an enterprise.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Photobucket </td>
+        <td>Photobucket is an image hosting, video hosting, slideshow creation and photo sharing website. <a href="http://photobucket.com/">http://photobucket.com/</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Plug-in</td>
+        <td>A small piece of software that adds features to already existing, usually large, programs.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>pocket PC</td>
+        <td>A PDA platform launched by Microsoft and several partner hardware vendors in April 2000. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>podcast</td>
+        <td>A coined term to define a broadcast of multimedia files  to an Apple IPod or other appropriate receiver. A podcast is an audio  or video file that subscribers can hear or view online.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Ported In / Out</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In: a telephone number is considered to be ported in when service provider </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Out: telephone number is considered to be ported out when a number  assigned to service provider A is moved from service provider A's  switch to service provider B's switch</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>PostScript </td>
+        <td><p>A language that describes the appearance (text and graphics) of a  printed page. PostScript is an industry standard for printing and  imaging. Many printers contain or can be loaded with PostScript  software.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>pop-up menu</td>
+        <td>A menu that appears in a dialog box. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>port</td>
+        <td>Ports can be classified as hardware ports or network (software) ports.  Hardware ports consist of the outlets on the computer where cables or  plugs connect. Examples include USB, SCSI and Ethernet ports. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>portal</td>
+        <td>Usually used as a marketing term to described a Web site that is or is  intended to be the first place people see when using the Web. Typically  a "Portal site" has a catalog of web sites, a search engine, or both. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>precedence</td>
+        <td>the property of arithmetic operations that determines which
+          operations are done first in a complex expression. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Predictive Analytics </td>
+        <td>describe any approach 
+          to data mining with three attributes: rapid analysis measured in hours or days</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Presentation Layer</td>
+        <td>The OSI layer that determines               how application information is represented or encoded while in transit               between two end systems.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Private Cloud Computing </td>
+        <td>a form of cloud computing in which service access is limited, 
+          and/or the customer has some control/ownership of the service implementation.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Proprietary </td>
+        <td>Refers to a technological design or architecture whose configuration is  unavailable to the public and may not be duplicated without permission  from the designer or architect. Apple's Macintosh? platform is the  quintessential example of proprietary architecture.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Protocol</td>
+        <td>On the Internet "protocol" usually refers to a set of rules that define  an exact format for communication between systems.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td><a href="proxyserver.htm">Proxy</a></td>
+        <td>A Proxy Server sits in between a <em>Client</em> and the "real" <em>Server</em> that a Client is trying to use. Client's are sometimes configured to use a Proxy Server, usually an <em>HTTP</em> server. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Public Domain</td>
+        <td>Of all the kinds of software or information you can download, public  domain has the fewest strings attached. With public domain downloads,  there are no copyright restrictions.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Public Virtual Worlds</td>
+        <td>an online networked virtual environment  in which participants are immersed in a 3D representation of 
+          a virtual space and interact with other participants and the environment through an avatar</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>pull</td>
+        <td> The transmission of information in response to a specific request for 
+          that information. Opening a webpage in a browser is an example of pull technology.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Pull-down menu</td>
+        <td><div> A menu which appears from nowhere when you click on or put your cursor over a link. </div></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>push</td>
+        <td>A generic term applied to the methods, products or services used to  deliver information to an internet user, without the user specifically  requesting that item of information.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Python</td>
+        <td> a programming language invented by Guido van Rossum for quick,
+          easy construction of relatively small programs, especially those that
+          involve character string operations. <a href="http://www.python.org">www.python.org</a></td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.57075500488 -->
+</html>

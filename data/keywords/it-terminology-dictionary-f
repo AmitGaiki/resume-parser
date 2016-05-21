@@ -1,0 +1,1701 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - F for Flash</title>
+<meta name="keywords" content="free, filezilla, fiber, fx, ftp, fmc, firewall, fdm, fm, fire, fr, freeware, face, favicon, fear, fc, fan, fast, film">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page161" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm773" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable on"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-f">F</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >F</h1><div class="marker" ></div>
+<div id="pm619" class="tile  m1212 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>F for Flash</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm738" class="tile  m1455 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>FA</td>
+        <td>Foreign Agent</td>
+        <td>Node in a mobile IP network that enables roamed users to register on the foreign network. The FA will communicate with the HA (Home Agent) to enable IP datagrams to be transferred between the home network and the roamed user on the foreign network </td>
+      </tr>
+      <tr>
+        <td>FACCH</td>
+        <td>Fast Associated Control Channel </td>
+        <td>the channel derived by preempting information in a traffic channel. It is used to send handoff and similar messages.</td>
+      </tr>
+   <tr>
+        <td>FAN</td>
+        <td>File Area Network</td>
+        <td>A File Area Network (FAN) enhances standard network and storage infrastructure. FAN technology provides centralized, heterogeneous, and enterprise-wide network file management and control.</td>
+      </tr>
+      <tr>
+        <td>FAQ</td>
+        <td>Frequently Asked Questions</td>
+        <td>Most Internet sites and many <a href="choosing-isp">ISP</a> areas will have a "FAQ"  section to explain what is in the area and how to use its features.  While many FAQ areas are true compilations of users' questions, some  are attempts at anticipated questions. </td>
+      </tr>
+      <tr>
+        <td>FAR</td>
+        <td>false acceptance rate </td>
+        <td> one of the most important specifications in any biometric system, is defined as the percentage of identification instances in which false acceptance occurs. This can be expressed as a probability.</td>
+      </tr>
+      <tr>
+        <td>FARE</td>
+        <td>Film Automatic Retouching and Enhancement</td>
+        <td>Canon film scanner technology</td>
+      </tr>
+      <tr>
+        <td>FASS</td>
+        <td>Fast Access Station Switching </td>
+        <td>a concept in the <a href="glossary_w.htm">WiMAX</a> network, is a method by which an MS can change  its access station from frame to frame depending on the station  selection mechanism.</td>
+      </tr>
+      <tr>
+        <td>FAST</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Federation Against Software Theft</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> File And Settings Transfer</p></td>
+        <td><p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A European vendor organization concerned with preventing piracy and other forms of unauthorized software usage.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> The FAST wizard helps you transfer files in windows XP</p></td>
+      </tr>
+      <tr>
+        <td>FAT</td>
+        <td>file allocation table</td>
+        <td>An index for mapping logical files to physical locations on a disk storage device. Each FAT entry is 16- or 32-bits long (depending on whether it is FAT16 or FAT32). </td>
+      </tr>
+      <tr>
+        <td>favicon</td>
+        <td>favorites icon</td>
+        <td>A small image or icon used by    most recent web browsers (Internet Explorer 5 and above). It can be displayed    in a number of different places depending on which browser you're using. </td>
+      </tr>
+      <tr>
+        <td>FAW</td>
+        <td>Frame Alignment Word </td>
+        <td>a unique digital word used by codecs to allow them to resynchronize to the framing structure in the event of errors.</td>
+      </tr>
+      <tr>
+        <td>FAX</td>
+        <td>FACSimile</td>
+        <td>FACSimile</td>
+      </tr>
+      <tr>
+        <td>FBA</td>
+        <td>fixed-block architecture </td>
+        <td>An  architecture for a logical device that specifies the format of and access  mechanisms for the logical data units on the device. The logical data unit  is a block. </td>
+      </tr>
+      <tr>
+        <td>FBD</td>
+        <td>Fully Buffered DIMM</td>
+        <td>Fully Buffered DIMM (or FB-DIMM) is a memory technology which can be  used to increase reliability, speed and density of memory systems.  Conventionally, data lines from the memory controller have to be  connected to data lines in every DRAM module.</td>
+      </tr>
+      <tr>
+        <td>FBGA</td>
+        <td>Fine-pitch Ball Grid Array</td>
+        <td><strong> </strong> FBGA is a chip-scale package option for AMD flash devices.</td>
+      </tr>
+      <tr>
+        <td>FBSS</td>
+        <td>Fast Base Station Switching</td>
+        <td>defined in the IEEE 802.16-2005 (mobile WiMAX) network, is a method to allow switching between any type of access stations </td>
+      </tr>
+      <tr>
+        <td>FC / FCS</td>
+        <td>Fibre Channel (Standard)</td>
+        <td>The Fibre Channel Standard (FCS) [1] defines a  high-speed data transfer interface that can be used to connect together  workstations, mainframes, supercomputers, storage devices and displays.</td>
+      </tr>
+      <tr>
+        <td>FC-AL</td>
+        <td>Fibre Channel Arbitrated Loop</td>
+        <td>A ring-style  network topology comprising 125 nodes,  usually configured as a double loop to protect  the system against device failure.</td>
+      </tr>
+      <tr>
+        <td>FCC</td>
+        <td>Federal Communications Commission</td>
+        <td>the agency of the U.S. government that regulates all equipment that produces radio-frequency signals, including computers. <a href="http://www.fcc.gov" target="_blank">http://www.fcc.gov</a></td>
+      </tr>
+      <tr>
+        <td>FCCH</td>
+        <td>Frequency Correction Channel</td>
+        <td>the logical channel in GSM systems used to transmit a frequency  correction data burst of all "zeros". The resulting frequency shift  seen by the mobile is then used for frequency correction.</td>
+      </tr>
+      <tr>
+        <td>FCD</td>
+        <td>Floating car data or floating cellular data</td>
+        <td>a method to determine the traffic speed on the road network. </td>
+      </tr>
+      <tr>
+        <td>FCH</td>
+        <td>Frame Control Header</td>
+        <td>a field in the IEEE802.16-2004 WIMAX protocol. The FCH specifies the  burst profile and the length of one or more DL bursts that immediately  follow the FCH.</td>
+      </tr>
+      <tr>
+        <td>FCIP</td>
+        <td>Fibre Channel over Internet Protocol</td>
+        <td>FCIP mechanisms enable the transmission of Fibre Channel (FC) information by tunneling data between SAN facilities over IP networks; this capacity facilitates data sharing over a geographically distributed enterprise</td>
+      </tr>
+      <tr>
+        <td>FCL</td>
+        <td>Framework Class Library</td>
+        <td>A collection of classes which are part of Microsoft's .NET platform</td>
+      </tr>
+      <tr>
+        <td>FCoE</td>
+        <td>Fibre Channel over Ethernet</td>
+        <td>FCoE is a proposed standard designed to enable Fibre Channel communications to run directly over Ethernet. Thus, FCoE makes it possible to move Fibre Channel traffic across existing high-speed Ethernet infrastructures and extend the reach and capability of storage area networks (SANs). This ability allows organizations to protect and extend existing investments in their storage networks.</td>
+      </tr>
+      <tr>
+        <td>FCP</td>
+        <td> Fibre Channel Protocol</td>
+        <td>he serial SCSI command protocol used on Fibre Channel 
+          networks.</td>
+      </tr>
+      <tr>
+        <td>FCPGA</td>
+        <td>Flip Chip Pin Grid Array</td>
+        <td>the package of certain Intel Celeron, Pentium III, and Pentium 4  microprocessors. FC-PGA processors fit into Socket 370 or Socket 478  motherboard sockets.</td>
+      </tr>
+      <tr>
+        <td>FCS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Fluorescence Correlation Spectroscopy </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Frame Check Sequence</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> a single-molecule detection technique for high-sensitivity measurement  of molecular interactions. Unique features of FCS measurements make it  ideal for use in assaying techniques.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Any mathematical formula that derives numeric value based               on bit pattern of transmitted block of information and uses that value               at receiving end to determine existence of any transmission errors.</p></td>
+      </tr>
+      <tr>
+        <td>FCSI</td>
+        <td>Fibre Channel Systems Initiative</td>
+        <td>formed by  Hewlett-Packard, IBM, and Sun in 1993.</td>
+      </tr>
+      <tr>
+        <td>FDD</td>
+        <td>Frequency Division Duplex</td>
+        <td>used in cellular communication systems such as GSM, is a radio technology using a paired spectrum.</td>
+      </tr>
+      <tr>
+        <td>FDDI</td>
+        <td>Fiber Distributed Data Interface</td>
+        <td>A standard for transmitting data on optical fiber cables at a rate of  around 100,000,000 bits-per-second (10 times as fast as 10-BaseT<em>Ethernet</em>, about twice as fast as <em>T-3</em>). </td>
+      </tr>
+      <tr>
+        <td>FDE</td>
+        <td>Full-disk encryption </td>
+        <td>FDE is encryption at the hardware level. FDE works by automatically converting data on a hard drive into a form that cannot be understood by anyone who doesn’t have the key to “undo” the conversion. Without the proper authentication key, even if the hard drive is removed and placed in another machine, the data remains inaccessible. </td>
+      </tr>
+      <tr>
+        <td>FDM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Feature Download Management</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Frequency Division Multiplexing </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> fused 
+            deposition modeling</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> An ADSI protocol that enables a number of alternative key and screen overlays  to be stored in an ADSI telephone and to be selected by predetermined events  at the telephone.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Method  by which the available transmission frequency range is divided into  narrower bands; each of these bands is used for a separate channel.  This allows several signals to be sent over the same transmission  medium.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> HP Designjet <a href="glossary_numerics.htm">3D printers</a> employ Stratasys' patented FDM technology</p></td>
+      </tr>
+      <tr>
+        <td>FDS</td>
+        <td>Fraud Detection System</td>
+        <td>VeriSign's product, acquired by Symantec in the middle of 2010</td>
+      </tr>
+      <tr>
+        <td>FDX</td>
+        <td>Full Duplex</td>
+        <td>Simultaneous two-way communication path.</td>
+      </tr>
+      <tr>
+        <td>FE</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Fast Ethernet</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> field engineer</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> An extension of the IEEE's 802.3 standard — IEEE 802.3u — supporting 100-Mbps data rates  instead of 10 Mbps, and using 100Base-T or 100Base-F families of  cabling standards</p>
+            <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> An engineer who works on-site (i.e., "in the field").</p></td>
+      </tr>
+      <tr>
+        <td>FEC</td>
+        <td>Fast Etherchannel</td>
+        <td>A proprietary  technology developed by Cisco that creates a team of two to four 10/100 Ethernet  adapters or ports to increase transmission and reception throughput.</td>
+      </tr>
+      <tr>
+        <td>FEC</td>
+        <td>Forward Error Correction</td>
+        <td>Sending redundant data so that if data loss occurs, data recovery is possible without retransmission</td>
+      </tr>
+      <tr>
+        <td>FECN</td>
+        <td>Forward Explicit Congestion Notification</td>
+        <td>A bit sent by a frame relay network to notify an interface device (DTE) that congestion avoidance procedures should be initiated by the receiving device </td>
+      </tr>
+      <tr>
+        <td>FEFO</td>
+        <td>First Ended, First Out</td>
+        <td>A message ordering in which, among messages of the same priority level,  the messages which are finished first will be transmitted first.</td>
+      </tr>
+      <tr>
+        <td>FEMA</td>
+        <td>Failure mode and effects analysis</td>
+        <td>provide an analytical approach, when dealing with potential failure modes and their associated causes. </td>
+      </tr>
+      <tr>
+        <td>FEP</td>
+        <td>Front-End Processor</td>
+        <td> telephony and computer term. A FEP communications  computer associated with a host computer that manages the lines and  routing of data through the network.</td>
+      </tr>
+      <tr>
+        <td>FER</td>
+        <td>Frame Erasure/Error Rate</td>
+        <td>a measure of the number of frames of data that contained errors and  could not be processed. FER is usually expressed as a percentage or  exponent.</td>
+      </tr>
+      <tr>
+        <td>FERPA</td>
+        <td>Family Educational Rights and Privacy Act </td>
+        <td> federal legislation in the US that protects the privacy of students' <a href="p">PII</a>. The act  applies to all educational institutions that receive federal funds.</td>
+      </tr>
+      <tr>
+        <td>FET</td>
+        <td>field effect transistor</td>
+        <td>A transistor in which the current between a source terminal and a drain terminal is controlled by a variable electric field. </td>
+      </tr>
+      <tr>
+        <td>FEXT</td>
+        <td>Far End Cross Talk</td>
+        <td>This is a term used in network cable troubleshooting. It  is a displayed symptom of electrons traveling the network and bouncing  around there for lack of anywhere else to go.</td>
+      </tr>
+      <tr>
+        <td>FFD</td>
+        <td>Flicker Free Display</td>
+        <td>A computer screen that has a fast enough refresh rate that no flicker  can be detected; this kind of display is easier on the eyes.</td>
+      </tr>
+      <tr>
+        <td>FFPF</td>
+        <td>fairly fast packet filter</td>
+        <td>an alternative platform for  network monitoring under Linux. It is a stream-based networking subsystem for Linux that spans from hardware to userspace to offer high-speed communication paths to all applications.</td>
+      </tr>
+      <tr>
+        <td>FFT</td>
+        <td>Fast Fourier Transform</td>
+        <td>an efficient algorithm to compute the discrete Fourier transform (DFT)  and its inverse. FFTs are of great importance to a wide variety of  applications, from digital signal processing to solving partial  differential equations to algorithms for quickly multiplying large  integers.</td>
+      </tr>
+      <tr>
+        <td>FGA/B/C/D</td>
+        <td>feature group A/B/C/D</td>
+        <td>The different types and qualities of public switched network          connection between local telephone companies and long distance companies.  </td>
+      </tr>
+      <tr>
+        <td>FHS</td>
+        <td>Fan Heat-Sink</td>
+        <td>Fan Heat-Sink, see also HSF.</td>
+      </tr>
+      <tr>
+        <td>FHSS</td>
+        <td>Frequency Hopped Spread Spectrum</td>
+        <td>a spread-spectrum method of transmitting signals by rapidly switching a  carrier among many frequency channels, using a pseudorandom sequence  known to both transmitter and receiver. It is used in WLAN 802.11  physical layer.</td>
+      </tr>
+      <tr>
+        <td>FICON</td>
+        <td>Fiber Connection</td>
+        <td>IBM's fiber optic channel technology that extends the capabilities of its previous fiber optic channel standard, ESCON.</td>
+      </tr>
+      <tr>
+        <td>FIDNET</td>
+        <td>Federal Intrusion Detection Network</td>
+        <td>extensive computer monitoring system, developed by the Federal Bureau  of Investigation (FBI), to protect U.S. government and private data  networks from being attacked by terrorists or hostile foreign  governments.</td>
+      </tr>
+      <tr>
+        <td>FIFO</td>
+        <td>first in, first out</td>
+        <td>A network queuing method, wherein data packets are dealt with in a  simple queue on a first-come, first-served basis. No packets are given  preferential treatment; all are queued in the order in which they are  received.</td>
+      </tr>
+      <tr>
+        <td>FIGS</td>
+        <td>Figures Shift</td>
+        <td>A control character used in the Baudot Code  to enable the printing of symbols and numbers by actually allowing a  physical shift of the carriage. </td>
+      </tr>
+      <tr>
+        <td>FIM</td>
+        <td>federated identity management</td>
+        <td> an arrangement that can be made among multiple enterprises that lets subscribers use the same identification data to obtain access to the networks of all enterprises in the group. The use of such a system is sometimes called identity federation. </td>
+      </tr>
+      <tr>
+        <td>FINDDEST</td>
+        <td>Find Destination</td>
+        <td>An internal  service in <a href="glossary_i.htm">IMS</a> used for finding certain <a href="glossary_i.htm">IMS</a> resources, most of which represent IMS destinations. For searches  other than CVBs and CCBs, if the block is not found, then if requested, a  search for an LU 6.2 descriptor is made.</td>
+      </tr>
+      <tr>
+        <td>FINRA</td>
+        <td>Financial Industry Regulatory Authority </td>
+        <td>an association that regulates its members through the adoption and  enforcement of rules and regulations governing business conduct of  member firms. <a href="http://www.finra.org">www.finra.org</a></td>
+      </tr>
+      <tr>
+        <td>FiOS</td>
+        <td>Fiber Optic Service</td>
+        <td><div align="justify">FiOS  is a data communications service provided by Verizon that uses fiber  optic cables to transfer data. FiOS is called a "Fiber to the  Premises," or FTTP service, since it brings fiber optic data  transmission to residential homes as well as businesses.</div></td>
+      </tr>
+      <tr>
+        <td>FIPS</td>
+        <td>Federal Information Processing Standards</td>
+        <td>Standards that are 
+          publicly recognized by the U.S. Federal Government; also for use by non-government agencies and contractors. </td>
+      </tr>
+      <tr>
+        <td>FIR</td>
+        <td>Finite Impulse Response </td>
+        <td>a technique used to characterize electrical circuits and　networks in the time domain.</td>
+      </tr>
+      <tr>
+        <td>FIRST</td>
+        <td>Forum of Incident Response and Security Teams</td>
+        <td>A nonprofit volunteer group whose goal is to foster cooperation and  coordination in incident prevention across diverse sectors, and prompt  rapid reaction to incidents. Through an annual conference and its Web  site at <a href="http://www.first.org">www.first.org</a></td>
+      </tr>
+      <tr>
+        <td>FISMA</td>
+        <td>Federal Information Security Management Act</td>
+        <td> defines a comprehensive framework to protect government information, operations, and assets against natural or humanmade threats. FISMA was signed into law part of the Electronic Government Act of 2002.</td>
+      </tr>
+      <tr>
+        <td>FIX</td>
+        <td>Financial Information Exchange</td>
+        <td><strong> </strong>A messaging standard for the electronic exchange of  securities transactions. FIX is a public-domain specification owned and  maintained by FIX Protocol, Ltd.</td>
+      </tr>
+      <tr>
+        <td>FLAC</td>
+        <td>Free Lossless Audio Codec</td>
+        <td>a popular free audio compression codec that is lossless. Unlike lossy  codecs such as MP3 and AAC, it does not remove any information from the  audio stream and is suitable both for everyday playback and for  archiving audio collections. <a href="http://flac.sourceforge.net/">http://flac.sourceforge.net/</a></td>
+      </tr>
+      <tr>
+        <td>FLAG</td>
+        <td>Fiber Link Around the Globe</td>
+        <td>An undersea fiber-optic cable network connecting Europe to the Asia/Pacific region. It became operational in 1997.</td>
+      </tr>
+      <tr>
+        <td>FLOGI</td>
+        <td>fabric login</td>
+        <td>The process  by which a device gains access to the fabric.</td>
+      </tr>
+      <tr>
+        <td>FLOPS</td>
+        <td>Floating Point Operations Per Second</td>
+        <td>A slightly more meaningful measure of
+          processor speed than MIPS.  Computers essentially work with integer numbers.
+          Decimal values are harder to process, particularly if the figures after the decimal
+          point are not fixed.</td>
+      </tr>
+      <tr>
+        <td>FM</td>
+        <td>Frequency Modulation</td>
+        <td>A process by which, say, music is transmitted using a radio signal.  Input audio-frequency signals modify the frequency of the transmitted  signal around its nominal value.</td>
+      </tr>
+      <tr>
+        <td>FM-200</td>
+        <td>Firemaster / Fire Master 200</td>
+        <td>Fire Master (FM-200) is gas-based fire suppression systems</td>
+      </tr>
+      <tr>
+        <td>FMA99</td>
+        <td>Financial Services Modernization Act of 1999</td>
+        <td>Signed into U.S. law in November 1999, this legislation — also known as  the "Gramm-Leach-Bliley Act," after the senators who sponsored it —  allowed many financial institutions to engage in a broader spectrum of  activities.</td>
+      </tr>
+      <tr>
+        <td>FMC</td>
+        <td>fixed-mobile convergence</td>
+        <td><div align="justify">FMC is the trend towards seamless connectivity between fixed and wireless telecommunications networks. The term also describes any physical network that allows cellular telephone sets to function smoothly with the fixed network infrastructure. </div></td>
+      </tr>
+      <tr>
+        <td>FMEA</td>
+        <td>Failure Mode and Effects Analysis</td>
+        <td>analytical methods used to identify potential weaknesses. FMEA is  mainly employed in the design and development of new products and  processes.</td>
+      </tr>
+      <tr>
+        <td>FMH</td>
+        <td>function management header</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> One or more headers, optionally present in the leading request  units (RUs) of an RU chain</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> In SNA, a record that contains control information for the data that follows.</p></td>
+      </tr>
+      <tr>
+        <td>FMV</td>
+        <td>Full-Motion Video</td>
+        <td>Video that runs at the same rate at which it was filmed. Moving video  images and sound available on a computer; usually stored on CD-ROM  because of the large size of the files.</td>
+      </tr>
+      <tr>
+        <td>FOC</td>
+        <td>Field Oriented Control</td>
+        <td>Field Oriented Control</td>
+      </tr>
+      <tr>
+        <td>FoIP</td>
+        <td>Fax Over Internet Protocol</td>
+        <td>enables the transmission of fax messages over a VoIP line. In this  technology, every digital message is distributed into various packets  and then relayed through the Internet.</td>
+      </tr>
+      <tr>
+        <td>FOIRL</td>
+        <td>FiberOptic InterRepeater Link</td>
+        <td>Fiberoptic communication signaling methodology based loosely on the IEEE 802.3 fiberoptic specification and 10Base-F guideline. FOIRL is a forerunner of the 10Base-FL specification, which is designed to enhance and replace it.</td>
+      </tr>
+      <tr>
+        <td>FOMA</td>
+        <td>Freedom of Mobile Multimedia Access</td>
+        <td>the brand name for the 3G services being offered by Japanese mobile  phone operator <a href="http//:ntt.co.jp">NTT</a> DoCoMo. FOMA was the world's first W-CDMA 3G service  when launched in 2001.</td>
+      </tr>
+      <tr>
+        <td>FOP</td>
+        <td>Formatting Objects Processor</td>
+        <td>an XSL-FO processor written in Java, which provides the feature to convert XSL-FO files to PDF or direct-printable-files. </td>
+      </tr>
+      <tr>
+        <td>FORTRAN</td>
+        <td>formula translation </td>
+        <td>the oldest computer language in the world. It is typically compiled and is quite fast. Its primary drawbacks are portability and ease-of-use -- often different FORTRAN compilers on different platforms behave quite differently in spite of standardization efforts in 1966 (FORTRAN 66 or FORTRAN IV), 1978 (FORTRAN 77), and 1991 (FORTRAN 90). </td>
+      </tr>
+      <tr>
+        <td><a href="open_source_software_windows.htm">FOSS</a></td>
+        <td><a href="open_source_software_windows.htm">Free and open source software</a></td>
+        <td>software developed by informal collaborative networks of programmers. The source code is licensed free of charge, encouraging modifications and improvements. </td>
+      </tr>
+      <tr>
+        <td>FOSSIL</td>
+        <td>Fido Opus Seadog Standard Interface Layer</td>
+        <td>Fido Opus Seadog Standard Interface Layer</td>
+      </tr>
+      <tr>
+        <td>FOT</td>
+        <td>Fiber Optic Terminal</td>
+        <td>Connects optical                           fiber to copper wire.</td>
+      </tr>
+      <tr>
+        <td>FOTS</td>
+        <td>Fiber Optic Transmission System</td>
+        <td>Fiber Optic Transmission System</td>
+      </tr>
+      <tr>
+        <td>FPA</td>
+        <td>Floating Point Accelerator</td>
+        <td>Special hardware for performing mathematical calculations with floating  point numbers; the FPA may function as a coprocessor to the central  processing unit.</td>
+      </tr>
+      <tr>
+        <td>FPP</td>
+        <td>Full Product Package</td>
+        <td>Full Product Package.</td>
+      </tr>
+      <tr>
+        <td>FPS</td>
+        <td>frames per second</td>
+        <td>A video transmission metric.</td>
+      </tr>
+      <tr>
+        <td>FPA</td>
+        <td>Function point analysis</td>
+        <td>a method used to gauge the size and complexity of computer software,  employing a function point as a unit of measure. Function points are a  unit measure for software size, much like an hour is to measure time.</td>
+      </tr>
+      <tr>
+        <td>FPE</td>
+        <td>Forefront Protection for Exchange</td>
+        <td>a e-mail security software solution that runs on Exchange</td>
+      </tr>
+      <tr>
+        <td>FPGA</td>
+        <td>Field Programmable Gate Array</td>
+        <td>A microchip that can be made with thousands of programmable logic  gates. FPGAs are often used for prototype or custom designs,  including DSP and logic emulation.</td>
+      </tr>
+      <tr>
+        <td>FPM</td>
+        <td>Fast Page Mode</td>
+        <td>A kind of DRAM memory. Fast page mode improved upon the original page  mode memory by eliminating the column address setup time during the  page cycle.</td>
+      </tr>
+      <tr>
+        <td>FpML</td>
+        <td>Financial Products Markup Language</td>
+        <td>A programming language — based on <a href="glossary_x.htm">XML</a> —  introduced by J.P. Morgan and PricewaterhouseCoopers in June 1999.</td>
+      </tr>
+      <tr>
+        <td>FPS</td>
+        <td>Flexible Payments Service</td>
+        <td>Amazon's payment services </td>
+      </tr>
+      <tr>
+        <td>FPU</td>
+        <td>floating point unit</td>
+        <td>a part of a CPU specially designed to carry out operations on floating point numbers. Not all CPUs have a dedicated FPU. </td>
+      </tr>
+      <tr>
+        <td>FQDN</td>
+        <td>Fully Qualified Domain Name</td>
+        <td>The official name assigned to an individual computer.</td>
+      </tr>
+      <tr>
+        <td>FR</td>
+        <td>frame relay</td>
+        <td>A network technology that transmits data packets at high speeds across  a digital network encapsulated in a transmission unit called a frame.  It requires a dedicated connection during the transmission period. It  is used on wide area networks and also in private network environments  with leased lines over T1 lines. </td>
+      </tr>
+      <tr>
+        <td>FRAD</td>
+        <td>Frame Relay Access Device</td>
+        <td>A combination of hardware and software that is used to convert  communications packets from formats like TCP, SNA, IPX, and others into  frames that can then be sent over a frame relay network.</td>
+      </tr>
+      <tr>
+        <td>FRAG (21)</td>
+        <td>Financial Reporting & Auditing Group Guidelines</td>
+        <td>Financial Reporting & Auditing Group Guidelines</td>
+      </tr>
+      <tr>
+        <td>FRDS</td>
+        <td>Failure Resistant Data Systems</td>
+        <td> term from the RAID advisory  board which describes server systems which are designed to protect  against data loss due to any single component failure within the system  and against loss of data to single disk failure. </td>
+      </tr>
+      <tr>
+        <td>FRED</td>
+        <td>Fair Random Early Detection</td>
+        <td>A variation of Random Early Detection (RED) </td>
+      </tr>
+      <tr>
+        <td>FreeBSD</td>
+        <td>Free Berkeley Software Distribution </td>
+        <td>a Unix-like free operating system descended from AT&T UNIX via the  BSD branch through the 386BSD and  4.4BSD operating systems. It runs on processors compatible with the  Intel x86 family, as well as on many other processors such as AMD64 and  PowerPC processors.</td>
+      </tr>
+      <tr>
+        <td>freeware</td>
+        <td>free software </td>
+        <td> several kinds of computer software that can legally be copied
+          and given free of charge to other users</td>
+      </tr>
+      <tr>
+        <td>FRR</td>
+        <td>fast retransmit and recovery</td>
+        <td>congestion control algorithm that makes it possible to quickly recover lost data packets.</td>
+      </tr>
+      <tr>
+        <td>FRS</td>
+        <td>File Replication Service</td>
+        <td>A service on Windows Servers (2000 and later)  		that is responsible for replicating policies and scripts to  		clients. </td>
+      </tr>
+      <tr>
+        <td>FRU</td>
+        <td>field-replaceable unit</td>
+        <td>An assembly  that is replaced in its entirety when any one of its components fails.</td>
+      </tr>
+      <tr>
+        <td>FSAA</td>
+        <td>Full Screen Anti-Aliasing </td>
+        <td>A method used by 3D graphics cards to provide anti-aliasing to all  objects in a 3D environment. This acts to smooth out the jagged  appearance of edges on some 3Dobjects.</td>
+      </tr>
+      <tr>
+        <td>FSAM</td>
+        <td>Federated Storage Area Management</td>
+        <td>HP naturally scalable environment of pooled, federated (i.e., available when needed), modular, multivendor storage resources</td>
+      </tr>
+      <tr>
+        <td>FSB</td>
+        <td>frontside bus</td>
+        <td>The FSB connects the computer's  processor to the system memory (RAM) and other components on the  motherboard. These components include the system chipset, AGP card, PCI  devices, and other peripherals.</td>
+      </tr>
+      <tr>
+        <td>FSM</td>
+        <td>finite state machine </td>
+        <td>a model of behavior composed of states, transitions and actions. A  state stores information about the past, i.e. it reflects the input  changes from the system start to the present moment.</td>
+      </tr>
+      <tr>
+        <td>FSML</td>
+        <td>Financial Services Markup Language</td>
+        <td>A language developed by the Financial Services Technology Consortium to  control the identification and processing of electronic checks.</td>
+      </tr>
+      <tr>
+        <td>FSMO</td>
+        <td>Flexible Single Master Operations</td>
+        <td>a feature of Microsoft's AD. The  schema master FSMO role holder is the  domain controller responsible for performing updates to the directory schema. </td>
+      </tr>
+      <tr>
+        <td>FSN</td>
+        <td>Full-Service Network</td>
+        <td>A video network that makes it possible for the television to work like  a computer, through the use of special equipment; users have access to  video, home shopping, interactive games, and other services.</td>
+      </tr>
+      <tr>
+        <td>FSS</td>
+        <td>File system server</td>
+        <td>The StorNext File System term for the computer that manages 
+          metadata in a SAN. In Xsan, this is called a metadata controller.</td>
+      </tr>
+      <tr>
+        <td>FSSS</td>
+        <td>Fast Serving Station Switching</td>
+        <td>refers to the serving station switching with which a Moble Station (MS)  can change its serving station from frame to frame depending on the  serving station selection mechanism.</td>
+      </tr>
+      <tr>
+        <td>FSPF</td>
+        <td>fibre channel shortest path first</td>
+        <td>A routing protocol used by fibre-channel switches.</td>
+      </tr>
+      <tr>
+        <td>FSTC</td>
+        <td>Financial Services Technology Consortium</td>
+        <td>A nonprofit organization whose membership includes banks, government agencies, universities, and high-tech businesses; FSTC is interested in developing e-commerce and making it practical.<a href="http://www.fstc.org/"> www.fstc.org</a></td>
+      </tr>
+      <tr>
+        <td>FTA</td>
+        <td>failure to acquire</td>
+        <td>a biometrics term that is used to describe a biometric system's failure to extract usable identification data from a biometric sample. </td>
+      </tr>
+      <tr>
+        <td>FTAM</td>
+        <td>File Transfer Access and Management</td>
+        <td>The International Organization for Standardization's <a href="o">OSI</a> remote file service and protocol</td>
+      </tr>
+      <tr>
+        <td>FTDS</td>
+        <td>Failure Tolerant Data Systems</td>
+        <td>term from the RAID advisory  board which describes server systems which must offer continuous data  availability in the event of any single system component failure. </td>
+      </tr>
+      <tr>
+        <td>FTNS</td>
+        <td>Fixed Telecommunication Network Services</td>
+        <td>FTNS are telecommunications services provided between
+          fixed points.</td>
+      </tr>
+      <tr>
+        <td><a href="ftp_client.htm">FTP</a></td>
+        <td><a href="ftp_client.htm">File Transfer Protocol</a></td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> A TCP/IP standard  used to log onto a network, list directories and copy files. FTP  authenticates users and allows them to transfer files, list  directories, delete and rename files on a remote host, and perform  wild-card transfers.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> In LAN technology for user authentication, file transfer, list directories of the foreign host, etc.</p></td>
+      </tr>
+      <tr>
+        <td>FTTB</td>
+        <td>Fiber to the building </td>
+        <td><div align="justify">This technology involves bringing fiber all the way to              the building. Inside   the building, signals would be carried over the existing copper wire              or   coaxial cable, or over optical fiber.</div></td>
+      </tr>
+      <tr>
+        <td>FTTN</td>
+        <td>Fiber to the neighborhood </td>
+        <td><div align="justify">This technology involves bringing fiber into the              neighborhood. From there,   signals would be carried to businesses and residences via              the existing copper   wiring.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>FR</td>
+        <td>Frame Relay </td>
+        <td><div align="justify">A  technology for transmitting data packets in high-speed bursts across a  digital network encapsulated in a transmission unit called a frame.  Frame relay requires a dedicated connection during the transmission  period. <br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>FTAM</td>
+        <td>File Transfer,                                                   Access, and Management</td>
+        <td>an application                                                   layer protocol for file transfer                                                   and remote manipulation (ISO 8571).</td>
+      </tr>
+      <tr>
+        <td>FTBFS</td>
+        <td>Fails To Build From Source</td>
+        <td>Fails To Build From Source in computer programming</td>
+      </tr>
+      <tr>
+        <td>FTL</td>
+        <td>Flash Translation Laye</td>
+        <td>new software layer that redirects each update to an empty block which  is already erased and copies other valid data to a new location.</td>
+      </tr>
+      <tr>
+        <td>FTP</td>
+        <td>File Transfer Protocol</td>
+        <td><p align="justify">The  usual way you send files to your server (or receive some). Using FTP,  you can also update (delete, rename, move, and copy) files at a server.  People who create Web home pages use FTP to get their files to the  server where they will be accessed. </p></td>
+      </tr>
+      <tr>
+        <td>FUD</td>
+        <td>Fear, Uncertainty, and Doubt</td>
+        <td>A set of sales tactics employed by market leaders to  cast aspersion on competing computer products.</td>
+      </tr>
+      <tr>
+        <td>FUSC</td>
+        <td>Fully Used SubChannel</td>
+        <td>also known as Fully Used SubCarrier, is a method used in the WiMAX  network that uses all the subchannels and employs full-channel  diversity by distributing the allocated subcarriers to subchannels  using a permutation mechanism.</td>
+      </tr>
+      <tr>
+        <td>FW</td>
+        <td>Firewall</td>
+        <td>A boundary that helps keep computers on the Internet  private. Firewall software helps prevent users from coming to a secure  site, or conversely, keeps users inside the firewall from going out.  Firewalls can also verify websites, helping to ensure they originate  from an authorized source. </td>
+      </tr>
+      <tr>
+        <td>FWA</td>
+        <td>Fixed wireless access</td>
+        <td>also known as wireless local loop, is a wireless system in which office  or home users directly connect with the switching center of the  telecommunications carrier or the inter-exchange channel to use the  system.</td>
+      </tr>
+      <tr>
+        <td>FX</td>
+        <td><p>foreign exchange</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Account settlements or transfers of credit or currency across national  borders, a process that typically relies heavily on computer technology.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A telecommunications connection between a customer's location and a remote exchange. see also FXO, FXS</p></td>
+      </tr>
+      <tr>
+        <td>FXO</td>
+        <td>Foreign Exchange Office</td>
+        <td>An FXO interface connects to the <a href="glossary_p.htm">PSTN</a> central office and is the interface offered on  a standard telephone. Cisco's FXO interface is an RJ-11 connector that  allows an analog connection at the PSTN's central office or to a  station interface on a PBX. </td>
+      </tr>
+      <tr>
+        <td>FXP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> File eXchange Protocol</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Foreign Exchange Protocol</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> fxp</p>          </td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> allows you to copy files from one FTP server to another FTP server (two remote hosts) using an FXP client.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> a simple, automatic way of retrieving currency exchange rates over the Internet. </p>
+          <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> file extension for the compiled source code for FoxPro</p></td>
+      </tr>
+      <tr>
+        <td>FXS</td>
+        <td>Foreign Exchange Station</td>
+        <td>An FXS interface connects directly to a standard  telephone and supplies ring, voltage, and dial tone. Cisco's FXS  interface is an RJ-11 connector that allows connections to basic  telephone service equipment, keysets, and PBXs. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>face recognition</td>
+        <td><strong> </strong>A biometric technique that uses the geometry of a person's  face to authenticate identity. Limited deployments, such as those for  check cashing, are in place.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td><p>failover</p></td>
+        <td>Failover is a backup operational mode in which the functions of a system component are assumed by secondary system components when the primary component becomes unavailable through either failure or scheduled down time.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>FastIP</td>
+        <td>An IP switching protocol developed by 3Com. Fast IP differs from other IP switching in that the end user initiates the process, not a router or switch.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Fault-tolerance</td>
+        <td>Ability of a system or component to continue normal operation despite  equipment failures, power outages or other catastrophic events.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Federation</td>
+        <td>A technical approach where one security domain has 
+          a system to authenticate users and another security 
+          domain has a system that trusts the authenticating 
+          system </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>female connector</td>
+        <td>A cable connector that has holes and plugs into a port or interface to connect one device to another. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>fetch</td>
+        <td>The process of 'fetching' a data or instruction item from memory and   	writing it to a register. The 'fetched' item is then either executed   	(instruction), or acted upon (data).</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>fiber optics</td>
+        <td><p>A technology that transmits infrared and visible light frequencies through strands of glass or plastic fiber. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>File extension</td>
+        <td>.gif .txt .doc .log etc. are all examples of file extensions. These are  the letters after the period in a file name that indicates the type of  file.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>FileZilla</td>
+        <td>FileZilla is free, open source, cross-platform FTP software, consisting of FileZilla Client and FileZilla Server. Binaries are available for Windows, Linux, and Mac OS X. It supports FTP, SFTP, and FTPS (FTP over SSL/TLS). <a href="http://filezilla-project.org/">http://filezilla-project.org/</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Finger</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A program that you point at the username of someone on a networked  system. It uncovers that person's full name, most recent log-in time,  and other information. It's also used as a verb, meaning to apply the  program to the user name.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A Unix command that provides information about users  logged in; and it can also be used to retrieve the .plan and .project  files from a user's home directory.</p>
+          <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A gesture by a programmer to another person that has ripped off his code without even recognition.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Fire Fighting</td>
+        <td>Desperately working to fix bugs to avoid being fired.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>firewire</td>
+        <td> technology that allows a computer to have                   an almost unlimited number of devices running without using up                   all the hardware interrupts.  the registered trademark of Apple's IEEE 1394 digital connection. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Firmware</td>
+        <td><p>A computer program or software stored permanently in PROM or ROM or semi-permanently in EPROM. </p>
+            <p>Software stored in PROM, ROM or EPROM; essential  programs that remain even when the system is electrically turned off.  Firmware is considerably easier to modify than hardware but more  permanent than software stored on disk or volatile memory. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>five 9s</td>
+        <td>The five 9s of accuracy: 99.999% accuracy</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td><p>flash</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Flash memory (FLEXIBLE   ARCHITECTURE for SHARED MEMORY)<strong>: </strong>This type of non-volatile memory has the ability to retain its   	information even when there is no power source. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> FLASH is erased (or bulk erased) electrically erasable  programmable read-only memory (EEPROM). FLASH has the electrically  erasable benefits of EEPROM but the small, economical cell size of  EPROM technology</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A  bandwidth friendly and browser independent vector-graphic animation technology.  As long as different browsers are equipped with the necessary plug-ins,  Flash animations will look the same. As of late 2005, Macromedia is now owned by <a href="http://adobe.com">Adobe</a></p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>flatrate</td>
+        <td>pricing plan for Telco</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>flooding</td>
+        <td>An attack that attempts to cause a failure in  (especially, in the security of) a computer system or other data  processing entity by providing more input than the entity can process  properly.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>footer</td>
+        <td>A formatting style designated in HTML by a specific tag and used at the end of an HTML file.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>forest</td>
+        <td>A collection of one or more <a href="http://www.webopedia.com/TERM/D/domain.html">domain</a> trees with a common schema and implicit trust relationships between them. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>fork</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A stream of data that can be opened and accessed individually under a  common filename. The Mac OS Standard and Extended file systems store a  separate data fork and resource fork as part of every file.</p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> In BSD, fork is a system call that creates a new process.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>frame</td>
+        <td><p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A packet of data including start and end of frame delimiters.</p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> An HTML feature that allows web designers to segment the window of a web browser into distinct sections.</p></td>
+      </tr>
+    <tr>
+        <td> </td>
+        <td>Frixo</td>
+        <td>UK road travel reporting website, that provides our users with the most up-to-date road traffic information. Our data is updated every 5 minutes using sensors placed on motorways and common A / B roads. <a href="http://www.frixo.com">www.frixo.com </a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>fuzzy logic</td>
+        <td>a formal system of reasoning developed by Lotfi Zadeh in
+          which the values “true” and “false” are replaced by numbers on a scale
+          from 0 to 1. </td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.98188304901 -->
+</html>

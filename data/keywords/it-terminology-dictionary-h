@@ -1,0 +1,1657 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - H for http</title>
+<meta name="keywords" content="hdd, hard drive, ha, htm, html, hack, hub, hal, hotmail, hotmail.com, hi5, hot, hybrid">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page163" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm775" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable on"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-h">H</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >H</h1><div class="marker" ></div>
+<div id="pm679" class="tile  m1290 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>H for http</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm740" class="tile  m1457 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>h-menu</td>
+        <td>Hierarchical menu</td>
+        <td>A pull-down menu that has sub-menus. The sub-menus are indicated by  arrows. Putting the pointer on the item that has an arrow opens up the  sub-menu.</td>
+      </tr>
+      <tr>
+        <td>H/S LAN</td>
+        <td>High-Speed Local-Area Network</td>
+        <td>A <a href="l">LAN</a> operating at 4 Mbits per second or more to facilitate rapid exchange of files, mail, etc., within a broader departmental or 
+          divisional environment. </td>
+      </tr>
+      <tr>
+        <td>H&H</td>
+        <td>Hoot & Holler</td>
+        <td> A dedicated point-to-point voice                                                   facility between international                                                   offices of a trading facility.</td>
+      </tr>
+      <tr>
+        <td>H3C</td>
+        <td>(previous) Huawei Technologies—3Com</td>
+        <td>HP company, supplier of routers, Ethernet switches, wireless LAN, security and Voice/Video over IP and  network management systems <a href="http://www.h3c.com">www.<strong>h3c</strong>.com</a></td>
+      </tr>
+      <tr>
+        <td>HA</td>
+        <td>high availability</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Pertaining  to a clustered system that is reconfigured when node or daemon failures occur,  so that workloads can be redistributed to the remaining nodes in the cluster.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The ability  of IT services to withstand all outages and continue providing processing  capability according to some predefined service level. </p></td>
+      </tr>
+      <tr>
+        <td>HAAT</td>
+        <td>Height Above Average Terrain</td>
+        <td>a measure of an antenna's height above average terrain. This value is  used by the FCC in determining compliance with height limitations and  transmitting powers for high sites.</td>
+      </tr>
+      <tr>
+        <td>HACMP</td>
+        <td>High-Availability Cluster Multi-Processing</td>
+        <td>Software that provides host clustering, so that jobs are moved  to other hosts within the cluster if one host fails.</td>
+      </tr>
+      <tr>
+        <td>Hactivism </td>
+        <td>from "hack" and "activism" </td>
+        <td>the concept of hacking into a Web site or computer system in order to communicate a politically or socially motivated message.</td>
+      </tr>
+      <tr>
+        <td>HAD</td>
+        <td>Holographic Autostereoscopic Display</td>
+        <td>Simple conversion of LCD technology, replacing the LCD's 
+          backlight with an HOE (holographic optical element)</td>
+      </tr>
+      <tr>
+        <td>HADR</td>
+        <td>high availability disaster recovery</td>
+        <td>A disaster recovery solution that uses log shipping and provides data  to a standby system if a partial or complete site failure occurs on a primary  system.</td>
+      </tr>
+      <tr>
+        <td>HAE</td>
+        <td>Height Above  Ellipsoid</td>
+        <td> Vertical difference between  a  reference  ellipsoid model  and  the  known, or 
+          derived,  elevation  at  a  given  spatial  location  (typically  in meters). </td>
+      </tr>
+      <tr>
+        <td>HAL</td>
+        <td>Hardware Abstraction Layer</td>
+        <td>A translation protocol in Windows NT for porting NT to another platform.</td>
+      </tr>
+      <tr>
+        <td>HAN</td>
+        <td>home area network</td>
+        <td>a network contained within a user's home that connects a person's digital devices, from multiple computers and their peripheral devices to telephones, VCRs, televisions, video games, home security systems, "smart" appliances, fax machines </td>
+      </tr>
+      <tr>
+        <td>HARC</td>
+        <td>Hitachi Asynchronous Remote Copy</td>
+        <td>A remote copy function for HDS storage products. HARC  allows movement of large amounts of data over any distance with full  data integrity and minimal impact on performance.</td>
+      </tr>
+      <tr>
+        <td>HARQ</td>
+        <td>Hybrid Automatic Repeat reQuest </td>
+        <td>a sheme wherein information blocks are encoded for partial error  correction at receiver and additional, uncorrected errors are  retransmitted.</td>
+      </tr>
+      <tr>
+        <td>HASP</td>
+        <td>Houston Automatic Spooling Program</td>
+        <td>A mainframe spooling program that provides task management, job management,  and data management functions.</td>
+      </tr>
+      <tr>
+        <td>HAT</td>
+        <td>Heap Analysis Tool</td>
+        <td>Tool for tracking down heap problems in Java programs </td>
+      </tr>
+      <tr>
+        <td>HAVi</td>
+        <td>Home Audio Video interoperability</td>
+        <td>a vendor-neutral audio-video standard aimed specifically at the home entertainment environment.</td>
+      </tr>
+      <tr>
+        <td>HBA</td>
+        <td>host bus adapter</td>
+        <td>An adapter used to connects a host computer to a storage network.</td>
+      </tr>
+      <tr>
+        <td>HCI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Host Controller Interface</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Human-Computer Interaction</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> BlueTooth technology</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The study of how humans interact with computers, used to design computers which are easy for humans to use.</p></td>
+      </tr>
+      <tr>
+        <td>HCL</td>
+        <td>Hardware Compatibility List</td>
+        <td>A list of computers and peripherals that have been tested by Microsoft to work with Windows NT or Windows 2000. </td>
+      </tr>
+      <tr>
+        <td>HCM</td>
+        <td>human capital management</td>
+        <td>Social software covers a range of functionality, from wikis and blogs to social 
+          networks and social bookmarking.</td>
+      </tr>
+      <tr>
+        <td>HCO</td>
+        <td>High-Capacity Optical </td>
+        <td>HCO drives use blue-laser  technology and standard 120-millimeter CD/DVD-size discs for as much as  six times the capacity of traditional 5.25-inch magneto-optical (MO)  technology.</td>
+      </tr>
+      <tr>
+        <td>HCR</td>
+        <td>Huffman Codeword Reordering</td>
+        <td>MPEG-4 Audio Error Resilience (ER) technique that avoids error propagation within spectral data</td>
+      </tr>
+      <tr>
+        <td>HCT</td>
+        <td>hardware compatibility tests</td>
+        <td>A suite of tests from WHQL to verify hardware and device driver  operations under a specific operating environment. These tests exercise  the combination of a device, a software driver, and an operating system  under controlled conditions.</td>
+      </tr>
+      <tr>
+        <td>HD / HDD</td>
+        <td>Hard Disk Drive</td>
+        <td> permanent storage medium
+          used on computers. A HDD consists of a number of rigid discs that
+          store all of the computer programs and data on the computer, even when the
+          power to the computer is switched off.</td>
+      </tr>
+      <tr>
+        <td>HD DVD</td>
+        <td>high-density DVD</td>
+        <td>a high-density optical disc similar to, but not
+          compatible with, BLU-RAY DISC, formerly marketed by Toshiba but discontinued in 2008. </td>
+      </tr>
+      <tr>
+        <td>HDA</td>
+        <td>Head Disk Assembly</td>
+        <td>The mechanical parts of a disk drive, including the read/write heads, platters, and other non-electronic components.</td>
+      </tr>
+      <tr>
+        <td>HDCP</td>
+        <td>High-bandwidth Digital Content Protection</td>
+        <td> a specified method from Intel for protecting copyrighted digital entertainment content that uses the <a href="glossary_d.htm">DVI</a> by encrypting its transmission between the video source and the digital display (receiver).</td>
+      </tr>
+      <tr>
+        <td>HDLC</td>
+        <td>High Level Data Link                                                   Control</td>
+        <td>An ITU-TSS link layer                                                   protocol standard for point-to-point                                                   and multi-point communications.</td>
+      </tr>
+      <tr>
+        <td>HDMI</td>
+        <td>High-Definition Multimedia Interface</td>
+        <td><span id="intelliTxt2">HDMI is a digital interface whose purpose is to  permit the transmission of audio and video signals through a single  cable, while supporting faster data rates than its normal counterparts. <a href="http://www.hdmi.org/">http://www.hdmi.org/ </a></span></td>
+      </tr>
+      <tr>
+        <td>HDML</td>
+        <td>Handheld Device Markup Language</td>
+        <td>Specifications allow Internet access from wireless devices such as handheld personal computers and smart phones. </td>
+      </tr>
+      <tr>
+        <td>HDR</td>
+        <td>header label </td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> A set of information  on a diskette or tape that describes the contents of the diskette or tape.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> The label or data set label that precedes the data records on  a unit of recording medium.</p></td>
+      </tr>
+      <tr>
+        <td>HDR</td>
+        <td>High-dynamic-range imaging or High-dynamic-range rendering <p>
+host-discovered resource</td>
+        <td>digital imaging or an image rendering technique 
+<p>A  set of storage hardware resources that are attached to a host system and are  available on the operating system.</td>
+      </tr>
+      <tr>
+        <td>HDS</td>
+        <td>Hitachi Data Systems</td>
+        <td><strong> </strong>A vendor of enterprise and modular storage systems and  software. HDS is a wholly owned subsidiary of Tokyo-based electronics  firm Hitachi, Ltd.</td>
+      </tr>
+      <tr>
+        <td>HDSL</td>
+        <td><p>High bit-rate Digital Subscriber Line</p></td>
+        <td><p>Provides repeaterless digital transmission at 2Mbit/s for about 12000 feet   (4km) over twisted pair.</p></td>
+      </tr>
+      <tr>
+        <td>HDTP</td>
+        <td>Handheld Device Transport Protocol </td>
+        <td>It presents the HDML to the HDML interpreter in an appropriate format. Developed by <a href="http://www.phone.com" target="_blank">HTTP://WWW.PHONE.COM</a> for use in wireless applications. </td>
+      </tr>
+      <tr>
+        <td>HDTV</td>
+        <td><p>High Definition television </p></td>
+        <td><div align="justify">
+            <p>High  Definition television means broadcast of television signals with a  higher resolution than traditional formats allow. It's a step change in  television technology which provides far clearer and more detailed  pictures than normal "standard definition" TV.</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>HDx / HD</td>
+        <td>Half duplex</td>
+        <td>A device can either receive or send data at a given         time.</td>
+      </tr>
+      <tr>
+        <td>HE-AAC</td>
+        <td>High Efficiency Advanced Audio <br />
+          Coding</td>
+        <td>Lossy data compression scheme for streaming audio. It 
+          combines three techniques: AAC, Spectral Band Replication (SBR), and Parametric 
+          Stereo (PS)</td>
+      </tr>
+      <tr>
+        <td>HEC</td>
+        <td>Header Error Control</td>
+        <td>Using fifth octet in ATM cell header, ATM equipment may               check for error and correct contents of header. Check character is               calculated using CRC algorithm allowing single bit error in header               to be corrected or multiple errors to be detected.</td>
+      </tr>
+      <tr>
+        <td>HEL</td>
+        <td>Hardware Emulation Layer</td>
+        <td>This provides software-based emulation of features that are not directly available in hardware.</td>
+      </tr>
+      <tr>
+        <td>HEP</td>
+        <td>horizontal enterprise portal</td>
+        <td>A portal that serves a broad population of users across an enterprise —  unlike a <a href="glossary_v.htm">VEP</a>, which serves only a specific  segment of this population</td>
+      </tr>
+      <tr>
+        <td>HERF</td>
+        <td>high energy radio frequency</td>
+        <td>A HERF gun is used to disrupt digital equipment such as computers by blasting them with HERF emissions.</td>
+      </tr>
+      <tr>
+        <td>HFC</td>
+        <td>Hybrid Fiber Coax</td>
+        <td>second generation cable TV infrastructure. HFC  networks combine both optical-fiber and coaxial cable lines. Optical  fiber runs from the cable head end to neighborhoods of 500 to 2,000  subscribers.</td>
+      </tr>
+      <tr>
+        <td>HFS</td>
+        <td>Hierarchical File System</td>
+        <td><div align="justify">HFS  is the file system used for organizing files on a Macintosh hard disk.  When a hard disk is formatted for a Macintosh computer, the  hierarchical file system is used to create a directory that can expand  as new files and folders are added to the disk.</div></td>
+      </tr>
+      <tr>
+        <td>HFS+</td>
+        <td>Hierarchical File System Plus</td>
+        <td>The Mac OS Extended file-system format. This format was introduced as  part of Mac OS 8.1, adding support for filenames longer than 31  characters, Unicode representation of file and directory names, and  efficient operation on very large disks.</td>
+      </tr>
+      <tr>
+        <td>HGFS</td>
+        <td>Host-Guest File System</td>
+        <td>VMware's
+          name for the guest-visible aspect of a Shared Folder.</td>
+      </tr>
+      <tr>
+        <td>HGML</td>
+        <td>Hypertext General Markup Language</td>
+        <td>A formatting code for marking up text files, which makes up part of SGML.</td>
+      </tr>
+      <tr>
+        <td>HHO</td>
+        <td>Hard Hand Off</td>
+        <td>used in CDMA systems, describes a hand-off involving a frequency change.</td>
+      </tr>
+      <tr>
+        <td>HHT</td>
+        <td>Hand-Held Terminal</td>
+        <td>Hand-held programming terminal to communicate with a programmable logic controller (PLC) on the fly</td>
+      </tr>
+      <tr>
+        <td>HID</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> High-Intensity Discharge</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Human Interface Device</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Light bulb technology used mainly in projectors </p>
+            <p><span><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The HID profile defines the protocols, procedures  and features to be used by Bluetooth HID such as keyboards, pointing  devices, gaming devices and remote monitoring devices.</span></p></td>
+      </tr>
+      <tr>
+        <td>HIDAM</td>
+        <td>hierarchical indexed direct access method</td>
+        <td>A database access method used for indexed access to records in  a hierarchic  direct organization. It provides indexed access to the root  segments and pointer  access to subordinate segments.</td>
+      </tr>
+      <tr>
+        <td>HIDS</td>
+        <td>Host based Intrusion Detection System</td>
+        <td> A system for detecting unauthorised access to a single computer.   	A HIDS may monitor logs or activity on network ports, or use other   	techniques to detect possible intrusions</td>
+      </tr>
+      <tr>
+        <td>HiFD</td>
+        <td>HIgh-capacity Floppy Disk</td>
+        <td>Sony term.</td>
+      </tr>
+      <tr>
+        <td>HighMAT</td>
+        <td>High-performance Media Access Technology</td>
+        <td>a set of standards co-developed by Microsoft and Matsushita (Panasonic) for CDs<br />
+          and DVDs that are created on personal computers but played back on
+          consumer electronic devices such as CD players and DVD-equipped
+          television sets. </td>
+      </tr>
+      <tr>
+        <td>HIL</td>
+        <td>Hardware-in-the-Loop</td>
+        <td>applications used by design and test engineers to evaluate and validate vehicle components during development of new systems</td>
+      </tr>
+      <tr>
+        <td>HIMEM</td>
+        <td>HIgh MEMory</td>
+        <td>A DOS and Windows extended memory manager.</td>
+      </tr>
+      <tr>
+        <td>HIP</td>
+        <td> Host Identity Protocol</td>
+        <td>host identification technology for use on IP networks, such as the Internet. </td>
+      </tr>
+      <tr>
+        <td>HIPAA</td>
+        <td>Health Insurance Portability and Accountability Act</td>
+        <td>An act passed by the U.S. congress in August 1996. HIPAA's directives  call for the use of <a href="glossary_e.htm">EDI</a> in healthcare  transactions, and for protecting the privacy of patient healthcare  information.</td>
+      </tr>
+      <tr>
+        <td>HiPerLinks</td>
+        <td>High-Performance Links</td>
+        <td><strong> </strong>A high-speed coupling-link technology introduced by IBM in 1997 for its S/390 mainframes.</td>
+      </tr>
+      <tr>
+        <td>Hiperspace</td>
+        <td>High-Performance Space</td>
+        <td>Introduced with ESA/370, a hiperspace is, in essence, an address space occupied only by data and to which access is 
+          controlled by hardware via special instructions. </td>
+      </tr>
+      <tr>
+        <td>HIPPI</td>
+        <td>HIgh Performance Parallel Interface</td>
+        <td>A high-speed communications bus used with supercomputers or high-speed LANs.</td>
+      </tr>
+      <tr>
+        <td>HIS</td>
+        <td>healthcare information system</td>
+        <td>A system or application used to manage hospital or other  healthcare-related operations (such as financial, registration,  scheduling and back-office functions); also called a "hospital  information system."</td>
+      </tr>
+      <tr>
+        <td>HISAM</td>
+        <td>hierarchical indexed sequential access method </td>
+        <td>A database access method used for indexed access to records  in a hierarchic  sequential organization.</td>
+      </tr>
+      <tr>
+        <td>HITECH</td>
+        <td>Health Information for Economic and Clinical Health </td>
+        <td>Act  collectively refers to the 
+          health information technology provisions included at Title XIII of Division A and Title IV of Division 
+          B of the ARRA. </td>
+      </tr>
+      <tr>
+        <td>HIToolbox</td>
+        <td>Human Interface Toolbox</td>
+        <td>A collection of procedural <a href="glossary_a.htm">APIs</a> that apply an object-oriented model to  windows, controls, and menus for Carbon applications.</td>
+      </tr>
+      <tr>
+        <td>HKCC</td>
+        <td>HKey_Current_Config</td>
+        <td>Windows NT Registry key</td>
+      </tr>
+      <tr>
+        <td>HKLM</td>
+        <td>HKey_Local_Machine</td>
+        <td>Windows NT Registry key</td>
+      </tr>
+      <tr>
+        <td>HL7</td>
+        <td>Health Level 7 </td>
+        <td> HL7 is a standard interface for exchanging and translating data between 
+          computer systems. HL7 is also a not-for-profit organization accredited by the <a href="glossary_a.htm">American National 
+            Standards Institutes (ANSI)</a> that develops standards for data transfer. <a href="http://www.hl7.org/">http://www.hl7.org/ </a></td>
+      </tr>
+      <tr>
+        <td>HLA</td>
+        <td>High Level Architecture</td>
+        <td>a general purpose architecture for distributed computer simulation  systems. Using HLA, computer simulations can communicate to other  computer simulations regardless of the computing platforms.</td>
+      </tr>
+      <tr>
+        <td>HLLAPI</td>
+        <td>High Level Language Application Programming Interface</td>
+        <td>used with IBM mainframes to allow PC's to communicate with the                   mainframe using an emulator. </td>
+      </tr>
+      <tr>
+        <td>HLR</td>
+        <td>Home Location Register </td>
+        <td>a database residing in a local wireless network that checks the  identity of a local subscriber. HLR contains information about  subscribers to a mobile network and registers subscribers for a  particular service provider.</td>
+      </tr>
+      <tr>
+        <td>HMA</td>
+        <td>High Memory Area</td>
+        <td>Method to access the first 64kB segment above the 1MB boundary in DOS/Windows 16-bits </td>
+      </tr>
+      <tr>
+        <td>HMD</td>
+        <td>Head Mounted Display</td>
+        <td>A helmet with stereoscopic goggles for the wearer's eyes, and stereo  headphones over the ears; used as an interface through which the wearer  can experience a virtual reality environment.</td>
+      </tr>
+      <tr>
+        <td>HMP</td>
+        <td>Hybrid Multiprocessing</td>
+        <td>refers to a kind of multitasking which provides some elements of  symmetric multiprocessing, using add-on IBM software called MP/2. IBM  OS/2 supports HMP.</td>
+      </tr>
+      <tr>
+        <td>Honeynet</td>
+        <td>A network of honeypots. </td>
+        <td>A network of honeypots. </td>
+      </tr>
+      <tr>
+        <td>HOSED</td>
+        <td>Hardware Or Software Error Detected</td>
+        <td>General error not yet diagnosed. </td>
+      </tr>
+      <tr>
+        <td>HP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Hewlett-Packard</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> HoneyPot</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A manufacturer of workstations,                                                   electronic instrumentation and                                                   test equipment etc. Founded in 1939 by Stanford University graduates, William R. Hewlett and David Packard, HP is the original garage start-up. <a href="http://www.hp.com">www.hp.com</a></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An Internet-attached server that acts as a decoy, luring in 
+              potential hackers in order to study their activities and 
+              monitor how they are able to break into a system</p></td>
+      </tr>
+      <tr>
+        <td>HPA</td>
+        <td>High Performance Addressing</td>
+        <td>A kind of display used on some multimedia notebook computers, that  delivers high-quality graphics comparable to Active Matrix (TFT)  Displays.</td>
+      </tr>
+      <tr>
+        <td>HPB</td>
+        <td>High Ping Bastard</td>
+        <td>Network multiplayer games attribute</td>
+      </tr>
+      <tr>
+        <td>HPC</td>
+        <td>High Performance Computing</td>
+        <td><p>HPC is a generic and relative term since the   	desktop computers of today are capable of the same performance as   	supercomputers from a few years back.</p></td>
+      </tr>
+      <tr>
+        <td>HPF</td>
+        <td>High Pass Filter</td>
+        <td>a telephony term. A signal filter which would be  installed in a customer premises ADSL modem (ATU-R), which only allow  higher frequency data to be delivered to the modem.</td>
+      </tr>
+      <tr>
+        <td>HPFS</td>
+        <td>High Performance File System</td>
+        <td>The file system for IBM OS/2.</td>
+      </tr>
+      <tr>
+        <td>HPGL</td>
+        <td>Hewlett-Packard Graphics Language</td>
+        <td>HP Language to describe vector graphics (usually for plotters)</td>
+      </tr>
+      <tr>
+        <td>HPIB</td>
+        <td>Hewlett Packard Interface Bus</td>
+        <td>Is a version of GPIB (also known as IEEE.488) and was 
+          used on Hewlett Packard (Now Aligent Technologies) lab 
+          equipment. Early versions used a different connector </td>
+      </tr>
+      <tr>
+        <td>HPNA</td>
+        <td>Home Phoneline Networking Alliance</td>
+        <td><p>An alliance to advance technologies for high-speed local-area  networking over conventional phone wires. It was founded in 1998 by  3Com, <a href="glossary_a.htm">AMD</a>, AT&T Wireless Services, Compaq, Conexant Systems, HP, IBM, Intel, Lucent   and Tut Systems.</p></td>
+      </tr>
+      <tr>
+        <td>HR</td>
+        <td>horizontal rule</td>
+        <td>tag used in HTML to indicate a horizontal rule.</td>
+      </tr>
+      <tr>
+        <td>HR/DSSS</td>
+        <td>High Rate/Direct Sequence Spread Spectrum Physical Layer</td>
+        <td>the enhanced physical layer defined by IEEE 802.11b which supports data transfer at up to 11Mbps. </td>
+      </tr>
+      <tr>
+        <td>HRAA</td>
+        <td>High Resolution Anti Aliasing</td>
+        <td>Technology found in the nVidia GeForce3 Chip</td>
+      </tr>
+      <tr>
+        <td>HRC</td>
+        <td>Hitachi Remote Copy</td>
+        <td><strong> </strong>A controller-based remote-copy capability used in Hitachi Data Systems storage products.</td>
+      </tr>
+      <tr>
+        <td>HRMS</td>
+        <td>human resource management system</td>
+        <td>Business applications for the management of human resource (HR)  transactions, best practices and enterprise reporting. Functions  typically include core HR tracking, payroll and benefits.</td>
+      </tr>
+      <tr>
+        <td>HRPD</td>
+        <td>High Rate Packet Data</td>
+        <td>also known as TIA/EIA IS-856 or 1xEV-DO, is a packet data protocol in the 3G mobile communicaitons network based on CDMA2000.</td>
+      </tr>
+      <tr>
+        <td>HPR</td>
+        <td>High-Performance Routing</td>
+        <td>IBM's technology to enable users to send <a href="glossary_s.htm">SNA</a> traffic over frame and cell-based networks, making for 
+          more efficient communications. </td>
+      </tr>
+      <tr>
+        <td>HSB / HSV</td>
+        <td>Hue, Saturation, Brightness (or Value)</td>
+        <td><p>HSV is a way of defining a colour based on a colour   	wheel. Hue measures the angle around the colour wheel. The saturation indicates the   	radius on the colour wheel so indicates the proportion between dark to pure colour to white. Value indicates the brightness.</p></td>
+      </tr>
+      <tr>
+        <td>HSCSD</td>
+        <td>High Speed Circuit Switched Data</td>
+        <td>a circuit-linked technology for higher transmission speeds -- up to 57 kilobits per second -- primarily in GSM systems.</td>
+      </tr>
+      <tr>
+        <td>HSD</td>
+        <td>High Speed Data</td>
+        <td><p>Interface normally using V.35 or EIA53 standards.</p></td>
+      </tr>
+      <tr>
+        <td>HSDPA</td>
+        <td>High-Speed Downlink Packet Access </td>
+        <td>also called 3.5G, a packet-based data service in W-CDMA downlink with data transmission  up to 8-10 Mbit/s (and 20 Mbit/s for MIMO systems) over a 5MHz  bandwidth in WCDMA downlink.</td>
+      </tr>
+      <tr>
+        <td>HSF</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Heat Sink Fan</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> High Sierra Format</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> This is a combination of a fan blowing air across the fins of a heatsink, usually on a high horsepower microprocessor.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A logical format and file structure for <a href="glossary_c.htm">CD-ROM</a>s that paved the way for <a href="glossary_i.htm">ISO</a> 9660. As the industry began to evolve many different proprietary  CD-ROM formats, the need for a common standard became obvious.</p></td>
+      </tr>
+      <tr>
+        <td>HSIL</td>
+        <td>Host Side Igmp Library</td>
+        <td>Cisco term</td>
+      </tr>
+      <tr>
+        <td>HSM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Hardware Security Module</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Hierarchical storage management</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Generate and/or store secrets for use in crytography, commonly used in card payment systems </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The automated migration of data objects among storage devices, usually based on inactivity. By accepting lower access performance (higher access  times), one can store objects less expensively. </p></td>
+      </tr>
+      <tr>
+        <td>HSO</td>
+        <td>Hot Spot Operator </td>
+        <td>A company that sets up and operates commercial hot spots in cafes, airports, hotels, train stations, convention centers and office buildings. An HSO typically installs one or more access points and an access control device along with a high speed Internet connection to the location.</td>
+      </tr>
+      <tr>
+        <td>HSR</td>
+        <td>Horizontal Scan Rate</td>
+        <td> The number of scan lines displayed per second on a computer monitor, expressed in kHz.</td>
+      </tr>
+      <tr>
+        <td>HSRP</td>
+        <td>Hot Standby Router Protocol</td>
+        <td>Provides high network availability and  transparent network topology changes. HSRP creates a Hot Standby router  group with a lead router that services all packets sent to the Hot  Standby address. The lead router is monitored by other routers in the  group, and if it fails, one of these standby routers inherits the lead  position and the Hot Standby group address. </td>
+      </tr>
+      <tr>
+        <td>HSS</td>
+        <td>Home Subscriber Service </td>
+        <td>a key component in the IP Multimedia Subsystem (IMS), refers to a  system including the master user database and software that supports  IMS network entities that handle calls and sessions.</td>
+      </tr>
+      <tr>
+        <td>HSSDC</td>
+        <td> High Speed Serial Direct Connect</td>
+        <td>A type of connector used on Fibre Channel 
+          optical cables.</td>
+      </tr>
+      <tr>
+        <td>HSSI</td>
+        <td>High Speed Serial Interface</td>
+        <td><p>Standard for a serial interface at high speeds (64 Kbps and higher  up to 52 Mbps) between DTE and DCE equipment over very short distances.  Used for a physical connection between a router and a DSU.</p></td>
+      </tr>
+      <tr>
+        <td>HSUPA</td>
+        <td> High-Speed Uplink Packet Access </td>
+        <td>part of the specifications for 3GPP 
+          Release 6. It improves upstream data bit rates on 3G systems and complements High-Speed 
+          Downlink Packet Access (HSDPA), theoretically up to a maximum 5.8 Mbps uplink data rate at 
+          the cell level. </td>
+      </tr>
+      <tr>
+        <td>HT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Hyper-Threading</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> HyperTransport</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Intel technology  with which a single processor can function as two virtual processors and execute  two threads simultaneously.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> AMD Technology is a high-speed, low latency, point-to-point 
+              link designed to increase the communication speed 
+              between integrated circuits in computers, servers and embedded systems up to 48 times faster</p></td>
+      </tr>
+      <tr>
+        <td>HTC</td>
+        <td>formerly High Tech Computer Corporation</td>
+        <td>a Taiwan-based manufacturer of smartphones <a href="http://www.htc.com/">http://www.htc.com/</a></td>
+      </tr>
+      <tr>
+        <td>HTML or HTM</td>
+        <td><p>HyperText Markup Language</p></td>
+        <td><div align="justify">
+            <p>The  coding language used to create Hypertext documents for use on the world  wide web. HTML looks a lot like old-fashioned typesetting code, where  you surround a block of text with codes that indicate how it should  appear. Additionally, in HTML you can specify that a block of text, or  a word, is linked to another file on the Internet.</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>HTML5</td>
+        <td>HyperText Markup Language 5</td>
+        <td> a whole set of new elements that make it much easier to     structure pages,  which commenced in 2004, is currently being carried out in     a joint effort between the <a href="http://www.w3.org/html/"><abbr title="W3C HTML Working Group">W3C HTML     WG</abbr></a> and     the <a href="http://www.whatwg.org/"><abbr title="Web Hypertext Application Technology Working Group">WHATWG</abbr></a>.</td>
+      </tr>
+      <tr>
+        <td>HTT</td>
+        <td>Hyper-Threading Technology</td>
+        <td>Implementation of simultaneous multithreading on Intel Pentium 4, Mobile Pentium 4, and Xeon processors</td>
+      </tr>
+      <tr>
+        <td>HTTP</td>
+        <td><p>HyperText Transport Protocol</p></td>
+        <td><div align="justify">
+            <p>The  protocol for moving hypertext files across the internet. Requires a  HTTP client program on one end, and an HTTP server program on the other  end. HTTP is the most important protocol used in the world wide web  (WWW). </p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>HTTPS</td>
+        <td>Secured HTTP or HTTP Secure</td>
+        <td>An Internet protocol that is used by Web servers and Web browsers to  transfer and display hypermedia documents securely across the Internet.</td>
+      </tr>
+      <tr>
+        <td>HTTPS</td>
+        <td>HTTP over SSL</td>
+        <td>A Web protocol  for secure transactions that encrypts and decrypts user page requests and  pages returned by the Web server.</td>
+      </tr>
+      <tr>
+        <td>HUD</td>
+        <td> Head Up Display</td>
+        <td>A display that is usually projected to a position where the user only has to look up to see.</td>
+      </tr>
+      <tr>
+        <td>HURSE</td>
+        <td>Hasp Unit Record SErvice</td>
+        <td>IBM term. To get a punch or print of your cards </td>
+      </tr>
+      <tr>
+        <td>HWS</td>
+        <td>high watermark setup</td>
+        <td>A method  to allocate a minimum number of unique device types that fulfill the requirements  for each job step. Devices used in one step can be released and used again  in later steps.</td>
+      </tr>
+      <tr>
+        <td>HXRC</td>
+        <td>Hitachi Extended Remote Copy</td>
+        <td>A remote-copy function for Hitachi Data Systems storage products. HXRC  uses an asynchronous copy approach to deliver high data integrity with  minimal disruption and performance impact to the primary system.</td>
+      </tr>
+      <tr>
+        <td><p>Hz</p></td>
+        <td>hertz</td>
+        <td>A unit of frequency equal to one cycle per second.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>H.x</td>
+        <td><p>A series of computing standards from the <a href="glossary_i.htm">ITU</a>. e.g. H.323: a standard  in 1996 to promote compatibility in  videoconference transmissions over <a href="glossary_i.htm">IP</a> networks. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Hack / hacker</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Term used to describe the unauthorised access of a computer as a means to
+          gain information that the hacker is not entitled to or to access services and
+          facilities for malicious purposes.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Originally used to describe a computer enthusiast who  pushed a system to its highest performance through clever programming.  More commonly it is becoming synonymous with 'cracker' which is used to  describe people who break into secured computer systems. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An expert programmer who likes to spend a lot of time  figuring out the finer details of computer systems or networks, as  opposed to those who learn only the minimum necessary. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Handshake </td>
+        <td>Exchange of predetermined signals between two devices establishing a connection. </td>
+      </tr>
+    <tr>
+        <td> </td>
+        <td>Halo </td>
+        <td>A light line around object edges in an image, produced by the USM (sharpening) technique. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td> hard-coded</td>
+        <td>Referring to instructions that are written directly into a program and  therefore cannot be easily modified, rather than instructions that can  be modified by a user.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Hardening</td>
+        <td>Hardening is the process of identifying and fixing vulnerabilities on a system.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td><a href="haptics.htm">Haptic</a></td>
+        <td>Haptic is the science and physiology of the sense  of touch. <a href="haptics.htm">more...</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>hash</td>
+        <td> A scrambled, or encrypted, form of a password or other text.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>header</td>
+        <td>A formatting style designated in HTML by a specific tag and used to set titles and subtitles apart from plain text.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>heat sink</td>
+        <td>A metal plate on some processors that helps dissipate heat.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Heuristics</td>
+        <td>Heuristics means 'rule based'. Normally, for an Anti-Virus product to detect a virus, the virus must have been seen before, analyzed and detection added to the signature update files.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>hex dump</td>
+        <td>a hexadecimal view of computer data, from RAM or from a file or storage device.</td>
+      </tr>
+    <tr>
+        <td> </td>
+        <td>hi5</td>
+        <td>hi5 is a social networking website based in San Francisco, California. <a href="http://hi5.com/">http://hi5.com/</a></td>
+      </tr>
+     <tr>
+        <td> </td>
+        <td>hit</td>
+        <td>As used in reference to the world wide web, hit means a single request  from a web browser for a single item from a web server</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>honeypot</td>
+        <td>a trap for people who tamper with computers maliciously
+          through the Internet, just as a pot of honey traps flies. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>host</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Any computer on a network that is a repository for services available  to other computers on the network.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The ISP's computer complex. The host process members' requests and keeps track of members' online experience. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>hot potato routing</td>
+        <td>A form of routing in which the nodes of a network have no buffer to store packets in before they are moved on to their final predetermined destination. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Hot Swap</td>
+        <td>A hot swap is the replacement of a hard drive, CD-ROM drive, power  supply, or other device with a similar device while the computer system  using it remains in operation. The replacement can be because of a  device failure or, for storage devices, to substitute other data.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Hotmail</td>
+        <td>Windows Live Hotmail, formerly known as MSN Hotmail and commonly referred to simply as Hotmail, is a free web-based email service operated by Microsoft. <a href="http://www.hotmail.com/">http://www.hotmail.com/</a> </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>hotspot</td>
+        <td>A wireless Internet connection available for public  use. Beyond mere convenience, hotspots offer broadband Internet access  with connection speeds similar to cable and DSL. While some hotspots  charge for access, more and more are opening their networks for free.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>hourglass</td>
+        <td>In computing, especially by means of the Windows operating system, an icon that replaces the pointer when the computer is performing a function and cannot receive new input.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>hub</td>
+        <td>Generally, a term used to describe a device that serves as the center of a star-topology network. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Human Augmentation </td>
+        <td>sometimes referred to as "Human 2.0", creating cognitive and 
+          physical improvements as an integral part of the human body. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>hunting</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Automatic routing of calls to an idle circuit in a prearranged          group when the circuit called is busy. </p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The movement of a call as it progresses through          a group of lines. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Hybrid network</td>
+        <td>A hybrid network is one that doesn't just rely on a singly type of bearer or leased line.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Hype Cycle</td>
+        <td>A Gartner model designed to help clients make intelligent decisions about when to implement emerging technologies.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Hypertext</td>
+        <td>Generally, any text that contains links to other documents - words or  phrases in the document that can be chosen by a reader and which cause  another document to be retrieved and displayed. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>hypervisor</td>
+        <td>a form of control software layer that enables multiple operating  systems to run on the same physical hardware. The oldest hypervisor is  IBM's VM — but this only runs on S/370-style hardware (where it hosted  MVS, VSE, and other operating systems).</td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 2.15401101112 -->
+</html>

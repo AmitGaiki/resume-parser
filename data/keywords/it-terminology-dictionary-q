@@ -1,0 +1,1118 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - Q for query</title>
+<meta name="keywords" content="quick, quantum, quicktime, qwerty, queue, quarantine, qaulity, qa, qq">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page172" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm784" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable on"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-q">Q</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >Q</h1><div class="marker" ></div>
+<div id="pm681" class="tile  m1292 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>Q for query</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm749" class="tile  m1466 tile12 i100 content-left">
+<div class="content content0">
+<table class="ss-text" border="1" cellpadding="9">
+      <tr>
+        <th scope="col">Abbreviation / acronyms</th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>QA</td>
+        <td>Quality Assurance</td>
+        <td>The practice of checking hardware, software, or systems for defects,  identifying such defects, and then checking to make sure that such  defects are corrected when future revisions of software or hardware are  ready for testing.</td>
+      </tr>
+      <tr>
+        <td>QAM</td>
+        <td>quadrature amplitude modulation</td>
+        <td>QAM is a method of combining two amplitude-modulated (AM) signals into a single channel, thereby doubling the effective bandwidth. QAM is used with PAM in digital systems, especially in wireless applications. </td>
+      </tr>
+      <tr>
+        <td>QAT</td>
+        <td>Quantity Above Threshold Indicator </td>
+        <td><p>The sum of itemized call minutes that exceeds the minimum threshold of 1500     Minutes of Usage (MOU) that is eligible for a volume discount.</p></td>
+      </tr>
+      <tr>
+        <td>QB</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> QuickBASIC</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Quickbooks</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a descendant of the BASIC programming language that was developed by  the Microsoft Corporation for use with the MS-DOS operating system.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A general accounting system from Intuit, Inc. <a href="http://quickbooks.intuit.com">QuickBooks </a></p></td>
+      </tr>
+      <tr>
+        <td>QBDG</td>
+        <td>Query Based Distribution Group</td>
+        <td> A type of distribution group introduced  		in Exchange 2003. It provides similar functionality to that of a  		standard distribution group, what is different is that it does not  		contain a fixed list of members but is defined using a query. This  		allows the group membership list to be generated dynamically on demand  		using the query. </td>
+      </tr>
+      <tr>
+        <td>QBDL</td>
+        <td>Query Based Distribution List</td>
+        <td>More commonly known as a Query Based  		Distribution Group</td>
+      </tr>
+      <tr>
+        <td>QBL</td>
+        <td>Query By Example</td>
+        <td>QBE is a method of query creation that allows the user to search for documents based on an example in the form of a selected text string or in the form of a document name or a list of documents. Because the QBE system formulates the actual query, QBE is easier to learn than formal query languages, such as the standard <a href="s">SQL</a>, while still enabling powerful searches. </td>
+      </tr>
+      <tr>
+        <td>QCIF</td>
+        <td>Quarter Common Intermediate Format</td>
+        <td> videoconferencing format that specifies data rates of  30 fps, with each frame containing 144 lines and  176 pixels per line.</td>
+      </tr>
+      <tr>
+        <td>QD</td>
+        <td>Queuing Delay</td>
+        <td>refers to the delay imposed                                                   on a cell by its having to be                                                   buffered because of unavailability                                                   of resources to pass the cell                                                   onto the next network function                                                   or element.</td>
+      </tr>
+      <tr>
+        <td>QDF</td>
+        <td>Quicken Data File</td>
+        <td>File name extension by Intuit</td>
+      </tr>
+      <tr>
+        <td>QDOS</td>
+        <td>Quick And Dirty Operating System</td>
+        <td>An early personal computer operating system rumored to be the forerunner of PC-DOS and MS-DOS. </td>
+      </tr>
+      <tr>
+        <td>QDR</td>
+        <td>Quad Data Rate</td>
+        <td>a type of static RAM computer memory that can transfer up to four words of data in each clock cycle. </td>
+      </tr>
+      <tr>
+        <td>QEMM</td>
+        <td>Quarterdeck Expanded Memory Manager</td>
+        <td>DOS and Windows memory manager from Quarterdeck Office Systems, Santa  Monica, California; used for IBM PCs with an Intel 80386 or higher  processor.</td>
+      </tr>
+      <tr>
+        <td>QFE</td>
+        <td>Quick Fix Engineering </td>
+        <td>QFE is a Microsoft term for the delivery of individual service updates to its operating systems and application programs such as Word. Formerly called a hotfix, "QFE" can be used to describe both the method of delivering and applying a patch or fix, and also to refer to any individual fix. </td>
+      </tr>
+      <tr>
+        <td>QFP</td>
+        <td>Quoted For Permanence</td>
+        <td>an integrated circuit package with leads extending from each of the four sides.</td>
+      </tr>
+      <tr>
+        <td>QI</td>
+        <td>Query Interface</td>
+        <td> database system that can be accessed by phone client  programs to retrieve and edit entries in the server. This is generally  used for phonebook services, but can be used in any database  application.</td>
+      </tr>
+      <tr>
+        <td>qic</td>
+        <td>Quarter-Inch Cartridge</td>
+        <td>a standard for magnetic tape drives. QIC tapes are among  the most popular tapes used for backing up personal computers. QIC  tapes are divided into two general classes: full-size (also called  data-cartridge) and minicartridge. </td>
+      </tr>
+      <tr>
+        <td>QIF</td>
+        <td>Quicken Interchange Format</td>
+        <td>File format for financial data</td>
+      </tr>
+      <tr>
+        <td>QIP</td>
+        <td>quality improvement process</td>
+        <td>A team-based, structured, problem-solving          process aimed at achieving exceptional customer satisfaction.  </td>
+      </tr>
+      <tr>
+        <td>QIX</td>
+        <td>NASDAQ Information Exchange protocol</td>
+        <td>QIX is a proprietary specification intended to streamline automated trading in the financial industry. QIX, like the open-standard Financial Information Exchange (FIX) protocol and the computer-to-computer interface (CTCI), supports multiple communications formats.</td>
+      </tr>
+      <tr>
+        <td>QLLC</td>
+        <td>Qualified Logical Link Control protocol</td>
+        <td>transfers IBM <a href="glossary_s.htm">SNA</a> data over                        an X.25 network.</td>
+      </tr>
+      <tr>
+        <td>QMF</td>
+        <td>Query Management Facility</td>
+        <td><strong> </strong>An IBM mainframe query and report-writing product for relational database management systems.</td>
+      </tr>
+      <tr>
+        <td>QMS</td>
+        <td>Quality Micro Systems</td>
+        <td>A Mobile, Alabama manufacturer of laser printers. QMS made one of the first PostScript printers.</td>
+      </tr>
+      <tr>
+        <td>QName</td>
+        <td>qualified name</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The name of  the library containing the object and the name of the object. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A data name explicitly accompanied  by a specification of the class to which it belongs in a specified classification  system.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In C++, a name that is used to qualify a nonclass type  name, such as a member, by its class name.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A data set name consisting  of a string of names separated by periods</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A name that conforms to the Namespaces in XML  specification.</p></td>
+      </tr>
+      <tr>
+        <td>QoE</td>
+        <td><p>quality of experience</p></td>
+        <td><p>The measurement of overall customer satisfaction before, during, and after a transaction.</p></td>
+      </tr>
+      <tr>
+        <td>QoS</td>
+        <td><p>quality of service</p></td>
+        <td><p align="justify"> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Any operation  that allows traffic priorities to be designated. Different traffic throughout a network can be classified and administered.</p>
+            <p align="justify"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In OSI, a value that specifies certain performance characteristics  of a service, session, or link.</p>
+          <p align="justify"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A set of communication characteristics  required by an application. QoS defines a specific transmission priority,  level of route reliability, and security level.</p>
+          <p align="justify"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A measure of system  performance and system availability.</p>
+          <p align="justify"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A policy  that collects performance data for HTTP transactions for one or more Web servers<br />
+          </p></td>
+      </tr>
+      <tr>
+        <td>QP</td>
+        <td>Quantum Programming</td>
+        <td>A programming paradigm that extends traditional object-oriented                   programming with two additional fundamental concepts: hierarchical                   state machines and computing based on active objects. </td>
+      </tr>
+      <tr>
+        <td>QPM</td>
+        <td>QoS Policy Manager</td>
+        <td>A Cisco Systems offering.</td>
+      </tr>
+      <tr>
+        <td>QPS</td>
+        <td>Queries-per-second</td>
+        <td>QPS is a measure of how much traffic a particular query server is handling at a given time. On the Internet, the activity in the collection of servers that serve as the domain name system is sometimes measured in queries-per-second. </td>
+      </tr>
+      <tr>
+        <td>QPSK</td>
+        <td>Quadrature Phase-Shift Keying</td>
+        <td>A method of modulating digital signals   	using four phase states to code two digital bits per phase shift.</td>
+      </tr>
+      <tr>
+        <td>QR code</td>
+        <td>Quick Response code</td>
+        <td>Created by Japanese corporation Denso-Wave in 1994, a "QR code" is a matrix code (which is a two-dimensional bar code) that is a two-dimensional way of representing information. It is similar to a linear (1-dimensional) bar code, but has more data representation capability. </td>
+      </tr>
+      <tr>
+        <td>QSA</td>
+        <td>Qualified Security Assessor</td>
+        <td>company approved by the PCI 
+          SSC to conduct <a href="glossary_p.htm">PCI DSS</a> on-site assessments. </td>
+      </tr>
+      <tr>
+        <td>QSIG</td>
+        <td>Q signaling</td>
+        <td>Q signaling is a protocol for <a href="glossary_i.htm">ISDN</a> communications based on the Q.931 standard, is used for signaling between digital <a href="glossary_p.htm">PBX</a>s. QSIG is employed in <a href="glossary_v.htm">VoIP</a> networks, <a href="glossary_v.htm">VPN</a>s, and high-speed, multi-application networks for corporations, educational institutions, and government agencies. </td>
+      </tr>
+      <tr>
+        <td>QT</td>
+        <td>QuickTime</td>
+        <td>This is a multimedia technology developed by our friends at Apple  Computer. It is a popular format for creating and storing sound,  graphics, and movie (.mov) files. Though it is an Apple technology,  QuickTime software is available for both the Mac and the PC. <a href="http://www.apple.com/quicktime/">check out Apple's QuickTime site</a></td>
+      </tr>
+      <tr>
+        <td>QTM</td>
+        <td>Quadratic Texture Mapping</td>
+        <td>This is a technology used with NVidia based 3D graphics boards that dramatically speeds up texture mapping and screen redrawing (refreshing) by reducing the amount of work required. NVidia chips use fewer polygons to render an acceptable looking rounded object. </td>
+      </tr>
+      <tr>
+        <td>QTSS</td>
+        <td> QuickTime Streaming Server</td>
+        <td>A technology that lets you deliver media over the 
+          Internet in real time.</td>
+      </tr>
+      <tr>
+        <td>QTVR</td>
+        <td>QuickTime Virtual Reality</td>
+        <td>QTVR is a 3-D, virtual reality version of Apple's Quicktime multimedia software. QTVR uses multiple still shots to compile a 3-D view of space. </td>
+      </tr>
+      <tr>
+        <td>QTW</td>
+        <td>QuickTime for Windows</td>
+        <td>Multimedia software from Apple Computer that integrates full-motion video and sound into application programs.</td>
+      </tr>
+      <tr>
+        <td>Quagi</td>
+        <td>quad and Yagi </td>
+        <td>An antenna consisting of both full wavelength loops (quad) and Yagi elements. </td>
+      </tr>
+      <tr>
+        <td>QVGA</td>
+        <td>Quarter Video Graphics Array</td>
+        <td>QVGA is a small-screen display mode in which the resolution is 320 pixels horizontally by 240 pixels vertically (320 x 240). This is 25 percent of the total number of pixels afforded by the VGA (Video Graphics Array) display mode originally introduced by IBM in 1987. </td>
+      </tr>
+      <tr>
+        <td>QXGA</td>
+        <td> Quad ((or Quantum) eXtended Graphics Array</td>
+        <td> a display mode in which the resolution is 2048 pixels  horizontally by 1536 pixels vertically (2048 x 1536). This results in  3,145,728 pixels in the image (sometimes referred to as 3.2 million  pixels). This resolution is twice the 1024 x 768 seen on most high  powered units. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Q-Band</td>
+        <td>also known as V-Band, is a radio bandwidth range between 40 GHz t0 50 GHz.</td>
+      </tr>
+    <tr>
+        <td> </td>
+        <td>QQ</td>
+        <td> Tencent QQ, generally referred to as QQ, is the most popular free instant messaging computer program in mainland China. <a href="http://www.qq.com/">http://www.qq.com/</a></td>
+      </tr>      <tr>
+        <td> </td>
+        <td>quad</td>
+        <td> A cable containing two twisted pairs of conductors.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>quad core</td>
+        <td>processor contains four cores</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Quantum computing / theory</td>
+        <td>Data is 
+          represented as linked qubits (quantum bits), which have the ability to represent all possible states 
+          simultaneously. This gives quantum computers the ability to operate exponentially faster than 
+          conventional computers as the word length is increased.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>quarantine</td>
+        <td>A term used to isolate spam e-mail messages, it is often seen in anti-spam software. Once you quarantine the suspect messages, you must then delete them.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Queue</td>
+        <td><p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A queue is a list of jobs that are awaiting to be  processed. When when a job is sent to a queue, it is simply added to  the list of jobs.</p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A temporary delay in providing service caused          by the inability of the particular system to handle the number of messages or calls          attempted<br />
+          </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Query</td>
+        <td>In computers, what a user of a search engine  or database enters is sometimes called the query. To query (verb) means  to submit a query (noun). </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>QWERTY</td>
+        <td><div align="justify">This  term is used to describe a standard (Latin alphabet-based) keyboard.  Why? Because the first six keys in the upper-left part of the keyboard  spell out Q-W-E-R-T-Y. I suppose you could call it a QWERTYUIOP  keyboard, but QWERTY is a lot easier to say. </div></td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.79034209251 -->
+</html>

@@ -1,0 +1,1556 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - O for open source</title>
+<meta name="keywords" content="owa, ocr, oracle, os, operating system, obiee, orange, overture, oss, over, one, orkut, opengl, office">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page170" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm782" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable on"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-o">O</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >O</h1><div class="marker" ></div>
+<div id="pm616" class="tile  m1209 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>O for open source</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm747" class="tile  m1464 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">Abbreviation</th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>O2</td>
+        <td>Object-Oriented</td>
+        <td>An object-oriented database language.</td>
+      </tr>
+      <tr>
+        <td>O2O</td>
+        <td>Online To Offline</td>
+        <td>Directing online users to physical stores. The term O2O was first coined by Alex Rampell, CEO and founder of TrialPay, in a 2010 TechCrunch article. He wrote: “The key to O2O is that it finds consumers online and brings them into real-world stores. It is a combination of payment model and foot traffic generator for merchants (as well as a ‘discovery’ mechanism for consumers) that creates offline purchases.”
+</td>
+      </tr>
+      <tr>
+        <td>OAAM</td>
+        <td>Oracle Adaptive Access Manager</td>
+        <td>Oracle entered the Web fraud detection market in July 2007, with the  acquisition of Bharosa, and has integrated the renamed product that consists of fraud detection and user authentication software</td>
+      </tr>
+      <tr>
+        <td>OADM</td>
+        <td>Optical Add/Drop Multiplexer</td>
+        <td>In telecom parlance, a Single Channel OADM is used for utilised for adding or dropping single wavelength in  <a href="d">DWDM</a> optical networks.</td>
+      </tr>
+      <tr>
+        <td>OAM</td>
+        <td>object access method</td>
+        <td>A program  that provides object storage, object retrieval, object-storage hierarchy management,  and storage and retrieval management for tape volumes contained in system-managed  libraries. </td>
+      </tr>
+      <tr>
+        <td>OAM / OA&M / OAM&P</td>
+        <td>Operations, Administation, and Management (and Provisioning)</td>
+        <td>A set of network management functions for ATM similar to those in OA&M and OAM&P. Special cells, called OAM cells, are used to carry OAM related information</td>
+      </tr>
+      <tr>
+        <td>OASIS</td>
+        <td>Organization for the Advancement of Structured Information Standards</td>
+        <td>An international nonprofit consortium that promotes open, collaborative  development of e-business specifications based on public standards such  as Extensible Markup Language (XML).</td>
+      </tr>
+      <tr>
+        <td>OAT</td>
+        <td>Outside Air Temperature</td>
+        <td>This is used in the electronics industry to mean the  ambient air temperature of the air mass surrounding the unit in  discussion. </td>
+      </tr>
+      <tr>
+        <td>OATH</td>
+        <td>Object-oriented Abstract Type Hierarchy</td>
+        <td>a class library for C++ from Texas Instruments.</td>
+      </tr>
+      <tr>
+        <td>OBDR</td>
+        <td>One Button Disaster Recovery</td>
+        <td>Disaster recovery feature provided by some tape drives. This allows the tape drive to be switched into disaster recovery mode - where its firmware emulates a bootable CD-ROM allowing the system to boot from the tape device and restore the system from the last backup. </td>
+      </tr>
+      <tr>
+        <td>OBEX</td>
+        <td>OBject EXchange</td>
+        <td>Set of protocols allowing objects such as vCard contact information and vCalendar schedule entries to be exchanged using either IrDA or Bluetooth</td>
+      </tr>
+      <tr>
+        <td>OBI</td>
+        <td>Open Buying on the Internet</td>
+        <td><strong> </strong>A standard for Internet-based procurement created by a U.S.  consortium of vendors formed in October 1996, which released v.1.0 of  OBI specification the following year. In 1998, the consortium placed  the management of the specification under CommerceNet.</td>
+      </tr>
+      <tr>
+        <td>OBIEE</td>
+        <td>Oracle BI Enterprise Edition</td>
+        <td>Oracle BI product</td>
+      </tr>
+      <tr>
+        <td>OBM</td>
+        <td>On-board modem</td>
+        <td>also known as Internal modem, is installed on an expansion board inside  a computer chase. In contrast, an external modem is a box that attaches  to a computer's COM port via cables.</td>
+      </tr>
+      <tr>
+        <td>OBOE</td>
+        <td>Off-By-One Error</td>
+        <td>Logical error involving the discrete equivalent of a boundary condition. It often occurs in computer programming when an iterative loop iterates one time too many or too few </td>
+      </tr>
+      <tr>
+        <td>OBU</td>
+        <td>On Board Unit </td>
+        <td>In an electronic toll collection system, card data of a payment card is stored in an OBU mounted in a vehicle. </td>
+      </tr>
+      <tr>
+        <td>OC</td>
+        <td>overclock</td>
+        <td>To run a microprocessor faster than the speed for which it has been   	tested and approved. Overclocking is a popular technique for eking out a   	little more performance from a system.</td>
+      </tr>
+      <tr>
+        <td>OCIA</td>
+        <td>Optically Coupled Interface Adapter</td>
+        <td>Interface in many other respects similar to RS232. It is used extensively on POS equipments </td>
+      </tr>
+      <tr>
+        <td>OC-N</td>
+        <td>Optical Carrier Level N</td>
+        <td><p>The range of incremental rates defined for SONET fiber-optic transmission. The number after "OC-" represents the multiple of the  foundation OC-1 rate, which is 51.84Mbps. Above  OC-3, the level numbers and their associated data rates quadruple with  each step up in the hierarchy, as follows:</p>
+            <dir>
+            <p>•	OC-3: 155 Mbps</p>
+              <p>•	OC-12: 622 Mbps</p>
+              <p>•	OC-48: 2.5 Gbps</p>
+              <p>•	OC-192: 10 Gbps</p>
+              <p>•	OC-768: 40 Gbps</p>
+            </dir></td>
+      </tr>
+      <tr>
+        <td>OCL</td>
+        <td>Object Constraint Language</td>
+        <td>a declarative language for describing rules and constraints that apply to UML models</td>
+      </tr>
+      <tr>
+        <td>OCP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Open-Closed Principle</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Oracle Certified Professional</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Object-oriented principle that states that software entities should be open for extensions but closed for modifications</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> DBA certification is designed to reflect proficiency in Oracle database  architecture, installation, administration, performance tuning and  troubleshooting.</p></td>
+      </tr>
+      <tr>
+        <td>OCR</td>
+        <td><p>Optical Character Recognition</p></td>
+        <td><p align="justify">The  technique of recognising printed text and turning it into computer  input, so avoiding the need for keyboard entry. Widely used now for  avoiding the retyping of documents.</p></td>
+      </tr>
+      <tr>
+        <td>OCSP</td>
+        <td>Online 
+          Certificate Status Protoco</td>
+        <td>an Internet protocol used for obtaining the revocation status of an X.509 digital certificate</td>
+      </tr>
+      <tr>
+        <td>OCTAVE</td>
+        <td>Operationally Critical Threat, Asset, and Vulnerability Evaluation</td>
+        <td>Approach for self-directed risk evaluations that puts organizations in charge, balances critical information assets, business needs, threats, and vulnerabilities and measures the organization against known or accepted good security practices</td>
+      </tr>
+      <tr>
+        <td>OCX</td>
+        <td><a href="glossary_o.htm">OLE</a> Custom Controls</td>
+        <td>Visual Basic add-on components based on Microsoft's OLE set of interfaces. </td>
+      </tr>
+      <tr>
+        <td>ODA</td>
+        <td>Open Document Architecture</td>
+        <td>An ISO standard for documents which allows for the transfer of text, graphics, and facsimiles between platforms.</td>
+      </tr>
+      <tr>
+        <td>ODBC</td>
+        <td>Open Database Connectivity</td>
+        <td><div align="justify">With  all the different types of databases available, such as Microsoft  Access, Filemaker, and MySQL, it is important to have a standard way of  transferring data to and from each kind of database.</div></td>
+      </tr>
+      <tr>
+        <td>ODBO</td>
+        <td><a href="glossary_o.htm">OLE</a> DB for <a href="glossary_o.htm">OLAP</a></td>
+        <td>A Microsoft specification for a standard interface to OLAP engines. Published in 1997, OBDO paralleled  Microsoft's ODBC strategy for access to  relational databases.</td>
+      </tr>
+      <tr>
+        <td>ODC</td>
+        <td>Offshore development center</td>
+        <td>An operation set up for a specific  organization by a service provider, which dedicates assets and  resources specifically to that single client, in exchange for  guarantees of steady work.</td>
+      </tr>
+      <tr>
+        <td>ODD</td>
+        <td>optical disk drive</td>
+        <td>A computer device that reads from, and stores information on, optical storage media. </td>
+      </tr>
+      <tr>
+        <td>ODF</td>
+        <td>OpenDocument </td>
+        <td>suite of open, XML-based office suite application formats defined by the OASIS consortium. It defines a platform-neutral, non-proprietary way of storing documents. </td>
+      </tr>
+      <tr>
+        <td>ODI</td>
+        <td>Open Data-link Interface</td>
+        <td>an API developed by Apple and  Novell for writing network drivers.Like NDIS, ODI provides rules that  establish a vendor-neutral interface between the protocol stack and the  adapter driver.</td>
+      </tr>
+      <tr>
+        <td>ODM</td>
+        <td>Original Design Manufacturer</td>
+        <td>a company that produces products
+          for another firm that will sell them under its brand name</td>
+      </tr>
+      <tr>
+        <td>ODMR</td>
+        <td>On-Demand Mail Relay</td>
+        <td>an e-mail service that allows a user to request e-mail from any internet connection by using a dynamic IP address as opposed to a static IP address. </td>
+      </tr>
+      <tr>
+        <td>ODOE</td>
+        <td>on demand operating environment</td>
+        <td>The technology infrastructure needed to support an on demand business. </td>
+      </tr>
+      <tr>
+        <td>ODP</td>
+        <td> Open Data Path</td>
+        <td>Provide a way for more than one program in the same job to share the same file status information</td>
+      </tr>
+      <tr>
+        <td>ODPS</td>
+        <td>On Demand Packaging Service</td>
+        <td>Intranet Software distribution solution by IBM</td>
+      </tr>
+      <tr>
+        <td>OEM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Oracle Enterprise Manager</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Original Equipment Manufacturer</p></td>
+        <td><p align="justify"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> integrates multiple products into a complete APM/BTM 
+          solution. </p>
+          <p align="justify"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A  firm which makes parts that other firms incorporate into their own gear  or complete equipment that these other firms sell under their own brand  name. </p></td>
+      </tr>
+      <tr>
+        <td>OEP</td>
+        <td>Outlook Exchange Protocol</td>
+        <td>a remote procedure call instantiation of the Microsoft Messaging API protocol</td>
+      </tr>
+      <tr>
+        <td>OFB</td>
+        <td>output feedback </td>
+        <td>In cryptography, OFB is a mode of operation for a block cipher. It has some similarities to the ciphertext feedback mode in that it permits encryption of differing block sizes, but has the key difference that the output of the encryption block function is the feedback.</td>
+      </tr>
+      <tr>
+        <td>OFCom</td>
+        <td>Office of Communications</td>
+        <td>the official regulating body for TV, radio and other 'communication industries' in the UK. <a href="http://www.ofcom.org.uk">www.ofcom.org.uk</a></td>
+      </tr>
+      <tr>
+        <td>OFDM / OFDMA</td>
+        <td>Orthogonal Frequency-Division multiplexing (/Multiple Access)</td>
+        <td>a frequency-division multiplexing scheme used as a digital multi-carrier modulation method.</td>
+      </tr>
+      <tr>
+        <td>OFM</td>
+        <td>Oracle Fusion Middleware </td>
+        <td>Oracle Fusion Middleware </td>
+      </tr>
+      <tr>
+        <td>OFX</td>
+        <td>Open Financial Exchange</td>
+        <td>An open specification for online transfer of financial data, combining  Microsoft's Open Financial Connectivity, Intuit's OpenExchange, and  CheckFree's electronic banking and payment protocols.</td>
+      </tr>
+      <tr>
+        <td>OGL</td>
+        <td>Open Graphics Language</td>
+        <td>Single, vendor-independent API for the development of 2D and 3D graphics applications </td>
+      </tr>
+      <tr>
+        <td>OGSA</td>
+        <td>Open Grid Services Architecture</td>
+        <td>A well-defined set of basic interfaces that is the basis for constructing  various systems and is used to describe extensibility, vendor neutrality,  and commitment to a community standardization process.</td>
+      </tr>
+      <tr>
+        <td>OHG</td>
+        <td>Operators Harmonization Group </td>
+        <td>a group of industry operators established to meet on harmonization  issues. The group is working towards a way of harmonisation between  CDMA2000 and W-CDMA.</td>
+      </tr>
+      <tr>
+        <td>OIC</td>
+        <td>Oracle Incentive Compensation</td>
+        <td>the standard sales ICM offering being actively sold and marketed to the  Oracle installed base, including Siebel and PeopleSoft customers</td>
+      </tr>
+      <tr>
+        <td>OID</td>
+        <td>Object Identifier</td>
+        <td>OIDs identify individual entries, or objects, within the MIB. OIDs are specified using an "x,y" naming convention, defined by Abstract Syntax Notation One (ASN.1).</td>
+      </tr>
+      <tr>
+        <td>O.K.I.</td>
+        <td>Open Knowledge Initiative </td>
+        <td>an organization responsible for the specification of software  interfaces comprising a SOA based on  high level service definitions.</td>
+      </tr>
+      <tr>
+        <td>OLAP</td>
+        <td>online analytical processing</td>
+        <td>A category of business intelligence tools used to analyze data. OLAP  tools are client- and server-based analysis tools that originally were  based on multidimensional databases but today can be based on relational databases,  most often overlaid by an indexing or mapping scheme that emulates an  MDDB.</td>
+      </tr>
+      <tr>
+        <td>OLE</td>
+        <td>Object Linking and Embedding</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A Microsoft protocol that enables creation of compound documents with  embedded links to applications, so that a user does not have to switch  from one application to another to make revisions.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a Windows technology that allows not only the creation  of compound documents with data originating from more than one program,  but also the editing of cut-and-paste data using the originating  application program without leaving the host program.</p></td>
+      </tr>
+      <tr>
+        <td>OLED</td>
+        <td>organic light-<br />
+          emitting diode</td>
+        <td>LED displays technology</td>
+      </tr>
+      <tr>
+        <td>OLIC</td>
+        <td>online image copy</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The process  of creating an image copy while the database  is online.</p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The image  copy created by the online image copy process.</p></td>
+      </tr>
+      <tr>
+        <td>OLIVE</td>
+        <td>On-Line Interactive Virtual Environment</td>
+        <td> In February 2010,  SAIC acquired Forterra Systems Inc.'s OLIVE product line. </td>
+      </tr>
+      <tr>
+        <td><a href="one_laptop_per_child.htm">OLPC</a></td>
+        <td><a href="one_laptop_per_child.htm">One Laptop Per Child </a></td>
+        <td>initiative aimed at providing inexpensive laptop computers to children in the developing world as a means of bridging the digital divide. OLPC was founded by Nicholas Negroponte, also founder of MIT Media Lab. The initiative was announced at the World Economic Forum in Davos, Switzerland in January 2005. <a href="http://www.laptop.org">www.laptop.org</a></td>
+      </tr>
+      <tr>
+        <td>OLTP</td>
+        <td>On-Line Transaction Processing</td>
+        <td>Any number of (typically many) concurrent users adding      and modifying data. Typically includes order processing, banking, stocks, and e-commerce      applications.</td>
+      </tr>
+      <tr>
+        <td>OMA</td>
+        <td>Open Mashup Alliance</td>
+        <td>a consortium of individuals and organizations dedicated to the successful use of Enterprise Mashup technologies <a href="http://www.openmashup.org">www.openmashup.org</a></td>
+      </tr>
+      <tr>
+        <td>OMG</td>
+        <td>Object Management Group</td>
+        <td>a consortium of hundreds of computer<br />
+          companies that develop standards for software components to interact<br />
+          with each other. See web address: <a href="http://www.omg.org">www.omg.org</a></td>
+      </tr>
+      <tr>
+        <td>OMH</td>
+        <td>order management hub </td>
+        <td> product for effcient and efective delivery of sales orders</td>
+      </tr>
+      <tr>
+        <td>OML</td>
+        <td>Ontology Markup Language</td>
+        <td>An evolution of Simple HTML Ontology Extensions (SHOE) to Extensible Markup Language (XML).</td>
+      </tr>
+      <tr>
+        <td>OMR</td>
+        <td>Optical Mark Reader</td>
+        <td>A scanning device that can read marks such as pencil marks on a page; used to read forms and multiple-choice questionnaires.</td>
+      </tr>
+      <tr>
+        <td>OMSA</td>
+        <td>OpenManage Server Administrator</td>
+        <td>Suite of tools provided by Dell for managing an individual server. See the official OpenManage site, <a href="http://dell.com/openmanage/">http://dell.com/openmanage/ </a></td>
+      </tr>
+      <tr>
+        <td>OMT</td>
+        <td>Object Modeling Technique</td>
+        <td>A modeling language used to develop object-oriented models. </td>
+      </tr>
+      <tr>
+        <td>ONA</td>
+        <td>Organizational network analysis</td>
+        <td>one form of SNA, typically 
+          used to study the informal social networks of groups working in the same enterprise. </td>
+      </tr>
+      <tr>
+        <td>ONE</td>
+        <td>Open Net Environment</td>
+        <td>Sun Microsystems' implementation of an "integratable" stack of  software, hardware and services to deliver on the company's two main  visions — "the network is the computer" and services on demand.</td>
+      </tr>
+      <tr>
+        <td>OO</td>
+        <td>object-oriented or object orientation</td>
+        <td>An umbrella concept used to describe a suite of technologies that enable software to be highly modular and reusable </td>
+      </tr>
+      <tr>
+        <td>OOA&D</td>
+        <td>Object-oriented analysis and design </td>
+        <td>methodologies  used by IT 
+          professionals to convert business processes and requirements into software solutions in the form 
+          of objects, components and services.</td>
+      </tr>
+      <tr>
+        <td>OOB</td>
+        <td>Out Of Band</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Pertaining to user-specific  data that has meaning only for connection-oriented (stream) sockets. The server  generally receives stream data in the same order that it was sent. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Pertaining to signals that are carried  within the telephony signaling channel, as opposed to the voice channel.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Communication  that occurs through a modem or other asynchronous connection</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The process  of discovering SAN data, including topology and device data, without using  the Fibre Channel data paths</p></td>
+      </tr>
+      <tr>
+        <td>OODB</td>
+        <td>Object-Oriented Data Base</td>
+        <td>A database in which data is stored as objects in an object-oriented  programming environment, and which is managed by an object-oriented  database management system.</td>
+      </tr>
+      <tr>
+        <td>OOF</td>
+        <td>Out Of Frame</td>
+        <td>State that occurs when several consecutive Synchronous Digital Hierarchy (SDH) frames are received with invalid (errored) framing patterns</td>
+      </tr>
+      <tr>
+        <td>OOo</td>
+        <td>OpenOffice.org</td>
+        <td>This is - the website of <a href="open_office.htm">OpenOffice</a>, which is an open source office   	suite of office tools (word processor, spreadsheet etc).
+          Note that this is   	normally written as "OOo" (note the lower case o as the third letter.) <a href="http://www.openoffice.org">www.openoffice.org</a></td>
+      </tr>
+      <tr>
+        <td>OOP</td>
+        <td>object-oriented programming</td>
+        <td>A type of programming that combines data structures with functions to create reusable objects. It works something like this: Programmers can create modules that do not need to be changed when a new type of object is added.</td>
+      </tr>
+      <tr>
+        <td>OOSE</td>
+        <td>Object Oriented Software Engineering</td>
+        <td>Provides an approach to object-oriented analysis and design that focuses on use 
+          cases. </td>
+      </tr>
+      <tr>
+        <td>op-code</td>
+        <td>Operation Code</td>
+        <td>Part of a computer instruction word that designates the function   performed by a specific instruction. </td>
+      </tr>
+      <tr>
+        <td>OPA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Open  Patent  Alliance</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Oracle Policy Automation</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> group of companies formed in 2008 
+          to promote development of  WIMAX  Internet use. Web address: <a href="http://www.openpatentalliance.com">www.openpatentalliance.com</a></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Oracle's Social Services offerings, providing eligibility and entitlement calculations </p></td>
+      </tr>
+      <tr>
+        <td>Opamp</td>
+        <td>Operational Amplifier</td>
+        <td>originally designed to carry out mathematical operations  in analog computers, such as calculating positions and co-ordinates. It  however has been found to have numerous other applications. </td>
+      </tr>
+      <tr>
+        <td>OpenCL</td>
+        <td>Open Computing Language</td>
+        <td>A standards-based technology for performing general-purpose computations on a computer’s graphics processor.</td>
+      </tr>
+      <tr>
+        <td>OpenGL</td>
+        <td>Open Graphics Library</td>
+        <td>3D graphics language developed by  Silicon Graphics. With OpenGL, developers  can create graphics and special effects that will appear nearly  identical on any operating system and any hardware that supports  OpenGL.</td>
+      </tr>
+      <tr>
+        <td>OPML</td>
+        <td>Outline Processor Markup Language</td>
+        <td>XML-based format that allows exchange of outline-structured information between applications running on different operating systems and environments</td>
+      </tr>
+      <tr>
+        <td>OPN</td>
+        <td>Oracle Partner Network</td>
+        <td>Oracle Partner Network</td>
+      </tr>
+      <tr>
+        <td>OPOD</td>
+        <td>Oracle Procurement On Demand </td>
+        <td>delivery methods for analyt
+          ics and EBS application.</td>
+      </tr>
+      <tr>
+        <td>OPS</td>
+        <td>Off Premise Station</td>
+        <td>A PBX station in a location separated from the location of the main PBX </td>
+      </tr>
+      <tr>
+        <td>OPX</td>
+        <td>Off Premise Extension</td>
+        <td>A telephone line from the phone system terminated in a different building than the phone system.</td>
+      </tr>
+      <tr>
+        <td>ORB</td>
+        <td>Object Request Broker</td>
+        <td>A program that controls the communication between a client and an  object on a server. ORB is a standard of the Object Management Group  (OMG).</td>
+      </tr>
+      <tr>
+        <td>ORBS</td>
+        <td> Open Relay Behaviour-modification                   System</td>
+        <td>a list of open relays that are used by spammers - networks                   can use this list to block mail from those sites <a href="http://www.orbs.org/">http://www.orbs.org/</a></td>
+      </tr>
+      <tr>
+        <td>ORDB</td>
+        <td>Open Relay DataBase</td>
+        <td>A service to fight against spam or unsolicited commercial email (UCE). See <a href="http://www.ordb.org/">http://www.ordb.org/</a></td>
+      </tr>
+      <tr>
+        <td>ORF</td>
+        <td>Open reading frame</td>
+        <td>the sequence of DNA or RNA that is located between the initiation codon  (start-code sequence) and termination codon (stop-code sequence).</td>
+      </tr>
+      <tr>
+        <td>ORFS</td>
+        <td>Output Radio Frequency Spectrum</td>
+        <td>a measurement for GSM signals that tests for interference in the adjacent frequency channels (ARFCNs)</td>
+      </tr>
+      <tr>
+        <td>ORM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Object/Relational Mapping</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> operational risk management</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Technique of mapping a data representation from an object model to a relational data model with a SQL-based schema</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> process standardization and monitoring,  allocation of capital as the 
+              result of risk-based performance and economic analysis</p></td>
+      </tr>
+      <tr>
+        <td>OS</td>
+        <td>Operating System</td>
+        <td>The underlying software that allows the user and the computer to interact.   									The OS is the software platform necessary for the computer to run.   									It allows the computer's hardware and software applications to communicate. </td>
+      </tr>
+      <tr>
+        <td>OSA</td>
+        <td>Open System Architecture </td>
+        <td>part of the 3G UMTS mobile telecommunications network.  OSA describes how services are architected in a UMTS network.</td>
+      </tr>
+      <tr>
+        <td>OSAF</td>
+        <td>Open Source Applications Foundation</td>
+        <td>Organization that aims to create and gain wide adoption of Open Source application software of uncompromising quality and to build an innovative, sustainable alternative application despite market inertia. See also <a href="http://www.osafoundation.org/">http://www.osafoundation.org/ </a></td>
+      </tr>
+      <tr>
+        <td>OSD</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> On Screen Display</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Open Software Description</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a term describing the menu that pops up on many newer  generation monitors to give digital control functions, as opposed to  analog control functions, to adjust and set the characteristics of the  monitor. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An application of the XML, is a vocabulary used for describing software packages and their dependencies for heterogeneous clients</p></td>
+      </tr>
+      <tr>
+        <td>OSDL</td>
+        <td>Open Source Development Lab</td>
+        <td>Non-profit, global consortium of leading technology companies dedicated to accelerating the adoption of Linux. See <a href="http://www.osdl.org/">http://www.osdl.org/ </a></td>
+      </tr>
+      <tr>
+        <td>OSF</td>
+        <td>Open Software Foundation</td>
+        <td> A foundation created by nine computer                                                   vendors, (Apollo, DEC, Hewlett-Packard,                                                   IBM, Bull, Nixdorf, Philips, Siemens                                                   and Hitachi) to promote "Open                                                   Computing".</td>
+      </tr>
+      <tr>
+        <td>OSGi</td>
+        <td>Open Services Gateway Initiative</td>
+        <td>Independent, non-profit corporation working to define and promote open specifications for the delivery of managed broadband services to networks in homes, cars and other environments. See also<a href="http://www.osgi.org"> http://www.osgi.org</a></td>
+      </tr>
+      <tr>
+        <td><a href="osi_network.htm">OSI</a></td>
+        <td><a href="osi_network.htm">Open Systems Interconnection</a></td>
+        <td><div align="justify">
+            <p>A model developed by the International Organization              for Standardization (ISO)   for communications, OSI offers a standard, modular approach to              network design   that divides the required set of complex functions into manageable,   selfcontained,              functional layers.<br />
+            </p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>OSLC</td>
+        <td>Open Services for Lifecycle 
+          Collaboration</td>
+        <td>IBM developed  open integration standard</td>
+      </tr>
+      <tr>
+        <td>OSMINE</td>
+        <td>Operations Systems Modification of Intelligent Network Elements</td>
+        <td>OSMINE is a procedure by Telcordia to ensure compatibility with the latter's various operating systems.</td>
+      </tr>
+      <tr>
+        <td>OSN</td>
+        <td>output sequence number</td>
+        <td>A number  assigned by a system to a message sent by the system.</td>
+      </tr>
+      <tr>
+        <td>OSPF</td>
+        <td>Open Shortest Path First</td>
+        <td><div align="justify">OSPF  is a method of finding the shortest path from one router to another in  a local area network (LAN). As long as a network is IP-based, the OSPF  algorithm will calculate the most efficient way for data to be  transmitted.</div></td>
+      </tr>
+      <tr>
+        <td>OSPM</td>
+        <td>Operating System Power Management</td>
+        <td>a major segment in the effort known as ACPI. OSPM is an industry effort to return management and monitoring of the computer power interface control from the BIOS to the user at an operating system level.</td>
+      </tr>
+      <tr>
+        <td><a href="open_source_software_windows.htm">OSS</a></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Online Service System</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="open_source_software_windows.htm">Open source software</a></p></td>
+        <td><p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An online system that offers service information, error notes and downloadable patches for R/3 and other SAP products.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Software that can be run, distributed and modified without a fee.  Restrictions are often applied — in the form of an "open-source  license" — to profits or commercial fees for any product built on a  base of free software</p></td>
+      </tr>
+      <tr>
+        <td>OSSIM</td>
+        <td> Open Source Security Information Management</td>
+        <td>Distribution of open source products that are integrated to provide an infrastructure for security monitoring. See also <a href="http://www.ossim.net/">http://www.ossim.net/ </a></td>
+      </tr>
+      <tr>
+        <td>OST</td>
+        <td>Outside Surface Temperature</td>
+        <td>This is used in the electronics industry to mean the  surface temperature of a component. It is generally used in conjunction  with CPUs.</td>
+      </tr>
+      <tr>
+        <td>OTA</td>
+        <td>Over The Air </td>
+        <td>standard for the transmission and reception of application-related  information in a wireless communications system. The standard is  supported by Nokia, SmartTrust, and others.</td>
+      </tr>
+      <tr>
+        <td>OTDR</td>
+        <td>Optical Time Domain Reflectometer </td>
+        <td>an instrument that analyzes the light loss in an optical fiber. An OTDR  trace shows fiber attenuation for the system and location and magnitude  of any losses from splices, connectors, and fiber anomalies or fiber  discontinuities.</td>
+      </tr>
+      <tr>
+        <td>OTFE</td>
+        <td>On-the-fly encryption</td>
+        <td>also known as Real-time Encryption, is a method used by some encryption programs, for example, disk encryption software</td>
+      </tr>
+      <tr>
+        <td>OTM</td>
+        <td>Oracle Transportation Management</td>
+        <td>Oracle Transportation Management</td>
+      </tr>
+      <tr>
+        <td>OTN</td>
+        <td>Optical Transport Network</td>
+        <td>a set of Optical Network Elements (3R) connected by optical fibre links, able to provide functionality of transport, multiplexing, switching, management, supervision and survivability of optical channels carrying client signals.</td>
+      </tr>
+      <tr>
+        <td>OTP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> One Time Password</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> one-time programmable</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Open Trading Protocol</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A password which can be used once only. A one time  		password is a security measure.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Describes any programmable device, like a PROM                   or a PLD, that can be programmed just                   once by the end user.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The Internet OTP provides an interoperable framework for Internet commerce. It is payment system independent and encapsulates payment systems such as SET, Mondex, CyberCash, DigiCash, GeldKarte, etc.</p></td>
+      </tr>
+      <tr>
+        <td>OTS</td>
+        <td>Over-the-Shoulder </td>
+        <td>A feature in Vista wherein a user is treated as a standard user until  he needs to perform a task that requires elevated privilege. Then the  user is promoted to enter the credentials to the account that has such  privilege to perform the task.</td>
+      </tr>
+      <tr>
+        <td>OU</td>
+        <td>organizational unit</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A unit within  an organization, such as a company, that identifies a particular set of users.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An Active Directory container object used within domains. An  organizational unit is a logical container into which users, groups, computers,  and other organizational units are placed.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A body whose data is to be kept separate from  that of other, similar bodies. WebSphere BI for FN uses OUs to control access  to resources, and to ensure data segregation.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> One of the types of subsidiary entities that can  be added to an organization. </p></td>
+      </tr>
+      <tr>
+        <td>OUI</td>
+        <td>Organizationally Unique Identifier </td>
+        <td>24-bit value assigned to an organization by the <a href="glossary_i.htm">IEEE</a>. It is used as part of <a href="glossary_m.htm">MAC</a> address.</td>
+      </tr>
+      <tr>
+        <td>OVF</td>
+        <td>Open Virtualization Format</td>
+        <td>Standard format for packaging and describing virtual machines and applications for deployment across heterogeneous virtualization platforms</td>
+      </tr>
+      <tr>
+        <td>OVP</td>
+        <td>online video platform</td>
+        <td>online video platform</td>
+      </tr>
+      <tr>
+        <td>OWA</td>
+        <td>Outlook Web Access</td>
+        <td>Provides access to emails stored in a Microsoft Exchange server (across an intranet or internet) via a web browser.
+          
+          OWA requires the following ports to be opened in any firewall protecting the Exchange server: ports 80(HTTP), 135 (OWA) and 443 (SSL)</td>
+      </tr>
+      <tr>
+        <td>OWASP</td>
+        <td> Open Web Application Security Project</td>
+        <td>Worldwide free and open community focused on improving the security of application software. See also <a href="http://www.owasp.org/">http://www.owasp.org/</a></td>
+      </tr>
+      <tr>
+        <td>OWI</td>
+        <td>Optimized Warehouse Initiative </td>
+        <td>PANTA Systems was a foundation member of the Oracle Information Appliance Initiative, since renamed the Oracle OWI. As of 2008, OWI members included Dell/EMC, HP, IBM, SGI, and Sun.</td>
+      </tr>
+      <tr>
+        <td>OWL</td>
+        <td>Web Ontology Language</td>
+        <td>WWW Consortium, Standards for semantic reconciliation</td>
+      </tr>
+      <tr>
+        <td>OXE</td>
+        <td> OmniPCX Enterprise </td>
+        <td>Alcatel-Lucent's  commercially  platform for enterprise telephony</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td><a href="open_source_software_windows.htm">Open Source</a></td>
+        <td>Open Source Software is software for which the underlying programming  code is available to the users so that they may read it, make changes  to it, and build new versions of the software incorporating their  changes. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Openview</td>
+        <td><strong> </strong>A line of Hewlett-Packard network management tools offering  system, network, desktop, IT service and Internet management  functionality.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>OpenVPN</td>
+        <td><a href="http://openvpn.net/" title="http://openvpn.net/">OpenVPN</a> is an open source VPN solution. Unlike most VPN systems, OpenVPN uses  SSL/TLS to manage and encrypt the connection's data stream.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>orange book</td>
+        <td><dl>
+            <dt>The format that enables CD-R drives to record discs that regular  CD-ROM players can read. Orange Book defines how CD-R devices can  append index data to an existing disc's directory if you add more data  to the disc in multiple sessions.</dt>
+        </dl></td>
+      </tr>
+     <tr>
+        <td> </td>
+        <td>Orkut</td>
+        <td>orkut is a social networking website that is owned and operated by Google Inc. The service is designed to help users meet new and old friends. <a href="http://www.orkut.com">www.orkut.com</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Outage</td>
+        <td>The time when a computer system, telecoms facilities, mains electricity  supplies, etc. are unavailable for use due to some failure. Also known  as downtime. Planned outages are scheduled in advance. outRages are  what happens when they are not.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>overflow</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In telephony, excess traffic, on a particular route, that is offered to another (alternate) route.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In computing, a condition where data is presented to a buffer or port faster than it can be processed, resulting in lost data.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Overture</td>
+        <td>Yahoo Search Marketing service after acquiring Overture Services, Inc. (formerly GoTo.com)</td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 2.02366399765 -->
+</html>

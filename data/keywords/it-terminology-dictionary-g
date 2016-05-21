@@ -1,0 +1,1570 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - G for Gateway</title>
+<meta name="keywords" content="global, giga, gimp, ge, gsm, gmail, gprs, ghost, google, gears of war, gaia, google apps, goal, gre, group, godaddy, go daddy, gmx">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page162" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm774" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable on"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-g">G</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >G</h1><div class="marker" ></div>
+<div id="pm623" class="tile  m1216 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>G for gateway</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm739" class="tile  m1456 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>G</td>
+        <td>giga</td>
+        <td>Prefix for 10 power 9 (or, in IT parlance, 2 power 30)</td>
+      </tr>
+      <tr>
+        <td>G2C</td>
+        <td>Government to Citizen</td>
+        <td> Lagan's underlying platform for the Government <a href="customer-relationship-management">CRM</a> solution for contact centers and citizen self-service</td>
+      </tr>
+      <tr>
+        <td>GAIA</td>
+        <td>GUI Application Interoperability Architecture</td>
+        <td>GAIA is acronym of GUI Application Interoperability Architecture</td>
+      </tr>      <tr>
+        <td>GAMS</td>
+        <td>General Algebraic Modeling System </td>
+        <td>high-level modeling system for mathematical programming problems. The  program itself consists of a language compiler and a group of  integrated solvers.</td>
+      </tr>
+      <tr>
+        <td>GAP</td>
+        <td>Groups, Algorithms and Programming</td>
+        <td>A System for Computational Discrete Algebra, with    particular emphasis on    Computational Group Theory. <a href="http://www.gap-system.org/">http://www.gap-system.org/</a></td>
+      </tr>
+      <tr>
+        <td>GAPE</td>
+        <td>Google Apps Premier Edition</td>
+        <td>Google's web-based messaging and collaboration apps require no hardware or                        software and need minimal administration, creating tremendous time and cost                        savings for businesses. <a href="http://www.google.com/apps/intl/en/business/details.html">http://www.google.com/apps/intl/en/business/details.html</a></td>
+      </tr>
+      <tr>
+        <td>GARP</td>
+        <td>Generic Address Resolution Protocol</td>
+        <td>An IEEE standard for a generic method by which various devices (e.g.,  clients, servers, and bridges) can automatically disseminate attribute  information across a bridged LAN. GARP is a Layer 2 (i.e. Data Link  Layer) protocol used extensively in VLANs.</td>
+      </tr>
+      <tr>
+        <td>Gas</td>
+        <td>GNU Assembler</td>
+        <td>the default GNU Compiler Collection (GCC) back-end and is used to  compile Linux and other operating systems such as the GNU operating  system. It is a part of the GNU Binutils package. It runs and assembles  on and for a number of different architectures.</td>
+      </tr>
+      <tr>
+        <td>gb</td>
+        <td>Giga bit</td>
+        <td>1,024 megabits or 1 billion information bits.</td>
+      </tr>
+      <tr>
+        <td>GB</td>
+        <td>Gigabyte</td>
+        <td>Approximately 1 billion bytes of data (actually 1,073,741,824 bytes)</td>
+      </tr>
+      <tr>
+        <td>GBIC</td>
+        <td> GigaBit Interface Converter</td>
+        <td>A transceiver that converts between electrical and optical signals for high-speed networking</td>
+      </tr>
+      <tr>
+        <td>GBP</td>
+        <td>group buffer pool</td>
+        <td>A coupling facility cache structure that is used by a data sharing  group to cache data and to ensure that the data is consistent for all  members.</td>
+      </tr>
+      <tr>
+        <td>Gbps</td>
+        <td>gigabits per second</td>
+        <td>A measure of data transmission speed </td>
+      </tr>
+      <tr>
+        <td><a href="gcc_compiler.htm">GCC</a></td>
+        <td><a href="gcc_compiler.htm">GNU Compiler Collection </a></td>
+        <td>the free compiler that made the free Linux  operating system possible. The GCC C/C++ language tools support the cross-compiler  requirements for a number of target processors families and their variants. </td>
+      </tr>
+      <tr>
+        <td>GCD</td>
+        <td>Grand Central Dispatch</td>
+        <td>a technology for executing asynchronous tasks concurrently. GCD is  available in Mac OS X v10.6 and later and is not available in iPhone OS.</td>
+      </tr>
+      <tr>
+        <td>GCG</td>
+        <td>Grey Component Replacement</td>
+        <td>A technique for replacing all the neutral tones of an image with an appropriate amount of black.</td>
+      </tr>
+      <tr>
+        <td>GCGID</td>
+        <td>graphic character global identifier </td>
+        <td>A 4- to 8-character alphanumeric identifier assigned to a registered  graphic character. Each graphic character that is to be assigned a code  point must have a GCGID.</td>
+      </tr>
+      <tr>
+        <td>GCI</td>
+        <td>General Communication Inc.</td>
+        <td>a telecommunications corporation operating in Alaska <a href="http://www.gci.com/">http://www.gci.com/</a></td>
+      </tr>
+      <tr>
+        <td>GD&T</td>
+        <td>geometric dimensioning and tolerancing</td>
+        <td>a symbolic language used on engineering drawings and computer generated  three-dimensional solid models (CAD) for explicitly describing nominal  geometry and its allowable variation.</td>
+      </tr>
+      <tr>
+        <td>GDB</td>
+        <td>GNU debugger </td>
+        <td>GNU debugger </td>
+      </tr>
+      <tr>
+        <td>GDI</td>
+        <td>Graphics Device Interface</td>
+        <td>GDI provides a common set of drawing routines (including both text and graphics). The GDI can be used to draw to most devices, such as screens, printers, plotters or bitmap images. Central to the GDI is the concept of a Device Context (DC) which is a handle to the specific device to be written to. </td>
+      </tr>
+      <tr>
+        <td>GDM</td>
+        <td> global <br />
+          delivery model </td>
+        <td>the model of applications 
+          testing services </td>
+      </tr>
+      <tr>
+        <td>GDP</td>
+        <td>Gateway Discovery Protocol</td>
+        <td>Gateway Discovery Protocol </td>
+      </tr>
+      <tr>
+        <td>GDPS</td>
+        <td>Geographically Dispersed Parallel Sysplex</td>
+        <td>An application that integrates Parallel Sysplex technology and remote  copy technology to enhance application availability and improve  disaster recovery.</td>
+      </tr>
+      <tr>
+        <td>GDS</td>
+        <td>Global data synchronization</td>
+        <td>consists of technology and applications used to <br />
+          receive, approve and manage product, price, forecast, promotion and contract data from 
+          suppliers via the GDSN, in support of standards from the 
+          Global Commerce Initiative. </td>
+      </tr>
+      <tr>
+        <td>GDSN</td>
+        <td>Global Data Synchronization Network</td>
+        <td>Global Data Synchronization Network</td>
+      </tr>
+      <tr>
+        <td>GDTs</td>
+        <td>Global data types</td>
+        <td>The enterprise service interface is defined based on standard<br />
+          data types, and GDTs are the basic data building blocks.</td>
+      </tr>
+      <tr>
+        <td>GEAR</td>
+        <td>Gigabyte Enhanced Agp Riser</td>
+        <td>Used to provide AGP support for PCI-E motherboards</td>
+      </tr>
+      <tr>
+        <td>GEDCOM</td>
+        <td>GEnealogical Data COMmunication</td>
+        <td>A common file format used to exchange  computerized genealogical data between different genealogy programs.</td>
+      </tr>
+      <tr>
+        <td>GEMMS</td>
+        <td>Global Enterprise Manufacturing Management System</td>
+        <td><strong> </strong>A process manufacturing product once offered by Datalogix (which was acquired by Oracle in 1997).</td>
+      </tr>
+      <tr>
+        <td>GEnie</td>
+        <td>General Electric Network for Information Exchange</td>
+        <td>An online service from GE Information Services, with news, sports,  business, computer technical support, games, software downloads,  reference services, chat, bulletin boards, email, and fax.</td>
+      </tr>
+      <tr>
+        <td>GEO / GEOS</td>
+        <td>Geo-Stationary Earth Orbit System</td>
+        <td>A system that communicates with satellites in geosynchronous orbit some 22,300 miles above the earth. </td>
+      </tr>
+      <tr>
+        <td>GEOS</td>
+        <td>graphic environment operating system </td>
+        <td>a lightweight  OS  with a GUI. It runs on several different processors, including the 65xx, the x86  and numerous different PDAs, embedded  devices, and hand-held machines.</td>
+      </tr>
+      <tr>
+        <td>GERAN</td>
+        <td>GSM(GPRS)/EDGE Radio Access Network</td>
+        <td>the 3GPP standards for GSM(GPRS)/EDGE radio access, which has been  specified to connect the A, Gb and Iu interfaces to the CN (Core  Network). The architecture allows two BSS (Base Station Subsystem) to  be connected to each other.</td>
+      </tr>
+      <tr>
+        <td><a href="gfortran.htm">gfortran</a></td>
+        <td><a href="gfortran.htm">GNU Fortran compiler</a></td>
+        <td>GNU Fortran compiler is part of the GNU compiler collection. <a href="http://gcc.gnu.org/fortran/" rel="nofollow">http://gcc.gnu.org/fortran/</a> </td>
+      </tr>
+      <tr>
+        <td>GFP</td>
+        <td>Generic Framing Procedure</td>
+        <td>a multiplexing technique defined by ITU-T G.7041. This allows mapping of variable length, higher-layer client signals over a transport network like SDH/SONET. </td>
+      </tr>
+      <tr>
+        <td>GFS</td>
+        <td>Grandfather, Father, Son</td>
+        <td>Backup methodology</td>
+      </tr>
+      <tr>
+        <td>GGP</td>
+        <td>Gateway-gateway protocol </td>
+        <td> protocol on the Internet.</td>
+      </tr>
+      <tr>
+        <td>GGSN</td>
+        <td>Gateway GPRS Support Node</td>
+        <td>a gateway from a cellular network to an IP network that allows mobile  cell phone users to access the public data network (PDN) or specified  private IP networks.</td>
+      </tr>
+      <tr>
+        <td>GHC</td>
+        <td>Glasgow Haskell Compiler</td>
+        <td>also known as Glorious Haskell Compiler, is an open source native code  compiler for the functional programming language Haskell which was  developed at the University of Glasgow.</td>
+      </tr>
+      <tr>
+        <td>Ghost</td>
+        <td>General Hardware-Oriented Software Transfer </td>
+        <td> a disk cloning program, originally produced by Binary Research, but purchased by Symantec in 1998. </td>
+      </tr>
+      <tr>
+        <td>GIAC</td>
+        <td>Global Information Assurance Certification</td>
+        <td>Certification programs designed to serve the people who are or will be responsible for managing and protecting important information systems and networks. See also<a href="http://www.giac.org/"> http://www.giac.org/</a></td>
+      </tr>
+      <tr>
+        <td>GiB / gib</td>
+        <td>gibibyte </td>
+        <td>1,073,741, 824 bytes. 1024 mebibytes.</td>
+      </tr>
+      <tr>
+        <td>GID</td>
+        <td>group identification number</td>
+        <td>A 4 byte, unsigned integer (GID) that is used to identify a group profile. </td>
+      </tr>
+      <tr>
+        <td>GIF</td>
+        <td>Graphic Interchange Format</td>
+        <td>A common format for image files, especially suitable for images  containing large areas of the same color. GIF format files of simple  images are often smaller than the same file would be if stored in <em>JPEG</em> format, but GIF format does not store photographic images as well as JPEG. </td>
+      </tr>
+      <tr>
+        <td>GIFT</td>
+        <td>GNU Image Finding Tool </td>
+        <td>a Content Based Image Retrieval System (CBIRS). The GIFT is based on  Viper, the result of a research effort at the Vision Group at the  computer science center of the University of Geneva. The GIFT is an  open framework for content-based image retrieval. It is designed to  accommodate new ways of querying the framework.</td>
+      </tr>
+      <tr>
+        <td>GIGO</td>
+        <td>Garbage In, Garbage Out.</td>
+        <td><p align="justify">It  means that if invalid data is entered in a computer program, the  resulting output will also be invalid. So if a program asked you to  enter a letter of the alphabet and you decided to be funny and enter  "3.14159", there's a good chance the results you would get back would  be pretty messed up, or "garbage." Because we computer users aren't  always smart enough to enter valid data, programmers have to take  extensive mesaures to prevent GIGO errors.
+          <!--  google_ad_client = "pub-0087137714961591";  google_alternate_ad_url = "http://www.sharpened.net/banner.html";  google_ad_width = 728;  google_ad_height = 90;  google_ad_format = "728x90_as";  google_ad_type = "text_image";  google_ad_channel ="9877348509";  google_color_border = "FFFFFF";  google_color_bg = "FFFFFF";  google_color_link = "0033FF";  google_color_text = "000000";  google_color_url = "0033FF";  //-->
+        </p></td>
+      </tr>
+      <tr>
+        <td>GIMP</td>
+        <td>Gnu Image Manipulation Program</td>
+        <td>Freely distributed piece of software suitable for such tasks as photo retouching, image composition and image authoring. See <a href="http://www.gimp.org">www.gimp.org</a></td>
+      </tr>
+      <tr>
+        <td>GINA</td>
+        <td>Graphical Identification and Authentication</td>
+        <td> the subsystem that handles the logon presentation to the user. The Microsoft GINA is represented by the logon screen that pops up on the PC when the user presses Ctrl+Alt+Delete.</td>
+      </tr>
+      <tr>
+        <td>GINI</td>
+        <td>Gateway Interface for Network Initialization</td>
+        <td>A process on large Enterprise systems to set up an entire network from another network.</td>
+      </tr>
+      <tr>
+        <td>GIOP</td>
+        <td>General Inter-ORB Protocol</td>
+        <td>A protocol that Common Object Request Broker Architecture (CORBA) uses to define the format of messages.</td>
+      </tr>
+      <tr>
+        <td>GIS</td>
+        <td><p>Geographical Information System</p></td>
+        <td><div align="justify">
+            <p>A computer application involving maps and the storage and manipulation of   data associated with them.</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>GIX</td>
+        <td>Global Internet eXchange</td>
+        <td>A routing exchange point that helps networks all over the world to connect to the Internet.</td>
+      </tr>
+      <tr>
+        <td>GKTMP</td>
+        <td>Gatekeeper Transaction Message Protocol</td>
+        <td>A proprietary  Cisco protocol used for communication between the Cisco IOS Gatekeeper and external applications.</td>
+      </tr>
+      <tr>
+        <td>GLA</td>
+        <td>Generic Log Adapter</td>
+        <td>A tool that allows generic data collection from multiple heterogeneous  data sources by converting individual records and events into the  Common Base Event format.</td>
+      </tr>
+      <tr>
+        <td>GLB / GLBA</td>
+        <td>Gramm-Leach-Bliley (Act)</td>
+        <td>covers the financial services industry, basically defining financial  institutions as depository institutions and their holding companies,  security firms and broker/dealers.</td>
+      </tr>
+      <tr>
+        <td>GLONASS</td>
+        <td>Global Navigational Satellite System</td>
+        <td>A satellite-based geographic-location system run by the Russian government.</td>
+      </tr>
+      <tr>
+        <td>GLPK</td>
+        <td>GNU Linear Programming Kit </td>
+        <td>a software package intended for solving large-scale linear programming  (LP), mixed integer programming (MIP), and other related problems.</td>
+      </tr>
+      <tr>
+        <td>GLUT</td>
+        <td>openGL Utility Toolkit</td>
+        <td> a window system independent toolkit for writing OpenGL programs. It implements a simple windowing <a href="glossary_a.htm">API</a> for OpenGL </td>
+      </tr>
+      <tr>
+        <td>GMA</td>
+        <td>Gmail Drive</td>
+        <td>A free shell namespace extension ("add-on") for Microsoft Windows  Explorer, makes it possible to create a new network share on the  workstation. In order to use this add-on, you need a Gmail account from  Google Gmail.</td>
+      </tr>
+      <tr>
+        <td>GMM</td>
+        <td>GPRS Mobility Management </td>
+        <td>a GPRS signaling protocol that handles mobility issues such as roaming, authentication, and selection of encryption algorithms. </td>
+      </tr>
+      <tr>
+        <td>GMR</td>
+        <td>Giant Magneto Resistance</td>
+        <td>A technology for a read/write head which uses thin film layers to get a  greater change in resistance, and is more sensitive than MR (Magneto  Resistance).</td>
+      </tr>
+      <tr>
+        <td>GMRP</td>
+        <td>Garp Multicast Registration Protocol</td>
+        <td>It allows a device to declare membership of a Layer 2 multicast group</td>
+      </tr>
+      <tr>
+        <td>GMRS</td>
+        <td>General Mobile Radio Service</td>
+        <td>GMRS has been transformed from the now antiquated Class  A section of the Citizens Radio Service to the personal radio service  available for conducting an individual's personal and family  communications. </td>
+      </tr>
+      <tr>
+        <td>GMS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> generalized main scheduling</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> General <a href="glossary_m.htm">MIDI</a> Standard</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong>Global Messaging Service </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Google Message Security</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A set of algorithms that allow the system programmer to tailor job  scheduling and selection to the specific needs of the installation.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A standard designation of specific instruments to specific MIDI patch  locations, so that a composition produced on one system will sound the  same when played on another</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Novell service.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Google services that protect your email from spam and viruses and set email policies to stay compliant. <a href="http://www.google.com/postini/">www.google.com/postini/ </a></p></td>
+      </tr>
+      <tr>
+        <td>GMSK</td>
+        <td>Gaussian Minimum Shift Keying</td>
+        <td>a modulation technique involving Gaussian filtering of the input data prior to its application to the phase modulator.</td>
+      </tr>
+      <tr>
+        <td>GMX</td>
+        <td>Global Mail eXchange, in Germany: Global Message eXchange</td>
+        <td>GMX Mail is a German-based free webmail service provided by GMX.<a href="http://www.gmx.com/">http://www.gmx.com/</a></td>
+      </tr>
+      <tr>
+        <td>GNAT</td>
+        <td>GNU NYU Ada Translator</td>
+        <td>the GNU Ada Compiler based on GNU Compiler Collection (GCC). The  front-end and runtime are written in Ada, and are licensed using the  General Public License.</td>
+      </tr>
+      <tr>
+        <td>GNN</td>
+        <td>Global Network Navigator</td>
+        <td>A collection of free services on the Internet, including The Whole Internet Catalog, the Internet Help Desk, and NetNews.</td>
+      </tr>
+      <tr>
+        <td>GNOME</td>
+        <td>GNU Network Object Model Environment</td>
+        <td>the most popular graphical desktop environment for Linux, based on the X WINDOW SYSTEM and similar in look and
+          feel to Windows 95 and 2000</td>
+      </tr>
+      <tr>
+        <td>GNSO</td>
+        <td>Generic Names Supporting Organization</td>
+        <td><p>ICANN <em>Supporting Organization</em> responsible for developing policy for the <a href="d">DNS</a></p>
+        <p><a href="http://gnso.icann.org">gnso.icann.org</a></p></td>
+      </tr>
+      <tr>
+        <td>GNU </td>
+        <td>GNU's not Unix</td>
+        <td>An ongoing project by the Free Software Foundation to create a free, freely   	distributable, set of UNIX like utilities.
+          <p>Relevant links:</p>
+          <ul>
+              <li><a href="http://www.gnu.org/">www.gnu.org</a></li>
+          </ul></td>
+      </tr>
+      <tr>
+        <td>GOCA</td>
+        <td>Graphic Object Content Architecture</td>
+        <td>An architecture that provides a collection of graphics values and  control structures used to interchange and present graphics data.</td>
+      </tr>
+      <tr>
+        <td>GOLC</td>
+        <td>Growth Opportunity License Charge</td>
+        <td><strong> </strong>An IBM software pricing program.</td>
+      </tr>
+      <tr>
+        <td>GOMS</td>
+        <td> Goals, Operators, Methods, and Selection rules</td>
+        <td>a kind of specialized human information processor model for human computer interaction observation. </td>
+      </tr>
+      <tr>
+        <td>GOPS</td>
+        <td>Giga (billion) Operations Per Second</td>
+        <td>A unit of measurement of computing speed.</td>
+      </tr>
+      <tr>
+        <td>GOS</td>
+        <td>Grade of Service</td>
+        <td>a measure of the success a subscriber is expected to have in accessing a network to complete a call. </td>
+      </tr>
+      <tr>
+        <td>GOSIP</td>
+        <td>Government OSI Profile</td>
+        <td>A standard issued by the National Institute of Standards and  Technology. GOSIP specifies the details of an interoperable <a href="glossary_o.htm">OSI</a> configuration for networking products  procured by the U.S. government.</td>
+      </tr>
+      <tr>
+        <td>GOW</td>
+        <td>Gears of War<p>
+God of War </td>
+        <td>Gears of War is a military science fiction third-person shooter video game developed by Epic Games and published by Microsoft Game Studios. <a href="http://www.gearsofwar.com/">http://www.gearsofwar.com/</a><p>
+God of War is an action adventure video game for the PlayStation 2 first released by Sony Computer Entertainment's Santa Monica division in March 2005. <a href="http://www.godofwar.com/">http://www.godofwar.com/</a></td>
+      </tr>
+      <tr>
+        <td>GPF</td>
+        <td>General Protection Fault</td>
+        <td>an error that arises in Microsoft Windows
+          when a program tries to access a location in memory that is not allocated
+          to it. GPFs are usually caused by programming errors such as uninitialized pointers.</td>
+      </tr>
+      <tr>
+        <td>GPL</td>
+        <td>General Public License</td>
+        <td>Normally taken to the mean the GNU GPL. A   	license statement from GNU, used on most of their   	software and on many free software packages from other sources.
+          <p><a href="http://www.gnu.org/copyleft/gpl.html"> www.gnu.org/copyleft/gpl.html</a> - Full text of the GNU General Public   		License.</p></td>
+      </tr>
+      <tr>
+        <td>GPIO</td>
+        <td>general-purpose I/O</td>
+        <td>Customizable input/output pins on a microcontroller. </td>
+      </tr>
+      <tr>
+        <td>GPO</td>
+        <td>Group Policy Object </td>
+        <td>In the Windows 2000 operating system, a GPO is a collection of settings that define what a system will look like and how it will behave for a defined group of users. Microsoft provides a program snap-in that allows you to use the Group Policy <a href="glossary_m.htm">MMC</a>. </td>
+      </tr>
+      <tr>
+        <td>GPRS</td>
+        <td><p>general packet radio service</p></td>
+        <td><p>GPRS is a packet-oriented overlay to GSM networks supporting connection- and  connectionless-oriented services and diverse quality-of-service  mechanisms. The theoretical maximum speed is 171.2 <a href="glossary_k.htm">Kbps</a>, but real-life user throughput is expected to be 56 Kbps or less.</p></td>
+      </tr>
+      <tr>
+        <td>GPS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="gps.htm">Global Positioning System</a></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> GNAT Programming Studio</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> a satellite navigation system used to determine ground position and  velocity (location, speed, and direction). Though it was created and  originally used by the U.S. military, GPS is now available to the  general public all over the world. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> a free multi-language IDE for GNU/Linux, MS Windows and Solaris/Sparc. GPS uses GTK+ as graphical user interface. </p></td>
+      </tr>
+      <tr>
+        <td>GPSL</td>
+        <td>General Purpose Scripting Language</td>
+        <td>General Purpose Scripting Language</td>
+      </tr>
+      <tr>
+        <td>GPSS</td>
+        <td>General Purpose Simulation System</td>
+        <td>A powerful general purpose simulator       which provides a wide range of capacities for discrete system modeling.</td>
+      </tr>
+      <tr>
+        <td>GPU</td>
+        <td>Graphics Processing Unit</td>
+        <td>Like the CPU (Central  Processing Unit), it is a single-chip processor. However, the GPU is  used primarily for computing 3D functions. </td>
+      </tr>
+      <tr>
+        <td>GPWW</td>
+        <td>group practice without walls</td>
+        <td><strong> </strong>An umbrella organization for a group of independent physician  practices that performs certain business operations, such as technology  procurement.</td>
+      </tr>
+      <tr>
+        <td>GRC</td>
+        <td>governance, risk and compliance</td>
+        <td>GRC reflects a new way in which organizations can adopt an integrated approach to these three areas. </td>
+      </tr>
+      <tr>
+        <td>GRCM</td>
+        <td>GRC management</td>
+        <td>the management, measurement and reporting of IT 
+          controls, and the distribution and attestation of policies, compliance reporting and risk 
+          assessment.</td>
+      </tr>
+      <tr>
+        <td>GRC.SQ</td>
+        <td>Governance, Risk Management, Compliance, Security, and Data Quality</td>
+        <td>used often by Data Governance and Data Quality  programs to acknowledge the interdependencies of these five disciplines  in managing data.</td>
+      </tr>
+      <tr>
+        <td>GRE</td>
+        <td>generic routing encapsulation</td>
+        <td>Tunneling protocol developed by Cisco that can  encapsulate a wide variety of protocol packet types inside IP tunnels,  creating a virtual point-to-point link to Cisco routers at remote  points over an IP internetwork.</td>
+      </tr>
+      <tr>
+        <td>grep</td>
+        <td>global-regular-expression-print</td>
+        <td> a UNIX utility that allows the user to search one
+          or more files for a specific string of text and outputs all  the lines that contain the string. </td>
+      </tr>
+      <tr>
+        <td>GROW</td>
+        <td>GNU Remote Operations                                                   Web</td>
+        <td>An architecture for building                                                   networked applications and services                                                   using WWW.</td>
+      </tr>
+      <tr>
+        <td>GRT</td>
+        <td>Granular Recovery Technology</td>
+        <td>a single-pass backup while maintaining full DR and 
+          individual email, folder or mailbox restores</td>
+      </tr>
+      <tr>
+        <td>GSAM</td>
+        <td>generalized sequential access method</td>
+        <td>A database access method that allows batch application programs to  access a sequential data set record that is defined as a database  record.</td>
+      </tr>
+      <tr>
+        <td>GSC</td>
+        <td>Gecko System Connect </td>
+        <td>a bus used in many of the HP 9000 workstations and servers. The GSC bus was 32-bit and reached 40MHz in its final iterations.</td>
+      </tr>
+      <tr>
+        <td>GSI</td>
+        <td>Gigascale Integration</td>
+        <td>Gigascale integration is a long-term goal of making chips with billions of components on them.</td>
+      </tr>
+      <tr>
+        <td>GSK</td>
+        <td>Global Security Kit</td>
+        <td>A toolkit for managing digital certificates used in implementing Secure Sockets Layer (SSL) security.</td>
+      </tr>
+      <tr>
+        <td>GSM</td>
+        <td><p>Global System for Mobile communication</p></td>
+        <td><p align="justify">Acronym  for the digital cellular radio system based on pan-European  specifications. Originally stood for Groupe Speciale Mobile, now Global  System for Mobile communication.</p></td>
+      </tr>
+      <tr>
+        <td>GSO</td>
+        <td>global sign-on </td>
+        <td>A flexible single sign-on solution that enables the user to provide  alternative user names and passwords to the back-end Web application  server.</td>
+      </tr>
+      <tr>
+        <td>GSR</td>
+        <td>Gigabit Switch Router</td>
+        <td>A family of router products from Cisco Systems.</td>
+      </tr>
+      <tr>
+        <td>GTL</td>
+        <td>Gunning Transceiver Logic</td>
+        <td>A low-power standard for electrical signals used in CMOS circuits which  allows for low electromagnetic interference at high speeds of transfer. </td>
+      </tr>
+      <tr>
+        <td>GTM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> global trade management</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Global Traffic Manager</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the processes and technologies used to support the unique logistical, regulatory, and fnancial aspects of the import and export 
+          processes. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> F5 product to perform  geography-based  datacenter  traffic  management </p></td>
+      </tr>
+      <tr>
+        <td>GTP</td>
+        <td>GPRS Tunneling Protocol </td>
+        <td>protocol used by the GPRS backbone network for packet switching. GTP is  a protocol defined on both the Gn and Gp interfaces between GSNs in a  GPRS network.</td>
+      </tr>
+      <tr>
+        <td>GTS</td>
+        <td>Generic Traffic Shaping</td>
+        <td> A mechanism to control the traffic flow on a particular interface.</td>
+      </tr>
+      <tr>
+        <td>GTT</td>
+        <td>Global Title Translation</td>
+        <td>GTT is a process                           that allows dialed digits to be translated into a network                           node address and an application address. The process is                           performed in the SS7 network by the STP.</td>
+      </tr>
+      <tr>
+        <td>GUA</td>
+        <td>graphical user authentication </td>
+        <td>A graphical password is an authentication system that works by having the user select from images, in a specific order, presented in a GUI.</td>
+      </tr>
+      <tr>
+        <td>GUI</td>
+        <td><p>Graphical User Interface </p></td>
+        <td><div align="justify">
+            <p>Pronounced  goo-ee. A pictorial 'front end' program to simplify the operation of  computers like the IBM PC and the Apple Macintosh. Documents are stored  in pictures ('icons') of drawers or filing cabinets (which represent  files or directories in disk drives).</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>GUID</td>
+        <td>Globally Unique  Identifier</td>
+        <td>a 128-bit number used by Microsoft
+          WINDOWS to identify a user, software component, or other entity. 
+          GUIDs are most often written as groups of hexadecimal digits in
+          braces.</td>
+      </tr>
+      <tr>
+        <td>GUTBN</td>
+        <td>Globally Unique Time Based Number</td>
+        <td>applies to a "code" that is unique in all the world. Globally unique time based numbers are globally unique identifiers (GUID) that you can create by yourself and that are registered for you.</td>
+      </tr>
+      <tr>
+        <td>GVN</td>
+        <td>Global value numbering</td>
+        <td>compiler optimization based on the SSA intermediate representation. It  sometimes helps eliminate redundant code that common subexpression  evaluation (CSE) does not.</td>
+      </tr>
+      <tr>
+        <td>GVPN</td>
+        <td>Global Virtual Network Service</td>
+        <td>Global Virtual Network Service is a multi-network international  service proposed by the <a href="glossary_i.htm">ITU</a>.  GVNS allows service providers to offer subscribing customers a service  with features and functionality similar to that of a private network  without requiring the customers to purchase and manage the networks.</td>
+      </tr>
+      <tr>
+        <td>GVRP</td>
+        <td>Generic <a href="glossary_v.htm">VLAN</a> Resolution Protocol</td>
+        <td>a GARP application that provides registration services in a VLAN context.</td>
+      </tr>
+      <tr>
+        <td>GVU</td>
+        <td>Graphic, Visualization, and Usability</td>
+        <td>Graphic, Visualization, and Usability</td>
+      </tr>
+      <tr>
+        <td>GWEN</td>
+        <td>Ground Wave Emergency Network </td>
+        <td>communications system that the US military constructs. It operates in a  very-low-frequency range, with transmissions between 150 and 175 kHz.</td>
+      </tr>
+      <tr>
+        <td>GWT</td>
+        <td>Google Web Toolkit</td>
+        <td>Open source Java software development framework that makes writing AJAX applications like Google Maps and Gmail easy for developers who don't speak browser quirks as a second language</td>
+      </tr>
+      <tr>
+        <td>GXA</td>
+        <td>Global XML Web Services Architecture</td>
+        <td>an announcement by Microsoft in 2002 of several proposals for extensions  to SOAP. Some of the components of GXA were developed into standards in  combination with other companies, including IBM.</td>
+      </tr>
+      <tr>
+        <td>GXS</td>
+        <td>Global <br />
+          eXchange Services</td>
+        <td>delivers global B2B e-commerce integration solutions <a href="http://www.gxs.com">www.gxs.com</a></td>
+      </tr>
+      <tr>
+        <td>gzip</td>
+        <td>GNU zip</td>
+        <td>a GNU free software file compression program. It was created by  Jean-loup Gailly and Mark Adler. gzip is based on the DEFLATE  algorithm, which is a combination of LZ77 and Huffman coding.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>G.7xx</td>
+        <td>A series of <a href="glossary_i.htm">ITU</a> standards for voice and data communications. e.g. G.703: Specifications for plesiochronous digital hierarchy</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>gain</td>
+        <td>Gain refers to the ratio of the output amplitude of a signal to the  input amplitude of a signal. This ratio typically is expressed in dBs.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>gamma</td>
+        <td>The curve that describes how the middle tones of your images appear. Often incorrectly referred to as "brightness" and/or "contrast", gamma is a non-linear function. Changing the value of the gamma affects middle tones while leaving the white and black of the image alone. Used to compensate for differences between Macintosh and PC monitors.
+</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>gateway</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A hardware or software set-up that translates between two dissimilar  protocols</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A link from one computer system to a different computer system. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Gesture Recognition</td>
+        <td>involves determining the movement of a user's fingers, hands, 
+          arms, head or body in three dimensions through the use of a camera; or via a device with 
+          embedded sensors that may be worn, held or body-mounted. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Ghost site </td>
+        <td>a Web site that remains live but is no longer updated or maintained or  only done so very infrequently.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Go Daddy</td>
+        <td>Go Daddy is an Internet domain registrar and Web hosting company that also sells e-business related software and services. <a href="http://www.godaddy.com/">http://www.godaddy.com/</a></td>
+      </tr>   
+   <tr>
+        <td> </td>
+        <td>googling</td>
+        <td>searching through the <a href="http://google.com">Google</a> search engine</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Googol</td>
+        <td>1 googol = 10 raised to the power 100. The number was named in 1983 by Milton Sirotta after his uncle (the mathematician   	Edward Kasner) asked him to think up a name for the number. 
+          The search engine <a href="http://www.google.com">Google</a> is rumoured to be named as a play on the word Googol.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Gopher</td>
+        <td>A consistent user interface and gateway into many on-line white pages and other address databases.
+</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>green IT</td>
+        <td>Technology assets, services, and operational best practices that allow  organizations to reduce harmful environmental impacts while at the same  time achieving their financial and risk imperatives within and outside  of IT.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Grid computing</td>
+        <td>applying the resources of many computers in a  network to a single problem at the same time - usually to a scientific  or technical problem that requires a great number of computer  processing cycles or access to large amounts of data. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>groupware</td>
+        <td><dl>
+            <dt>Software tools and technology to support groups of people working together on a project, often at different sites</dt>
+        </dl></td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.68194818497 -->
+</html>

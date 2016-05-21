@@ -1,0 +1,1837 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - L for Linux</title>
+<meta name="keywords" content="link, line, la, layer, lan, latency, lion, lbs, ldap, lu, linkedin, login, last, live, lun, life, light, library">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page167" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm779" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable on"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-l">L</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >L</h1><div class="marker" ></div>
+<div id="pm649" class="tile  m1242 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>L for Linux</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm744" class="tile  m1461 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">Abbreviation / acronyms</th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>l10n</td>
+        <td>localization</td>
+        <td>There are ten letters between the    "l" and the "n"</td>
+      </tr>
+      <tr>
+        <td>L1 / L2 cache</td>
+        <td>level-1/2 cache</td>
+        <td>L1:  the memory cache that is closest to the <a href="c">CPU</a> or
+          included within it. L2: a memory cache outside the CPU</td>
+      </tr>
+      <tr>
+        <td>L2CAP</td>
+        <td>Logical Link and Control Adaptation                                                   Protocol</td>
+        <td>a Bluetooth Specific                                                   Protocol</td>
+      </tr>
+      <tr>
+        <td>L2F</td>
+        <td>Layer 2 Forwarding</td>
+        <td>a tunneling protocol from <a href="http://cisco.com">Cisco Systems</a>. <a href="l">L2F</a> has been submitted to the IETF for approval as a standard. </td>
+      </tr>
+      <tr>
+        <td>L2S</td>
+        <td>Layer 2 Switch</td>
+        <td>Layer 2 Switch</td>
+      </tr>
+      <tr>
+        <td>L2TP</td>
+        <td>Layer 2 Tunneling Protocol</td>
+        <td>A protocol that combines the features of Microsoft's <a href="glossary_p.htm">PPTP</a> and Cisco Systems' <a href="glossary_l.htm">L2F</a> to support multiprotocol or private-address IP  traffic across a public IP network. L2TP is a mature Internet  Engineering Task Force standard that has been widely implemented.</td>
+      </tr>
+      <tr>
+        <td>L3F</td>
+        <td>Layer 3 Forwarding</td>
+        <td>a tunneling protocol from <a href="http://cisco.com">Cisco Systems</a>. L3F has been submitted to the <a href="glossary_i.htm">IETF</a> for approval as a standard.</td>
+      </tr>
+      <tr>
+        <td>L3S</td>
+        <td>Layer 3 Switch</td>
+        <td>Layer 3 Switch</td>
+      </tr>
+      <tr>
+        <td>L3TP</td>
+        <td>Layer Three Tunneling Protocol</td>
+        <td>an extension to the PPP protocol that enables ISPs to operate VPNs. L3TP merges the best features of three other tunneling protocols</td>
+      </tr>
+      <tr>
+        <td>LA</td>
+        <td>Load Address</td>
+        <td>LA is an IBM term</td>
+      </tr>
+      <tr>
+        <td>LAC</td>
+        <td>L2tp Access Concentrator</td>
+        <td>Device attached to the switched network or located on an end system supporting L2TP to pass <a href="p">PPP</a> traffic</td>
+      </tr>
+      <tr>
+        <td>LACNIC</td>
+        <td>Latin American and Caribbean Internet Addresses Registry</td>
+        <td>one of four regional Internet registries that supply and administer IP addresses. </td>
+      </tr>
+      <tr>
+        <td>LACP</td>
+        <td>Link Aggregation Control Protocol</td>
+        <td>Part of an <a href="glossary_i.htm">IEEE</a> specification (802.3ad) that allows to 
+          bundle several physical ports together to form a single 
+          logical channel </td>
+      </tr>
+      <tr>
+        <td>LADDR</td>
+        <td>Layered Device Driver</td>
+        <td>s SCSI device driver architecture used in early versions of OS/2.</td>
+      </tr>
+      <tr>
+        <td>LAI</td>
+        <td>Location Area Identity </td>
+        <td>the information carried in the <a href="glossary_s.htm">SIM</a> of <a href="glossary_g.htm">GSM</a> handsets that identify the  subscriber's home area. This is used for billing and sub-net operation  purposes.</td>
+      </tr>
+      <tr>
+        <td>LAIPE</td>
+        <td>Link And In Parallel Execute</td>
+        <td> a high-performance package for scientific and engineering computing, programmed in MTASK.<br />
+            <em><a href="http://www.equation.com/">http://www.equation.com/</a></em></td>
+      </tr>
+      <tr>
+        <td>LAMP</td>
+        <td>Linux, Apache, MySQL and PHP</td>
+        <td>Also defined as Linux, Apache, MySQL and  		Pythor or Perl. The term LAMP is used to describe a web based solution produced using PHP  (scripting), MySQL (database), Apache (web-server) under Linux (operating system), each of which are free to download. It therefore describes a website using free off-the-shelf components.</td>
+      </tr>
+      <tr>
+        <td>LAN</td>
+        <td>Local Area Network</td>
+        <td><div align="justify">A  network of interconnected workstations sharing the resources of a  single processor or server within a relatively small geographic area.  Typically, this might be within the area of a small office building.</div></td>
+      </tr>
+      <tr>
+        <td>LANE</td>
+        <td>Local Area Network Emulation</td>
+        <td>A set of services and protocols that provide for the 
+          emulation of LANs, using <a href="glossary_a.htm">ATM</a> as a backbone to allow 
+          connectivity among LAN and ATM attached end stations </td>
+      </tr>
+      <tr>
+        <td>LAPD</td>
+        <td>Link Access Procedures on the D channel</td>
+        <td>specified in ITU-T Q.920 and ITU-T Q.921, is the second layer protocol on the ISDN protocol stack in the D channel.</td>
+      </tr>
+      <tr>
+        <td>LAS</td>
+        <td>logical application structure</td>
+        <td>A structure of the application to be deployed that is made up of software  definitions.</td>
+      </tr>
+      <tr>
+        <td>laser</td>
+        <td>light amplification by stimulated emission of radiation</td>
+        <td>Analog transmission device in which a suitable  active material is excited by an external stimulus to produce a narrow  beam of coherent light that can be modulated into pulses to carry data.  Networks based on laser technology are sometimes run over <a href="glossary_s.htm">SONET</a>. </td>
+      </tr>
+      <tr>
+        <td>LASINT</td>
+        <td>laser intelligence</td>
+        <td><span id="lblDefinition">Technical and geolocation intelligence derived from laser systems; a subcategory of electro-optical intelligence.</span></td>
+      </tr>
+      <tr>
+        <td>LAT</td>
+        <td>Local Address Table</td>
+        <td>A table containing the IP address range that is inside a firewalled network </td>
+      </tr>
+      <tr>
+        <td>LATA</td>
+        <td>Local Access and Transport Area</td>
+        <td>Denotes                           a geographical area established for the provision and                           administration of communications service. It encompasses                           one or more designated exchanges, which are grouped to                           serve common social, economic, and other purposes.</td>
+      </tr>
+      <tr>
+        <td>LBA</td>
+        <td>Logical Block Addressing</td>
+        <td>a method of accessing hard disk drives. It allows IDE disks larger than  504 megabytes (1024 cylinders) in size to be fully partitioned using  the MS-DOS fdisk command.</td>
+      </tr>
+      <tr>
+        <td>LBAC</td>
+        <td>label-based access control</td>
+        <td>A security mechanism that uses security labels to restrict user access to  individual table rows and columns.</td>
+      </tr>
+      <tr>
+        <td>LBS</td>
+        <td>Location-based service</td>
+        <td>Services or applications that center around a user’s location in a  mobile environment. Services include finder applications that let mobile phone users locate  friends or family, businesses or landmarks.</td>
+      </tr>
+      <tr>
+        <td>LBG</td>
+        <td>load balancing group</td>
+        <td>A grouping  of Fast Path input messages that are ready for  balanced processing by one  or more copies of a Fast Path program. </td>
+      </tr>
+      <tr>
+        <td>LBO</td>
+        <td>line buildout</td>
+        <td> Abbreviation for line buildout. Synonym building out.</td>
+      </tr>
+      <tr>
+        <td>LCC / LLCC</td>
+        <td> Leaded Chip Carrier / Leadless Chip Carrier</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A square chip package with pin connectors on each side.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a type of packaging for integrated circuits which has no "leads", but  instead rounded pins through the edges of the ceramic package.</p></td>
+      </tr>
+      <tr>
+        <td>LCC</td>
+        <td>Limited combustible cable</td>
+        <td>also called CMP-50 cable, is fire-resistant  cable with insulation made of a synthetic material called fluorinated  ethylene propylene (FEP).</td>
+      </tr>
+      <tr>
+        <td>LCD</td>
+        <td>liquid crystal display</td>
+        <td>A low-powered, flat-panel display technology. LCD displays create  images using liquid crystal molecules controlled by an electrical field.</td>
+      </tr>
+      <tr>
+        <td>LCI</td>
+        <td>local component installer</td>
+        <td>In IBM Tivoli Kernel Services, the component that pulls and runs native code,  shared libraries, and installation scripts that are needed for deploying components.</td>
+      </tr>
+      <tr>
+        <td>LCM</td>
+        <td>Life Cycle Management</td>
+        <td>the management of                    the entire life of a program                     including the three typical phases: transition, transformation & end-state </td>
+      </tr>
+      <tr>
+        <td>LCN</td>
+        <td>local communication network</td>
+        <td><span id="lblDefinition6">A communication network within  a TMN (telecommunications management network) that supports data  communication functions (DCFs) normally at reference points  q1 and q2. </span></td>
+      </tr>
+      <tr>
+        <td>LCO</td>
+        <td><p>language context object</p></td>
+        <td><p> A context server object that mediates the routing of inbound customer  interactions as well as the supply of outbound responses in a  language-appropriate manner.</p></td>
+      </tr>
+      <tr>
+        <td>LCOS</td>
+        <td>Liquid Crystal On Silicon</td>
+        <td>TV technology for flat screen displays; a technology  that most major technology and equipment manufacturers have shunned  after experimentation.</td>
+      </tr>
+      <tr>
+        <td>LCP</td>
+        <td>Link Control Protocol</td>
+        <td>Part of the <a href="glossary_p.htm">PPP</a> to establish, configure, and test data link connections</td>
+      </tr>
+      <tr>
+        <td>LCR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> least cost routing </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Lifetime Clinical Record</p>
+          <p> <strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Line Concentration Ratio</p>
+          <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Local Continuous Replication</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Method for automatic selection of the least costly          facility for transmission of a call. Synonyms: Most Economical Route Selection (MERS);          Route Optimization; Automatic Route Selection; Flexible Route Selection. </p>
+            <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A computer-based patient record system from Siemens Medical  Solutions Health Services. LCR provides a longitudinal view of  patients' lifetime clinical histories.</p>
+          <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A CO (Central Office) design and engineering   term for the optimization of system capacity through the classic act of   balancing cost and performance. </p>
+          <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Microsoft Exchange's ability to replicate 
+            locally between two disk volumes</p></td>
+      </tr>
+      <tr>
+        <td>LCS</td>
+        <td><p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Liquid Cooling System </p>
+            <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Live <br />
+              Communications Server</p></td>
+        <td><p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a type of cooling system in a computer, which consists of one or more  water blocks, a pump, a radiator, one or more fans, tubing, cooling  liquid, and may also include a reservoir and fittings.</p>
+            <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Microsoft collaboration infrastructure </p></td>
+      </tr>
+      <tr>
+        <td>LD</td>
+        <td>Laser Disc</td>
+        <td>An optical disc which stores information that can be read by a laser  beam. Laser discs can be used to store data, but are usually used for  video and audio together. Laser discs come in 8" and 12" diameters.</td>
+      </tr>
+      <tr>
+        <td>LDA</td>
+        <td> Local delivery agent</td>
+        <td>A mail service agent that transfers mail messages from 
+          incoming mail storage to the email recipient’s inbox. </td>
+      </tr>
+      <tr>
+        <td>LDAP</td>
+        <td>Lightweight Directory Access Protocol</td>
+        <td><div align="justify">If  you want to make directory information available over the Internet,  this is the way to do it. LDAP is a streamlined version of an earlier  directory standard called X.500. What makes LDAP so useful is that it  works great over <a href="glossary_t.htm">TCP/IP</a> networks, so information can be  accessed through LDAP by anyone with an Internet connection.</div></td>
+      </tr>
+      <tr>
+        <td>LDCM</td>
+        <td>LANDesk Client Manager</td>
+        <td>developed by Intel, is a management tool that constantly monitors networked personal computers and workstations for hardware problems. </td>
+      </tr>
+      <tr>
+        <td>LDIF</td>
+        <td>LDAP Data Interchange Format</td>
+        <td>a file format that is widely used for building a database of  directories that are stored on multiple servers, for adding large  numbers of directories to a directory database, and for synchronizing  the contents of those directories. The servers on which the directories  are stored must support the LDAP protocol.</td>
+      </tr>
+      <tr>
+        <td>LDM</td>
+        <td>limited distance modem</td>
+        <td>limited distance modem</td>
+      </tr>
+      <tr>
+        <td>LDP</td>
+        <td>Label Distribution Protocol</td>
+        <td>A fundamental concept in <a href="glossary_m.htm">MPLS</a> is that two Label Switching Routers must agree on the meaning of the labels used to forward traffic between and through them</td>
+      </tr>
+      <tr>
+        <td>LDPC</td>
+        <td>low-density parity-check code</td>
+        <td> an error-correcting code and a method of transmitting a message over a noisy transmission channel. </td>
+      </tr>
+      <tr>
+        <td>LDR</td>
+        <td>Light Dependent Resistor</td>
+        <td>This is a special type of resistor and is sometimes called a photoconductor. LDRs are made so that their resistance decreases as the level of light falling on them increases.</td>
+      </tr>
+      <tr>
+        <td>LDS</td>
+        <td>logical data stream</td>
+        <td>In bidirectional  text representation, a stream of data that is organized in a readable sequence. </td>
+      </tr>
+      <tr>
+        <td>LDT</td>
+        <td>Lightning Data Transfer (Bus)</td>
+        <td>An interconnection standard introduced by AMD that allows for fast data  transfers among the Northbridge part of a chipset, the <a href="glossary_p.htm">PCI</a> bus(es), and  the Southbridge part.</td>
+      </tr>
+      <tr>
+        <td>LEAP</td>
+        <td>Lightweight Extensible Authentication Protocol </td>
+        <td>also known as <a href="http://cisco.com">Cisco</a>-Wireless EAP, is a Cisco security technology that builds on Wi-Fi's WEP encryption.</td>
+      </tr>
+      <tr>
+        <td>LED</td>
+        <td>light-emitting diode</td>
+        <td>A semiconductor that produces light when activated.</td>
+      </tr>
+      <tr>
+        <td>LEED</td>
+        <td>Leadership in Energy and Environmental Design</td>
+        <td>LEED) consists of a suite of rating systems for the design, construction and operation of high performance.</td>
+      </tr>
+      <tr>
+        <td>LEL</td>
+        <td>Link, Embed and Launch-to-edit</td>
+        <td>Lotus term</td>
+      </tr>
+      <tr>
+        <td>LEO</td>
+        <td>Low Earth Orbit </td>
+        <td> the orbit between 700 and 2,000 kilometers above the Earth for Mobile communications satellite.</td>
+      </tr>
+      <tr>
+        <td>LER</td>
+        <td>Label Edge Router</td>
+        <td>Converts IP packets into <a href="glossary_m.htm">MPLS</a> packets, and MPLS packets into IP  packets. On the ingress side, the LER examines the incoming packet to  determine whether the packet should be labeled.</td>
+      </tr>
+      <tr>
+        <td>LF</td>
+        <td> Line Feed</td>
+        <td>Feeding the paper through the printer just far enough to print the next  line. Also, a button or computer instruction that activates a line feed</td>
+      </tr>
+      <tr>
+        <td>LFB</td>
+        <td><span id="lblWord2">look-ahead-for-busy</span></td>
+        <td><span id="lblDefinition9">Information concerning network resources available to support higher precedence calls. </span></td>
+      </tr>
+      <tr>
+        <td>LFS</td>
+        <td>Linux From Scratch</td>
+        <td>Project that provides you with the steps necessary to build 
+          your own custom Linux system</td>
+      </tr>
+      <tr>
+        <td>LGA</td>
+        <td>Land Grid Aray</td>
+        <td>also known as socket T,means that the pins are on the Motherboard, not the Processor. The Prescott is using the LGA 775 socket. </td>
+      </tr>
+      <tr>
+        <td>LGPL</td>
+        <td>Lesser General Public License (GNU)</td>
+        <td>An evolution of the Library GNU</td>
+      </tr>
+      <tr>
+        <td>LID</td>
+        <td>local identifier</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In distributed  relational database, an identifier or short label that is mapped by the environmental  descriptors to a named resource.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A 1-byte identifier assigned  to parts of the data stream to facilitate PSF processing.</p></td>
+      </tr>
+      <tr>
+        <td>LIDE</td>
+        <td>Light emitting diode In-Direct Exposure</td>
+        <td>Scanner technology by <a href="http://canon.com">Canon</a></td>
+      </tr>
+      <tr>
+        <td>LIFO</td>
+        <td>last in, first out</td>
+        <td>A type of message queuing that puts the last message received first in line.</td>
+      </tr>
+      <tr>
+        <td>LINAC</td>
+        <td>Linear Accelerator</td>
+        <td>a particle accelerator commonly used for external beam radiation  treatments of cancer patients. LINAc uses microwave technology to  accelerate charged particles.</td>
+      </tr>
+      <tr>
+        <td>Lion / Li-ion</td>
+        <td>Lithium-ion</td>
+        <td>a type of rechargeable battery widely used in portable
+          computers.</td>
+      </tr>
+      <tr>
+        <td>LION</td>
+        <td>Lower Indian Ocean Network</td>
+        <td>LION cable system</td>
+      </tr>
+      <tr>
+        <td>LIP</td>
+        <td> Loop Initialization Process</td>
+        <td>The process by which a Fibre Channel arbitrated loop 
+          network initializes when started up, or recovers after a failure occurs or a new device 
+          appears on the network.</td>
+      </tr>
+      <tr>
+        <td>LIPS</td>
+        <td>Logical Inferences Per Second</td>
+        <td>In artificial intelligence, the speed at which an application can process instructions. The human brain works at about 2 LIPS.</td>
+      </tr>
+      <tr>
+        <td>LIS</td>
+        <td>Laboratory information system</td>
+        <td>a class of software which handles storing information generated by  laboratory processes. These systems often must interface with  instruments and other information systems such as HIS.</td>
+      </tr>
+      <tr>
+        <td>Lisp</td>
+        <td>List Processor or List Processing</td>
+        <td>A programming language developed at MIT in the 1950s by John McCarthy. </td>
+      </tr>
+      <tr>
+        <td>LKM</td>
+        <td>Loadable Kernel Modules</td>
+        <td> allow for the adding of additional functionality directly into the kernel while the system is running.</td>
+      </tr>
+      <tr>
+        <td><a href="local_loop.htm">LL</a></td>
+        <td><a href="local_loop.htm">local loop</a></td>
+        <td>A generic term for the connection between the customer’s  premises (home, office, etc.) and the provider’s serving central office </td>
+      </tr>
+      <tr>
+        <td>LLC</td>
+        <td>Logical Link Control</td>
+        <td><a href="glossary_i.htm">IEEE</a> 802.2 LAN protocol that specifies an implementation of the LLC sublayer of the data link layer. </td>
+      </tr>
+      <tr>
+        <td>LLDP</td>
+        <td>Link Layer Discovery Protocol</td>
+        <td>LLDP<strong></strong> is a vendor-neutral Layer 2 protocol that allows a network  device to advertise its identity and capabilities on the local network.</td>
+      </tr>
+      <tr>
+        <td>LLDP-MED </td>
+        <td>Link Layer Discovery Protocol-Media Endpoint Discovery</td>
+        <td>LLDP-MED is an enhancement to the LLDP that is designed to allow auto-discovery of LAN policies</td>
+      </tr>
+      <tr>
+        <td>LLI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Low Latency Interrupts </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Lower Layer Interface</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> allows latency-sensitive packets to be processed 
+          with the lowest latency. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Part of layer 7 with PROFIBUS, in which layer 7 services         are mapped onto layer 2 services</p></td>
+      </tr>
+      <tr>
+        <td>LLTD</td>
+        <td>Link Layer Topology Discovery</td>
+        <td><strong> </strong>A feature that helps users to troubleshoot their networks. LLTD   	automatically detects multiple network devices and gives a graphical   	presentation of the connected hardware to identify configuration errors.</td>
+      </tr>
+      <tr>
+        <td><a href="local_loop.htm">LLU</a></td>
+        <td><p><a href="local_loop.htm">local loop unbundling</a></p></td>
+        <td><div align="justify">LLU is the process of allowing competitive telecommunications              operators to   use the twisted-pair telephone connections from the incumbent   telephone              exchange's central office to the customer premises. This local loop   is owned by the ILEC.</div></td>
+      </tr>
+      <tr>
+        <td>LMA</td>
+        <td>Lightspeed Memory Architecture</td>
+        <td><a href="http://nvidia.com">nVidia</a> term</td>
+      </tr>
+      <tr>
+        <td>LMDS</td>
+        <td>Local Multipoint Distribution Services</td>
+        <td>This is a fixed point (non-mobile) wireless technology that operates in the 28 GHz band and offers line of sight coverage over distances up to 5 kilometers. It can deliver data and telephony services to 80,000 customers from a single node.</td>
+      </tr>
+      <tr>
+        <td>LMP</td>
+        <td>Link Manager Protocol </td>
+        <td>a data link layer protocol in the Bluetooth protocol stack. LMP carries  out link setup, authentication, link configuration and other protocols. </td>
+      </tr>
+      <tr>
+        <td>LMPP</td>
+        <td>Lighttpd/MySQL/PHP/Python</td>
+        <td>A web application stack based upon lighttpd, MySQL, , and/or  (compare to LAMP).</td>
+      </tr>
+      <tr>
+        <td>LMS</td>
+        <td>Learning Management System</td>
+        <td>a software package, that enables the management and delivery of  learning content and resources to students. Most LMS systems are  web-based to facilitate "anytime, anywhere" access to learning content  and administration.</td>
+      </tr>
+      <tr>
+        <td>LNA</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet" /> launch numerical aperture</p>
+            <p><img src="images/connet_ball.JPG" alt="connet" /> Low Noise Amplifier</p></td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet" /> <span id="lblDefinition2">The numerical aperture of an optical system used to couple (launch) power into an optical fiber.</span></p>
+            <p><img src="images/connet_ball.JPG" alt="connet" /> a receiving preamplifier having very low internal noise characteristics  placed very near the antenna of a receiver to capture the C/N before it  can be further degraded by noise in the receiving system.</p></td>
+      </tr>
+      <tr>
+        <td>LNIB</td>
+        <td>like new, in box</td>
+        <td>slightly used but supplied
+          with original packaging</td>
+      </tr>
+      <tr>
+        <td>LNO</td>
+        <td>Loop Nest Optimization</td>
+        <td>a special case of loop transformation which deals with nested loops  that makes possible large reductions in the cache bandwidth necessary  for some pervasive algorithms.</td>
+      </tr>
+      <tr>
+        <td>LNP</td>
+        <td>Local Number Portability</td>
+        <td>Subscribers'  ability to switch local or wireless carriers and still retain the same phone  number, as is possible now with long-distance carriers.</td>
+      </tr>
+      <tr>
+        <td>LNS</td>
+        <td>L2tp Network Server</td>
+        <td>Maintains L2TP sessions with whatever is connected to the LAC</td>
+      </tr>
+      <tr>
+        <td>LOB</td>
+        <td>large object</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet" /> A sequence of  bytes with a size ranging from 0 bytes to 2 gigabytes less 1 byte.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet" /> A data type used by databases for large objects.</p></td>
+      </tr>
+      <tr>
+        <td>LOB</td>
+        <td>Line-of-Business </td>
+        <td>Used to refer to a business critical   	application, i.e. an application that is essential to the trading or   	survival of a business.
+          Normally written as "LOB app" or "LOB application".</td>
+      </tr>
+      <tr>
+        <td>LOC</td>
+        <td>Lines of Code</td>
+        <td>A measure of the size of a program.</td>
+      </tr>
+      <tr>
+        <td>LOCK</td>
+        <td>local object creator and killer </td>
+        <td>In IBM Tivoli Kernel Services, the component that starts, monitors, stops,  and restarts an ORB.</td>
+      </tr>
+      <tr>
+        <td>LODA</td>
+        <td>Lombardi On-Demand Assistance</td>
+        <td>IBM Websphere On-Demand Delivery</td>
+      </tr>
+      <tr>
+        <td>LOFS</td>
+        <td>LOopback File System</td>
+        <td>A file system type that lets the user create a new virtual file system. The user can access files using an alternative path name </td>
+      </tr>
+      <tr>
+        <td>LOM</td>
+        <td>LAN On Motherboard</td>
+        <td>This is a network device that is built onto the motherboard (or baseboard) of the machine</td>
+      </tr>
+      <tr>
+        <td>Loran</td>
+        <td>long-range radio navigation</td>
+        <td><span id="lblDefinition10">A long-range radio navigation  position-fixing system consisting of an array of fixed stations that  transmit precisely synchronized signals to mobile receivers. </span></td>
+      </tr>
+      <tr>
+        <td>LOS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Line of Sight </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Loss of signal </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> describes an unobstructed radio path or link between the transmitting and receiving antennas of a communications system. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a condition where the received signal drops below threshold due to a  terrain obstruction or other phenomenon increasing the link budget loss  beyond design parameters.</p></td>
+      </tr>
+      <tr>
+        <td>LPA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Linear Power Amplifier</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> link pack area </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The final amplification stage in a multicarrier transmitter that has been designed and optimized to produce a linear response. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The portion  of virtual storage below 16MB that contains frequently used modules. </p></td>
+      </tr>
+      <tr>
+        <td>LPAR / LP</td>
+        <td>logical partition</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A set  of key or RID pairs in a nonpartitioning index that is associated with a particular  partition.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> One or more subsets of a single system that contains  hardware resources and operates as an independent system.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In a partitioned database environment, a database  partition server on a processor that has more than one database partition  server assigned to it.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A subset of the processor hardware that  is defined to support an operating system.</p></td>
+      </tr>
+      <tr>
+        <td>LPB</td>
+        <td>Low Ping Bastard</td>
+        <td>Network multiplayer games attribute</td>
+      </tr>
+      <tr>
+        <td>LPC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Linear Predictive Coding</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Local Procedure Call</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a speech encoding scheme that uses periodic pulses to excite a filter, similar to the way human voice is produced.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A mechanism that loops remote                                                   procedure call without the presence                                                   of a network so that the client                                                   and server portion of an application                                                   can reside on the same machine.</p></td>
+      </tr>
+      <tr>
+        <td>LPD</td>
+        <td>line printer daemon</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The receiving  portion, or target, of a file transfer that receives the spooled file that  was sent and places the file on a local output queue. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The printer server that allows other  hosts to access its printer.</p></td>
+      </tr>
+      <tr>
+        <td>LPDA</td>
+        <td>Link Problem Determination Aid</td>
+        <td>A series of procedures used by products to test modem or other <a href="glossary_d.htm">DCE</a> operations, and to provide information  about the DCE and the data link.</td>
+      </tr>
+      <tr>
+        <td>LPF</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> League for Programming Freedom</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Low-Pass Filter</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A nonprofit organization dedicated to "bringing back the freedom of  programmers to write programs," in the face of the recent trend toward  complicated copyright and patent lawsuits. <a href="http://www.lpf.org/">http://www.lpf.org/</a></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A signal filter which would be installed in a customer premises ADSL modem (ATU-R), which would not modify the low frequencies present in its input signal</p></td>
+      </tr>
+      <tr>
+        <td>LPFM</td>
+        <td><span id="lblWord3">low-power FM radio </span></td>
+        <td><span id="lblDefinition11">A broadcast service that  permits the licensing of 50- to 100-watt FM radio stations within a  service radius of up to 3.5 miles and 1- to 10-watt FM radio stations  within a service radius of 1 to 2 miles.</span></td>
+      </tr>
+      <tr>
+        <td>LPI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> lines per  inch</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Linux Professional Insitute</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a measure of the resolution of a halftone screen</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Serves the community of Linux and open source software users vendors and developers, in the interest of increasing and supporting professional use of such software throughout world. See also <a href="http://www.lpi.org/">http://www.lpi.org/ </a></p></td>
+      </tr>
+      <tr>
+        <td>LPP</td>
+        <td> Land Pre-Pits</td>
+        <td>Addressing aid in writing <a href="glossary_d.htm">DVD-R </a></td>
+      </tr>
+      <tr>
+        <td>LPPL</td>
+        <td>Latex Project Public License</td>
+        <td><a href="http://www.latex-project.org">http://www.latex-project.org</a></td>
+      </tr>
+      <tr>
+        <td>LPR</td>
+        <td>line printer requester</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The  sending portion, or client portion, of a spooled file transfer. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A client that lets the local host submit a file for printing  on a remote printer server.</p></td>
+      </tr>
+      <tr>
+        <td>LPT</td>
+        <td> line print terminal </td>
+        <td>The designation for a parallel connection to a printer or other parallel device. </td>
+      </tr>
+      <tr>
+        <td>LPTV</td>
+        <td><span id="lblWord4">low-power television </span></td>
+        <td><span id="lblDefinition12">A broadcast service that  permits program broadcasting via television translators operating with  low power. LPTV service includes the existing translator service and  operates on a secondary basis to regular television stations. </span></td>
+      </tr>
+      <tr>
+        <td>LPWA</td>
+        <td>Lucent Personalized Web Assistant</td>
+        <td>Anonymous web browsing service</td>
+      </tr>
+      <tr>
+        <td>LPX</td>
+        <td>Low Profile eXtension / Extended</td>
+        <td>a motherboard form factor used for low-profile computer cases. LPX  boards use a riser card arrangement for expansion cards, which means  that installed expansion cards are parallel to the motherboard instead  of perpendicular to it.</td>
+      </tr>
+      <tr>
+        <td>LQA</td>
+        <td>link quality analysis </td>
+        <td><span id="lblDefinition5">In adaptive high-frequency (HF)  radio, the overall process by which measurements of signal quality are  made, assessed, and analyzed. </span></td>
+      </tr>
+      <tr>
+        <td>LQSR</td>
+        <td>Link Quality Source Routing</td>
+        <td>a routing protocol for wireless mesh networks.  The protocol was developed by Microsoft for use with their <a href="glossary_m.htm">MCL</a> technology, which facilitates the  interconnection of computers into a mesh network </td>
+      </tr>
+      <tr>
+        <td>LR</td>
+        <td>Lightroom</td>
+        <td>Adobe Photoshop Lightroom is a photography software program developed by Adobe Systems for Mac OS X and Microsoft Windows, designed to assist professional photographers managing thousands of digital images, and do post production work. <a href="http://www.adobe.com/products/photoshoplightroom/">www.adobe.com/products/photoshoplightroom/ </a></td>
+      </tr>
+      <tr>
+        <td>LRC</td>
+        <td><p><span id="lblWord"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> longitudinal redundancy check</span></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Loop Resiliency Circuit</p></td>
+        <td><p><span id="lblDefinition8"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A system of error control based on the formation of a block check following preset rules.</span></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Hub circuitry that  allows devices to be inserted into or removed from  an active FC-AL loop.</p></td>
+      </tr>
+      <tr>
+        <td>LRF</td>
+        <td>Little Rubber Feet</td>
+        <td>Support devices for computer cases and other equipments </td>
+      </tr>
+      <tr>
+        <td>LRN</td>
+        <td>Location Routing Number</td>
+        <td><span id="lblDefinition7">The  ten-digit (NPA-NXX-XXXX) number assigned to a switch/POI used for  routing in a permanent local number portability environment.</span></td>
+      </tr>
+      <tr>
+        <td>LRU</td>
+        <td>least recently used</td>
+        <td>Pertaining  to an <a href="algorithm.htm">algorithm</a> used to identify and make available the cache space that contains  the data that was least recently used.</td>
+      </tr>
+      <tr>
+        <td>LS</td>
+        <td>Loop-Start Signaling</td>
+        <td>A type of switched access line signaling in which the network provides a battery     source. To initiate a call, customer     premise equipment will provide a loop closure that causes DC loop current     to flow, which is detected by the network.</td>
+      </tr>
+      <tr>
+        <td>LSA</td>
+        <td>Local Security Authority</td>
+        <td>The Local Security Authority is the service provided to manage local security, domain authentication, and Active Directory processes. The Security Accounts Manager, Net Logon and Protected Storage services run within the context of lsass.exe</td>
+      </tr>
+      <tr>
+        <td>LSAP</td>
+        <td>Link Service Access Point</td>
+        <td> including both DSAP and SSAP, is the identifier field to indicate data types.</td>
+      </tr>
+      <tr>
+        <td>LSAS</td>
+        <td>Local Security Authentication Server</td>
+        <td>Verifies validity of user logons to PC/Server.</td>
+      </tr>
+      <tr>
+        <td>LSASS</td>
+        <td>Local Security Authority Subsystem Service</td>
+        <td>Provides an interface for managing local security, domain authentication, and Active Directory processes. The Security Accounts Manager, Net Logon and Protected Storage services are components of LSA</td>
+      </tr>
+      <tr>
+        <td>LSB</td>
+        <td>Least Significant Bit</td>
+        <td>The bit of a binary number which is farthest to the right, indicating the number of ones; also designated as bit zero.</td>
+      </tr>
+      <tr>
+        <td>LSH</td>
+        <td> Locality-Sensitive Hashing</td>
+        <td>an <a href="algorithm.htm">algorithm</a> for solving the (approximate/exact)  Near Neighbor Search in high dimensional spaces. </td>
+      </tr>
+      <tr>
+        <td>LSI</td>
+        <td>Large Scale of Integration</td>
+        <td>IC manufacturing integration level: it's the process of 
+          placing from 3,000 to 100,000 transistors on one chip </td>
+      </tr>
+      <tr>
+        <td>LSM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Linux Software Map</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Local Service Manager</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a standard text format for describing Linux software. LSM for a program  is a single text document, named software_package_name.lsm.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In IBM Tivoli  Kernel Services, a component that runs on each system that is part of the  distributed system. </p></td>
+      </tr>
+      <tr>
+        <td>LSP</td>
+        <td>License Service Provider</td>
+        <td>An Netware Loadable Module (NLM) that responds to 
+          requests from <a href="glossary_n.htm">NLS</a> clients 
+          and licensing service managers for licensing information or 
+          license units </td>
+      </tr>
+      <tr>
+        <td>LSR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> label switch router</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Leaf Setup Request</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Line Service Request</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Local Service Request</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The role of an LSR is to forward packets in an MPLS network by looking only at the fixed-length label. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An <a href="glossary_a.htm">ATM</a> term. A setup message type used when a leaf  node requests connection to existing point-to-multipoint connection or  requests creation of a new multipoint connection.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Document in the LEC world which is used for  porting requests, directory listing changes, trunk ordering etc.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A term that was spawned by the Telecommunications Act of 1996, which  formalized competition in local telecommunications. A LSR is a form, or  series of forms, used by a CLEC to  request local service from the ILEC.</p></td>
+      </tr>
+      <tr>
+        <td>LSR</td>
+        <td>local shared resource</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A file  that shares a common pool of buffers and a common pool of strings; that is,  control blocks supporting I/O operations, with other files. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In the <a href="glossary_v.htm">VSAM</a>, a resource in the local resource pool.</p></td>
+      </tr>
+      <tr>
+        <td>LSSGR</td>
+        <td>LATA Switching System Generic Requirements</td>
+        <td>Multi-volume set of Bellcore technical references dealing               with basic switching requirements used by switch manufacturers, procurement               staffs, planners, and switch technicians.</td>
+      </tr>
+      <tr>
+        <td>LTC</td>
+        <td>line traffic coordinator</td>
+        <td><span id="lblDefinition3">In a <a href="glossary_d.htm">DDN</a> switching center, the processor that controls traffic on a line. </span></td>
+      </tr>
+      <tr>
+        <td>LTE</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Lite Terminating Equipment</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Long-Term Evolution</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="glossary_a.htm">ATM</a> equipment terminating communications facility using               SONET Lite Transmission Convergence (TC) layer. Usually reserved for               end user or <a href="glossary_l.htm">LAN</a> equipment.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> next-generation network standard developed by the <a href="glossary_numerics.htm">3GPP</a> as an evolution of today's <a href="glossary_numerics.htm">3G</a> mobile networks. The standard, which relies on Internet Protocol  end-to-end, aims to deliver higher capacity and greater throughput in a  given cell, with maximum target speeds of 100 Mbps downstream and 50  Mbps upstream.</p></td>
+      </tr>
+      <tr>
+        <td>LTF</td>
+        <td>Leap To Frogans</td>
+        <td><a href="http://www.frogans.com/">http://www.frogans.com/</a></td>
+      </tr>
+      <tr>
+        <td>LTM</td>
+        <td>Local  Traffic  Managers </td>
+        <td>F5 product  to provide offloading of SSL, connections, compression;  intelligent  traffic 
+          management </td>
+      </tr>
+      <tr>
+        <td>LTPA</td>
+        <td>Lightweight Third Party Authentication</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An authentication framework that allows single sign-on across  a set of Web servers that fall within an Internet domain.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A protocol  that uses cryptography to support security in a distributed environment.</p></td>
+      </tr>
+      <tr>
+        <td>LTRAN</td>
+        <td>local transaction</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A recoverable  unit of work managed by a resource manager and not coordinated by an external  transaction manager.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In a multisystem environment, a transaction that is processed  totally by the system in which it is defined. </p></td>
+      </tr>
+      <tr>
+        <td>LTRS</td>
+        <td>Letters Shift</td>
+        <td>A code character used to command a Teletype - like device to perform a physical shift for alphabetic characters </td>
+      </tr>
+      <tr>
+        <td>LTS</td>
+        <td>Leaning Toothpick Syndrome</td>
+        <td>Expresses readability in PERL regular expressions</td>
+      </tr>
+      <tr>
+        <td>LU</td>
+        <td>Logical Unit</td>
+        <td>IBM's term for a logical node that is the user's "port" into a <a href="glossary_s.htm">SNA</a> network. LU 1 is a high-performance print  and 3270 data stream. LU 6 enables host-to-host data exchange, and  provides a peer-to-peer data stream.</td>
+      </tr>
+      <tr>
+        <td>LU-LU</td>
+        <td>between two logical units</td>
+        <td>a session between  two logical units (LUs) in an SNA network. It provides communication between  two end users, or between an end user and an LU services component.</td>
+      </tr>
+      <tr>
+        <td>LUF</td>
+        <td><span id="lblWord5">lowest usable high frequency</span></td>
+        <td><span id="lblDefinition13">The lowest frequency in the HF  band at which the received field intensity is sufficient to provide the  required signal-to-noise ratio for a specified time period, <em>e.g.</em>, 0100 to 0200 UTC, on 90% of the undisturbed days of the month. </span></td>
+      </tr>
+      <tr>
+        <td>LUN</td>
+        <td>logical unit number</td>
+        <td>A number used in a <a href="glossary_s.htm">SCSI</a> bus to  identify a peripheral device (such as an attached storage system)</td>
+      </tr>
+      <tr>
+        <td>LUNT</td>
+        <td>line unit network termination</td>
+        <td><span id="lblDefinition4">The customer side of any <a href="glossary_d.htm">DSL</a> that does not terminate on the customer installation (CI). </span></td>
+      </tr>
+      <tr>
+        <td>LUS</td>
+        <td>LookUp Service</td>
+        <td>Provides the functionality to discover and register services</td>
+      </tr>
+      <tr>
+        <td>LUW</td>
+        <td>logical unit of work</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The processing  that a program performs between synchronization points.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The work  that occurs between the start of a transaction and commit or rollback and  between subsequent commit and rollback actions.</p></td>
+      </tr>
+      <tr>
+        <td>LVD</td>
+        <td>Low Voltage Differential</td>
+        <td> the Low Voltage Differential interface used in Ultra2 and Ultra3 SCSI.</td>
+      </tr>
+      <tr>
+        <td>LVDS</td>
+        <td>Low Voltage Differential Signaling</td>
+        <td>a low noise, low power, low amplitude method for high-speed (gigabits per second) data transmission over copper wire. </td>
+      </tr>
+      <tr>
+        <td>LVM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Logical Volume Manager</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Low Voltage Differential Signaling</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Provides a higher-level view of the disk storage on a 
+          computer system than the traditional view of disks and 
+          partitions. This gives the system administrator much more 
+          flexibility in allocating storage to applications and users </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IBM term</p></td>
+      </tr>
+      <tr>
+        <td>LVOL / LV</td>
+        <td>logical volume</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A collection  of physical partitions organized into logical partitions, all contained in  a single volume group.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The combined space on all  volumes for either the database or the recovery log.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The storage  medium associated with a single logical unit (LU).</p></td>
+      </tr>
+      <tr>
+        <td>LWL</td>
+        <td>long wavelength</td>
+        <td>A type of fiber-optic  cabling that is based on 1300-mm lasers and supports link speeds of 1.0625  Gbps. </td>
+      </tr>
+      <tr>
+        <td>LWP</td>
+        <td>light-weight process </td>
+        <td>means of achieving multitasking. In contrast to a user thread, which is  handled at the application level, a light-weight process is scheduled  by the kernel.</td>
+      </tr>
+      <tr>
+        <td>LZH</td>
+        <td>Lempel-Ziv-Haruyasu</td>
+        <td>Compression algorithm with 
+          a sliding window and additional compression applied to the 
+          output of the LZSS compressor by dynamic Huffman coding </td>
+      </tr>
+      <tr>
+        <td>LZW</td>
+        <td>Lempel Ziv Welch</td>
+        <td> a standard algorithm widely used for compression of data.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>landline</td>
+        <td>A telephone circuit that travels over land-based circuits</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>LANlord</td>
+        <td>The alpha geek responsible for an office's Local Area Network.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>laptop</td>
+        <td>A portable PC, with system unit, screen and keyboard crammed into one           small package. They can do pretty much everything a desktop PC can do,           but are substantially more expensive because of the extra miniaturisation           required.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>last mile</td>
+        <td>The final leg in delivering connectivity in a telecommunications  network. Often perceived as the most critical in terms of both service  provision, cost and bandwidth.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Latency</td>
+        <td>The time interval during which a network station seeks access to a transmission channel and access is granted or received.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>layer</td>
+        <td>In the <a href="glossary_o.htm">OSI</a> reference model, a  layer is a collection of related network-processing functions that  constitute one level of a hierarchy of functions.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Lazy evaluation</td>
+        <td>a computation optimization technique that attempts to delay computation  of expressions until the results of the computation are known to be  needed.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Leased Line</td>
+        <td>A private telephone line without inter-exchange switching arrangements. Also called Private Line and Dedicated Line</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Legacy</td>
+        <td>Term used to describe enterprise applications or systems installed in  the distant past, but still being used. Typically, they are  characterized by outdated technologies, but are still critical to  day-to-day operations.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>LinkedIn</td>
+        <td>a social networking site (<a href="http://www.linkedin.com">www.linkedin.com</a>) designed for business professionals to use for work contacts and communication. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Linux (“Linus’ UNIX”)</td>
+        <td>A widely used Open Source Unix-like operating system.  Linux was first released by its inventor Linus Torvalds in 1991.  There are versions of Linux for almost every available type of computer  hardware from desktop machines to IBM mainframes. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>LISTSERV</td>
+        <td>a commercial software package for operating e-mail mailing
+          lists and discussion groups, produced by L-Soft International
+          (<a href="http://www.lsoft.com">www.lsoft.com</a>)</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>load balancing</td>
+        <td>In routing, the capability of a router to  distribute traffic over all its network ports that are the same  distance from the destination address. Good load-balancing algorithms  use both line speed and reliability information. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>lock</td>
+        <td>A data structure used to synchronize access to a shared resource. The  most common use for a lock is in multithreaded programs where multiple  threads need access to global data.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>log</td>
+        <td>A record of a computer's or application's activity, used for system information, backup, and recovery.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Login</td>
+        <td>Noun or a verb.
+          Noun: The account name used to gain access to a computer system. Not a secret (contrast with Password). 
+          Verb: the act of connecting to a computer system by giving your credentials (usually your "username" and "password") </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Longhorn</td>
+        <td>internal code name used for Windows Vista (Windows 6.0)
+          before its release.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>lookup</td>
+        <td>searching a data structure for an item that satisfies some specified property. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>loopback</td>
+        <td>A diagnostic test that returns the transmitted signal back to the   	sending device after it has passed through a network or across a particular   	link. The returned signal can then be compared to the transmitted one. The   	discrepancy between the two help to trace the fault.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>lossy</td>
+        <td>If a process is lossy, it means that a little quality is    lost when it is performed. If a format is lossy, it means    that putting data into that format will cause some slight loss. Lossy processes    and formats are typically used for performance or    resource utilization reasons.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>lurker</td>
+        <td><strong> </strong>A user who does not participate in an online discussion (e.g., in a chat room), but merely observes the activity.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>lycos</td>
+        <td><div align="justify">An Internet search engine (<a href="http://www.lycos.com/">http://www.lycos.com/</a>) created at Carnegie Mellon University.</div></td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.82245612144 -->
+</html>

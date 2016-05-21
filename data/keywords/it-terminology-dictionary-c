@@ -1,0 +1,2659 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - C for Cache</title>
+<meta name="keywords" content="craigslist, communication, cnn, c#, cc, css, cpu, connect, cloud, cmos, cdma, ca, cod, call of duty, content, cdn, color, community, cio, car, cea, ces">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page158" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm794" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable on"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-c">C</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >C</h1><div class="marker" ></div>
+<div id="pm618" class="tile  m1211 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>C for Cache</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm735" class="tile  m1452 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>C-GREX</td>
+        <td> Chaos Game Representation Explorer</td>
+        <td>a handy Bioinformatics tool for exploring the sequence visualization  and pattern analysis of biological sequences including RNA, DNA and  amino acid sequences.</td>
+      </tr>
+      <tr>
+        <td>C++ / CPP</td>
+        <td>C Plus Plus </td>
+        <td>Object-oriented programming language based on C. Also, filename extension.</td>
+      </tr>
+      <tr>
+        <td>C2A</td>
+        <td>Click-to-Action</td>
+        <td>A method for  implementing cooperative portlets, whereby users can click an icon on a source  portlet to transfer data to one or more target portlets.</td>
+      </tr>
+      <tr>
+        <td><span id="lblWord10">C4S</span></td>
+        <td>command, control, communications, and computer systems</td>
+        <td><p><span id="lblDefinition10"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Integrated systems of doctrine,  procedures, organizational structures, personnel, equipment,  facilities, and communications designed to support a commander's  exercise of command and control, through all phases of the operational  continuum.</span></p>
+            <p><span id="lblDefinition11"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Integrated systems of doctrine,  procedures, organizational structures, personnel, equipment,  facilities, and communications designed to support a commander's  exercise of command and control, across the range of military  operations. </span></p></td>
+      </tr>
+      <tr>
+        <td>C64/128</td>
+        <td>Commodore 64/128</td>
+        <td>The C64 computer to this day holds the record    for being the most successful model of computer ever made    with even the lowest estimates being in the tens of    millions. Its big brother, the C128, was not    quite as popular but still sold several million units. </td>
+      </tr>
+      <tr>
+        <td>C&SI</td>
+        <td>consulting and system integration</td>
+        <td>Consulting & SI job or industry</td>
+      </tr>
+      <tr>
+        <td>CA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Certificate Authority </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Computer Associates (formerly)</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a trusted third party                   used to create digital certificates and private/public key pairs                   and to guarantee that the party signing a document is the person                   they claim to be.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IT software market leader <a href="http://www.ca.com">http://www.ca.com</a></p></td>
+      </tr>
+      <tr>
+        <td>CaaS</td>
+        <td>Communications as a Service </td>
+        <td>The utilization of enterprise-class communications applications and technology (such 
+          as IP telephony, contact center services and unified communications) is offered as a service. </td>
+      </tr>
+      <tr>
+        <td>CAC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Call Admission Control </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Carrier Access Code</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Connection Admission                                                   Control</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The inspection and control all inbound and outbound voice network activity by a voice firewall based on user-defined policies. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Five to seven-digit number that identifies which interexchange               carrier call uses. Subscribers dial these digits with each long distance               call or pre-subscribe to particular carrier and let digital switch               software add CAC.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the set                                                   of actions taken by the network                                                   during the call set- up phase                                                   (or during call re-negotiation                                                   phase) in order to determine whether                                                   a connection request can be accepted                                                   or should be rejected.</p></td>
+      </tr>
+      <tr>
+        <td>CAD/ CAM</td>
+        <td>Computer-Aided Design / Manufacturing </td>
+        <td><div align="justify">Also  known by engineers and architects as the best invention of all time.  Today, CAD software is used for nearly all three-dimensional designing.  Designers can turn an object into an electronic representation more  quickly and accurately than by diagraming it with a pencil and paper.</div></td>
+      </tr>
+      <tr>
+        <td>CAI</td>
+        <td>Common Air Interface</td>
+        <td>A standard that defines technical parameters for control and  information signals passed between a radio transmitter and receiver, so  that communication may take place between equipment manufactured by  different companies.</td>
+      </tr>
+      <tr>
+        <td>CAL</td>
+        <td>Client Access License</td>
+        <td>A Microsoft software license program. The cost of clients accessing specially licensed servers. There are  typically two methods of licensing access to a server or a  separately-priced service. These were previously known as "Per- server  or per-seat.</td>
+      </tr>
+      <tr>
+        <td>CALEA</td>
+        <td>Communications Assistance for Law Enforcement Act</td>
+        <td><div align="justify">This is a U.S. legal              framework enabling telephone call interception in   certain circumstances. Please refer to <a href="http://www.fcc.gov/calea/">http://www.fcc.gov/calea/</a> for further   details.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>CAM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Capital Asset Management</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> channel access method</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> computer-aided manufacturing</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Oracle JD Edwards EnterpriseOne EAM solution</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a protocol for how data is transmitted in the bottom two layers of the <a href="o">OSI</a> model. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a type of computer application that helps automate a factory. </p></td>
+      </tr>
+      <tr>
+        <td>CAMA</td>
+        <td><span id="lblWord8">centralized automatic message accounting</span></td>
+        <td><span id="lblDefinition8">An automatic message accounting system that serves more than one switch from a central location. </span></td>
+      </tr>
+      <tr>
+        <td>CAMEL</td>
+        <td>Customized                                                 Application for Mobile networks                                                 Enhanced Logic</td>
+        <td>a feature of GSM                                                 that allows users to roam between                                                 networks. CAMEL is a standard that                                                 is now starting to be deployed. </td>
+      </tr>
+      <tr>
+        <td>CAN</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Campus Area Network</p>
+            <p><span id="lblWord5"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> cancel character</span></p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Controller–area network</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a network which involves interconnectivity  between buildings in a set geographic area, such as a campus, major  hospital, large corporate enterprise, industrial park, or other such  non-public access environment.</p>
+            <p><span id="lblDefinition5"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A control character used by  some conventions to indicate that the data with which it is associated  are in error or are to be disregarded. </span></p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a vehicle bus standard designed to allow microcontrollers and devices to communicate with each other within a vehicle without a host computer.</p></td>
+      </tr>
+      <tr>
+        <td>CAN-SPAM</td>
+        <td>Controlling the Assault of Non-Solicited Pornography and<br />
+          Marketing</td>
+        <td> a law passed by the U.S. Congress in 2003 (15 U.S.C. 7701)
+          providing penalties for sending deceptive mass e-mails. The act required
+          the Federal Trade Commission to investigate whether or not to establish
+          a national Do Not E-mail registry</td>
+      </tr>
+      <tr>
+        <td>CAP</td>
+        <td>carrierless amplitude phase modulation</td>
+        <td>A multilevel, multiphase encoding method for transmitting data over  twisted pair lines. It is a superset of the legacy protocol used by  analog modems. </td>
+      </tr>
+      <tr>
+        <td>CAPA</td>
+        <td>CA Productivity Accelerator</td>
+        <td>a  set of interactive features and functions to help ease  training, navigation, use and process adoption of the product once it  is live and in use in the field.</td>
+      </tr>
+      <tr>
+        <td>CAPE</td>
+        <td>concurrent art-to-product environment</td>
+        <td>A design approach that brings together a variety of synergistic  applications, including visualization, rapid prototyping, analysis,  materials selection, machining and cost estimation. </td>
+      </tr>
+      <tr>
+        <td>CAPI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Common Application Programming interface</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Computer Assisted Personal Interviewing</p>
+          <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Computer Assisted Programming Interface</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> API standard used to access ISDN equipment, equipment that  use the integrated services digital network ISDN standard for the  transfer of data over telephone lines.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Surveying using a computer-based questionnaire. CAPI allows the interviewer to  customize the survey, so that respondents answer questions only about  subjects they're familiar with and receive questions in a random order  to avoid biases. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> another name for a program generator. These programs were first made in the early days of Z80 microcomputers to create programs in BASIC for people that were not programmers. </p></td>
+      </tr>
+      <tr>
+        <td>caps</td>
+        <td> capital letters</td>
+        <td> capital letters</td>
+      </tr>
+      <tr>
+        <td>CAPTCHA </td>
+        <td>Completely Automated Public Turing Test to tell Computers and Humans Apart</td>
+        <td> a challenge-response system test designed to differentiate humans from automated programs. <a href="http://www.captcha.net/">http://www.captcha.net/</a></td>
+      </tr>
+      <tr>
+        <td>CAR</td>
+        <td>committed access rate</td>
+        <td>A metric used in network quality-of-service agreements to classify and  limit customer traffic and manage excess traffic according to the  network policy.</td>
+      </tr>
+      <tr>
+        <td>CARE</td>
+        <td>Customer Account Record Exchange</td>
+        <td>National guidelines for the formats                           and language used in mechanized exchanges of Equal Access-related                           information between Interexchange Carriers and telephone                           companies.</td>
+      </tr>
+      <tr>
+        <td>CAROT</td>
+        <td>Centralized Automatic Reporting on Trunks</td>
+        <td> A mechanized system for testing of trunks to ensure that                           trunks are accessible to traffic, function properly during                           call setup and termination, and provide a proper transmission                           path during a call.</td>
+      </tr>
+      <tr>
+        <td>CARP</td>
+        <td>Common Address Redundancy Protocol</td>
+        <td>Allows multiple hosts on the same local network to share a set of IP addresses among them</td>
+      </tr>
+      <tr>
+        <td>CART</td>
+        <td>command and response token</td>
+        <td>An 8-byte token that is added to write-to-operator (WTO) commands; it enables  the response WTO to be associated with the command that invoked it.</td>
+      </tr>
+      <tr>
+        <td>CAS</td>
+        <td><p><span id="lblWord7"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> centralized attendant services</span></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> channel associated signaling</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Column Address Strobe </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="algorithm.htm">computer algebra system </a></p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Common Analysis Structure</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Content-Addressed Storage</p></td>
+        <td><p><span id="lblDefinition7"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A function of a usually  centrally located attendant console that permits the control of  multiple switches, some of which may be geographically remote.</span></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A method of communicating telephony supervisory or line signaling (on-hook  and off-hook) and address signaling on <a href="glossary_t.htm">T1</a> and <a href="glossary_e.htm">E1</a> digital links.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An electrical signal that determines which column is read or written to  on a <a href="glossary_d.htm">DRAM</a> chip. You must combine a column address strobe with a row  address strobe to define a location on a DRAM chip.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> CAS is to automate tedious and sometimes difficult algebraic manipulation tasks. <a href="algorithm.htm">more...</a></p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A structure that stores the content and metadata of a document, and all analysis  results that are produced by a text analysis engine.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> enables users to store and retrieve  files based on a file's name, content or unique identifier. CAS is  often deployed in a scale-out <a href="glossary_r.htm">RAIN</a> architecture.</p></td>
+      </tr>
+      <tr>
+        <td>CASE</td>
+        <td>computer-aided software engineering</td>
+        <td>An umbrella term for a collection of application development tools  designed to increase programmer productivity. </td>
+      </tr>
+      <tr>
+        <td>CAT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Communications Authority of Thailand</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Computer-Assisted Translation</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The exclusive operator of Thailand's international telecommunications  services to the rest of the world. In addition to telecommunications  services, it provides data communications, mobile and satellite  services.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Indicates the use of a series of data processing tools aimed at assisting the translator on a level of coherency (consistency) of the text and in terms of working speed</p></td>
+      </tr>
+      <tr>
+        <td>CAT n </td>
+        <td>Category n </td>
+        <td><div align="justify">As in Category 5 (Cat 5), 5e (enhanced), 6 or 6e copper cabling typically used   in              buildings to connect PCs and telephony handsets to hubs or switches. The   category indicates a              specific gauge of wiring. <br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>CATI</td>
+        <td>computer-aided telephone interviewing</td>
+        <td>Technology used facilitate information gathering via phone interviews (for example, for survey purposes).</td>
+      </tr>
+      <tr>
+        <td>CATIA</td>
+        <td>Computer Aided Three-dimensional Interactive Application</td>
+        <td>a multi-platform CAD/CAM/CAE commercial software suite developed by the French company Dassault Systemes and marketed worldwide by IBM</td>
+      </tr>
+      <tr>
+        <td>CATP</td>
+        <td>Caffeine Access Transport Protocol</td>
+        <td>Common method of moving caffeine across <em>Wide Area Networks</em> such as the <em>Internet</em> . CATP was first used at the Binary Cafe in Cybertown and quickly spread world-wide. </td>
+      </tr>
+      <tr>
+        <td>CATS</td>
+        <td>Calling Card & Third Number Settlement</td>
+        <td>An telephone company system for ICS (intercompany settlements) processed through CMDS (Centralized Message Distribution System).</td>
+      </tr>
+      <tr>
+        <td>CATV</td>
+        <td>community antenna television (or Cable TV system)</td>
+        <td>Commonly known as "cable TV." Television signals are received at a  selected site and retransmitted to subscribers via a cable network.  Additional channels, not normally available in that area, can also be  transmitted.</td>
+      </tr>
+      <tr>
+        <td>CAV</td>
+        <td>Constant Angular Velocity</td>
+        <td>A method of reading (or writing) data from (or to) a spinning disk. As  data is read from the disk, the drive motor always spins at the same  speed.</td>
+      </tr>
+      <tr>
+        <td>cB</td>
+        <td>C Beautifier</td>
+        <td>A tool for tidying the                                                   syntax of source code.</td>
+      </tr>
+      <tr>
+        <td>CBC</td>
+        <td>cipher block chaining</td>
+        <td>A method  of reducing repetitive patterns in ciphertext by performing an exclusive-OR  operation on each 8-byte block of data with the previously encrypted 8-byte  block before it is encrypted.</td>
+      </tr>
+      <tr>
+        <td>CBL</td>
+        <td>Composite Blocking List</td>
+        <td>Takes its source data from very large spamtraps/mail infrastructures, and only lists IPs exhibiting characteristics which are specific to open proxies of various sorts which have been abused to send spam, worms/viruses that do their own mail transmission</td>
+      </tr>
+      <tr>
+        <td>CBN</td>
+        <td>common bonding network</td>
+        <td>The set of metallic components that are intentionally or incidentally interconnected to provide the principal means for effecting bonding and grounding inside a telecommunications building. </td>
+      </tr>
+      <tr>
+        <td>CBQ</td>
+        <td>Class-Based Queuing</td>
+        <td>A public domain QoS methodology for classifying packets and queuing them according to criteria defined by an administrator to provide differential forwarding behavior for each traffic class</td>
+      </tr>
+      <tr>
+        <td>CBP</td>
+        <td>Certifed Biometrics <br />
+          Professional</td>
+        <td>IEEE program focuses on the relevant knowledge and <br />
+          skills needed to apply biometrics to real-world challenges and applications.</td>
+      </tr>
+      <tr>
+        <td>cbr files</td>
+        <td>Comic Book Archive</td>
+        <td>CBR files rarred file archives with their extension changed from .rar to .cbr</td>
+      </tr>
+      <tr>
+        <td>CBR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> constant bit rate</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> content based routing </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An ATM service category, defined by the  ATM Forum, that guarantees a constant bandwidth with low delay, jitter  and cell loss. Circuit emulation is a typical application.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An optional  feature of the caching proxy that provides intelligent routing to back-end  application servers. This routing is based on HTTP session affinity and a  weighted round-robin algorithm.</p></td>
+      </tr>
+      <tr>
+        <td>CBT</td>
+        <td>Computer Based Training</td>
+        <td>A form of education in which the student learns by executing special training programs on a computer. Unlike Web-based training programs, CBT does not require an Internet connection. </td>
+      </tr>
+      <tr>
+        <td>CBWFQ</td>
+        <td>Class-Based Weighted Fair Queueing</td>
+        <td>Extends the standard WFQ functionality to provide support for user-defined traffic classes. For CBWFQ, you define traffic classes based on match criteria including protocols, ACLs, and input interfaces</td>
+      </tr>
+      <tr>
+        <td>cc</td>
+        <td>carbon copy</td>
+        <td>An option in most e-mail programs, it allows you to send duplicate copies of an e-mail message. When you type a recipient's e-mail address in the cc field, it is viewable to everyone who receives the e-mail message . </td>
+      </tr>
+      <tr>
+        <td>CC</td>
+        <td>closed captioning</td>
+        <td>A service that transmits text captions for a television program and can  be displayed on any modern television with a display size measuring  greater than 13 inches (33 cm) diagonally.</td>
+      </tr>
+      <tr>
+        <td>CCA</td>
+        <td>Citrix Certified Administrator</td>
+        <td>Entry to mid level certification for IT professionals who want to “demonstrate product expertise on Citrix platform products</td>
+      </tr>
+      <tr>
+        <td>CCAs</td>
+        <td>composite content applications </td>
+        <td>case management and front-end access for field personnel to complex back-end applications</td>
+      </tr>
+      <tr>
+        <td>CCC</td>
+        <td>Clear Channel Capability</td>
+        <td>A characteristic of a transmission path in which the bit position allocated for customer data may represent any combination of zeros and ones. . Also refer to Clear Channel</td>
+      </tr>
+      <tr>
+        <td>CCD</td>
+        <td>Charge Coupled Device</td>
+        <td>a solid-state chip containing a series of tiny, light-sensitive  photosites and was originally developed by Honeywell . The heart of all  electronic and digital cameras.</td>
+      </tr>
+      <tr>
+        <td>CCD+</td>
+        <td>Cash Concentration and Disbursement plus addenda</td>
+        <td>One of the primary message formats necessary for enterprise-initiated  payments to traverse the U.S. national banks' clearinghouse system. The  format is limited to a single addendum record (one invoice, one  payment), and many banks can process it.</td>
+      </tr>
+      <tr>
+        <td>CCF</td>
+        <td><span id="lblWord">call control function</span></td>
+        <td><span id="lblDefinition">The network intelligence that provides call/connection processing and control.</span></td>
+      </tr>
+      <tr>
+        <td>CCH</td>
+        <td>connections per circuit hour</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A unit of traffic measurement expressed as the number of connections established at a switching point per hour. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A unit of traffic measurement used to express the rate at which circuits are established at a switch.</p></td>
+      </tr>
+      <tr>
+        <td>CCHIT</td>
+        <td>Certification Commission for Health Information Technology</td>
+        <td>A voluntary, private
+          sector organization launched in 2004 to certify health information technology (HIT) products 
+          such as electronic health records and the networks over which they interoperate. <a href="www.cchit.org">www.cchit.org</a></td>
+      </tr>
+      <tr>
+        <td>CCI</td>
+        <td>controlled cryptographic item</td>
+        <td><span id="lblDefinition12">Secure telecommunications or  information handling equipment, or associated cryptographic component,  that is unclassified but governed by a special set of control  requirements.</span></td>
+      </tr>
+      <tr>
+        <td>CCIE</td>
+        <td>Cisco Certified Internetwork Expert</td>
+        <td>Cisco Certified Internetwork Expert. </td>
+      </tr>
+      <tr>
+        <td>CCIR</td>
+        <td>Comite Consultatif International des Radio Communications</td>
+        <td>Abbreviation of the French name for the International Radio  Communications Consultative Committee, now part of the <a href="glossary_i.htm">ITU</a>.</td>
+      </tr>
+      <tr>
+        <td>CCIS</td>
+        <td>common-channel interoffice signaling</td>
+        <td>In multichannel switched networks, a method of transmitting all signaling information for a group of trunks by encoding it and transmitting it over a separate channel using time-division digital techniques.</td>
+      </tr>
+      <tr>
+        <td>CCITT</td>
+        <td>International Telegraph and Telephone Consultative Committee</td>
+        <td>French acronym for the international standards  organization. Part of the United National <a href="glossary_i.htm">ITU</a>.</td>
+      </tr>
+      <tr>
+        <td>CCL</td>
+        <td>Communications Control Language</td>
+        <td>a file that dialers and browsers use to control the modem connection. These files should not be changed except by the supplied editor.</td>
+      </tr>
+      <tr>
+        <td>CCNA</td>
+        <td>Cisco Certified Network Associate</td>
+        <td>Cisco Certified Network Associate</td>
+      </tr>
+      <tr>
+        <td>ccNSO</td>
+        <td>Country Code Names Supporting Organization</td>
+        <td><p>the policy-development body for a narrow range of global issues regarding ccTLD within the <a href="i">ICANN</a> structure.</p>
+        <p><a href="http://ccnso.icann.org">ccnso.icann.org</a></p></td>
+      </tr>
+      <tr>
+        <td>CCOW</td>
+        <td>Clinical Context Object Workgroup</td>
+        <td>A group that defines standards for collaboration among applications on  clinical workstations. Originally an independent consortium, CCOW is  now technical committee of the <a href="glossary_h.htm">HL7</a> standards  organization.</td>
+      </tr>
+      <tr>
+        <td>CCP</td>
+        <td>Certified Computer Professional</td>
+        <td>The award for successful completion of a comprehensive examination on computers. Also Certificate in Computer Programming.</td>
+      </tr>
+      <tr>
+        <td>CCPM</td>
+        <td>Critical Chain Project Management</td>
+        <td>Lean methodology 
+          for doing projects</td>
+      </tr>
+      <tr>
+        <td>CCR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> channel command retry</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Cluster Continuous Replication</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Commitment, Concurrency and Recovery</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Continuity of Care Record</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Current Cell Rate</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In mainframe  computing, the protocol used between a channel and a control unit that enables  the control unit to request that the channel reissue the current command.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Microsoft Exchange's capability to replicate 
+              data between clustered nodes</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An International Organization for Standardization's <a href="glossary_o.htm">OSI</a> application service element used to create atomic operations across distributed systems.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a document standard that functions as an ongoing 
+            record of a patient’s care.</p>
+          <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The currently acceptable transmission rate for an end-system               as defined by RM cells within <a href="glossary_a.htm">ABR</a>.</p></td>
+      </tr>
+      <tr>
+        <td>CCS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Centum Call Seconds</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Coded Character Set</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> common channel signaling</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Control Compliance Suite</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> One hundred call seconds or one hundred seconds of telephone  conversation. One hour of telephone traffic is equal to 36 CCS (60 x 60  = 3600 divided by 100 = 36) which is equal to one erlang.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A               character set in which each character is assigned a numeric code               point.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A  method of communicating telephony information and line signaling events (for  example, call setup and call clearing) on a dedicated signaling channel.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Symantec's risk management product to provide end-
+            user organisations with the ability to properly control, and accurately maintain, key IT compliance processes. </p></td>
+      </tr>
+      <tr>
+        <td>CCSA</td>
+        <td>common control switching arrangement </td>
+        <td>An arrangement in which switching for a private network is provided by one or more common control switching systems. </td>
+      </tr>
+      <tr>
+        <td>CCSE</td>
+        <td>Checkpoint Certified Security Expert</td>
+        <td>Checkpoint Certification. Stage 2 after completing the CCSA</td>
+      </tr>
+      <tr>
+        <td>ccTLD</td>
+        <td>country code Top-Level Domain</td>
+        <td>an Internet top-level domain generally used or reserved for a country or a dependent territory.</td>
+      </tr>
+      <tr>
+        <td>CCTV</td>
+        <td><p>Closed-Circuit Television</p></td>
+        <td><p align="justify">A networked camera used for surveillance, process monitoring and other   purposes.</p></td>
+      </tr>
+      <tr>
+        <td>CD</td>
+        <td>Compact Disc</td>
+        <td>An optical form of storage media, typically used for audio and software programs.</td>
+      </tr>
+      <tr>
+        <td>CD Table</td>
+        <td>change-data table</td>
+        <td>In SQL  replication, a replication table on the Capture control server that contains  changed data for a replication source table.</td>
+      </tr>
+      <tr>
+        <td>CDB</td>
+        <td>capacity database</td>
+        <td>capacity database</td>
+      </tr>
+      <tr>
+        <td>CDC</td>
+        <td><span id="lblWord2">call data channel</span></td>
+        <td><span id="lblDefinition2">The logical link between the  device performing an electronic surveillance access function and the  LEA (law enforcement agency) that primarily carries call-identifying  information.</span></td>
+      </tr>
+      <tr>
+        <td>CDDI</td>
+        <td>Copper Distributed Data Interface</td>
+        <td>An American National Standards Institute specification for transmitting  FDDI signals over copper media. CDDI  runs on both shielded and unshielded twisted-pair cabling.</td>
+      </tr>
+      <tr>
+        <td>CDE</td>
+        <td>common desktop environment</td>
+        <td>popular commercial window manager  (and much more -- as its name touts, it is more of a desktop environment) that runs under X-Windows. Free work-alike versions are also available. </td>
+      </tr>
+      <tr>
+        <td>CDF</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Channel Definition Format</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> combined distribution frame </p></td>
+        <td><p>bA way of defining the server-push channels for accessing frequently changing web content. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A distribution frame that combines the functions of main and intermediate distribution frames and contains both vertical and horizontal terminating blocks.</p></td>
+      </tr>
+      <tr>
+        <td>CDFS</td>
+        <td>compact disc file system</td>
+        <td>Controls access to the contents of CD-ROM drives. Based on the ISO 9660 Standard (but extends it to allow long and double-byte filenames).</td>
+      </tr>
+      <tr>
+        <td>CDH</td>
+        <td>Customer Data Hub </td>
+        <td>Oracle MDM product</td>
+      </tr>
+      <tr>
+        <td>CDI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> client device identification</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Customer Data Integration</p></td>
+        <td> <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> software detecting account takeovers, new account fraud and e-commerce fraud</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> combination of the technology, processes and services needed to  create and maintain an accurate, timely, complete and comprehensive  representation of a customer across multiple channels, business lines,  and enterprises.</p></td>
+      </tr>
+      <tr>
+        <td>CDMA</td>
+        <td>Code Division Multiple Access</td>
+        <td><div align="justify">A  digital cellular phone service that offers up to 20 times more  call-handling capacity than conventional cellular systems by assigning  a special electronic code to each signal.</div></td>
+      </tr>
+      <tr>
+        <td>CDN</td>
+        <td>content-delivery network</td>
+        <td> A network specializing in the delivery of streaming audio and video.</td>
+      </tr>
+      <tr>
+        <td>CDO</td>
+        <td>care delivery organization</td>
+        <td><strong> </strong>A category of enterprises that use healthcare information  systems. CDOs are organizations, such as hospitals and physician  practices, whose primary mission is to deliver healthcare-related  services.</td>
+      </tr>
+      <tr>
+        <td>CDP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Cisco Discovery Protocol</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Continuous Data Protection</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Used by Cisco Routers</p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> technology provided by NetBackup RealTime <br />
+              Protection captures every write at the LUN level</p></td>
+      </tr>
+      <tr>
+        <td>CDPD</td>
+        <td>Cellular Digital Packet Data</td>
+        <td>A packet data protocol standard for sending wireless data, it was developed for use on cellular phone frequencies. It transmits data in packets on unused cellular channels (in the 800MHz to 900 MHz range).</td>
+      </tr>
+      <tr>
+        <td>CDR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> call detail recording</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> clinical data repository</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A means of capturing telephone system information on calls made for  processing into management reports. Captured information includes who made the  call, where it went and what time of day it was made.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A database for storage of clinical information in a computer-based patient record</p></td>
+      </tr>
+      <tr>
+        <td>CD-R</td>
+        <td>Compact Disc—Recordable</td>
+        <td>a type of CD  that can
+          be recorded by the user. CD-Rs have the same capacity and are readable
+          in the same drives as ordinary CDs</td>
+      </tr>
+      <tr>
+        <td>CD-ROM</td>
+        <td>compact disc read-only memory</td>
+        <td>A version of the standard CD intended to store  general-purpose digital data. CD-ROMs can store a wide variety of data,  such as music, video and graphics.</td>
+      </tr>
+      <tr>
+        <td>CD-RW</td>
+        <td>Compact disc-rewritable</td>
+        <td>Replacing the CD-ROM in desktop computers is the CD-RW, standing for  Compact Disc Rewritable. The CD-RW lets you create backup files or make  music compilations by "writing" the files on the disc.</td>
+      </tr>
+      <tr>
+        <td>CDS</td>
+        <td>Correlated Double Sampling</td>
+        <td>Technology to clean the image signal during scanning </td>
+      </tr>
+      <tr>
+        <td>CDT</td>
+        <td>C/C++ Development Tools</td>
+        <td>Eclipse subproject working towards providing a fully functional C and C++ Integrated Development Environment (IDE) for the Eclipse platform</td>
+      </tr>
+      <tr>
+        <td>CDV</td>
+        <td>Cell Delay Variation</td>
+        <td>A QoS parameter that measures the               difference between the transfer delay of a single cell transfer delay               and the expected transfer delay.</td>
+      </tr>
+      <tr>
+        <td>CE router</td>
+        <td>Customer edge router</td>
+        <td>A router that is part of a customer network and that interfaces to a provider edge (PE) router.</td>
+      </tr>
+      <tr>
+        <td>CEA</td>
+        <td> Consumer Electronics Association</td>
+        <td> CEA is the industry authority on market research and forecasts; consumer surveys; legislative and regulatory news; engineering standards; training resources. <a href="http://www.ce.org">http://www.ce.org<a></td>
+      </tr>
+      <tr>
+        <td>CEAP</td>
+        <td> cloud-enabled application platforms</td>
+        <td> cloud-enabled application platforms</td>
+      </tr>
+      <tr>
+        <td>CEBP</td>
+        <td>communication-enabled business process</td>
+        <td>key capability of UC is that it offers a method to integrate <br />
+          communication functions directly with business applications</td>
+      </tr>
+      <tr>
+        <td>CeCILL</td>
+        <td>CEA CNRS INRIA Logiciel Libre </td>
+        <td>Free Software license adapted to both International and French legal  matters, in the spirit of and retaining compatibility with the GNU  General Public License.</td>
+      </tr>
+      <tr>
+        <td>CEF</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Cisco Express Forwarding</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Character Encoding Form</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Advanced, Layer 3 IP switching technology. It optimizes network performance and scalability for networks with large and dynamic traffic patterns</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Mapping from a character set definition to the actual code units               used to represent the data.</p></td>
+      </tr>
+      <tr>
+        <td>CEH</td>
+        <td>Certified Ethical Hacker</td>
+        <td>Certification in IT security issued by The International Council of Electronic Commerce Consultants (EC-Council)</td>
+      </tr>
+      <tr>
+        <td>CEI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Common Event Infrastructure</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> comparably efficient interconnection</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The implementation of a set of APIs and infrastructure for the creation, transmission,  persistence, and distribution of business, system, and network Common Base  Events.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An equal-access concept developed by the FCC.. </p></td>
+      </tr>
+      <tr>
+        <td>CEIM</td>
+        <td>Common Enterprise Information Model </td>
+        <td> the ability to define actions 
+          and execute processes right from BI metadata</td>
+      </tr>
+      <tr>
+        <td>CELL/B.E.</td>
+        <td>Cell Broadband Engine</td>
+        <td>A breakthrough microprocessor  with unique capabilities for applications requiring video, 3D graphics, or  high-performance computation for imaging, security, visualization, health  care, surveillance, and more. </td>
+      </tr>
+      <tr>
+        <td>cellphone</td>
+        <td>Cellular Telephone</td>
+        <td>A mobile, wireless telephone that communicates with a local transmitter using a short-wave analog or digital transmission.</td>
+      </tr>
+      <tr>
+        <td>CELP</td>
+        <td>code-excited linear prediction </td>
+        <td>An analog-to-digital voice coding scheme.</td>
+      </tr>
+      <tr>
+        <td>CEM</td>
+        <td>customer experience management</td>
+        <td>Aligning executive involvement, operational processes, organizational  structure, and technology infrastructure to stimulate, anticipate, and  satisfy customer needs.</td>
+      </tr>
+      <tr>
+        <td>CEMF</td>
+        <td>Cisco Element Management Framework</td>
+        <td>Collects fault information from various sources.Network elements, such as routers or switches, may report fault conditions as SNMP traps, Syslog messages</td>
+      </tr>
+      <tr>
+        <td>CEP</td>
+        <td>complex event processing</td>
+        <td>Sofware infrastructure that can detect patterns of events (and expected events that didn’t occur) by 
+          fltering, correlating, contextualizing, and analyzing data captured from disparate live data sources 
+          to respond as defned using the platform’s development tools.</td>
+      </tr>
+      <tr>
+        <td>CEPS</td>
+        <td>Common Electronic Purse Standard</td>
+        <td>A standard endorsed by Visa and American Express for electronic purse (e-purse) or stored-value applications on smart cards.</td>
+      </tr>
+      <tr>
+        <td>CER</td>
+        <td>Corporate Error Reporting</td>
+        <td>Tool that allows IT Administrators to manage error reports and error messages created by the Windows Error Reporting client (WER) in Windows XP and Windows Server 2003</td>
+      </tr>
+      <tr>
+        <td>CERN</td>
+        <td>Conseil Europeen pour la Recherche Nucleaire</td>
+        <td>The original, French name of the European Organization for Nuclear Research, headquartered in Geneva, Switzerland. A nuclear research laboratory where the World Wide Web was invented. </td>
+      </tr>
+      <tr>
+        <td>CERT</td>
+        <td>Computer Emergency Response Team</td>
+        <td>A group formed in 1998 by the U.S. Defense Advanced Research Projects Agency</td>
+      </tr>
+      <tr>
+        <td>CES</td>
+        <td>Character Encoding Scheme<p>
+Consumer Electronics Show</td>
+        <td> A <em>CES is character encoding form</em> plus byte serialization. There are               seven character encoding schemes in Unicode: UTF-8, UTF-16,               UTF-16BE, UTF-16LE, UTF-32, UTF-32BE, and UTF-32LE.<p>
+CES is a major technology-related trade show held each January in the Las Vegas Convention Center. <a href="http://cesweb.org/">http://cesweb.org/</a></td>
+      </tr>
+      <tr>
+        <td>CESID</td>
+        <td><span id="lblWord3">caller's emergency service identification</span></td>
+        <td><span id="lblDefinition3">The number used to identify the calling terminal within the context of the emergency service call. </span></td>
+      </tr>
+      <tr>
+        <td>CEVA</td>
+        <td>content-enabled vertical application </td>
+        <td>CEVAs typically help to automate complex processes that previously  required workers to sort through paper documents and other forms of  content manually.</td>
+      </tr>
+      <tr>
+        <td>CF</td>
+        <td>Compact Flash </td>
+        <td>a very small removable mass storage device. First  introduced in 1994 by SanDisk Corporation, CF memory Cards weigh a half  ounce and are the size of a matchbook. CF memory Card is the world's  most popular removable mass storage device.</td>
+      </tr>
+      <tr>
+        <td>CFA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Circuit Facility Assignment</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Color Filter Array</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Allows Wholesale Access customers to validate the DS1/DS3 at system and channel Levels.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In digital imaging, CFAs assign a separate primary color to each pixel by placing a filter of that color over the pixel</p></td>
+      </tr>
+      <tr>
+        <td>CFB</td>
+        <td>Ciphertext feedback </td>
+        <td> a mode of operation for a block cipher. In contrast to the CBC mode, which encrypts a set number of bits of plaintext at a time, it is at times desirable to encrypt and transfer some plaintext values instantly one at a time, for which ciphertext feedback is a method.</td>
+      </tr>
+      <tr>
+        <td>CFM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Code Fragment Manager</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Cubic Feet per Minute</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the library manager and code loader for processes based on PEF (Preferred Executable Format) object files (in Carbon).</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A measure of airflow, and you can use it to compare the efficiency of fans designed to cool computers or computer components.</p></td>
+      </tr>
+      <tr>
+        <td>CfMD</td>
+        <td>Certified for Microsoft Dynamics</td>
+        <td>a label for add-on products that ISV have built to expand the functionality of Dynamics</td>
+      </tr>
+      <tr>
+        <td>CFMN</td>
+        <td>Client For Microsoft Networks</td>
+        <td>32-bit, protected-mode network client for Windows 9x that provides the redirector and other software components for Microsoft networking </td>
+      </tr>
+      <tr>
+        <td>CFV</td>
+        <td>Call For Votes</td>
+        <td>Initiates the voting period for a Usenet newsgroup. At least one email       address is customarily included as a repository for the votes. </td>
+      </tr>
+      <tr>
+        <td>CG</td>
+        <td>Computer Graphics</td>
+        <td>graphics created using computers and, more generally, the representation and manipulation of pictorial data by a computer.</td>
+      </tr>
+      <tr>
+        <td>CGA</td>
+        <td>Colour Graphics Adaptor</td>
+        <td>A computer standard using digital signals offering a resolution of 320 by 200 pixels, a <br />
+          palette of 16 colors. </td>
+      </tr>
+      <tr>
+        <td>CGI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Common Gateway Interface</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Conseillers en Gestion et Informatique (french)</p></td>
+        <td><div align="justify">
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a set of rules for running scripts or programs on a Web server. When  you submit information to a Web server, there's a good chance that the server is  using a CGI script to receive and process the data. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> "Information Systems and Management Consultants" in English, IT management and business process services (BPS) company. Founded in 1976 and headquartered in Montreal, Canada <a href="http://www.cgi.com/">www.cgi.com</a></p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>CGM</td>
+        <td>Consumer-generated media</td>
+        <td>any written, audio or video content 
+          created by end users, using basic or semiprofessional tools.</td>
+      </tr>
+      <tr>
+        <td>CGMP</td>
+        <td>Cisco Group Multicast Protocol</td>
+        <td>A form of IGMP snooping that lets the switch send multicasts only to the ports on a VLAN that are participating in the multicast</td>
+      </tr>
+      <tr>
+        <td>CHAP</td>
+        <td>Challenge Handshake Authentication Protocol</td>
+        <td>A security protocol used by a server to grant or deny system access  based on a client-supplied password, which is encrypted prior to  transmission. </td>
+      </tr>
+      <tr>
+        <td>Charset</td>
+        <td>character set</td>
+        <td>A set of characters used in Windows. Charsets refer to the same  collections of characters as those defined by Windows code pages.</td>
+      </tr>
+      <tr>
+        <td>chat</td>
+        <td>conversational hypertext access technology</td>
+        <td>A form of interactive online typewritten communication that allows participants ("members") to engage in text-message conferencing, via real-time computer networking over designated communications facilities </td>
+      </tr>
+      <tr>
+        <td>CHIPS</td>
+        <td>Clearing House Interbank Payments System</td>
+        <td>A clearing system that processes very large payments (valued at an average of $1.4 trillion a day) in more than 27 countries.</td>
+      </tr>
+      <tr>
+        <td>ChR</td>
+        <td><span id="lblWord9">channel reliability</span></td>
+        <td><span id="lblDefinition9">The percentage of time a channel was available for use in a specified period of scheduled availability</span></td>
+      </tr>
+      <tr>
+        <td>cHTML</td>
+        <td>Compact Hypertext Markup Language</td>
+        <td>A proprietary version of <a href="glossary_h.htm">HTML</a> adopted by NTT DoCoMo for i-mode.</td>
+      </tr>
+      <tr>
+        <td>CIA</td>
+        <td>confidentiality, integrity, and availability</td>
+        <td>InfoSec dimensions.</td>
+      </tr>
+      <tr>
+        <td>CIC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> circuit identification code</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Cisco Info Center</p>
+          <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Customer Interaction Center</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A 12-bit number that identifies a trunk and channel on which a call is carried.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A service-level monitoring and diagnostics tool that provides network fault and performance monitoring, trouble isolation, and real-time service-level management for large networks </p>
+          <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="http://www.inin.com">Interactive Intelligence</a>'s  all-in-one software solution <br />
+            includes telephony, audioconferencing, UM, rich presence with IM, business process automation.</p></td>
+      </tr>
+      <tr>
+        <td>CICS</td>
+        <td>Customer Information Control System</td>
+        <td>A software program designed to <a href="glossary_o.htm">OLTP</a>, it was developed by IBM. It is one of the most widely used programs for creating customer transaction systems. </td>
+      </tr>
+      <tr>
+        <td>CIDR</td>
+        <td>Classless Internet Domain Routing</td>
+        <td>A protocol                                                    that allows for variable-length                                                   addresses that allows for more-                                                   and less-specific routing information.                                                   This replaces the old class A,                                                   class B, class C routing scheme.</td>
+      </tr>
+      <tr>
+        <td>CIE</td>
+        <td>Commission Internationale de l'Eclairage</td>
+        <td>An organization that has established a number of widely-used color definitions. <a href="http://www.cie.co.at">www.cie.co.at</a></td>
+      </tr>
+      <tr>
+        <td>CIFS</td>
+        <td>Common Internet File System</td>
+        <td>the file sharing protocol that forms
+          the basis of Microsoft Windows networking. Formerly known as SMB
+          (Server Message Block), it is also supported by UNIX and Linux systems using the Samba software package.</td>
+      </tr>
+      <tr>
+        <td>CIK</td>
+        <td>crypto-ignition key</td>
+        <td>device or electronic key used to unlock the secure mode of crypto-equipment.</td>
+      </tr>
+      <tr>
+        <td>CIM</td>
+        <td>Common Information Model <p>
+Corporate Information Management<p>
+ Computer Integrated Manufacturing</td>
+        <td>Provides a common definition of management information for systems, networks, applications and services, and allows for vendor extensions<p>
+The organizational structure must be capable of managing this information throughout ... Information management is a corporate responsibility that needs to be ...
+<p>manufacturing approach of using computers to control the entire production process.
+</td>
+      </tr>
+      <tr>
+        <td>CINDER</td>
+        <td>Cyber Insider Threat </td>
+        <td>program soliciting from outsiders novel techniques to insider-threat detection</td>
+      </tr>
+      <tr>
+        <td>CIO</td>
+        <td>chief information officer</td>
+        <td>The top executive in charge of IT in an  enterprise. </td>
+      </tr>
+      <tr>
+        <td>CIP</td>
+        <td>Common Industrial Protocol</td>
+        <td>an open industrial protocol for industrial automation applications. </td>
+      </tr>
+      <tr>
+        <td>CIPA</td>
+        <td>Children’s Internet Protection Act</td>
+        <td>a law passed by Congress in 2000
+          (47 USC 254) requiring libraries to use blocking programs to prevent access to Internet sites with objectionable content</td>
+      </tr>
+      <tr>
+        <td>CiR</td>
+        <td>circuit reliability </td>
+        <td>The percentage of time a circuit was available for use in a specified period of scheduled availability.</td>
+      </tr>
+      <tr>
+        <td>CIR</td>
+        <td>committed information rate</td>
+        <td>The average data rate that a carrier commits to support over a given  virtual circuit between two end-user sites. The commitment is over a  specified period of time, typically one month. </td>
+      </tr>
+      <tr>
+        <td>CIS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> clinical information system</p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> CompuServe Information Service</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A system used by physicians, nurses, anesthesiologists  to develop patient care plans, document care and  interventions, monitor and record patient vital signs, manage orders  and results, document medication administration, and measure patient  outcomes.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> now owned by Gateway Computer. CIS has a larger international membership than other US based services. <a href="HTTP://WWW.COMPUSERVE.COM">HTTP://WWW.COMPUSERVE.COM</a></p></td>
+      </tr>
+      <tr>
+        <td>CISC</td>
+        <td>Complex Instruction Set Computer</td>
+        <td>a computer with many different machine language instructions. The IBM PC, 68000-based<br />
+          Macintosh, Pentium, IBM 370 mainframe, and VAX are CISC machines.</td>
+      </tr>
+      <tr>
+        <td>CISO</td>
+        <td>chief information security officer</td>
+        <td>The chief executive responsible for information security in an  enterprise. The CISO's responsibilities often bridge the gap between  technical security measures and security-related business practices and  policies.</td>
+      </tr>
+      <tr>
+        <td>CISSP</td>
+        <td>Certified Information Systems Security Professional</td>
+        <td>A certification program administered by the International Information Systems Security Certification Consortium</td>
+      </tr>
+      <tr>
+        <td>CIX</td>
+        <td>Commercial Internet Exchange</td>
+        <td><p> An agreeement among network providers that allows them to do accounting for     commercial traffic. It is primarily a concern for network providers. </p></td>
+      </tr>
+      <tr>
+        <td>CJK / CJKV</td>
+        <td>Chinese, Japanese, and Korean (Vietnamese)</td>
+        <td>A reference to Chinese, Japanese, and Korean languages. Sometimes a “V” for Vietnamese is added to the acronym.</td>
+      </tr>
+      <tr>
+        <td>CKD</td>
+        <td>count key data </td>
+        <td>In mainframe  computing, a data-record format employing self-defining record formats </td>
+      </tr>
+      <tr>
+        <td>CKO</td>
+        <td>chief knowledge officer</td>
+        <td>The enterprise position responsible for articulating and championing an  enterprise's knowledge management (KM) vision, and for providing  enterprise level leadership for implementing and managing the KM program</td>
+      </tr>
+      <tr>
+        <td>C/kT</td>
+        <td><span id="lblWord6">carrier-to-receiver noise density </span></td>
+        <td><span id="lblDefinition6">In satellite communications, the ratio of the received carrier power to the receiver noise power density.</span></td>
+      </tr>
+      <tr>
+        <td>CLA</td>
+        <td>Corporate License Agreement</td>
+        <td>A licensing agreement option under Novell's "Customer Connections"  program. It offers an alternative for midsize organizations that cannot  qualify for Novell's Master License Agreement.</td>
+      </tr>
+      <tr>
+        <td>CLASS</td>
+        <td>Custom Local Area Signaling Services</td>
+        <td>A generic term describing several local service offerings such as incoming-call     identification, call trace, call blocking, automatic return of the most recent     incoming call, automatic re-dial, selective call forwarding, etc.</td>
+      </tr>
+      <tr>
+        <td>CLEC</td>
+        <td>Competitive Local Exchange Carrier</td>
+        <td>A telephone company that competes with other local phone companies within an exchange, or calling area, to provide local telephone service </td>
+      </tr>
+      <tr>
+        <td>CLI</td>
+        <td><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Call Level Interface
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Calling Line Identification</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> command line interface</p></td>
+        <td><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An API  for database access that provides a standard set of functions to process SQL  statements, XQuery expressions, and related services at run time.
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A mechanism whereby the number originating a telephone call is passed  along with the call. The information allows the called party to know  who is calling. In some cases callers can withhold display of their  numbers.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A user interface to an operating system or application in which the  user types instructions at "command line" prompt displayed on the  screen.</p></td>
+      </tr>
+      <tr>
+        <td>CLIPS</td>
+        <td>C Language Integrated Production System</td>
+        <td>Productive development and delivery expert system tool which provides a complete environment for the construction of rule and/or object based expert systems</td>
+      </tr>
+      <tr>
+        <td>CLLI</td>
+        <td>Common Language Location Identifier</td>
+        <td><p>11-character code that identifies the wire center from which a call originated.</p></td>
+      </tr>
+      <tr>
+        <td>CLM</td>
+        <td>Contract lifecycle management</td>
+        <td>an integral, back
+          offce technology in many life science segments, 
+          including managed-care and payer organizations.</td>
+      </tr>
+      <tr>
+        <td>CLNP</td>
+        <td>ConnectionLess Network Protocol</td>
+        <td>The International Organization for Standardization's <a href="glossary_o.htm">OSI</a> protocol for providing the OSI Connectionless Network Service (datagram service).</td>
+      </tr>
+      <tr>
+        <td>CLOB</td>
+        <td>character large object </td>
+        <td>A data  type that contains a sequence of characters (single-byte, multibyte, or both)  that can range in size from 0 bytes to 2 gigabytes less 1 byte. </td>
+      </tr>
+      <tr>
+        <td>CLR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Cell Loss Ratio</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> common language runtime</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A <a href="glossary_q.htm">QoS</a> parameter that gives the ratio               of the lost cells to the total number of transmitted cells.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The  runtime interpreter for all .NET Framework applications.</p></td>
+      </tr>
+      <tr>
+        <td>CLTP</td>
+        <td>ConnectionLess Transport Protocol</td>
+        <td>Provides for end-to-end Transport data addressing (via Transport selector) and error control (via checksum), but cannot guarantee delivery or provide flow control.</td>
+      </tr>
+      <tr>
+        <td>CLUSRCVR</td>
+        <td>cluster-receiver channel</td>
+        <td>A channel on which a cluster queue manager can receive messages from other  queue managers in the cluster, and cluster information from the repository  queue managers.</td>
+      </tr>
+      <tr>
+        <td>CLUSSDR</td>
+        <td>cluster-sender channel </td>
+        <td>A channel on which a cluster queue manager can send messages to other queue  managers in the cluster, and cluster information to the repository queue managers.</td>
+      </tr>
+      <tr>
+        <td>CLUT</td>
+        <td>Color LookUp Table</td>
+        <td>The color options in a graphics system, arranged by index number. Typically, the system has a default color map. The index of colors in the color map can be reallocated, however, depending on the application.</td>
+      </tr>
+      <tr>
+        <td>CLV</td>
+        <td>Constant Linear Velocity</td>
+        <td>A technology which revolves around (no pun intended)  rotating a disk at varying speeds. By changing rotation speed depending  on which track is being accessed, the density of bits in each track can  be made uniform. </td>
+      </tr>
+      <tr>
+        <td>CMA</td>
+        <td>Circular Mil Area</td>
+        <td>A unit of area equal to the area of a circle whose  diameter is 1 mil (0.001 inch). Used chiefly in specifying  cross-sectional areas of conductors. </td>
+      </tr>
+      <tr>
+        <td>CMC</td>
+        <td>computer-mediated communication</td>
+        <td>human communication via computers and includes many different forms of synchronous, asynchronous or real-time interaction that humans have with each other using computers as tools to exchange text, images, audio and video. </td>
+      </tr>
+      <tr>
+        <td>CMDB</td>
+        <td>configuration management database</td>
+        <td>CMDB is a database that contains all relevant information about the components of the information system used in an organization's IT services and the relationships between those components.</td>
+      </tr>
+      <tr>
+        <td>CME</td>
+        <td>Common Malware Enumeration </td>
+        <td>CME number is a unique, vendor-neutral identifier for a particular threat. The CME initiative is an effort headed by the United States Computer Emergency Readiness Team (US-CERT), in collaboration with key organizations within the security community. </td>
+      </tr>
+      <tr>
+        <td>CMIP</td>
+        <td>Common Management Information Protocol</td>
+        <td>The International Organization for Standardization's <a href="glossary_o.htm">OSI</a> network management protocol. </td>
+      </tr>
+      <tr>
+        <td>CMIS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> common management information service</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Content Management Interoperability Services </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In OSI, the set of services defined by ISO 9595. The common management  information service is used by agent processes and managing processes to communicate.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> API support  for interoperability</p></td>
+      </tr>
+      <tr>
+        <td>CMM</td>
+        <td>Capability Maturity Model</td>
+        <td>Strategy for improving the software process, irrespective of the actual life-cycle model used</td>
+      </tr>
+      <tr>
+        <td>CMOS</td>
+        <td>complementary metal-oxide semiconductor</td>
+        <td>a type of integrated
+          circuit noted for its extremely low power consumption and its vulnerability to damage from static electricity. CMOS devices are used in digital watches, pocket calculators, microprocessors, and computer
+          memories. </td>
+      </tr>
+      <tr>
+        <td>CMOT</td>
+        <td>CMip Over Tcp</td>
+        <td>An effort to use the International Organization for Standardization's <a href="glossary_o.htm">OSI</a> network management protocol to manage <a href="glossary_t.htm">TCP/IP</a> networks. </td>
+      </tr>
+      <tr>
+        <td>CMRR</td>
+        <td>common-mode rejection ratio </td>
+        <td>The ratio of the common-mode interference voltage at the input of a circuit, to the corresponding interference voltage at the output. </td>
+      </tr>
+      <tr>
+        <td>CMRS</td>
+        <td>Commercial Mobile Radio Service</td>
+        <td><p>A radio communication service between mobile stations or receivers  and land stations, or by mobile stations communicating among  themselves, that is provided for profit, and that makes interconnected  service available to the public.</p></td>
+      </tr>
+      <tr>
+        <td>CMS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Color management system</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> content management system</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> This ensures color uniformity across input and output devices so that  final printed results match originals. The characteristics or profiles  of devices are normally established by reference to standard color  targets.</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a web application designed to make it easy for non-technical users to add, edit and <em>manage </em>a website.</p></td>
+      </tr>
+      <tr>
+        <td>CMTS</td>
+        <td>cable modem termination system</td>
+        <td>a system of devices located in the cable head-end that allows cable television operators to offer high-speed Internet access to home computers.</td>
+      </tr>
+      <tr>
+        <td>CNA</td>
+        <td>Converged Network Adapter</td>
+        <td>a technology that supports data networking (TCP/IP) and storage networking (Fibre Channel) traffic on a single I/O adapter. </td>
+      </tr>
+      <tr>
+        <td>CNAM</td>
+        <td>Caller ID With Name</td>
+        <td>Caller ID With Name</td>
+      </tr>
+      <tr>
+        <td>CNAME</td>
+        <td>Canonical name</td>
+        <td><dl>
+            <dt>A host's official name as opposed to an alias. The official name is  the first hostname listed for its Internet address in the hostname  database. </dt>
+        </dl></td>
+      </tr>
+      <tr>
+        <td>CNE</td>
+        <td>Certified Novell Engineer (also Certified Network Engineer)</td>
+        <td>A certification initiated by <a href="http://novell.com">Novell</a> to qualify certain individuals that have demonstrated high standards of knowledge in the areas of hardware used in and software configuration of the Novell Network operating system.</td>
+      </tr>
+      <tr>
+        <td>CNGI</td>
+        <td>China's Next Generation Internet</td>
+        <td>Chinese: 中国下一代互联网, a five year plan initiated by the Chinese government with the purpose of gaining a significant position in the future development of the Internet through the early adoption of IPv6.</td>
+      </tr>
+      <tr>
+        <td>CNN</td>
+        <td>Cable News Network <p>
+composite network node</td>
+        <td>Cable News Network (CNN) is a U.S. cable news channel founded in 1980 by Ted Turner. <a href="http://www.cnn.com/"> http://www.cnn.com/</a><p>A type  5 node and its subordinate type 4 nodes that support APPN network node protocols  and appear to an attached APPN or LEN node as a single network node.</td>
+      </tr>
+      <tr>
+        <td>CNR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Carrier to Noise Ratio</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> combat-net radio</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An indication of the quality of the modulated signal.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A radio operating in a network that (a) provides a half-duplex circuit and (b) uses either a single radio frequency or a discrete set of radio frequencies when in a frequency hopping mode. </p></td>
+      </tr>
+      <tr>
+        <td>CO</td>
+        <td>central office </td>
+        <td><div align="justify">The telephone company's centralized switching facility, where              subscriber   loops terminate. The CO handles a specific geographical area (known as a   local              exchange), identified by the first "n" digits of the local elephone   number.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>CoA</td>
+        <td>Care Of Address</td>
+        <td>Temporary IP Address used by a mobile user when roaming onto a foreign IP network. It is used within mobile IP and can either be leased from the HA (Home Agent) or FA (Foreign Agent)</td>
+      </tr>
+      <tr>
+        <td>COAM</td>
+        <td>customer owned and maintained</td>
+        <td>User provided and serviced communications          equipment and its associated wiring.  </td>
+      </tr>
+      <tr>
+        <td>coax</td>
+        <td>coaxial (cable)</td>
+        <td>Cable consisting of a hollow outer cylindrical conductor that surrounds a single inner wire conductor.</td>
+      </tr>
+      <tr>
+        <td>COBIT</td>
+        <td>Control Objectives for Information and related Technologies </td>
+        <td>a comprehensive approach to good IT practices. In its third revision, it offers a wide range of tools, guidelines, standards and a control framework for the management of information technologies. </td>
+      </tr>
+      <tr>
+        <td>COBOL</td>
+        <td>Common Business Orientated Language</td>
+        <td>Many mainframe computer applications were once written in this programming language.</td>
+      </tr>
+      <tr>
+        <td>COCOMO</td>
+        <td>COnstructive COst MOdel</td>
+        <td>A technique for estimating the effort and duration of a software project based on its estimated size created by Barry Boehm</td>
+      </tr>
+      <tr>
+        <td>COD</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Call of Duty</p><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> confirm on delivery</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Connection Oriented Data</p></td>
+        <td>
+<p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Call of Duty is a first-person and third-person shooter video game series. <a href="http://www.callofduty.com/">http://www.callofduty.com/</a> </p><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A feature  of WebSphere MQ that allows a notification to be sent to a source application  whenever a target application receives a message from the source application.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Data                                                   requiring sequential delivery                                                   of its component PDUs to assure                                                   correct functioning of its supported                                                   application, (e.g., voice or video).</p></td>
+      </tr>
+      <tr>
+        <td>CoDA</td>
+        <td>Context Delivery Architecture </td>
+        <td>an architectural style of business software that builds on SOA and event-driven architecture (EDA) interaction and partitioning 
+          styles, and that adds formal mechanisms for the software elements to discover 
+          and apply their context in real time.</td>
+      </tr>
+      <tr>
+        <td>CODEC</td>
+        <td>coder/decoder or compressor-decompressor</td>
+        <td><div align="justify">A communications device used to convert analog signals to              digital form for   transmission over a digital medium, and back again to the original analog form.   A              codec is required at each end of the channel.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>COE</td>
+        <td> Component Object modEl</td>
+        <td>the fundamental class of Microsoft's attempt to defuse the growth of Java platform-independent code. </td>
+      </tr>
+      <tr>
+        <td>COEs</td>
+        <td>centers of excellence </td>
+        <td>software management concept</td>
+      </tr>
+      <tr>
+        <td>COIN</td>
+        <td>Community Of Interest Network</td>
+        <td>A COIN provides a way of giving members of a shared-interest community access to privileged information. </td>
+      </tr>
+      <tr>
+        <td>COLD</td>
+        <td>computer output to laserdisc</td>
+        <td>A microfiche replacement system. COLD systems offer economies as a  replacement medium when rapid or frequent access to archived documents  is necessary. </td>
+      </tr>
+      <tr>
+        <td>colo</td>
+        <td>co-location</td>
+        <td><p>Putting a web server in a  dedicated facility that provides high-speed Internet connection,  security, environment, backup power, and technical support.  Unlike the  dedicated server, the client controls both hardware and software.   </p></td>
+      </tr>
+      <tr>
+        <td>com (.com)</td>
+        <td>commercial</td>
+        <td>One of several top-level domains assigned to URLs that are of a commercial nature. Other domain suffixes include .ac, .co, .mil, .gov, .net, .org, and a long list of country codes. </td>
+      </tr>
+      <tr>
+        <td>COM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> communications port</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Component Object Model</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> computer output to microfiche</p></td>
+        <td><p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A port that allows an application to access a modem.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A specification that Microsoft developed for building software  components that can be assembled into programs or that add  functionality to existing programs running on Microsoft Windows  platforms.</p>
+          <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A system (also called "computer output to microfilm") in  which digital data is converted into an image on dry-processed  microfilm.</p></td>
+      </tr>
+      <tr>
+        <td>COMDEX</td>
+        <td> Computer Dealers Expo</td>
+        <td>A hardware and software exposition started in 1978, it has become the place to announce new product launches and to rub elbows with VCs and representatives from high-tech firms all over the world. In America, it takes place twice a year.</td>
+      </tr>
+      <tr>
+        <td>COMPAQ</td>
+        <td>COMPatibilty And Quality</td>
+        <td>Used to refer to the fact that their computers were both IBM PC compatible and very reliable. In 2002,
+          Compaq merged with Hewlett-Packard. </td>
+      </tr>
+      <tr>
+        <td>COMPARE</td>
+        <td>Compliance Progress and Readiness</td>
+        <td>A scale introduced by Gartner in 1997 to assist business units,  enterprises or business partners in measuring their progress toward  year 2000 compliance.</td>
+      </tr>
+      <tr>
+        <td>COMSAT</td>
+        <td>Communications Satellite Corporation </td>
+        <td>A United States company created          by an act of Congress in 1962 to provide communications via satellites. COMSAT leases          satellite circuits to many American companies.</td>
+      </tr>
+      <tr>
+        <td>COOL</td>
+        <td>C++ Object Oriented Language</td>
+        <td>A Microsoft application development tool initiative and language; a predecessor to C#.</td>
+      </tr>
+      <tr>
+        <td>COOP</td>
+        <td>Continuity of Operations Plan</td>
+        <td>outlines steps that an agency will take in the event a disaster interrupts business. <br />
+          Continuity plans require agencies to designate functions as essential or nonessential. </td>
+      </tr>
+      <tr>
+        <td>COPPA</td>
+        <td>Children's Online Privacy Protection Act</td>
+        <td> Legislation passed by the U.S. Congress in 1998 prohibiting  the use of unfair or deceptive practices to gather personal information  about individuals under the age of 13.</td>
+      </tr>
+      <tr>
+        <td>COPS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Common Open Policy Service</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Communications Outsourcing and Professional Services</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An IETF proposed standard defining a simple protocol for provisioning QoS by outsourcing policy-based admission control over requests for network resources</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IT services in support of enterprise communications and connectivity include maintenance and support, consulting, application development,  integration and ongoing management of IT and related business  processes.</p></td>
+      </tr>
+      <tr>
+        <td>COR</td>
+        <td>central outdoor router</td>
+        <td>the central router in a multi-device WLAN.</td>
+      </tr>
+      <tr>
+        <td>CORBA</td>
+        <td>Common Object Request Broker Architecture</td>
+        <td>a standard API for distributed object communication. CORBA was created  by the Object Management Group. It is the most widely used distributed  object standard for connecting operating system platforms from multiple  vendors. <a href="http://www.omg.org" target="_blank">HTTP://WWW.OMG.ORG</a>.</td>
+      </tr>
+      <tr>
+        <td>CORE</td>
+        <td>COMPARE Operational Readiness Evaluation</td>
+        <td><a href="http://gartner.com">Gartner</a>'s CORE risk assessment and reporting steps are used  to define business operational risks, to report risks to management,  investors, regulators and customers in a consistent form, and to  determine when contingency and recovery strategies are required.</td>
+      </tr>
+      <tr>
+        <td>CORS</td>
+        <td> Continuously Operating Reference Station</td>
+        <td>network managed by the U.S. ofce of National Ocean Service 
+(NOAA)  to provide GNSS data  consisting of  carrier phase 
+measurements throughout the United States.</td>
+      </tr>
+      <tr>
+        <td>CoS</td>
+        <td>class of service</td>
+        <td><div align="justify">A classification method for providers to deliver different levels of   QOS.              Providers will typically offer a number of classes for different types   of traffic, such as different              COS for voice, video and data.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>COS</td>
+        <td>Cloud Optimized Storage</td>
+        <td>EMC's cloud platform  Atmos</td>
+      </tr>
+      <tr>
+        <td>COTS</td>
+        <td>commercial off-the-shelf</td>
+        <td>Descriptive term for software that can be purchased from an external  supplier, as opposed to that which is developed within the enterprise.</td>
+      </tr>
+      <tr>
+        <td>COW</td>
+        <td>Copy-On-Write</td>
+        <td> Part of a snapshot, and keeps track
+          of disk changes since the snapshot was taken.</td>
+      </tr>
+      <tr>
+        <td>CPA</td>
+        <td>Cost Per Action </td>
+        <td>for banner ads; the fee charged every  time a user completes a desired action, such as filling out a form,  downloading software, or viewing a series of pages. </td>
+      </tr>
+      <tr>
+        <td>CPAN</td>
+        <td>Comprehensive Perl Archive Network</td>
+        <td>an archive of over 16,000 modules of software written in Perl, as well as documentation for it</td>
+      </tr>
+      <tr>
+        <td>cPanel</td>
+        <td>control panel</td>
+        <td>industry standard web hosting control panel, cPanel provides a Graphical User Interface (GUI) for many Linux system administration tasks.</td>
+      </tr>
+      <tr>
+        <td>CPC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Calling Party Control</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Cost Per Click </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A short break in the line current in the called party’s phone line when the calling party hangs up; not the same as FLASH.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Term used by affiliate programs   	indicating a payment rate per advertisement click. or Pay Per Click</p></td>
+      </tr>
+      <tr>
+        <td>CPE</td>
+        <td>customer premises equipment</td>
+        <td><div align="justify">Any telephone apparatus, including telephone              handsets, PBX switching   equipment, key and hybrid telephone systems, and add-on devices, that              is   physically located on a customer's property.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>CPF</td>
+        <td>Cloud Provisioning Fabric</td>
+        <td>portability between different 
+          clouds</td>
+      </tr>
+      <tr>
+        <td>cpi</td>
+        <td>characters per inch</td>
+        <td>The number  of characters printed horizontally within an inch across a page.</td>
+      </tr>
+      <tr>
+        <td>CPLD</td>
+        <td>Complex Programmable Logic Device</td>
+        <td>A typical CPLD is the equivalent of two to 64 SPLDs. A CPLD typically contains from tens to a few hundred macrocells. </td>
+      </tr>
+      <tr>
+        <td>CPM</td>
+        <td>corporate performance management</td>
+        <td>CPM includes the processes used to manage corporate                            performance, such as strategy formulation, budgeting                            and forecasting; the methodologies that drive some                            processes, including the balanced scorecard, or                            value-based management.</td>
+      </tr>
+      <tr>
+        <td>CPN</td>
+        <td><span id="lblWord4">calling party number</span></td>
+        <td><span id="lblDefinition4">A set of digits and related  indicators (type of number, numbering, plan identification, screening  indicator, presentation indicator) that provide numbering information  related to the calling party.</span></td>
+      </tr>
+      <tr>
+        <td>CPNI</td>
+        <td>Customer Proprietary Network Information</td>
+        <td>Information which is available to a telephone company by virtue of the  telephone company's basic service customer relationship.</td>
+      </tr>
+      <tr>
+        <td>CPOE</td>
+        <td>Computerized Provider Order Entry</td>
+        <td>a computer application that allows a 
+          physician's orders for diagnostic and treatment services (such as medications, laboratory, and 
+          other tests) to be entered electronically instead of being recorded on order sheets or prescription 
+          pads. </td>
+      </tr>
+      <tr>
+        <td>CPRM</td>
+        <td>Content Protection for Removable Media </td>
+        <td> a hardware-based technology designed to enforce copy protection restrictions through built-in mechanisms in storage media that would prevent unauthorized file copying. </td>
+      </tr>
+      <tr>
+        <td>cps</td>
+        <td>Characters Per Second</td>
+        <td>Printing engine speed</td>
+      </tr>
+      <tr>
+        <td>CPS</td>
+        <td> Continuous Protection Server </td>
+        <td> Backup exec option allows administrators to continuously capture and back up data changes to allow administrators to 
+          restore data to any point in time</td>
+      </tr>
+      <tr>
+        <td>CPU</td>
+        <td>Call Pick Up<p>
+Central Processing Unit<p>
+Critical Patch Update
+</td>
+        <td>
+CPU is PABX phone systems term<p>
+The CPU controls the computer, runs all the programs 
+          on the computer and processes all of the data and can be thought of as the
+          'brain' of the computer.<p>
+CPU is Oracle patch term</td>
+      </tr>
+      <tr>
+        <td>CRACK</td>
+        <td>Challenge/Response Authentication of Cryptographic                   Key</td>
+        <td> a protocol for the secure exchange of keys, used by <a href="http://nokia.com">Nokia</a> primarily.</td>
+      </tr>
+      <tr>
+        <td>CRC</td>
+        <td>Cyclic Redundancy Check</td>
+        <td>An error check in which the check key is generated by a cyclic algorithm</td>
+      </tr>
+      <tr>
+        <td>CRL</td>
+        <td>certificate revocation list </td>
+        <td>A list of certificates that have been revoked before their scheduled expiration  date. Certificate revocation lists are maintained by the certificate authority  and used, during a SSL handshake to ensure that the  certificates involved have not been revoked.</td>
+      </tr>
+      <tr>
+        <td>CRLF</td>
+        <td>carriage return, line feed</td>
+        <td>a pair of ASCII codes, 13 and 10, that tell
+          a terminal or printer to return to the beginning of the line and advance to
+          the next line.</td>
+      </tr>
+      <tr>
+        <td><a href="crm_software.htm">CRM</a></td>
+        <td><a href="crm_software.htm">Customer Relationship Management</a></td>
+        <td><div align="justify"> CRM refers to solutions and strategies  for managing businesses' relationships with customers. With the  advent of Web retailing, companies have found it hard to develop  relationships with customers since the e-commerce interface is so  impersonal.</div></td>
+      </tr>
+      <tr>
+        <td>CRMB</td>
+        <td>Customer Reference Material  Database </td>
+        <td>IBM term</td>
+      </tr>
+      <tr>
+        <td>cROI</td>
+        <td>companywide ROI</td>
+        <td>The incremental cash flow -- cost savings and revenues -- generated by online retail technology throughout a multichannel company.</td>
+      </tr>
+      <tr>
+        <td>CRR</td>
+        <td> Continuous	Remote	Replication</td>
+        <td> Continuous	Remote	Replication</td>
+      </tr>
+      <tr>
+        <td>CRT</td>
+        <td>Cathode Ray Tube</td>
+        <td> CRT is the technology  used in traditional computer monitors and televisions. The image on a  CRT display is created by firing electrons from the back of the tube</td>
+      </tr>
+      <tr>
+        <td>CRUD</td>
+        <td>Create, Read, Update, Delete</td>
+        <td>Used to describe access rights for data.</td>
+      </tr>
+      <tr>
+        <td>crypto</td>
+        <td>Cryptography</td>
+        <td>The study of decryption and encryption technologies.</td>
+      </tr>
+      <tr>
+        <td>CS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Computer science</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Creative Suite</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the study of the theoretical foundations of information and computation, and of practical techniques for their implementation and application in computer systems.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a Web suite text and <a href="glossary_w.htm">WYSIWYG</a> Web page editor. Core applications from Macromedia Studio have been merged with Adobe CS since CS3, including Flash, Dreamweaver, and Fireworks. <a href="http://www.adobe.com/products/creativesuite/">http://www.adobe.com/products/creativesuite/</a></p></td>
+      </tr>
+      <tr>
+        <td>CSA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> cloud <br />
+          service agreements</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Communications Streaming Architecture</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Composite Services Architecture</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a disclaimer of liability relating to service quality and availability; 
+          disclaimer of liability for any third-party action; and unilateral rights to limit, 
+          suspend, or terminate the service. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Directly connects the Memory Controller Hub to the network controller. With CSA-based motherboards, network data can be transferred at a much higher rate with lower latency</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> OASIS Open CSA, which goal is 
+            to advance the SCA and SDO families of specifications, which will simplify the development of 
+            applications having SOA. </p></td>
+      </tr>
+      <tr>
+        <td>CSC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> card security code </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Circuit Switched Cellular </p>
+          <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Computer Sciences Corporation</p>
+          <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Content Security and Control</p></td>
+        <td><p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> refer to CVV2</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Offers wide coverage. Used for large data transfers</p>
+          <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An IT consulting, outsourcing and system integration firm, founded in 1959 and headquartered in El Segundo, California. <a href="http://csc.com">http://csc.com</a></p>
+          <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Cisco ASA add-in modules for  anti-X features (such as URL filtering, antivirus, anti-spam and antispyware)</p></td>
+      </tr>
+      <tr>
+        <td>CSCF</td>
+        <td> call session control function</td>
+        <td><div align="justify">CSCF is a functional entity within IMS and part of 3GPP UMTS Reference Architecture. </div></td>
+      </tr>
+      <tr>
+        <td>CSCW</td>
+        <td>computer supported co-operative work</td>
+        <td>any technology system that relies on combinations of hardware and software resources to enable groups of people to collaborate and share technology. </td>
+      </tr>
+      <tr>
+        <td>CSD</td>
+        <td>Cisco  Secure Desktop</td>
+        <td>allows secure VPN connections from remote PCs and offers functionality to ensure PCs meet administrator approved</td>
+      </tr>
+      <tr>
+        <td>CSE</td>
+        <td>custom search engine</td>
+        <td>The search engine that you create and customize using Google Custom Search. </td>
+      </tr>
+      <tr>
+        <td>Csel</td>
+        <td>Cable Select</td>
+        <td>This is basically Plug-and-Play ATA. You plug in your ATA/IDE hard  drives, set them to CSEL (Cable Select), and they determine whether  they are master or slave automatically, saving you from manual  configuration.</td>
+      </tr>
+      <tr>
+        <td><p>CSFs</p></td>
+        <td>critical success factors</td>
+        <td>critical success factors</td>
+      </tr>
+      <tr>
+        <td>CSG</td>
+        <td>Communications Services Group </td>
+        <td>On May 1, 2009, <a href="http://www.tnsi.com/">TNS</a> completed the acquisition of the CSG from <a href="http://verisign.com">VeriSign, Inc.</a></td>
+      </tr>
+      <tr>
+        <td>CSMA/CA</td>
+        <td>Carrier Sense Multiple Access/Collision Avoidance</td>
+        <td>CSMA/CA is the medium access method used by IEEE 802.11 WLANs.</td>
+      </tr>
+      <tr>
+        <td>CSMA/CD</td>
+        <td>Carrier Sense Multiple Access with Collision               Detection</td>
+        <td>A protocol in which stations listen to the bus and only               transmit when the bus is free. If a collision occurs, the packet is               retransmitted after a random time-out. Ethernet uses CSMA/CD.</td>
+      </tr>
+      <tr>
+        <td>CSO</td>
+        <td><p><strong> </strong><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> chief sourcing officer</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Cold Start Only</p></td>
+        <td><p><strong> </strong><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An enterprise executive responsible for the implementation of  successful dynamic sourcing strategies, and effecting these strategies  through IT service delivery that uses an ever-changing resource pool.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In ISDN is a capability of a Network Terminator 1 (NT1)</p></td>
+      </tr>
+      <tr>
+        <td>CSP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Chip-scale packaging</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Communications service providers </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Crystal Server Pages</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> smaller "packages" for flash devices, such as FBGA and uBGA.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Communications service providers </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A page that contains <a href="glossary_h.htm">HTML</a>/<a href="glossary_v.htm">VB</a>/JavaScript that is processed by the Web Component Server in the Crystal Enterprise eBusiness Framework </p></td>
+      </tr>
+      <tr>
+        <td><a href="cascading_stylesheet.htm">CSS</a></td>
+        <td><a href="cascading_stylesheet.htm">Cascading Style Sheet</a></td>
+        <td><div align="justify">Cascading  style sheets are used to format the layout of Web pages. They can be  used to define text styles, table sizes, and other aspects of Web pages  that previously could only be defined in a page's HTML.</div></td>
+      </tr>
+      <tr>
+        <td>CSS-P</td>
+        <td>cascading style sheet positioning </td>
+        <td>Use of a cascading style sheet to position Web page elements using pixel  locations or locations relative to other elements.</td>
+      </tr>
+      <tr>
+        <td>CST</td>
+        <td>Consolidated Service Test</td>
+        <td>Enhances the way IBM tests and recommends maintenance packages for z/OS and OS/390 software, including the major subsystems</td>
+      </tr>
+      <tr>
+        <td>CSU</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Certificate Signing Unit</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Channel Service Unit</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A tamperproof storage mechanism used by a certifying authority (CA) to store private keys.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Customer premises equipment that provides basic digital                           transmission at various speeds. Also AT&T unit that is part of the AT&T nonswitched  digital data system.</p></td>
+      </tr>
+      <tr>
+        <td>CSV</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Circuit Switched Voice</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> comma separated values</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Support for CSV on an ISDN line allows for the placement of voice calls on an ISDN line.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Commonly used no-frills text file format used for import from and import to spreadsheets and SQL databases. </p></td>
+      </tr>
+      <tr>
+        <td>CSW</td>
+        <td>channel status word</td>
+        <td>An area  in storage used to indicate the status of a device and channel involved in  an I/O operation.</td>
+      </tr>
+      <tr>
+        <td>CT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> China Telecom</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />Contone </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  China Telecom Corporation Limited (Chinese: 中国电信) is a Chinese state-owned telecommunication company</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An abbreviation for continuous tone. A color or greyscale image format capable of illustrating continuously varying tonal ranges, as opposed to line art.</p></td>
+      </tr>
+      <tr>
+        <td>CTCp</td>
+        <td>Client-To-Client-Protocol</td>
+        <td>a feature of some <a href="glossary_i.htm">IRC</a> clients</td>
+      </tr>
+      <tr>
+        <td>CTD</td>
+        <td>Cell Transfer Delay</td>
+        <td>A <a href="glossary_q.htm">QoS</a> parameter that measures the               average time for a cell to be transferred from its source to its destination               over a virtual channel (VC) connection.</td>
+      </tr>
+      <tr>
+        <td>CTI</td>
+        <td>computer-telephony integration</td>
+        <td><div align="justify">The intelligent linking of computers with telephony,              enabling coordinated   voice and data transfers to the desktop.</div></td>
+      </tr>
+      <tr>
+        <td>CTO</td>
+        <td>chief technology officer</td>
+        <td>The enterprise position responsible for managing technology  infrastructure and resources, including technology deployment, network  and system management, integration testing, and developing technical  operations personnel. </td>
+      </tr>
+      <tr>
+        <td>CTP</td>
+        <td>capable to promise</td>
+        <td><strong> </strong>A system that allows an enterprise to commit orders against  available capacity, as well as inventory. These systems are evolving to  include multiple sites, as well as the entire distribution network.</td>
+      </tr>
+      <tr>
+        <td>CTR</td>
+        <td>Click-Through Rate</td>
+        <td>Web publishers typically generate revenue from advertisers each time a visitor clicks on one of the advertisements </td>
+      </tr>
+      <tr>
+        <td>ctrl</td>
+        <td>control</td>
+        <td>This refers to the Control key on your keyboard, it is often used for shortcuts.</td>
+      </tr>
+      <tr>
+        <td>CTS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> clear to send </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> common transport semantics</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A control packet used by a destination station to indicate its readiness to receive data. A destination station responds to a Request To Send (RTS) by transmitting a CTS. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The layer of the Networking Blueprint above the transport layer that makes  the services of transport providers available to the transport user.</p></td>
+      </tr>
+      <tr>
+        <td>CTT</td>
+        <td>China Tietong Telecommunications</td>
+        <td>a major state-owned basic telecommunications operator in China. Its former name was China Railcom (China Railway Communication Corporation, Limited). <a href="http://www.chinatietong.com">http://www.chinatietong.com</a></td>
+      </tr>
+      <tr>
+        <td>CTX</td>
+        <td>Commited to Excellence</td>
+        <td>CTX Technology Corporation (Commited to Excellence)</td>
+      </tr>
+      <tr>
+        <td>CUG</td>
+        <td>closed user group</td>
+        <td>In data communication,  a group of users who can communicate with other users in the group, but not  with users outside the group. A data terminal equipment (DTE) may belong to  more than one closed user group.</td>
+      </tr>
+      <tr>
+        <td>CUoD</td>
+        <td>Capacity Upgrade on Demand</td>
+        <td><strong> </strong>An option available on certain IBM systems that allows a customer to activate additional processor capacity when needed.</td>
+      </tr>
+      <tr>
+        <td>CUPS</td>
+        <td>Common Unix Printing System</td>
+        <td>Provides a portable printing layer for UNIX-based operating systems. It is developed  by Easy Software Products to promote a standard printing solution and is the standard printing system in MacOS X and most Linux distributions <a href="http://www.cups.org">www.cups.org</a></td>
+      </tr>
+      <tr>
+        <td>CVP</td>
+        <td>Content Vectoring Protocol</td>
+        <td> A specification developed by <a href="http://checkpoint.com">Check Point Software</a>, used for content screening and antivirus checking.</td>
+      </tr>
+      <tr>
+        <td>CVS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Computer Vision Syndrome</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong>Concurrent Versions System </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> The name for eye and vision problems experienced during computer use. People are using light therapy to combat CVS (including ultraviolet and full-spectrum wavelengths).</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A programming code management system.</p></td>
+      </tr>
+      <tr>
+        <td>CVSD</td>
+        <td>Continuous Variable Slope Delta modulation</td>
+        <td> A method of digit ally encoding speech  using a one- bit sample to encode the difference between two successive  signal levels, usually 32,000 times a second.</td>
+      </tr>
+      <tr>
+        <td>CVV2 / CVC / CVC2</td>
+        <td>Card Verification Value 2 / Card Verification Code /Card Validation Code 2</td>
+        <td>The last part of the code above the signature strip on modern credit  and debit cards, which is often required by online shops to verify that  the card is genuine.</td>
+      </tr>
+      <tr>
+        <td>CYMK</td>
+        <td>cyan, magenta, yellow, black</td>
+        <td>An abbreviation denoting the traditional four-color printing process;  the name derives from the four ink colors used. The majority of printed  color paper and photographic documents incorporate the CMYK process.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>C</td>
+        <td>programming language developed at Bell Laboratories in the 1970s,
+          based on the two earlier languages B (1970) and BCPL (1967).</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>C#</td>
+        <td>pronounced “C sharp”, a programming language developed by Anders
+          Hejlsberg (the developer of Turbo Pascal and Delphi) for Windows programming under Microsoft’s .NET Framework. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Cache</td>
+        <td>Pronounced "Cash". A temporary storage area for frequently accessed  information. The cache shortens the time it takes to access this  information, relieves the burden from the main memory, and increases  the overall speed of applications. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>carbon neutral</td>
+        <td>also called <em>carbon neutrality</em>, used to describe the  action of organizations, businesses and individuals taking action to  remove as much carbon dioxide from the atmosphere as each put in to it. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td><!-- Checking for poke insert -->
+Carnivore </td>
+        <td>an Internet surveillance system developed for the U.S. FBI so that they could monitor the electronic  transmissions of criminal suspects. Critics, however, charged that  Carnivore did not include appropriate safeguards to prevent misuse and  might violate the constitutional rights of the individual. The  <a href="e">EPIC</a> reported in early 2005  that the FBI had replaced Carnivore with other, unspecified  surveillance software from commercial sources.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>carrier</td>
+        <td>A network operator may market any number of communication services for  voice and data. Carriers offer their services to both end-customers  (private or business) and other carriers. In the latter case, the  service simply consists of transport capacity for long-distance  traffic. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Cascade</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A method of connecting circuits together in series to make the output of   		one, the input of the next. This kind of end-to-end connectivity is   		useful in extending the distance of a network.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A method of displaying several windows of information on a monitor.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>CE</td>
+        <td>CE-marking is a European Union  regulatory community sign. It symbolizes the compliance of the product  with all essential requirements relating to safety, public health,  consumer protection. <a href="http://www.eurunion.org/">http://www.eurunion.org/</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Centrex</td>
+        <td>A service provided from a reserved section of the main public exchange  that has been reprogrammed to act as if it were the exclusive PBX of an  individual user, in other words a 'virtual' PBX. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>certificate</td>
+        <td>Digital representation of user or device attributes, including a public key, that is signed with an authoritative private key. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Channel Bank</td>
+        <td>Channel terminal equipment used for combining                           (multiplexing) channels on a frequency-division or time-division                           basis.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>chip</td>
+        <td>a miniaturized electronic circuit  that has been manufactured in  the surface of a thin substrate of semiconductor material</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Chrome </td>
+        <td>a powerful Google browser that loads Web pages quickly and accurately. <a href="http://www.google.com/chrome">www.google.com/chrome</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>cipher</td>
+        <td>A cryptographic <a href="algorithm.htm">algorithm</a> used to encrypt data that is unreadable until converted into plain data with  a predefined key.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>clear channel</td>
+        <td>A channel that uses out-of-band signaling (as opposed to in-band signaling), so the channel's entire bit rate is available. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>cloud computing</td>
+        <td>Cloud computing is a general term for anything that involves delivering  hosted services over the Internet. These services are broadly divided  into three categories: Infrastructure-as-a-Service (IaaS),  Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS).</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>cluster</td>
+        <td>process of connecting multiple servers together in  order to provide greater overall system availability, performance, and  capacity for your server platforms. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>compiler</td>
+        <td>A software-development tool that translates high-level                   language programs into the machine-language instructions that                   a particular processor can understand                   and execute. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Computer-Brain Interface</td>
+        <td>interpret distinct brain patterns, shifts and signals  as commands that can be used to guide a 
+          computer or other device. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>concurrent</td>
+        <td>A way to measure the usage of software licenses. Rather than limiting  usage based on the number of people who are entitled to use the  software, a concurrent-use license places a limit on the number of  people who may do so simultaneously.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Convergence</td>
+        <td>The consolidation of all communications - voice, data  and video  - onto a single network infrastructure. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Cookie</td>
+        <td>a piece of information sent by a Web <em>Server</em> to a Web <em>Browser</em> that the Browser software is expected to save and to send back to the  Server whenever the browser makes additional requests from the Server. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Craigslist</td>
+        <td>Craigslist is a centralized network of online communities featuring free online classified advertisements, with sections devoted to jobs, housing, personals, for sale, services, community, gigs, résumés, and discussion forums. <a href="http://www.craigslist.org/">http://www.craigslist.org/</a>
+ </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Cut-through</td>
+        <td>Technique for examining incoming packets where Ethernet               switch looks only at first few bytes of packet before forwarding or               filtering it. Faster than looking at whole packet but allows some               bad packets to be forwarded.</td>
+      </tr>
+  </tr>
+      <tr>
+        <td> </td>
+        <td>Cursor </td>
+        <td>The representation of the mouse on the screen. It may take many different shapes. Example: I-beam, arrow pointer, and hand.
+</td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.84681987762 -->
+</html>

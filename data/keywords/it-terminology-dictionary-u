@@ -1,0 +1,1397 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - U for URL</title>
+<meta name="keywords" content="uc, um, ups, unix, utm, uml, ugc, ubuntu, usher, uol">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page176" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm788" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable on"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-u">U</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >U</h1><div class="marker" ></div>
+<div id="pm620" class="tile  m1213 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>U for URL</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm753" class="tile  m1470 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">term</th>
+        <th scope="col">definition</th>
+      </tr>
+      <tr>
+        <td>U2F</td>
+        <td>Undetectable and Untraceable Fraud</td>
+        <td>A major issue for information technology is fraud made possible by  technology and electronic transactions, especially crimes that leave no  trace and no audit trail.</td>
+      </tr>
+      <tr>
+        <td>UA</td>
+        <td>Upgrade Advantage</td>
+        <td>A Microsoft software license program.</td>
+      </tr>
+      <tr>
+        <td>UAC</td>
+        <td>User Account Control</td>
+        <td>A security technology in Windows Vista that reduces exposure to attacks  by running in nonadministrative mode, even when logged on with an  administrative account, unless and until administrative privileges are  required to perform a task.</td>
+      </tr>
+      <tr>
+        <td>UART</td>
+        <td>universal asynchronous receiver-transmitter</td>
+        <td>A module composed of a single integrated circuit, which contains both  the receiving and transmitting circuits required for asynchronous  serial communication.</td>
+      </tr>
+      <tr>
+        <td>UAT</td>
+        <td>User Acceptance Test</td>
+        <td>Normally a suite of documented tests, derived from a      requirements or functional specification and agreed with a client, that when      successfully completed indicate that a produced product is acceptable</td>
+      </tr>
+      <tr>
+        <td>uauth</td>
+        <td>user authentication</td>
+        <td>user authentication</td>
+      </tr>
+      <tr>
+        <td>UBE</td>
+        <td>unsolicited bulk email</td>
+        <td>a formal term for spam. The most common type of UBE is UCE: bulk email that is trying to get the recipient to buy some product or service. </td>
+      </tr>
+      <tr>
+        <td>µBGA / uBGA</td>
+        <td>Micro Ball Grid Array</td>
+        <td><strong></strong> Next to bare die, uBGA is the smallest of the chip-scale packaging options.<br /></td>
+      </tr>
+      <tr>
+        <td>UBR</td>
+        <td>Undefined Bit Rate</td>
+        <td>An economical class of <a href="q">QoS</a> on a               moment-to-moment basis, without guaranteeing service levels.</td>
+      </tr>
+      <tr>
+        <td>UC</td>
+        <td>Unified communications</td>
+        <td>UC is a direct result of the convergence of communications                    and applications. Differing forms of communications                    historically have been developed, marketed and sold as                    individual applications. In some cases, they even had separate                    networks and devices. </td>
+      </tr>
+      <tr>
+        <td>UC2</td>
+        <td>Unified Communications and Collaboration</td>
+        <td>IBM  portfolio  based on Lotus Notes 
+          messaging, Sametime collaboration products and the Eclipse client framework</td>
+      </tr>
+      <tr>
+        <td>UC&C (or UCC)</td>
+        <td>Unified Communications & Collaboration</td>
+        <td>Mashups, consoles, APIs and packaged clients will enable other collaboration services to be blended into <br />
+          a mix that includes e-mail, RSS feeds, calendars, blogs, tasks, wikis, 
+          personal pages and discussion threads. </td>
+      </tr>
+      <tr>
+        <td>UCB</td>
+        <td>unit control block</td>
+        <td>A control  block in common storage that describes the characteristics of a particular  I/O device on the operating system</td>
+      </tr>
+      <tr>
+        <td>UCC</td>
+        <td>Uniform Code Council</td>
+        <td>Data Model standard</td>
+      </tr>
+ <tr>
+        <td>UCCW</td>
+        <td>Ultimate custom widget</td>
+        <td>versatile Android widgets</td>
+      </tr>
+      <tr>
+        <td>UCD</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Unicode Character Database</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Uplink Channel Descriptor</p>
+        <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> User-centered design</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Consists of a number of data files listing character properties and related data along with a documentation file  that explains the organization of the database and the format and meaning of the data in the files. See also <a href="http://www.unicode.org">http://www.unicode.org</a></p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a concept in the IEEE 802.16 (<a href="glossary_w.htm">WiMAX</a>) network, which describes the uplink burst profile </p>
+        <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a design philosophy where the end-user’s needs, wants and limitations  are a focus at all stages within the design process and development  lifecycle.</p></td>
+      </tr>
+      <tr>
+        <td>UCE</td>
+        <td>Unsolicited Commercial Email</td>
+        <td>Electronic junk mail advertising                                                   a product, service, or web site,                                                   where the recipient did not request                                                   to receive the message. </td>
+      </tr>
+      <tr>
+        <td>UCM</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Unified Change Management</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Unified Computing System</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Universal Content Management</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Universal Customer Master</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Use Case Maps</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A Change Management (CM) concept implemented by Rational Software Corporation (acquired by IBM)</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Cisco next-generation data center platform accelerates  the delivery of new services simply, reliably, and securely through  end-to-end provisioning and migration support.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Oracle's unified platform for WCM, document anagement, digital asset management and retention management</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Siebel MDM product, acquired by Oracle</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a visual representation of the requirements of a
+            system, using a precisely defined set of symbols for responsibilities, system components, and sequences. <a href="http://www.usecasemaps.org">www.usecasemaps.org</a></p></td>
+      </tr>
+      <tr>
+        <td>UCP</td>
+        <td>Ubuntu Certified Professional</td>
+        <td> first introduced in May 2006 is a computer based examination about the Ubuntu operating system.
+          
+          It is administered by the LPI foundation.</td>
+      </tr>
+      <tr>
+        <td>UCS</td>
+        <td>Universal Character Set</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A character set using 16-bit character codes, also called ISO 10646.  UCS is a standard defined by the ISO and IEC.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A printer  feature that permits the use of a variety of character arrays.</p></td>
+      </tr>
+      <tr>
+        <td>uDAPL</td>
+        <td>User Direct Access Programming Library</td>
+        <td>a specification and a library that defines a single set of user APIs for all RDMA-capable transports.</td>
+      </tr>
+      <tr>
+        <td>UDDI</td>
+        <td>Universal Description, Discovery and Integration</td>
+        <td> A method for finding new Web Services by referring to a central directory. The specification for an index of all available Web services which is comparable to a global Yellow-Pages directory. UDDI helps businesses to produce descriptions of the services they offer, pass on details to the registry and thus appear to be a services provider. <a href="http://www.uddi.org">www.uddi.org</a></td>
+      </tr>
+      <tr>
+        <td>UDF</td>
+        <td>Universal Disk Format</td>
+        <td>The volume format of DVD disks.</td>
+      </tr>
+      <tr>
+        <td>UDLP</td>
+        <td>UniDirectional Link Protocol</td>
+        <td>This protocol is used by inexpensive, receive only antennas to receive data via satellite.</td>
+      </tr>
+      <tr>
+        <td>UDMA</td>
+        <td>Ultra DMA (Ultra Direct Memory Access)</td>
+        <td>A protocol developed by Quantum Corporation and Intel for disk drives  that enables the computer to take advantage of the fast Ultra ATA disk  drives.</td>
+      </tr>
+      <tr>
+        <td>UDO</td>
+        <td>Ultra Density Optical</td>
+        <td>Optical storage technology that increases capacities by using an extremely focused blue laser to write and read data. HP, Sony, and Plasmon collaborated on the UDO standard</td>
+      </tr>
+      <tr>
+        <td>UDP</td>
+        <td>User Datagram Protocol</td>
+        <td><div align="justify">It  is part of the TCP/IP suite of protocols used for data transferring.  UDP is a known as a "stateless" protocol, meaning it doesn't  acknowledge that the packets being sent have been received. For this  reason, the UDP protocol is typically used for streaming media. While  you might see skips in video or hear some fuzz in audio clips, UDP  transmission prevents the playback from stopping completely.</div></td>
+      </tr>
+      <tr>
+        <td>UDRP</td>
+        <td>Uniform Dispute Resolution policy </td>
+        <td>defines how disputes over domain name registrations are resolved in the global top-level domains (.biz, .com, .info, .name, .net, and .org as well as .aero, .coop, and .museum).</td>
+      </tr>
+      <tr>
+        <td>UFS</td>
+        <td> Unix File System</td>
+        <td>The default disk-based file system under the Unix operating system</td>
+      </tr>
+      <tr>
+        <td>UGC</td>
+        <td> User generated content</td>
+        <td>UGC covers a range of media content available in a range of modern communications technologies. </td>
+      </tr>
+      <tr>
+        <td>UGS</td>
+        <td>Unsolicited Grant Service </td>
+        <td>one of the five QoS service types defined in the IEEE 802.16 WiMAX. The  802.16 protocol supports five types of QoS.</td>
+      </tr>
+      <tr>
+        <td>UHF</td>
+        <td>Ultra High Frequency</td>
+        <td>Electromagnetic frequencies in the range of 300 to 3000 megaherz. Used for some television and radio transmission.</td>
+      </tr>
+      <tr>
+        <td>UHV</td>
+        <td>Ultra High Voltage</td>
+        <td>a term meaning any amount of voltage in excess of 800,000 volts.</td>
+      </tr>
+      <tr>
+        <td>UI</td>
+        <td>user interface</td>
+        <td>The connection between the user and a computer's hardware or software  that permits the user to work productively with a system or a program.  User interface design requires significant skill and attention and has  become a recognized specialty.</td>
+      </tr>
+      <tr>
+        <td>UIA</td>
+        <td>Unified Information Access</td>
+        <td>Information Access provides total insight based on aggregating all 
+          types of data and content in one universal index</td>
+      </tr>
+      <tr>
+        <td>UL</td>
+        <td><a href="http://www.ul.com/">Underwriters Laboratories Inc.</a></td>
+        <td>a world leader in product safety testing and certification, is working  with HP on a two-year project to standardize processes and technologies.</td>
+      </tr>
+      <tr>
+        <td>ULH</td>
+        <td>ultra-long-haul </td>
+        <td>100Gbps    optical  system</td>
+      </tr>
+      <tr>
+        <td>ULV</td>
+        <td>Ultra Low Voltage</td>
+        <td> A class of processors that are deliberately under clocked to use  less power at the expense of performance.</td>
+      </tr>
+      <tr>
+        <td><a href="unified_communications.htm">UM</a></td>
+        <td><p><a href="unified_communications.htm">Unified messaging</a></p></td>
+        <td><p align="justify">UM is an extension of voice mail that enables subscribers to access              and   manage messages, such as voice mail, fax mail and e-mail, from a single-user   interface.<br />
+          Typical e-mail clients include Microsoft Outlook, Lotus Notes and   Novell GroupWise. The              telephone is another user interface alternative for   unified messaging.</p></td>
+      </tr>
+      <tr>
+        <td>UMA</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Unified-Memory Architecture</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Unlicensed Mobile Access</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Upper Memory Area</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> User Mode Audio</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Allows the CPU and video controller to share the same main memory and  64 bit data path. One or two MB of main memory is allocated to video  via a Win 95 utility or in the PCs setup.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> provides access to <a href="glossary_g.htm">GSM</a> and <a href="glossary_g.htm">GPRS</a> mobile services over 
+              unlicensed spectrum technologies, including Bluetooth and 802.11, typically using a broadband 
+              connection to "backhaul" traffic to the service provider.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> In a PC, the memory area between 640K and 1024K. Under <a href="glossary_d.htm">DOS</a>, this memory  area is ordinarily designated for use by the <a href="glossary_r.htm">ROM</a> <a href="glossary_b.htm">BIOS</a> and display, and  is unavailable for use by other programs.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Together with PUMA, is an engine in the Windows Vista Protected Environment that provides a safer environment for audio playback, as well as checking that the enabled outputs are consistent with what the content allows</p></td>
+      </tr>
+      <tr>
+        <td>UMB</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Ultra Mobile Broadband</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> upper memory block </p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> the brand name for the project to improve the CDMA2000 mobile phone standard for next generation applications and requirements.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An upper memory block is a contiguous block of memory starting at an  address above 640 KB. MS-DOS distinguishes between conventional memory  (addresses between 0 and 640 KB) and upper memory (addresses above 640  KB).</p></td>
+      </tr>
+      <tr>
+        <td>UMC</td>
+        <td>ultra modular computing </td>
+        <td><p>The radical adoption of modular principles based on using commodity  components in a standardized architecture in order to simplify the  environment for creating, delivering, and operating applications within  an enterprise. </p></td>
+      </tr>
+      <tr>
+        <td>UMID</td>
+        <td> Unique Material IDentifier</td>
+        <td>A methodology for materials suppliers to code a material  that only THEY supply. While used in the computer and chip making  industries, it is also used in other industries such as medical, food  processing and weapons, to name a few.</td>
+      </tr>
+      <tr>
+        <td>UML</td>
+        <td>Unified Modeling Language</td>
+        <td>A standardized visual notation for communication                   about system specifications and design details. Initially created at Rational Software (now part of IBM).</td>
+      </tr>
+      <tr>
+        <td>UMS</td>
+        <td>Unfied Messaging Systems </td>
+        <td>a technology that should allow                                                   users to access messages sent                                                   in different formats through one                                                   single interface.</td>
+      </tr>
+      <tr>
+        <td>UMTS</td>
+        <td>Universal Mobile Telecommunication System</td>
+        <td><div align="justify">UMTS is envisioned as the successor to Global System for Mobile  Communications (GSM). UMTS signals the move into the third generation  (3G) of mobile networks.</div></td>
+      </tr>
+      <tr>
+        <td>UNC</td>
+        <td>Uniform / Universal Naming Convention</td>
+        <td>this is a syntax for a network resource, file or printer, in the standard format:<br />
+          \\SERVER\QUEUE or<br />
+          \\SERVER\VOLUME\DIRECTORY</td>
+      </tr>
+      <tr>
+        <td>UNI</td>
+        <td><p>User-to-Network Interface</p></td>
+        <td><div align="justify">
+            <p>ATM User Network Interface is an ATM Forum specification of the interface   between an ATM user device and the ATM network.</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>Unicode</td>
+        <td>UNIversal CODE</td>
+        <td>A 16-bit character set defined by ISO 10646.</td>
+      </tr>
+      <tr>
+        <td>UNR</td>
+        <td>Ubuntu Netbook Remix</td>
+        <td>Canonical-sponsored netbook-optimized Linux distribution that is  based on Ubuntu. It has been available since Ubuntu 8.04 "Hardy  Heron". UNR is an optional preinstalled Linux on some  netbooks such as Dell Inspiron Mini 10v and the Toshiba NB100.</td>
+      </tr>
+      <tr>
+        <td>UOL</td>
+        <td>Universo Online</td>
+        <td>UOL is a Brazilian online service provider and ISP.</td>
+      </tr>
+      <tr>
+        <td>UOW</td>
+        <td>unit of work</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> In advanced program-to-program  communications, the amount of processing that is started directly or indirectly  by a program on the source system.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A recoverable sequence of operations performed by  an application between two points of consistency.</p>
+          <p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A recoverable sequence of operations within an application process. </p></td>
+      </tr>
+      <tr>
+        <td>UPA</td>
+        <td>user printable area</td>
+        <td>The area  within the valid printable area (VPA) where user-generated data can print  without causing an exception condition.</td>
+      </tr>
+      <tr>
+        <td>UPC</td>
+        <td>Universal Product Code</td>
+        <td>The bar code printed on retail merchandise, it contains the vendor's identification number and the product number. </td>
+      </tr>
+      <tr>
+        <td>UPnP</td>
+        <td>Universal Plug and Play</td>
+        <td><div align="justify">Plug  and Play describes devices that work with a computer system as soon as  they are connected. UPnP is an extension of this idea that expands the  range of Plug and Play devices to networking equipment. Universal Plug  and Play uses network protocols to allow a wide range of devices to be  interconnected and work seamlessly with each other. <a href="http://www.upnp.org">www.upnp.org</a></div></td>
+      </tr>
+      <tr>
+        <td>UPS</td>
+        <td>Uninterruptible Power Supply</td>
+        <td><div align="justify">In  the technology world, UPS is more than just a brown shipping company.  It is also a type of power supply that uses battery backup to maintain  power during unexpected power outages.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>UPT</td>
+        <td>Universal Personal Telecommunications </td>
+        <td>a set of standards developed by the CCITT for wireline personal communications.</td>
+      </tr>
+      <tr>
+        <td>URC</td>
+        <td>Utility Ready Computing</td>
+        <td>HP's integrated IT 
+          compute capacity acquisition program that includes a portfolio of deployment, 
+          support, availability, and management services.</td>
+      </tr>
+      <tr>
+        <td>URI</td>
+        <td>Uniform Resource Identifier</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An address for s resource available on the Internet.
+          The first part of a URI is called the "scheme". the most well known scheme is http, but there are many others. Each URI scheme has its own format for how a URI should appear.</p>
+            <p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A compact string of characters for  identifying an abstract or physical resource.</p></td>
+      </tr>
+      <tr>
+        <td>URL</td>
+        <td><p>Uniform Resource Locator</p></td>
+        <td><p align="justify">The  standard way to give address of any resource on the Internet that is  part of the <a href="glossary_w.htm">WWW</a>.The most common way to use a URL is to  enter into a WWW browser program, such at Netscape, or Lynx.</p></td>
+      </tr>
+      <tr>
+        <td>URN</td>
+        <td>Uniform Resource Name</td>
+        <td>A <em>URI</em> that is supposed to be available for along time. For an  address to be a URN some institution is supposed to make a commitment  to keep the resource available at that address. </td>
+      </tr>
+      <tr>
+        <td>uRPF</td>
+        <td>Unicast Reverse Path Forwarding</td>
+        <td> limit the malicious traffic on an enterprise network</td>
+      </tr>
+      <tr>
+        <td>URT</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> universal receiver transmitter</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> User Registration Tool</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A circuit which is used for synchronous, asynchronous, or combined  synchronous/asynchronous communications, and which contains a  serial-to-parallel converter for data transmitted out of the computer  and a parallel-to-serial converter for data coming in.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Dynamic authorization and policy control framework that manages access to the <a href="glossary_l.htm">LAN</a> by partitioning user traffic through <a href="glossary_v.htm">VLAN</a>s </p></td>
+      </tr>
+      <tr>
+        <td>USB</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <a href="usb_memory_drives.htm">Universal Serial Bus</a></p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Upper Side Band</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> an external bus standard that supports data transfer rates of 12 Mbps. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Upper Side Band in HAM and commercial radio</p></td>
+      </tr>
+      <tr>
+        <td>USENET</td>
+        <td>USEr's NETwork</td>
+        <td>A world-wide system of discussion groups, with comments passed among  hundreds of thousands of machines. Not all USENET machines are on the <em>Internet</em>. USENET is completely decentralized, with over 10,000 discussion areas, called <em>newsgroups</em>. </td>
+      </tr>
+      <tr>
+        <td>USF</td>
+        <td>Universal Service Fund</td>
+        <td>Financial
+          mechanism that helps compensate phone
+          companies for providing access to telecom
+          service at reasonable and affordable rates
+          across the country.</td>
+      </tr>
+      <tr>
+        <td>USG</td>
+        <td>UNIX Systems Group</td>
+        <td>The division of Novell concerned with UNIX and UNIX products.</td>
+      </tr>
+      <tr>
+        <td>USHER</td>
+        <td>United States Higher Education Root Certificate Authority</td>
+        <td>USHER is a public key infrastructure.</td>
+      </tr>
+      <tr>
+        <td>USL</td>
+        <td>UNIX System Laboratories</td>
+        <td>The division of AT&T which was responsible for UNIX from 1990 until it was acquired by Novell in 1993.</td>
+      </tr>
+      <tr>
+        <td>USM</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Unifed Service Model</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Unsharp masking</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <a href="http://ca.com">CA</a> extensible schema that models both entities and rela-
+          tionships as well as policies and rules that govern how the Catalyst Services federate, correlate and reconcile data and 
+          capabilities</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A process used to sharpen images.</p></td>
+      </tr>
+      <tr>
+        <td>USMT</td>
+        <td>User State Migration Tool</td>
+        <td>Tool to migrate user files and settings during large deployments of Microsoft Windows XP and Microsoft Windows Vista® operating systems</td>
+      </tr>
+      <tr>
+        <td>USO</td>
+        <td>universal service obligation</td>
+        <td> The obligation under the Telecommunications Act 1997 to ensure that standard telephone services, payphones and prescribed carriage services are reasonably accessible to all Australians on an equitable basis, wherever they reside or carry on business. </td>
+      </tr>
+      <tr>
+        <td>USP</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Universal Storage Platform</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> usage sensitive pricing</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <a href="http://www.hds.com">Hitachi</a> VM  that delivers  controller-based virtualization, logical  partitioning and universal replication for open systems and mainframe  environments in a rack mounted storage services platform.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Charge for service based on the amount of          use.  </p></td>
+      </tr>
+      <tr>
+        <td>usr</td>
+        <td>Unix System Resources</td>
+        <td>In any unix (and variants like linux) system the /usr directory </td>
+      </tr>
+      <tr>
+        <td>USRT</td>
+        <td>Universal Synchronous Receiver Transmitter</td>
+        <td>A circuit which is used for synchronous data communications via the  serial port on a computer. It converts data into serial form for  transmission.</td>
+      </tr>
+      <tr>
+        <td>USS</td>
+        <td>unformatted system service</td>
+        <td>A communications function that translates a character-coded command, such  as a LOGON or LOGOFF command, into a field-formatted command for processing  by formatted system services.</td>
+      </tr>
+      <tr>
+        <td>UT</td>
+        <td>Upper Tester</td>
+        <td>Representation in ISO/IEC 9646 of means of providing,               during test execution, control and observation of upper service boundary               of IUT, as defined by chosen Abstract Test Method.</td>
+      </tr>
+      <tr>
+        <td>UTF-8</td>
+        <td>Unicode Transformation Format 8</td>
+        <td>a method for converting 16-bit Unicode characters to 8-bit characters.  This format supports all of the world's languages, including those that  use non-Latin 1 characters.</td>
+      </tr>
+      <tr>
+        <td>UTM</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Unified Threat Management</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Universal Transverse Mercator</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a comprehensive security product that includes protection against multiple threats. A UTM product typically includes a firewall, antivirus software, content filtering and a spam filter in a single integrated package. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> one of many different mathematical projection models upon 
+              which  satellite-derived  positions  can  be  translated  into  a  coordinate  system  that  orresponds  to  positions 
+              derived  through  standard maps. </p></td>
+      </tr>
+      <tr>
+        <td>UTP</td>
+        <td> unshielded twisted pair </td>
+        <td> a type of cable used in most telephone networks and some  computer networks. Pairs of unshielded wires are twisted to protect  against electromagnetic interference, rather than relying on a metal  sheath around each pair of wires to protect against interference.</td>
+      </tr>
+      <tr>
+        <td>UTSL</td>
+        <td>Use The Source Luke</td>
+        <td>meaning read the source code</td>
+      </tr>
+      <tr>
+        <td>UUCP</td>
+        <td>Unix to Unix Copy</td>
+        <td>A file exchange protocol between                                                   two host computers. Used as part                                                   of many firewall mechanisms. </td>
+      </tr>
+      <tr>
+        <td>UUEE</td>
+        <td>Unix-to-Unix Encode </td>
+        <td>A tool for transferring files through e-mail. </td>
+      </tr>
+      <tr>
+        <td>UUENCODE</td>
+        <td>Unix to Unix Encoding</td>
+        <td>A method for converting files from Binary format to <a href="glossary_a.htm">ASCII</a> text so that they can be sent across the Internet via email.</td>
+      </tr>
+      <tr>
+        <td>UUG</td>
+        <td>Unix User Group</td>
+        <td>There are UUGs worldwide</td>
+      </tr>
+      <tr>
+        <td>UUID</td>
+        <td>Universally Unique Identifier</td>
+        <td>The 128-bit numerical identifier that is used to ensure that two components  do not have the same identifier. </td>
+      </tr>
+      <tr>
+        <td>UUNET</td>
+        <td>UNIX to UNIX Network</td>
+        <td>The first Internet access provider, founded in 1987 in Fairfax, Virginia</td>
+      </tr>
+      <tr>
+        <td>UUT</td>
+        <td>Unit Under Test</td>
+        <td>refers to some type of electrical apparatus connected to test  instrumentation. The apparatus can range from a simple circuit to a  complex subsystem such as a mobile phone, base station or MSC.</td>
+      </tr>
+      <tr>
+        <td>UV</td>
+        <td>UltraViolet light</td>
+        <td>UV is used in the electronics world to erase EPROMs and similar devices. An invisible band of radiation at the high-frequency end of the light spectrum.</td>
+      </tr>
+      <tr>
+        <td>UWB</td>
+        <td>Ultra-Wide-Band </td>
+        <td>also called digital pulse, is a wireless technology defined in IEEE  802.15.3 for transmitting digital data over a wide swath of the radio  frequency spectrum with very low power.</td>
+      </tr>
+      <tr>
+        <td>UWIN</td>
+        <td> Unix for WINdows</td>
+        <td>Software that enables Unix software to be executed on a Windows platform</td>
+      </tr>
+      <tr>
+        <td>UXP</td>
+        <td>user experience</td>
+        <td>user experience</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>U</td>
+        <td>U is the standard unit of measurement  for rack-mounted equipment. Racks can be used to house servers, hard  drives, switches, routers, and other computer hardware. They are also  used for mounting audio and video equipment. 
+          1U is equal to 1.75 inches.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>undead</td>
+        <td>An undead object is an object that cannot be proven to be dead by the garbage collector, but whose liveness is dubious.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Unix</td>
+        <td>A computer operating system (the basic software running on a computer,  underneath things like word processors and spreadsheets). Unix is  designed to be used by many people at the same time (it is multi-user)  and has <em><a href="glossary_t.htm">TCP/IP</a></em> built-in.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>up-link / uplink</td>
+        <td>A term used in satellite communications to  describe the earth station and the transmit ted signal to a  communications satellite . </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>USBlyzer</td>
+        <td>A software USB Protocol Analyzer for Windows that displays USB Descriptors and captures and analyzes the activity of USB devices in real time.</td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.96281099319 -->
+</html>

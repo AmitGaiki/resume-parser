@@ -1,0 +1,1648 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - T for Telecom</title>
+<meta name="keywords" content="time, target, traceroute, ted, trojan, tagged, tracert, tivoli, torrent, tcs, tata consultancy services, tsn, te, translation, ti, tpm">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page175" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm786" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable on"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-t">T</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >T</h1><div class="marker" ></div>
+<div id="pm624" class="tile  m1217 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>T for Telecom</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm752" class="tile  m1469 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">term</th>
+        <th scope="col">definition</th>
+      </tr>
+      <tr>
+        <td>T1</td>
+        <td> </td>
+        <td><p align="justify">This  is a data transfer system that transfers digital signals at 1.544  megabits per second (quite a bit faster than a 56K modem, which maxes  out at around 0.056 Mbps).
+          <!--  google_ad_client = "pub-0087137714961591";  google_alternate_ad_url = "http://www.sharpened.net/banner.html";  google_ad_width = 728;  google_ad_height = 90;  google_ad_format = "728x90_as";  google_ad_type = "text_image";  google_ad_channel ="9877348509";  google_color_border = "FFFFFF";  google_color_bg = "FFFFFF";  google_color_link = "0033FF";  google_color_text = "000000";  google_color_url = "0033FF";  //-->
+        </p></td>
+      </tr>
+      <tr>
+        <td>T2</td>
+        <td> </td>
+        <td>One of several types of digital voice lines defined in the U.S. T-carrier system. A T2 line has a transmission capacity of up to 6.312 megabits per second.</td>
+      </tr>
+      <tr>
+        <td>T2L</td>
+        <td>TRANSISTOR-TRANSISTOR LOGIC </td>
+        <td> A logic gate family that provides higher-speed and   higher-power than the obsolete DTL logic family.</td>
+      </tr>
+      <tr>
+        <td>T3</td>
+        <td> </td>
+        <td>A T3 line actually 30 times faster, supporting data transfer rates of 44.736 megabits per second. </td>
+      </tr>
+      <tr>
+        <td>T4</td>
+        <td> </td>
+        <td>A communications line capable of carrying digitized voice signals at up  to 274.176 megabits per second, as defined in the T-carrier system</td>
+      </tr>
+      <tr>
+        <td>T5</td>
+        <td> </td>
+        <td>240 T1 lines, which can carry 5760 voice channels or up to 400.352Mbps worth of data.</td>
+      </tr>
+      <tr>
+        <td>t-commerce</td>
+        <td>television commerce</td>
+        <td>interactive TV capabilitu, including <a href="v">VOD</a> movie rentals and games</td>
+      </tr>
+      <tr>
+        <td>TACACS</td>
+        <td>Terminal Access Controller Access Control System </td>
+        <td>Developed by <a href="http://cisco.com">Cisco Systems</a>, it is standard security protocol used in authenticating the identity of a computer or device seeking remote access to privileged data (such as that behind a firewall).</td>
+      </tr>
+      <tr>
+        <td>TAE</td>
+        <td>text analysis engine</td>
+        <td>A software  component that is responsible for discovering and representing context and  semantic content in text.</td>
+      </tr>
+      <tr>
+        <td>TAO</td>
+        <td>Track at Once</td>
+        <td>A method of writing data to a CD-R or CD-RW disc on a track by track  basis. Recording can be paused between writing tracks, unlike Disc at  Once, which requires an uninterrupted full-disc recording.</td>
+      </tr>
+      <tr>
+        <td>TAPI</td>
+        <td>Telephony Application Programming Interface</td>
+        <td>A number of IT companies, led by Microsoft and Intel, have collaborated  to design a common Windows graphical user interface for telephony and a  Telephony Application Programming Interface (TAPI).</td>
+      </tr>
+      <tr>
+        <td>tar</td>
+        <td>Tape ARchive</td>
+        <td>A compression format commonly used in the transfer and storage of files on UNIX computers (.tar).</td>
+      </tr>
+      <tr>
+        <td>TAXI</td>
+        <td>Transparent Asynchronous Transmitter/Receiver Interface</td>
+        <td>Encoding scheme used for <a href="f">FDDI</a> <a href="l">LANs</a> as well as for  <a href="a">ATM</a>. Supports speeds of up to 100 Mbps over multimode fiber. TAXI is  the chipset that generates 4B/5B encoding on multimode fiber.</td>
+      </tr>
+      <tr>
+        <td>Tb</td>
+        <td>terabit </td>
+        <td>For processor storage,  real and virtual storage, and channel volume, 2 to the power of 40 or 1 099  511 627 776 bits. For disk storage capacity and communications volume, 1 000  000 000 000 bits.</td>
+      </tr>
+      <tr>
+        <td>TB</td>
+        <td>TeraByte</td>
+        <td>1024 gigabytes, 1,099,511,627,776 bytes</td>
+      </tr>
+      <tr>
+        <td>Tbps</td>
+        <td>terabits per second</td>
+        <td>A trillion bits per second. </td>
+      </tr>
+      <tr>
+        <td>TBR</td>
+        <td>Technology Business Research</td>
+        <td>specializes in providing in-depth and timely insights within the computer, software, telecom, mobility,   and professional services industries. <a href="http://tbri.com/">http://tbri.com/</a></td>
+      </tr>
+      <tr>
+        <td>TCA</td>
+        <td>Transaction Cost Analysis</td>
+        <td>Methodology that can be used to measure the cost of individual shopper operations such as registering, browsing, searching a catalog, adding an item to a shopping cart, checking out, and so on</td>
+      </tr>
+      <tr>
+        <td>TCAP</td>
+        <td>Transaction Capabilities Application Part</td>
+        <td>from ITU-T recommendations Q.771-Q.775 or ANSI T1.114 is a protocol for SS 7 networks.</td>
+      </tr>
+      <tr>
+        <td>TCB</td>
+        <td>trusted computing base </td>
+        <td> everything in a computing system that provides a secure environment. This includes the operating system and its provided security mechanisms, hardware, physical locations, network hardware and software, and prescribed procedures.</td>
+      </tr>
+      <tr>
+        <td>TCG</td>
+        <td>Trusted Computing Group</td>
+        <td>Group that develops and promotes open, vendor-neutral, industry standard specifications for trusted computing building blocks and software interfaces across multiple platforms. See also <a href="https://www.trustedcomputinggroup.org/">https://www.trustedcomputinggroup.org/</a></td>
+      </tr>
+      <tr>
+        <td>tcl</td>
+        <td>Tool Command Language </td>
+        <td>portable  interpreted  computer language designed to be easy to use. </td>
+      </tr>
+      <tr>
+        <td>TCQ</td>
+        <td>Tagged Command Queuing</td>
+        <td>SCSI feature to allow multiple I/O requests</td>
+      </tr>
+      <tr>
+        <td>TCO</td>
+        <td>total  cost of ownership</td>
+        <td>the complete cost of owning and using a
+          machine during its useful life, including not only the cost of the machine
+          itself, but also maintenance, repairs, and consumable supplies such as
+          ink and paper.</td>
+      </tr>
+      <tr>
+        <td>TCS</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Tata Consultancy Services</p>
+        <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Telecommunications Systems</p></td>
+        <td> <p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Inida-based IT services, business solutions, and outsourcing company. <a href="http://www.tcs.com">www.tcs.com</a></p>
+        <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> wireless communications provider in U.S. <a href="http://www.telecomsys.com">http://www.telecomsys.com</a></p></td>
+      </tr>
+      <tr>
+        <td>TCP</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Test Coordination Procedure</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Transmission Control Protocol</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Set of rules to coordinate test process between lower               tester and upper tester. Enables lower tester to control operation               of upper tester. May, or may not, be specified in abstract test suite.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A connection-oriented protocol that transmits data in byte streams. Data is transmitted in packets called TCP segments, which contain TCP headers and data.</p></td>
+      </tr>
+      <tr>
+        <td><a href="tcp_ip.htm">TCP/IP</a></td>
+        <td><p><a href="tcp_ip.htm">Transmission Control/Internet Protocol</a></p></td>
+        <td><p align="justify">This is used for communications across              interconnected networks and is being   increasingly deployed to connect diverse computer              architectures and   platforms, both between enterprises and within enterprises. TCP operates   at              Layer 4 (the transport layer) of the OSI stack. IP operates at Layer 3   (the network layer) of the              OSI stack.</p></td>
+      </tr>
+      <tr>
+        <td>TCU</td>
+        <td>transmission control unit </td>
+        <td>A communication control unit whose operations are controlled solely by programmed  instructions from the computing system to which the unit is attached. </td>
+      </tr>
+      <tr>
+        <td>TD-SCDMA</td>
+        <td>Time division-synchronous code division multiple access</td>
+        <td>China's 
+          home-grown 3G standard for cellular networks. </td>
+      </tr>
+      <tr>
+        <td>TDC A/S</td>
+        <td>Tele-Denmark Communications</td>
+        <td>former telecom monopoly in Denmark. It is now privatized. Thus, it is the biggest company in all aspects of telecommunication in Denmark with landline, mobile, Internet, VHF maritime borderline-radio etc.</td>
+      </tr>
+      <tr>
+        <td>TDD/TTY</td>
+        <td> Tone Dialing for the Deaf/Teletype</td>
+        <td>a method by which the hearing impaired can type messages over normal phone lines using special equipment. Many ISPs have a TDD/TTY for technical support.</td>
+      </tr>
+      <tr>
+        <td>TDDM</td>
+        <td>target distributed data manager</td>
+        <td>In a distributed data management network, programming support that translates  the DDM requests received from a source system into data management or SQL  requests on the target (or remote) system.</td>
+      </tr>
+      <tr>
+        <td>TDK</td>
+        <td>Tokyo Denki Kagaku</td>
+        <td>English: Tokyo Electric and Chemicals. a Japanese company which manufactures electronic materials, electronic components, and recording and data-storage media <a href="http://www.tdk.com/">http://www.tdk.com/</a></td>
+      </tr>
+      <tr>
+        <td>TDL</td>
+        <td>time differential linking</td>
+        <td>software detecting account takeovers, new account fraud and e-commerce fraud</td>
+      </tr>
+      <tr>
+        <td>TDM</td>
+        <td><p>time division multiplexing</p></td>
+        <td><p align="justify">a data, voice and video communications technique              that multiplexes   several low-speed signals into one high-speed transmission channel   by              allocating brief, interleaved time periods to each signal.</p></td>
+      </tr>
+      <tr>
+        <td>TDR</td>
+        <td>Time Domain Reflectometry</td>
+        <td>used to pinpoint flaws and problems in underground and aerial wire, cabling, and fiber optics. </td>
+      </tr>
+      <tr>
+        <td>TE</td>
+        <td>Traffic Engineering</td>
+        <td>TE is Cisco MPLS term</td>
+      </tr>
+      <tr>
+        <td>TEC</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico alt="connet" width="6" height="6" /> Tivoli Enterprise Console</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Thermoelectric Cooler</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An IBM system and network monitoring product. TEC collects event  information from a variety of system and application resources,  correlates the information to determine detect problems and performs  automated problem resolution.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Thermoelectric Cooler</p></td>
+      </tr>
+      <tr>
+        <td>TED</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Technology Entertainment and Design</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Tiered Electronic Distribution</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Torrent Episode Downloader</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Tunnel Endpoint Discovery</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> TED is a global set of conferences owned by the private non-profit Sapling Foundation, formed to disseminate "ideas worth spreading." <a href="http://www.ted.com/"  target="_blank">http://www.ted.com/</a></p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" />TED is Novell ZENWorks term</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" />TED stands for Torrent Episode Downloader  <a href="http://www.ted.nu/"  target="_blank">http://www.ted.nu/</a></p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" />TED is Cisco term</p></td>
+      </tr>
+      <tr>
+        <td>TEHO</td>
+        <td>tail end hop off</td>
+        <td>Call in a private network which is carried over flat          rate facilities (intermachine trunks or IMTs) to the switching node closest to its          destination and is connected into the public network as a local call.  </td>
+      </tr>
+      <tr>
+        <td>TEI</td>
+        <td>Total Economic Impact</td>
+        <td><div>forrester term, a highly customized methodology that helps IT professionals  make better, more cost-effective decisions regarding the selection of  technology vendors. <a href="http://www.forrester.com/TEI">http://www.forrester.com/TEI</a></div></td>
+      </tr>
+      <tr>
+        <td>Telco</td>
+        <td>telephone company</td>
+        <td>It generally refers to the local-exchange carrier (LEC)</td>
+      </tr>
+      <tr>
+        <td>telematics</td>
+        <td>telecommunications and informatics</td>
+        <td>the broad industry related to using computers in concert with telecommunications systems. This includes dial-up service to the Internet as well as all types of networks that rely on a telecommunications system to transport data. </td>
+      </tr>
+      <tr>
+        <td>telephony</td>
+        <td>Telephone technology</td>
+        <td>The conversion of sound into electrical signals, its transmission to  another location, and its reconversion to sound, with or without the  use of connecting wires.</td>
+      </tr>
+      <tr>
+        <td>Telnet</td>
+        <td>telephone network protocol</td>
+        <td>The command and program used to <em>login</em> from one <em>Internet</em> siteto another. The telnet command/program gets you to the login: prompt of another <em>host</em>. </td>
+      </tr>
+      <tr>
+        <td>TEM</td>
+        <td>telephone expense management</td>
+        <td><div align="justify">TEM tools facilitate the control of acquisition,              operation and support of   corporate telecom assets and network services. The coverage   typically              includes voice and data communications as well as cell phones.</div></td>
+      </tr>
+      <tr>
+        <td>TERM</td>
+        <td>technology-enabled relationship management</td>
+        <td>The concept of forming one enterprisewide view of the customer across  all customer contact channels. It is a complex area, requiring complex solutions  to problems of integration, data flow, data access and marketing  strategy.</td>
+      </tr>
+      <tr>
+        <td>TESS</td>
+        <td>Transaction Events <br />
+          and Statistics Server</td>
+        <td>CA APM software</td>
+      </tr>
+      <tr>
+        <td>TETRA</td>
+        <td>Terrestrial Trunked Radio</td>
+        <td>a set of standards developed by  the ETSI that  describes a common mobile radio communications infrastructure  throughout Europe. </td>
+      </tr>
+      <tr>
+        <td>texel</td>
+        <td>Texture Element</td>
+        <td>The smallest element of a textured 3D surface. Pixels make up 2D  surfaces, but texels make up the surfaces that cover textured 3D  objects.</td>
+      </tr>
+      <tr>
+        <td>TFRC</td>
+        <td>TCP-Friendly Rate Control</td>
+        <td>a congestion control mechanism designed for unicast flows operating in an Internet environment and competing with TCP traffic.</td>
+      </tr>
+      <tr>
+        <td>TFS</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Team Foundation Server</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Three Finger Salute</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Productive and effective solution for managing change across organizations of all sizes. It enables you to securely manage all project artifacts and source code in one repository</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Refers to the Control-Alt-Delete key combination used to reboot older versions of Windows  and <a href="glossary_d.htm">DOS</a> or to bring up the task manager in newer versions.</p></td>
+      </tr>
+      <tr>
+        <td>TFT</td>
+        <td>Thin Film Transistor</td>
+        <td>These transistors are used  in high-quality flat panel liquid-crystal displays (LCDs). TFT-based  displays have a transistor for each pixel on the screen. </td>
+      </tr>
+      <tr>
+        <td>TFTP</td>
+        <td>Trivial File Transfer Protocol</td>
+        <td>a set of conventions that transfers files  between hosts using minimal protocol.</td>
+      </tr>
+      <tr>
+        <td>TGT</td>
+        <td>ticket-granting ticket</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A ticket  that a principal passes to the ticket-granting server when a service ticket  is requested.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A ticket  that allows access to the ticket granting service on the key distribution  center (KDC). </p></td>
+      </tr>
+      <tr>
+        <td>TiB</td>
+        <td>tebibyte </td>
+        <td>1,099,511,627,776                   bytes. 1024 gibibytes</td>
+      </tr>
+      <tr>
+        <td>TI</td>
+        <td><a href="http://www.ti.com">Texas Instruments</a></td>
+        <td>a manufacturer of semiconductors and computers,
+          headquartered in Dallas, Texas. Jack S. Kilby developed the first working
+          integrated circuit (“silicon chip”) at <a href="http://www.ti.com">TI</a> in 1958, making it possible to miniaturize electronic equipment to a degree far beyond earlier expectations</td>
+      </tr>
+      <tr>
+        <td>TIES</td>
+        <td>time independent escape sequence</td>
+        <td>provides a means to switch between command mode and data mode on an  analog modem. TIES is an alternate method to the Heatherington escape  sequence. TIES was developed by a group of modem manufacturers in 1991.</td>
+      </tr>
+      <tr>
+        <td>TIFF</td>
+        <td>Tag Image File Format</td>
+        <td>A de facto standard format for bit-mapped image files.</td>
+      </tr>
+      <tr>
+        <td>TIP</td>
+        <td>Telepresence  
+          Interoperability Protocol</td>
+        <td>Cisco-developed,  mechanism to deal with multiscreen environments</td>
+      </tr>
+      <tr>
+        <td>TISPAN</td>
+        <td>Telecoms & Internet Converged Services & Protocols for Advanced Networks</td>
+        <td>TISPAN is a standardization body of ETSI, specializing in fixed networks and Internet convergence. </td>
+      </tr>
+      <tr>
+        <td>TKIP</td>
+        <td>Temporal Key Integrity Protocol</td>
+        <td>A data encryption technology.</td>
+      </tr>
+      <tr>
+        <td>TLB</td>
+        <td>translation lookaside buffer</td>
+        <td>The translation lookaside buffer or address translation cache is small piece of associative memory(1) within a processor which caches part of the translation from virtual addresses to physical addresses.</td>
+      </tr>
+      <tr>
+        <td>TLD</td>
+        <td>Top Level Domain</td>
+        <td>The last (right-hand) part of a complete <em>Domain Name</em>. There are a large number of TLD's, e.g. .biz, .com, .edu, .gov,  .info, .int, .mil, .net, .org, and a collection of two-letter TLD's  corresponding to the standard two-letter country codes, e.g.,  .us, .ca, .jp, etc. </td>
+      </tr>
+      <tr>
+        <td>TLI</td>
+        <td>Transport Layer Interface</td>
+        <td>An interface that is to supersede the socket-based interprocess communications mechanisms as the way to access transport services. Modeled after the industry standard ISO Transport Service Definition </td>
+      </tr>
+      <tr>
+        <td>TLL</td>
+        <td>Task Library Language </td>
+        <td>In IBM  Tivoli environment, a programming language used to define a task library.</td>
+      </tr>
+      <tr>
+        <td>TLM</td>
+        <td>Transportation Lifecycle Management</td>
+        <td>Manhattan Associates' TMS product that is capable of handling many of the needs of users with complex transportation requirements</td>
+      </tr>
+      <tr>
+        <td>TLP</td>
+        <td>Transactional Licensing Program</td>
+        <td>Adobe Open Options  makes it easy for organizations of all sizes to  get the benefits of volume ordering through the TLP</td>
+      </tr>
+      <tr>
+        <td>TLS</td>
+        <td>Transport Layer Security</td>
+        <td>A protocol designed to secure the privacy of communications over the  Internet. It is defined in request for comment 2246 from the Internet  Engineering Task Force.</td>
+      </tr>
+      <tr>
+        <td>TOA</td>
+        <td>time of arrival</td>
+        <td>A technique that uses to triangulation to determine the geographic  position of mobile devices, such as cell phones. The position is  determined by comparing the different times that a signal broadcast by  the device arrives at various sites</td>
+      </tr>
+      <tr>
+        <td>TMHES</td>
+        <td>Trend Micro Hosted Email Security</td>
+        <td>Trend Micro e-mail security SaaS offering</td>
+      </tr>
+      <tr>
+        <td>TMP file</td>
+        <td> temporary file</td>
+        <td> Temporary files are generated by applications and should      be deleted automatically by the application that created them when they are      no longer required - unfortunately this frequently does not happen so      temporary files can tend to build up over time.</td>
+      </tr>
+      <tr>
+        <td>TMRS</td>
+        <td>traffic measurement and recording systems</td>
+        <td>A computer-generated report          with usage information of telephone systems; usually includes trunk utilization, outages,          queuing time and the need for additional common equipment.  </td>
+      </tr>
+      <tr>
+        <td>TMS</td>
+        <td><p>Threat Management System </p>
+        <p>transportation management system </p></td>
+        <td><p>Symantec™ DeepSight™ TMS provides actionable  intelligence covering the complete threat lifecycle, from initial  vulnerability to active attack. <a href="https://tms.symantec.com/">https://tms.symantec.com/</a></p>
+        <p>transportation management system </p></td>
+      </tr>
+      <tr>
+        <td>TNC</td>
+        <td>Trusted Network Connect </td>
+        <td>an open architecture for NAC</td>
+      </tr>
+      <tr>
+        <td>TNEF</td>
+        <td>Transport Neutral Encapsulation Format</td>
+        <td>Format for converting a set of MAPI properties into a serial data stream. Primarily used by transport providers that need to encode MAPI message properties for transmission through a messaging system that does not support those properties directly</td>
+      </tr>
+      <tr>
+        <td>TNS</td>
+        <td>Transaction Network Services </td>
+        <td>leading global provider of data communications and interoperability solutions. <a href="http://www.tnsi.com/">http://www.tnsi.com/</a></td>
+      </tr>
+      <tr>
+        <td>TOD</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Tool on Demand</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> time-of-day</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> feature of some versions of the AOL software  allows us to update portions of the client software on your computer  without you having to upgrade to a completely new version. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A timing  device that counts units of time based on the starting point of 00 hours,  00 minutes, and 00 seconds on January 1, 1900.</p></td>
+      </tr>
+      <tr>
+        <td>TOE</td>
+        <td>TCP/IP Offload Engine</td>
+        <td>a technology used in NICs to offload processing of the TCP/IP stack to the network controller.</td>
+      </tr>
+      <tr>
+        <td>ToS</td>
+        <td> Type Of Service</td>
+        <td>A field within an IP header which can be used by the device originating the packet, or by an intermediate networking device, to signal a request for a specific QoS level </td>
+      </tr>
+      <tr>
+        <td>TOSLink</td>
+        <td>Toshiba Link</td>
+        <td>A standard optical connection for digital audio.</td>
+      </tr>
+      <tr>
+        <td>TPF</td>
+        <td>Transaction Processing Facility</td>
+        <td><strong> </strong>A high-availability IBM system designed to support transaction-driven applications.</td>
+      </tr>
+      <tr>
+        <td>TP-MIC</td>
+        <td>Twisted-Pair Media Interface Connector</td>
+        <td>Connector jack at end user or network equipment that               receives twisted pair plug.</td>
+      </tr>
+      <tr>
+        <td>TPM</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Transactions Per Minute</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Trusted Platform Module</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The amount of database transactions a server can do in a minute’s time.  This method of measurement is often used to compare high-powered  database servers with multiple processors.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A component on the PC motherboard that is specifically designed to  enhance platform security above-and-beyond the capabilities of today’s  software. </p></td>
+      </tr>
+      <tr>
+        <td>TPMs</td>
+        <td>transaction processing monitors</td>
+        <td>enterprise application platforms</td>
+      </tr>
+      <tr>
+        <td>TPS</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> transactions per second</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Transaction Process System </p></td>
+        <td><p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a measurement used to determine how many transactions have been processed in one second in transaction-oriented systems.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a type of IS that collects, stores, modifies and retrieves transaction of an organization. </p></td>
+      </tr>
+      <tr>
+        <td>TPV</td>
+        <td>Third Party Vendor</td>
+        <td>supplier that provides services to the primary service provider                    that has signed                     the large projects management or outsourcing agreement with the client. </td>
+      </tr>
+      <tr>
+        <td>TR</td>
+        <td>Terminal Ready</td>
+        <td>This light is illuminated when your computer has turned on the <a href="glossary_r.htm">RS-232  (serial) interface</a><strong>.</strong> Sometimes this light will not come on until you have  loaded your communications software into memory.</td>
+      </tr>
+      <tr>
+        <td>tracert</td>
+        <td>traceroute</td>
+        <td>Traceroute is a tool the maps the route a packet takes from the local machine to a remote destination.</td>
+      </tr>
+      <tr>
+        <td>Transceiver </td>
+        <td>Transmitter/Receiver</td>
+        <td>A Device that   receives and sends signals over a medium. In networks, it is   generally used to allow for the connection between two   different types of cable connectors, such as AUI and RJ-45. </td>
+      </tr>
+      <tr>
+        <td>TRIP</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Telephony Routing over Internet Protocol</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Token Ring Interface Processor</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Discovery and exchange of IP telephony gateway routing tables between providers</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> High-speed interface processor on the Cisco 7000  series routers. The TRIP provides two or four Token Ring ports for  interconnection with IEEE 802.5 and IBM Token Ring media with ports  independently set to speeds of either 4 or 16 Mbps. </p></td>
+      </tr>
+      <tr>
+        <td> Triple DES / TDES</td>
+        <td>Triple Data Encryption Standard</td>
+        <td>A variant of Data Encryption Standard (DES). It uses three different DES keys, in sequence, to encrypt a file</td>
+      </tr>
+      <tr>
+        <td>TRM</td>
+        <td>Teradata Relationship Manager</td>
+        <td>Teradata MCCM product</td>
+      </tr>
+      <tr>
+        <td>TRS</td>
+        <td>Tip, Ring, Sleeve (cable)</td>
+        <td>An analog cable used to connect audio devices. It typically comes in 1/4″ and 1/8″ diameters. </td>
+      </tr>
+      <tr>
+        <td>TRUE</td>
+        <td>task-related user exit</td>
+        <td>A user  exit program that is associated with specified events in a particular task,  rather than with every occurrence of a particular event in CICS processing </td>
+      </tr>
+      <tr>
+        <td>TS</td>
+        <td>Terminal Server / Services</td>
+        <td>(Microsoft Windows) Terminal Server.</td>
+      </tr>
+      <tr>
+        <td>TS-CAL</td>
+        <td>Terminal Services—Client Access License</td>
+        <td>a license allowing
+          more than the minimum number of users to access a Windows server<br />
+          through REMOTE DESKTOP.</td>
+      </tr>
+      <tr>
+        <td>TSF</td>
+        <td>Text Services Framework</td>
+        <td>Simple and scalable framework that enables advanced text input and natural language technologies for applications </td>
+      </tr>
+      <tr>
+        <td>TSIG</td>
+        <td>Transaction Signature</td>
+        <td>a computer networking protocol used by the DNS as a way to authenticate updates to a dynamic DNS database.</td>
+      </tr>
+      <tr>
+        <td>TSM</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Tivoli Storage Manager</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> trusted service manager </p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Protects data from hardware failures and other errors by storing backup and archive copies of data on offline storage </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a new role introduced in the value chain to provide a single point of  contact for all service providers wanting to put their applications  onto NFC phones. The TSM would have a master key to the secure element  and would manage the secure downloads.</p></td>
+      </tr>
+      <tr>
+        <td>TSN</td>
+        <td>The Sierra Network </td>
+        <td>also called ImagiNation Network (INN), an early online multiplayer gaming system. Developed by Sierra On-Line in 1989, and first available to the public in 1991.</td>
+      </tr>      <tr>
+        <td>TSO</td>
+        <td>Time Sharing Option</td>
+        <td>Multitasking system for IBM MVS operating system</td>
+      </tr>
+      <tr>
+        <td>TSOP</td>
+        <td>Thin Small Outline Package</td>
+        <td><strong> </strong> One of several packaging options for AMD flash devices.</td>
+      </tr>
+      <tr>
+        <td>TSR</td>
+        <td>Terminate and Stay Resident</td>
+        <td> program usually loaded automatically on startup, which remains in memory         to provide particular functions such as connection to a network or protection         against viruses. </td>
+      </tr>
+      <tr>
+        <td>TSRM</td>
+        <td>Tivoli Service Request Manager</td>
+        <td>IBM's IT service desk product</td>
+      </tr>
+      <tr>
+        <td>TSV</td>
+        <td>Tab Separated Value (file)</td>
+        <td>a plain-text file that includes lines of fields (strings of characters) that are separated from each other by  single tab stops.</td>
+      </tr>
+      <tr>
+        <td>TTP</td>
+        <td>trusted third party</td>
+        <td>A trusted entity that vouches for the identity of the sender or  receiver of information in a security system. In <a href="glossary_p.htm">PKI</a> security, the role of trusted third party is  played by a certification authority</td>
+      </tr>
+      <tr>
+        <td>TTL</td>
+        <td>Time To Live</td>
+        <td><div align="justify">
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> used when a "ping,"  or a request for a response, is sent to another computer, such as a  server. The TTL represents the number of hops, or servers in different  locations, the request can travel to before returning a failed attempt  message.</p>
+          <p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The time interval in  seconds that an entry can exist in the cache before the name server discards  it.</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>TTL</td>
+        <td>Transistor Transistor Logic </td>
+        <td>A specific method of wiring a digital circuit using bipolar transistors.</td>
+      </tr>
+      <tr>
+        <td>TTS</td>
+        <td>Text-To-Speech</td>
+        <td>A term used in voice processing. The computer "reads" the text out aloud. The technology is used extensively for blind people.</td>
+      </tr>
+      <tr>
+        <td>TTY</td>
+        <td>TeleTypewriter</td>
+        <td>This term refers to a means of sending data one character at a time.  The TTY interface is often used by dumb terminals to communicate with  mainframes.</td>
+      </tr>
+      <tr>
+        <td>TUCOWS</td>
+        <td>The Ultimate Collection of Winsock Software</td>
+        <td> well known for its popular website directory of shareware, freeware, and demo software packages available to download. <a href="http://www.tucows.com/">http://www.tucows.com/</a></td>
+      </tr>
+      <tr>
+        <td>TUP</td>
+        <td>Telephone User Part</td>
+        <td>provides conventional PSTN telephony services across the SS7 network. TUP was the first layer 4 protocol defined by the standards bodies and as such did not provision for ISDN services. </td>
+      </tr>
+      <tr>
+        <td>TUR</td>
+        <td>trunk utilization report </td>
+        <td> A computer printout detailing the traffic on a          trunk. </td>
+      </tr>
+      <tr>
+        <td>TVO</td>
+        <td>total value of opportunity</td>
+        <td>A Gartner-developed model that brings a number of factors together to  derive the business value of IT investments, thereby providing a basis  for IT decision making.</td>
+      </tr>
+      <tr>
+        <td>TVT</td>
+        <td>ThinkVantage Technology</td>
+        <td>Lenovo branding for proprietary software.</td>
+      </tr>
+      <tr>
+        <td>TWA</td>
+        <td>transaction work area</td>
+        <td>a work area for a given task.</td>
+      </tr>
+      <tr>
+        <td>TWAIN</td>
+        <td>technology without an interesting name</td>
+        <td>a protocol for delivering graphical images from a scanning or
+          imaging device to application software. see<a href="http://www.twain.org"> www.twain.org</a></td>
+      </tr>
+      <tr>
+        <td>TWX</td>
+        <td>Teletypewriter Exchange Service</td>
+        <td>A data communications service provided by  the AT&T Corporation using teletypewriter stations connected to  phone lines, for access to other TWX stations. TWX supports both ASCII  and Baudot coded machines.</td>
+      </tr>
+      <tr>
+        <td>TX</td>
+        <td>Transmit / Transmission</td>
+        <td>The act of uploading or sending data. </td>
+      </tr>
+      <tr>
+        <td>TXT</td>
+        <td>Trusted eXecution Technology</td>
+        <td>Hardware extension to some of Intel's microprocessors and respective chipsets, intended to provide users and organizations (governments, enterprises, etc.) with a higher level of trust while accessing, modifying or creating sensitive data and code</td>
+      </tr>
+      <tr>
+        <td>TXT record</td>
+        <td> Text record</td>
+        <td>A DNS record type that stores a text string for a response to a 
+          DNS query.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Tablet PCs</td>
+        <td>Tablet PCs were brought to market to address the low use of laptop  computers in meetings and the slowing of laptop adoption in the  enterprise. They are designed to be closer to the pad and pencil that  are the standard for note taking.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>tag</td>
+        <td> In Web pages, tags indicate what should be displayed on the screen when the page loads.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>tagged</td>
+        <td>Tagged is a social networking site based in San Francisco, California, United States, founded in 2004. <a href="http://www.tagged.com/">http://www.tagged.com/</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Tandems</td>
+        <td>Switches that consolidate traffic, reduce                           trunk group requirements, and switch interoffice traffic.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Tangible User Interfaces</td>
+        <td>the user controls digital information and processes by <br />
+          manipulating physical, real-world objects that are 
+          meaningful in the context of the interaction.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Telematics</td>
+        <td>Blend of telecommunications and informatics (another term for IT). This  area of research studies the interrelationships between different  communications engineering fields</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>term license</td>
+        <td>A type of software agreement wherein the customer pays maintenance fees  for use of the software over a specified term and, unless the license  is renewed, has no right to use the software after the term expires.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>terminal</td>
+        <td>Simple device at which data can be entered or  retrieved from a network. Generally, terminals have a monitor and a  keyboard, but no processor or local disk drive. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>tethering</td>
+        <td>enables your cellular telephone or similar Internet-enabled mobile device to connect other devices such as netbooks, laptops or PDAs to the Internet. Mobile phones that offer tethering typically connect to other devices via Bluetooth or a USB cable in order to provide them with Internet access.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Thick (or fat) client</td>
+        <td>Thick clients, also called heavy clients, are full-featured computers that are connected to a network. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Thin Client</td>
+        <td>A type of client/server computing where applications are run, and data  is stored, on the server rather than on the client. Because the  applications are executed on the server, they do not require  client-resident installation, although the <a href="glossary_g.htm">GUI</a> and  some application logic may be rendered to the client.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>thread</td>
+        <td>In Mach, the unit of CPU utilization. A thread consists of a program counter, a set of registers, and a stack pointer. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Throughput</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The volume of work or information flowing through a system. </p>
+            <p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> In data communications,  the total traffic between stations over a period of time.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A measure  of the amount of information transmitted over a network in a given period  of time. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>timeout</td>
+        <td>Event that occurs when one network device expects  to hear from another network device within a specified period of time,  but does not. The resulting timeout usually results in a retransmission  of information or the dissolving of the session between the two  devices. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>token</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Frame that contains control information. Possession of the token allows a network device to transmit data onto the network. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The basic syntactic unit of  a computing language.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The basic textual units that are indexed by enterprise  search.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td> Torrent</td>
+        <td>A method of making data available for download          over the internet, where the recipient of data is expected to make the          data available to others for download from their PC, rather than all          users downloading from a central server.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>traceroute</td>
+        <td>Program available on many systems that traces the path a packet takes to a desti-<br />
+          nation. It is used mostly to debug routing problems between hosts. A traceroute protocol is also defined in RFC 1393. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>traffic</td>
+        <td>The messages or calls that flow through                           the circuits or equipment on a communications network.                           The four Switched Access capacity traffic types are originating,                           terminating, voice data and SwitchNet 56.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>tree</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A hierarchical collection of  nodes that can have an arbitrary number of references to other nodes. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A data structure whose elements  are linked in a hierarchical fashion.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Triple Play</td>
+        <td>The combined offering of voice, video, and data over one line.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Trojan Horse</td>
+        <td>A computer program is either hidden inside another program or that  masquerades as something it is not in order to trick potential users  into running it.  The term  "Trojan Horse" comes from a possibly mythical ruse of war used by the  Greeks sometime between 1500 and 1200 B.C.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>TrueType</td>
+        <td>A technology for outline fonts that is built into all Windows and Macintosh operating systems. Outline fonts are scalable           enabling a display device to generate a character at any size based           on a geometrical description. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>trunk</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A line which runs between two switches                           or swiching systems which are generally found in Central                           Offices and/or PBXs.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Individual channels or circuits that can be grouped. This is the smallest denominator for a network facility. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>tunnel / tunneling</td>
+        <td>A communication channel created in a computer network by encapsulating  a communication protocol's data packets in (on top of) a second  protocol that normally would be carried above, or at the same layer as,  the first one.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Tunnel Broker</td>
+        <td>In computer networking terminology, a tunnel broker is the phrase used to describe a service that provides a network tunnel. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Tweak</td>
+        <td>When you modify a certain piece of hardware for better performance, it is often referred to as "tweaking" it. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Twisted Pair</td>
+        <td>Two copper wires twisted to cancel their                           own radio frequency interference to reduce noise on the                           circuit.</td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.99848985672 -->
+</html>

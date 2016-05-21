@@ -1,0 +1,1649 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - V for virtual machine</title>
+<meta name="keywords" content="virtual, vr, vmware, vb, vba, vnc, video, voice, vlc, vfm, vip, vtunnel">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page177" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm789" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable on"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-v">V</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >V</h1><div class="marker" ></div>
+<div id="pm608" class="tile  m1201 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>V for virtual machine</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm754" class="tile  m1471 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">term</th>
+        <th scope="col">definition</th>
+      </tr>
+      <tr>
+        <td>V.35</td>
+        <td> </td>
+        <td> An <a href="i">ITU</a> interface specification for data transmitted at 48 kilobits per second.</td>
+      </tr>
+      <tr>
+        <td>v-mail</td>
+        <td>Video mail</td>
+        <td>Sending video clips as attachments to e-mail messages.</td>
+      </tr>
+      <tr>
+        <td>V H</td>
+        <td>Vertical and horizontal grid points</td>
+        <td>used                           to determine straight-line mileage between locations.                           The junction point is the called V and H coordinate.</td>
+      </tr>
+      <tr>
+        <td>V2P</td>
+        <td>Virtual to physical</td>
+        <td>refers to the migration of an operating system (OS), application programs and data from a virtual machine or disk partition to a computer's main hard disk. The target can be a single computer or multiple computers.</td>
+      </tr>
+      <tr>
+        <td>VA</td>
+        <td>virtual assistant</td>
+        <td>a conversational, computer-generated character that <br />
+          simulates a conversation to deliver voice- or text-based information to a user via a Web, kiosk or 
+          mobile interface.</td>
+      </tr>
+      <tr>
+        <td>VAD</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Value-Added Distributor</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Voice Activity Detection</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Analogous to value-added reseller (IT trade term).</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A technology that recognizes when                                                   a person is speaking and when                                                   a person is silent to suppress                                                   sending unnecessary noise across                                                   a telecommunications line.</p></td>
+      </tr>
+      <tr>
+        <td>VADP</td>
+        <td> vStorage APIs for Data Protection</td>
+        <td>VMware's   replacement for VCB, integrates backup functionality via vStorage APIs</td>
+      </tr>
+      <tr>
+        <td>VAIO</td>
+        <td> Video Audio Integrated Operation</td>
+        <td>Sony notebook brand</td>
+      </tr>
+      <tr>
+        <td>VAN</td>
+        <td>Value-Added Network</td>
+        <td>VANs are public networks that add value to the basic communication  provided by common carriers by offering specialized services such as  access to commercial data bases, E-mail and video conferencing.</td>
+      </tr>
+      <tr>
+        <td>VAR</td>
+        <td>value-added reseller</td>
+        <td>An organization that buys equipment from a vendor at a discount, adds  value (such as application software packaged and sold with underlying  system software) and remarkets it.</td>
+      </tr>
+      <tr>
+        <td>VAROS</td>
+        <td>VAriable Refraction Optical System</td>
+        <td>Scanner technology by <a href="http://canon.com">Canon</a></td>
+      </tr>
+      <tr>
+        <td>VATH</td>
+        <td>Visual, Auditory, Tactile, Haptic</td>
+        <td>Modalities in Avatar-based Real Time Distributed Virtual Environment.</td>
+      </tr>
+      <tr>
+        <td>VAX</td>
+        <td>Virtual Address Extension</td>
+        <td>The Digital architecture that was the company's principal product line prior to the Alpha. VAX was enormously successful in <a href="glossary_d.htm">DEC</a>'s traditional engineering and scientific customer base.</td>
+      </tr>
+      <tr>
+        <td>VB</td>
+        <td>Visual Basic</td>
+        <td>software product developed by Microsoft. Its purpose is to bring  programming down to a drag-and-drop level to speed up development  cycles.</td>
+      </tr>
+      <tr>
+        <td>VBA</td>
+        <td>Virtual backup appliance <p>Visual Basic  for Applications
+</td>
+        <td>VBA is a virtual machine used to back up other virtual machines<p>
+VBA is the application edition of Microsoft's Visual Basic programming language</td>
+      </tr>
+      <tr>
+        <td>vBNS</td>
+        <td><strong></strong> very high-speed Backbone Network Service</td>
+        <td>The next                   generation Internet. Sponsored by the NSF and implemented by <a href="glossary_m.htm">MCI</a>,                   vBNS presently supports data transfer rates of 622Mbs and is expected                   to eventually support 2.5Gbs speeds.</td>
+      </tr>
+      <tr>
+        <td>VBR</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> variable bit rate</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Very Busy Run</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <a href="glossary_q.htm">QoS</a> class defined by the ATM Forum for ATM  networks. VBR is subdivided into a real time (RT) class and non-real  time (NRT) class. VBR (RT) is used for connections in which there is a  fixed timing relationship between samples.</p>
+            <p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> IT slang for Very Busy Run, meaning a high traffic network or segment of a network.</p></td>
+      </tr>
+      <tr>
+        <td>VBUG</td>
+        <td>Voice Browser Usability Group</td>
+        <td>A group within the <a href="glossary_w.htm">W3C</a> developing voice portal usability guidelines and best practices. </td>
+      </tr>
+      <tr>
+        <td>VBX</td>
+        <td>Visual Basic Custom Control</td>
+        <td>A software module that can be used in many different applications. VBXs  were originally created to to make it easy to develop Windows  applications with Visual Basic, but can be used in other environments.</td>
+      </tr>
+      <tr>
+        <td>Veronica</td>
+        <td>Very Easy Rodent Oriented Net-wide Index to Computerized Archives</td>
+        <td>Developed at the University of Nevada, Veronica was a constantly  updated database of the names of almost every menu item on thousands of <em>gopher</em>servers. Now made obsolete by web-bases search engines. </td>
+      </tr>
+      <tr>
+        <td>VC</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Videoconference</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Virtual Channel</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> virtual circuit </p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A real-time video session between two or more 
+          users or between two or more locations.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A connection established between end users, in which               packets are forwarded along the same path and bandwidth is not permanently               allocated until it is used.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Logical circuit created to ensure reliable  communication between two network devices. A virtual circuit is defined  by a VPI/VCI pair, and can be either PVC or SVC. </p></td>
+      </tr>
+      <tr>
+        <td>VCB</td>
+        <td>VMware Consolidated Backup</td>
+        <td>VMware Infrastructure feature</td>
+      </tr>
+      <tr>
+        <td>VCC</td>
+        <td>Voice Call Continuity</td>
+        <td>VCC is a key aspect of the IMS promise of a seamless user experience.</td>
+      </tr>
+      <tr>
+        <td>VCD</td>
+        <td>Video Compact Disc</td>
+        <td>This technology was developed by Sony and Philips in 1993, and allows  around 70 minutes of compressed MPEG-1 video/audio to be stored on a  CD.</td>
+      </tr>
+      <tr>
+        <td>VCDX</td>
+        <td>VMware Certified Design Expert </td>
+        <td>VMware Certified Design Expert </td>
+      </tr>
+      <tr>
+        <td>VCI</td>
+        <td>Virtual Channel Identifier</td>
+        <td><div align="justify">Stands  for "Virtual Channel Identifier." The VCI, used in conjunction with the  VPI (virtual path indicator), indicates where an ATM cell is to travel  over a network. ATM, or asynchronous transfer mode, is a method that  many ISPs (Internet Service Providers) use to transfer data to client  computers.</div></td>
+      </tr>
+      <tr>
+        <td>VCM</td>
+        <td>Virtual Channel Memory</td>
+        <td>A type of memory developed by NEC. VCM memory adds some low latency  SRAM registers onto standard SDRAM, much like EDO compared to Fast Page  Mode memory.</td>
+      </tr>
+      <tr>
+        <td>VCO</td>
+        <td>voltage-controlled oscillator</td>
+        <td>An oscillator with an output frequency that is a                   function of an input voltage.</td>
+      </tr>
+      <tr>
+        <td>VCP</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Value Chain Planning</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> VMware Certified Professional</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Oracle's SCP capabilities</p>
+            <p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> designed for individuals who  want to demonstrate their expertise in virtual infrastructure <a href="www.vmware.com/certification/">www.vmware.com/certification/ </a></p></td>
+      </tr>
+      <tr>
+        <td>VCR</td>
+        <td>video cassette recorder</td>
+        <td>An analog magnetic recording and playback machine. Usually used for  recording and viewing full-motion video; also useful as a data backup  device.</td>
+      </tr>
+      <tr>
+        <td>VD</td>
+        <td>Virtual Disk</td>
+        <td> object presented to the host level for user data storage. At least one physical disk is <br />
+          associated with a VD. </td>
+      </tr>
+      <tr>
+        <td>Vdeck</td>
+        <td>Video Deck</td>
+        <td>A Super 8 mm tape drive from Sony which can be connected to a computer via the serial port.</td>
+      </tr>
+      <tr>
+        <td>VDI</td>
+        <td>Virtual desktop infrastructure</td>
+        <td>practice of hosting a desktop operating system within a virtual machine (VM) running on a centralized server. VDI is a variation on the client/server computing model, sometimes referred to as server-based computing (SBC). The term was coined by VMware Inc.</td>
+      </tr>
+      <tr>
+        <td>VDR</td>
+        <td>virtual deal room</td>
+        <td>a secure, Web-based virtual data room that complements or replaces the  paper-based deal room that contains all relevant information needed  during the due diligence phase. </td>
+      </tr>
+      <tr>
+        <td>VDS</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Variable Drop Size</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> visual data stream </p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Printing technology by NEC</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> In bidirectional  text representation, a stream of data that is organized in the sequence in  which the data is presented on the screen.</p></td>
+      </tr>
+      <tr>
+        <td>VDSL</td>
+        <td>very high-speed digital subscriber line</td>
+        <td>Extremely high-speed DSL connections over short distances.</td>
+      </tr>
+      <tr>
+        <td>VDT</td>
+        <td>Video Display Terminal</td>
+        <td>A computer terminal with monitor and keyboard; sometimes VDT refers to only the monitor.</td>
+      </tr>
+      <tr>
+        <td>VDU</td>
+        <td>Visual Display Unit</td>
+        <td>includes a keyboard for input data and a screen for displaying output.  The oldest and most popular type of VDU screen is the CRT, which uses essentially the same technology as a television  screen.</td>
+      </tr>
+      <tr>
+        <td>VEP</td>
+        <td>vertical enterprise portal</td>
+        <td>A portal that typically includes a business application and focuses on  a specific business function (e.g., investment or customer service) of  an enterprise — unlike a <a href="glossary_h.htm">HEP</a>, which  serves a broad enterprise population.</td>
+      </tr>
+      <tr>
+        <td>VESA</td>
+        <td>Video Electronics Standards Association</td>
+        <td>An organization to help standardize how PCs implement video  technologies. The first standard this organization created was the  800x600 pixel Super VGA (SVGA) display and its software interface. <a href="http://www.vesa.org" target="_blank">HTTP://WWW.VESA.ORG</a></td>
+      </tr>
+      <tr>
+        <td>VF</td>
+        <td>Voice Frequency</td>
+        <td>Voice Frequency</td>
+      </tr>
+      <tr>
+        <td>VFM</td>
+        <td>virtual file manager</td>
+        <td><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> IBM System Storage N series VFM software is a comprehensive solution for managing unstructured file data. <p>
+<img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <a href="www.netapp.com"> NetApp</a> VFM simplify your file services and maximize productivity</td>
+      </tr>
+      <tr>
+        <td>VGA</td>
+        <td>Video Graphics Array</td>
+        <td>A hardware display and software resolution standard for personal computers.</td>
+      </tr>
+      <tr>
+        <td>VGF</td>
+        <td>voice grade facility </td>
+        <td>Circuit designed to DDD network standards, making          it suitable for voice, low-speed data, facsimile or telegraph service.  </td>
+      </tr>
+      <tr>
+        <td>VHD</td>
+        <td>Virtual Hard Drive</td>
+        <td>File format containing the complete contents and structure representing a Hard Disk Drive, and is used to store virtual operating systems and their associated programs in a single file by various virtualization programs or a virtual machine </td>
+      </tr>
+      <tr>
+        <td>VHDL</td>
+        <td>VLSI Hardware Description Language</td>
+        <td>an industry standard format for describing integrated circuit logic and behavior. </td>
+      </tr>
+      <tr>
+        <td>VHF</td>
+        <td>very high frequency</td>
+        <td>range of the radio spectrum is the band extending from 30 MHz to 300 MHz. The wavelengths corresponding to these limit frequencies are 10 meters and 1 meter. </td>
+      </tr>
+      <tr>
+        <td>VHDTS</td>
+        <td>Very High Density Thumb Screw</td>
+        <td>68-pin <a href="glossary_s.htm">SCSI</a> connector with manually screwable screws</td>
+      </tr>
+      <tr>
+        <td>VHLL</td>
+        <td>Very-High-Level Language</td>
+        <td>A high-level language that is very structured, having strict rules that must be followed.</td>
+      </tr>
+      <tr>
+        <td>VHM</td>
+        <td>Voice Health Monitor</td>
+        <td>Helps system administrators and network managers determine and maintain the stability of the VoIP network within their enterprise by using a series of availability and health checks</td>
+      </tr>
+      <tr>
+        <td>VHS</td>
+        <td>video home system</td>
+        <td>A videocassette format.</td>
+      </tr>
+      <tr>
+        <td>Vodcast</td>
+        <td>video <br />
+          podcasting</td>
+        <td>A podcast is a short  video clip that is 
+          broadcast over the Internet. </td>
+      </tr>
+      <tr>
+        <td>VIC</td>
+        <td>Voice Interface Card</td>
+        <td>connects the system to either the PSTN or to a PBX.</td>
+      </tr>
+      <tr>
+        <td>VIM</td>
+        <td>Vendor Independent Messaging</td>
+        <td>An <a href="glossary_a.htm">API</a> defined by Apple Computer, Inc.; Borland  International, Inc.; Lotus Development Corporation; and Novell, Inc.</td>
+      </tr>
+      <tr>
+        <td>Vines</td>
+        <td>VIrtual NEtwork System</td>
+        <td>a client/server network designed and marketed by Banyan</td>
+      </tr>
+      <tr>
+        <td>VIO</td>
+        <td>virtual input/output</td>
+        <td>A type of storage group that allocates data sets to paging  storage, which simulates a direct access storage device (DASD) volume. </td>
+      </tr>
+      <tr>
+        <td>VIP</td>
+        <td>VeriSign Identity Protection</td>
+        <td>cloud-based authentication service that enables enterprises to secure  online access and transactions to help obtain compliance and reduce  fraud risk</td>
+      </tr>
+      <tr>
+        <td>VITAL</td>
+        <td>VHDL Initiative for the Standardization of ASIC <br />
+          Libraries</td>
+        <td>A standard for defining the format of integrated circuit simulation libraries. </td>
+      </tr>
+      <tr>
+        <td>VIVO</td>
+        <td>Video In Vide o Out</td>
+        <td>a graphics card port which enables some video cards to  have bi-directional video transfer, originally  through a Mini-DIN connector and a specialized splitter cable, but now  meaning any kind of video that has both input and output capability.</td>
+      </tr>
+      <tr>
+        <td>VLA</td>
+        <td>Volume License Agreement</td>
+        <td><strong> </strong>A software licensing option offered under the Novell  "Customer Connections" program, with an entry point that opens  discounts to smaller organizations.</td>
+      </tr>
+      <tr>
+        <td>VLAN</td>
+        <td>virtual local-area network</td>
+        <td>A set of systems that, regardless of higher-layer addressing or  location, is designated as a logical <a href="glossary_l.htm">LAN</a> and  treated as a set of contiguous systems on a single LAN segment. VLANs  can be proprietary or standardized using the <a href="glossary_i.htm">IEEE</a> 802.1q specification.</td>
+      </tr>
+      <tr>
+        <td>VLC</td>
+        <td>VideoLan Client</td>
+        <td>Highly portable multimedia player for various audio and video formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ...) as well as DVDs, VCDs, and various streaming protocols. See also <a href="http://videolan.org">http://videolan.org</a></td>
+      </tr>
+      <tr>
+        <td>VLDB</td>
+        <td>very large database </td>
+        <td>A database measured in terabytes.</td>
+      </tr>
+      <tr>
+        <td>VLE</td>
+        <td>Virtual Learning Environment </td>
+        <td><span id="intelliTxt">A browser dependent software system that enables  online interaction between learner and tutor. It combines methods of  online communication (such as chatroom, discussion boards and e-mail)  with the ability to deliver learning materials</span></td>
+      </tr>
+      <tr>
+        <td>VLF</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Very Low Frequency</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Virtual Log File</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Electromagnetic frequencies in the range of 3 to 30 kiloherz. VLF  radiation has been a source of health concerns in the use of computer  monitors.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> SQL Server transaction log logical segment</p></td>
+      </tr>
+      <tr>
+        <td>VLIW</td>
+        <td>Very Long Instruction Word</td>
+        <td>A microprocessor architecture different from CISC and RISC. VLIW uses  encoded instructions that are even more complex than the instructions  used in CISC.</td>
+      </tr>
+      <tr>
+        <td>VLK</td>
+        <td>Volume License Key</td>
+        <td>A single license key which can be used on a number  		of computers to install a given product. A volume license key is  		typically issued to an individual company after purchasing a site  		license for a product.</td>
+      </tr>
+      <tr>
+        <td>VLL</td>
+        <td>Virtual Leased Line </td>
+        <td> way to provide Ethernet based point to point communication over IP/MPLS networks.</td>
+      </tr>
+      <tr>
+        <td>VLR</td>
+        <td>Visitor Location Register</td>
+        <td>contains all subscriber data required for call handling and mobility  management for mobile subscribers currently located in the area  controlled by the VLR.</td>
+      </tr>
+      <tr>
+        <td>VLS</td>
+        <td>Virtual Library Systems</td>
+        <td> HP StorageWorks backup and recovery solutions </td>
+      </tr>
+      <tr>
+        <td>VLSI</td>
+        <td>Very Large Scale of Integration</td>
+        <td>The process of placing more than 100,000 transistors on one chip</td>
+      </tr>
+      <tr>
+        <td>VLSM</td>
+        <td>Variable Length Subnet Masking</td>
+        <td>Used in conjunction with CIDR subnetting. In CIDR, without VLSM, all  subnet segments can be any number of bits long, but all segments must  be the same length. With VLSM, subnet segments can be defined which use  different CIDR masks for each subnet segment, resulting in very  economical use of available IP addresses.</td>
+      </tr>
+      <tr>
+        <td>VM</td>
+        <td>virtual machine</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An instance  of a data-processing system that appears to be at the exclusive disposal of  a single user</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An abstract specification  for a computing device that can be implemented in different ways in software  and hardware.</p></td>
+      </tr>
+      <tr>
+        <td>VMDQ</td>
+        <td>Virtual Machine Device Queues </td>
+        <td>part of the Intel VT-c suite for virtualization 
+          environments on Intel Ethernet server adapters. </td>
+      </tr>
+      <tr>
+        <td>VMEbus</td>
+        <td>VersaModule Eurocard bus</td>
+        <td>an alternative to the PC bus, S-100 bus and others. The  original design was 32-bit bus developed jointly by Motorola,  Signetics, Mostek and Thompson CSF. </td>
+      </tr>
+      <tr>
+        <td>VMI</td>
+        <td>vendor-managed inventory </td>
+        <td>vendor-managed inventory </td>
+      </tr>
+      <tr>
+        <td>VML</td>
+        <td>Vector Markup Language</td>
+        <td>An application of XML used for the markup  of vector graphic information in the same way that HTML is used for the  markup of text.</td>
+      </tr>
+      <tr>
+        <td>VMM</td>
+        <td>virtual machine monitor</td>
+        <td> host program that allows a computer to support multiple and identical execution environments in virtualization technology. </td>
+      </tr>
+      <tr>
+        <td>VMS</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Virtual Memory System</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Vocabulary Management Solution</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Voice Message Service</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A multiuser, multitasking, virtual memory operating        system for the VAX series from Digital Equipment.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> provides the tools for a software knowledge management system that can be used on both intranets and extranets for managing taxonomies, thesauri, classification schemes, and provides users with the capability to control files and indexes. </p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An Ericsson  service that transmits information between DirectTalk and certain switches.</p></td>
+      </tr>
+      <tr>
+        <td><a href="vnc_server.htm">VNC</a></td>
+        <td><a href="vnc_server.htm">Virtual Network Computing</a></td>
+        <td>A remote display system which allows you to view a computing 'desktop' environment not only on the machine where it is running, but from anywhere on the Internet and from a wide variety of machine architectures. </td>
+      </tr>
+      <tr>
+        <td>VNL</td>
+        <td>via net loss</td>
+        <td>The lowest loss in decibel (dB) at which a trunk          facility can be operated considering limitations of echo, crosstalk, noise and singing. </td>
+      </tr>
+      <tr>
+        <td>VNO</td>
+        <td>virtual network                     operator</td>
+        <td>virtual network                     operator is a provider of management services and a reseller of network services from other telecommunications suppliers that does not own the telecommunication infrastructure. </td>
+      </tr>
+      <tr>
+        <td>VoD</td>
+        <td><p>Video On Demand</p></td>
+        <td><p align="justify">A  service which allows you to choose from a menu displayed on your TV, a  video, TV programme, or training material and play it in real time on  your TV.</p></td>
+      </tr>
+      <tr>
+        <td>VoIP</td>
+        <td><p>voice over Internet Protocol</p></td>
+        <td><p align="justify">VoIP is the transmission of voice communications over              IP data networks, such   as IP-based LANs, intranets or the Internet. VoIP is defined as basic   voice              transport and, as opposed to IP telephony, VoIP does not support any   telephony features.</p></td>
+      </tr>
+      <tr>
+        <td>Voken</td>
+        <td>virtual token</td>
+        <td>an advertisement that appears over the contents of a
+          browser window, but not in a window of its own.</td>
+      </tr>
+      <tr>
+        <td>VOM</td>
+        <td>Volt-Ohm-Milliammeter</td>
+        <td>An electronic measuring device to measure voltage, amperage, resistance, electron direction flow and continuity.</td>
+      </tr>
+      <tr>
+        <td>VOP</td>
+        <td>Velocity of Propagation</td>
+        <td> the speed of a signal in relation to the speed of light in a vacuum (186,400 miles per second)</td>
+      </tr>
+      <tr>
+        <td>vortal</td>
+        <td>Vertical portal</td>
+        <td>A portal that caters to consumers within a particular industry (sometimes called a "vertical industry"). Vertical portals, also called "vortals," use Internet technology to offer the same kind of personalization tools that portals do. Another kind of vortal caters solely to other businesses rather than to an industry's consumers. </td>
+      </tr>
+      <tr>
+        <td>VOX</td>
+        <td>Voice Operated eXchange</td>
+        <td> telephone or radio activated device, such as a voice recorder or transmitter.</td>
+      </tr>
+      <tr>
+        <td>voxel</td>
+        <td>Volume pixel, or volume picture element</td>
+        <td>A three-dimensional pixel; a concept used in three-dimensional  modeling. The smallest division of a three-dimensional space or image.</td>
+      </tr>
+      <tr>
+        <td>VoxML</td>
+        <td>Voice Markup Language</td>
+        <td>a technology from Motorola for creating a voice dialog with a Web site  in which a user can call a Web site by phone and interact with it  through speech recognition and Web site responses.</td>
+      </tr>
+      <tr>
+        <td>VPA</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> valid printable area</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Volume Procurement Amendment </p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The intersection  of the current logical page or current overlay with the physical page in which  printing is allowed. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An agreement between a computer vendor and a customer under which the vendor grants discounted prices in return for the 
+              customer's commitment to purchase a minimum quantity of products. </p></td>
+      </tr>
+      <tr>
+        <td>VPD</td>
+        <td>Vital Product Data</td>
+        <td>Information about a device that is stored on the device itself. Typical VPD information includes a product model number, a unique serial number, product release level, maintenance level, and other information specific to the device type</td>
+      </tr>
+      <tr>
+        <td>VPDN</td>
+        <td>Virtual Private Dial-up Network</td>
+        <td>A network that extends remote access to a private network using a shared infrastructure. </td>
+      </tr>
+      <tr>
+        <td>VPI</td>
+        <td>Virtual Path Indentifier</td>
+        <td>A value in the cell header that identifies the virtual path (VP) to which the cell belongs. The field is 8 bits in cells traversing an UNI circuit and 12 bits in cells traversing network circuits</td>
+      </tr>
+      <tr>
+        <td>VPLS</td>
+        <td>virtual private LAN service</td>
+        <td>VPLS is a class of VPN that supports the connection of multiple sites in a single bridged domain over a managed IP/<a href="glossary_m.htm">MPLS</a> network.</td>
+      </tr>
+      <tr>
+        <td>VPN</td>
+        <td>Virtual Private Network</td>
+        <td><div align="justify">This  is a network term that most computer users don't need to know, but at  least you can impress your friends by talking about it. A VPN refers to  a network that is connected to the Internet, but uses encryption to  scramble all the data sent through the Internet so the entire network  is "virtually" private. </div></td>
+      </tr>
+      <tr>
+        <td>VPS</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Vectors Per Second</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Virtual private server</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A measurement of the speed of a vector processor (a processor which can  execute instructions in which the operands can be arrays of data rather  than only single elements).</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a single physical server that is split into multiple virtual servers.  What this means is that the single physical server is portioned in such  a way that the one server appears to be multiple servers.</p></td>
+      </tr>
+      <tr>
+        <td>VQF</td>
+        <td> Vector Quantization Format</td>
+        <td>An audio codec similar to MP3 but less lossy and (arguably) more intelligent. See <a href="http://www.vqf.com">http://www.vqf.com</a></td>
+      </tr>
+      <tr>
+        <td><a href="virtual_reality.htm">VR</a></td>
+        <td><a href="virtual_reality.htm">Virtual reality</a></td>
+        <td>The use of multimedia to create a simulation of a product or service so  that a user can experience and interact with it (e.g. driving a car).</td>
+      </tr>
+      <tr>
+        <td>VRC</td>
+        <td>Vertical Redundancy Check</td>
+        <td>A way of error checking by attaching a parity bit to each byte of data  to be transmitted, which is then tested to determine if the  transmission is correct. See parity bit and Cyclic Redundancy Check.</td>
+      </tr>
+      <tr>
+        <td>VRF</td>
+        <td>VPN routing/forwarding instance</td>
+        <td> A VRF consists of an IP routing table, a derived  forwarding table, a set of interfaces that use the forwarding table,  and a set of rules and routing protocols that determine what goes into  the forwarding table. In general, a VRF includes the routing  information that defines a customer VPN site that is attached to a PE  router. </td>
+      </tr>
+      <tr>
+        <td>VRM</td>
+        <td>voltage regulator module</td>
+        <td>a tiny module that installs on a motherboard to control and regulate the voltage fed to the microprocessor. </td>
+      </tr>
+      <tr>
+        <td>VRML</td>
+        <td> Virtual Reality Modeling Language</td>
+        <td> It's a form of application   	that gives a 3-D effect to pictures sometimes allowing you to "move" through   	them.</td>
+      </tr>
+      <tr>
+        <td>VRRP</td>
+        <td>Virtual Router Redundancy Protocol</td>
+        <td>Election protocol that dynamically assigns responsibility for a virtual router to one of the VRRP routers on a LAN</td>
+      </tr>
+      <tr>
+        <td>VRS</td>
+        <td>Virtual Reference Station</td>
+        <td> Represents a network correction method in which multiple base stations are 
+          used to derive correction data specific to an individual rover but it is unique in that a “virtual” base station is 
+          created for the rover at the autonomous point of  initiation. </td>
+      </tr>
+      <tr>
+        <td>VRT</td>
+        <td>Variable-Rate Technology</td>
+        <td>An electronic control 
+system that changes or adjusts the rates of a chemical 
+or material dispensed. </td>
+      </tr>
+      <tr>
+        <td>VRU</td>
+        <td>voice response unit </td>
+        <td>Device that accepts a coded request for data,          composes a coded response and interprets the coded response into locations of stored          vocabulary as output.  </td>
+      </tr>
+      <tr>
+        <td>VSAM</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Virtual Sequential Access Method</p>
+          <p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Virtual Storage Access Method</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A data storage system used in IBM mainframes. VSAM was designed to  improve access time by searching indexes instead of actual files, and  organizing data efficiently.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An IBM program that controls communication and data flow in SNA networks.</p></td>
+      </tr>
+      <tr>
+        <td>VSAT</td>
+        <td>very small aperture terminal</td>
+        <td>A satellite-based networking service that has a low per site cost ($175  per month per site or less). VSATs achieved their low cost by using  shared, high-power satellite capacity, asymmetric data flows and a star  topology.</td>
+      </tr>
+      <tr>
+        <td>VSB</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> very severe burst </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Vestigial sideband</p></td>
+        <td><p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Interval between 2.5 and 10 seconds in which the          background error rate (BER) exceeds 10-2; can alternatively be defined as three to ten          consecutive <a href="glossary_s.htm">severely errored seconds (SES)</a>. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a type of amplitude modulation technique that encodes data by varying  the amplitude of a single carrier frequency. Portions of one of the  redundant sidebands are removed to form a vestigial sideband signal.</p></td>
+      </tr>
+      <tr>
+        <td>VSD</td>
+        <td>ViSio Diagram</td>
+        <td>Microsoft ViSio Filename extension</td>
+      </tr>
+      <tr>
+        <td>VSE</td>
+        <td>Virtual Storage Extended</td>
+        <td>a multitasking, 370-architected operating system akin to  Multiple Virtual Storage (MVS). VSE 
+          work runs in partitions rather than address spaces, and uses POWER for input/output rather than JES, but is largely similar to 
+          MVS.</td>
+      </tr>
+      <tr>
+        <td>VSELP</td>
+        <td>Vector Sum Excited Linear Predictive</td>
+        <td>a type of speech coding using an excitation signal generated from three  components: the output of a long-term, pitch filter and two codebooks.</td>
+      </tr>
+      <tr>
+        <td>VSIP</td>
+        <td>Visual Studio Industry Partners</td>
+        <td>the Microsoft  program was created to educate and support ISVs, SIs, academic institutions, corporations and developers interested in integrating tools, components, and languages into the Visual Studio IDE.</td>
+      </tr>
+      <tr>
+        <td>VSM</td>
+        <td>Value 
+          Stream Mapping</td>
+        <td>transcript Lean tools and practices</td>
+      </tr>
+      <tr>
+        <td>VSN</td>
+        <td>volume serial number</td>
+        <td>an identifying number assigned to a disk or tape by
+          Windows or other operating systems. Volume serial numbers ensure that
+          the computer will know when the disk or tape in a drive is changed. </td>
+      </tr>
+      <tr>
+        <td>VSNL</td>
+        <td>Videsh Sanchar Nigam Limited</td>
+        <td>now <a href="http://www.tatacommunications.com/">Tata Communications Limited</a>, India's largest telecommunication company in international long distance, enterprise data and internet services.</td>
+      </tr>
+      <tr>
+        <td>VSP</td>
+        <td>VoIP Service Provider</td>
+        <td>CSP supplying peer-to-peer application that enables customer to make  voice calls over IP networks. See VoIP.</td>
+      </tr>
+      <tr>
+        <td>VSR</td>
+        <td>Vertical Scan Rate</td>
+        <td>The maximum number of frames per second that a computer monitor can  display, expressed in hertz. Too low a scan rate causes a flickering  screen which is hard on the eyes.</td>
+      </tr>
+      <tr>
+        <td>VSS</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> vector symbol set </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Volume Shadow Copy</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> In the GDDM  function, a set of characters each of which is treated as a small picture  and is described by a sequence of lines and arcs. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> creating online,  consistent point-in-time  copies of  a  single or 
+              multiple volumes in Windows Server environments</p></td>
+      </tr>
+      <tr>
+        <td>VSwitch</td>
+        <td>Virtual Switch</td>
+        <td>networking entities connecting Virtual Machines in a virtual network at layer 2. </td>
+      </tr>
+      <tr>
+        <td>VSWR</td>
+        <td>Voltage Standing Wave Ratio</td>
+        <td>The ratio of the transferring signal voltage as compared  to reflected signal voltage measured along the length of a transmission  line</td>
+      </tr>
+      <tr>
+        <td>VT-x/i or d or c</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Virtualization Technology-x</p>
+          <p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Virtualization Technology-Itanium</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> for Directed I/O</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> for Connectivity</p>          </td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> x refers to all the hardware assists for 
+          virtualization in Intel.
+64 and IA32 processorsIntel VT-x/i reduces the size and 
+          complexity of the VMM software improving its 
+          efficiency and enabling greater functionality.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> VT-d is a hardware enhancement for 
+            I/O virtualization that is implemented as part of core 
+            logic chipset. </p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> VT-c is a collection of I/O virtualization 
+            technologies that enables lower CPU utilization, reduced <br>
+            system latency, and improved networking and I/O 
+            throughput</p>          </td>
+      </tr>
+      <tr>
+        <td>VTAM</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Virtual Table Access Method</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Virtual Telecommunications Access Method</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> IBM operating system module</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The main <a href="glossary_s.htm">SNA</a> subsystem resident in an IBM mainframe that manages session establishment and 
+              data flow between terminals and application programs, or between application programs.</p></td>
+      </tr>
+      <tr>
+        <td>VTL</td>
+        <td>virtual tape library</td>
+        <td>VTL is an archival backup solution that combines traditional tape backup methodology with low-cost disk technology to create an optimized backup and recovery solution.</td>
+      </tr>
+      <tr>
+        <td>VTOC</td>
+        <td>Volume Table of Contents</td>
+        <td>A table of contents on a disk or diskette that describes the location  and size of each file. VTOC is generally a term used with mainframes;  personal computers use the term File Allocation Table.</td>
+      </tr>
+      <tr>
+        <td>VTP</td>
+        <td>Vlan Trunking Protocol</td>
+        <td>Layer 2 messaging protocol that mantains VLAN configuration consistency by managing the addition, deletion, and renaming of VLANs on a network-wide basis </td>
+      </tr>
+      <tr>
+        <td>VTS</td>
+        <td>virtual tape subsystem</td>
+        <td>Tape library hardware and software extensions that utilize <a href="glossary_d.htm">DASD</a> buffers to multiply the tape device  count, throughput and storage density of tape library systems.</td>
+      </tr>
+      <tr>
+        <td>VTY</td>
+        <td>Virtual teleTYpewriter</td>
+        <td>Virtual terminal for remote console access.</td>
+      </tr>
+      <tr>
+        <td>VUE</td>
+        <td>Visual User Environment</td>
+        <td>A graphical user interface for UNIX from Hewlett-Packard.</td>
+      </tr>
+      <tr>
+        <td>VVM</td>
+        <td>Veritas Volume Manager</td>
+        <td>Easy-to-use, online storage management tool for enterprise environments, which reduces planned and unplanned downtime.</td>
+      </tr>
+      <tr>
+        <td>VVR</td>
+        <td>Veritas Volume Replicator</td>
+        <td>Provides the foundation for seamless availability across sites. Based on VERITAS Volume Manager, it reliably, efficiently, and consistently replicates data to remote locations over any IP network when data loss and prolonged downtime cannot be tolerated</td>
+      </tr>
+      <tr>
+        <td>VWE</td>
+        <td>virtual work environment </td>
+        <td>virtual work environment </td>
+      </tr>
+      <tr>
+        <td>VWIC</td>
+        <td>Voice/Wan Interface Card</td>
+        <td>Voice/Wan Interface Card of Cisco Router</td>
+      </tr>
+      <tr>
+        <td>VWS</td>
+        <td>Virtual Web Server</td>
+        <td>A  VWS allows you to use your domain on an <a href="glossary_i.htm">ISP</a>'s web server. Your URL will  give the impression that you have your own dedicated web server. </td>
+      </tr>
+      <tr>
+        <td>VxD / VDD</td>
+        <td>Virtual Device Driver</td>
+        <td>A virtual device driver is the component of a device driver that  communicates directly between an application and a hardware device. It runs as part of the <a href="operating_systems_kernels.htm">OS kernel</a> and has access to kernel memory, running processes and hardware.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>vendor-neutral</td>
+        <td>A state in which no one vendor can control the definition, revision or  distribution of a specification.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Video Search </td>
+        <td>The ability to search within a collection of videos, whether inside the enterprise or 
+          outside, whether under enterprise control or in another company's domain, is attracting interest in 
+          areas of content management as expectations sparked by <a href="http://youtube.com">YouTube</a>, <a href="http://www.hulu.com/">Hulu</a>, <a href="http://www.netflix.com/">Netflix</a>, <a href="http://vimeo.com/">Vimeo</a> and <a href="http://www.blinkx.com/">Blinkx</a> enter the enterprise environment.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Video telepresence</td>
+        <td>a form of immersive video communication that creates the 
+          impression of being in the same room as other conference participants. Most telepresence suites  
+          run high-definition (HD) video resolution at 720p  or 1,080p lines.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Virus</td>
+        <td>A chunk of computer programming code that makes copies of itself  without any concious human intervention.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Vista</td>
+        <td>formerly code named Longhorn, is the name of the next Microsoft Windows desktop operating system release to follow Windows XP. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>voice grade</td>
+        <td>The term applied to channels used primarily                           for speech transmission, generally with a frequency range                           of about 300 to 3,000 cycles per second (hertz.) Voice                           Grade channels may be used to send analog or digital data                           or facsimile.</td>
+               </tr>
+      <tr>
+        <td> </td>
+        <td>voiceband</td>
+        <td>A voice grade bandwidth typically spanning between 300 and 3300 Hz.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Vtunnel</td>
+        <td>Web proxy supporting SSL via the HTTPS encryption protocol. ,a href="http://www.vtunnel.com/">http://www.vtunnel.com/</a></td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 2.11186599731 -->
+</html>

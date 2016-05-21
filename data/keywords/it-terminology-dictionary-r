@@ -1,0 +1,2037 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - R for Raid</title>
+<meta name="keywords" content="red, rss, ram, rom, remote desktop, rsa, rack, rcm, run, red hat, rim, research in motion, rsvp, real time, real, rs, runescape, route, radeon, reader, reference, radio">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page173" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm785" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable on"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-r">R</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >R</h1><div class="marker" ></div>
+<div id="pm601" class="tile  m1194 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>R for Raid</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm750" class="tile  m1467 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">term</th>
+        <th scope="col">definition</th>
+      </tr>
+      <tr>
+        <td>R_A_TOV</td>
+        <td>resource allocation timeout value</td>
+        <td>In fibre-channel technology, a value used to time out operations that  depend on the maximum possible time that a frame can be delayed in a fabric  and still be delivered.</td>
+      </tr>
+      <tr>
+        <td>R&D</td>
+        <td>research and development</td>
+        <td><strong> </strong>A descriptive term for the function, organization or budget  allocation devoted to researching and developing new products or  technologies.</td>
+      </tr>
+      <tr>
+        <td>RAB</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Raid Advisory Board</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Reverse-Link Activity Bit </p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Industry organization of manufacturers and users of disk 
+          systems and related products whose mission is to educate 
+          users regarding all aspects of storage technology, and in 
+          particular, RAID technology. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> determining the data rate of a reverse link communication of a mobile communication system. </p></td>
+      </tr>
+      <tr>
+        <td>RAC</td>
+        <td>Real Application Cluster</td>
+        <td>RAC is a component of the Oracle 9i database product that allows a database to be installed across multiple servers.</td>
+      </tr>
+      <tr>
+        <td>RACF</td>
+        <td>Resource Access Control Facility</td>
+        <td>Provides improved security for an installation's data. RACF protects your vital system resources and controls what users can do on the operating system</td>
+      </tr>
+      <tr>
+        <td>RACH</td>
+        <td>Random Access Channel</td>
+        <td>the channel used by mobiles in <a href="g">GSM</a> and W-CDMA systems to gain access to the system when first attaching to it.</td>
+      </tr>
+      <tr>
+        <td>racon</td>
+        <td><span id="lblWord">radar beacon</span></td>
+        <td><span id="lblDefinition">A transmitter-receiver  associated with a fixed navigational mark which, when triggered by a  radar, automatically returns a distinctive signal which can appear on  the display of the triggering radar, providing range, bearing and  identification information.</span></td>
+      </tr>
+      <tr>
+        <td>RAD</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> radiation absorbed dose</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Rapid Application Development</p></td>
+        <td><p><span id="lblDefinition2"><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> the basic unit of measure for expressing absorbed radiant energy per unit mass of material.</span></p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A way of developing a system by completing a working part, implementing  it, and adding more working parts every few months, instead of waiting  to finish the entire project before putting the system into use.</p></td>
+      </tr>
+      <tr>
+        <td>RADA</td>
+        <td><span id="lblWord8">random access discrete address</span></td>
+        <td><span id="lblDefinition9">A communications technique in  which radio users share one wide frequency band instead of each user's  being assigned a narrow band.</span></td>
+      </tr>
+      <tr>
+        <td>RADCAB</td>
+        <td>Relevancy Appropriateness Detail Currency Authority Bias </td>
+        <td>It was created by Karen Christensson, a library media specialist, for helping students research topics on the Web.</td>
+      </tr>
+      <tr>
+        <td>RADIUS</td>
+        <td>Remote Authentication Dial-In User Service</td>
+        <td>A security protocol used to transport passwords between the access device and the authentication server.</td>
+      </tr>
+      <tr>
+        <td>RADSL</td>
+        <td>Reverse ADSL</td>
+        <td>A term for a DSL stream that is asymmetrical in the upstream direction; that is, a reverse ADSL link has a small downstream and large upstream communications path.</td>
+      </tr>
+      <tr>
+        <td>RADVD</td>
+        <td> router advertisement daemon</td>
+        <td>run by Linux or BSD systems acting as IPv6 routers. It sends Router Advertisement messages, specified by RFC 2461, to a local ethernet LAN periodically and when requested by a node sending a Router Solicitation message.</td>
+      </tr>
+      <tr>
+        <td>RAI</td>
+        <td><span id="lblWord12">remote alarm indication</span></td>
+        <td><span id="lblDefinition13">A signal transmitted in the outgoing direction when a terminal determines that it has lost the incoming signal. </span><span id="lblDefinition14">RAI is commonly called the yellow alarm signal.</span></td>
+      </tr>
+      <tr>
+        <td><a href="what_is_raid.htm">RAID</a></td>
+        <td><a href="what_is_raid.htm">Redundant Array of Independent Disks</a></td>
+        <td><div align="justify">RAID  is a method of storing data on multiple hard disks. When disks are  arranged in a RAID configuration, the computer sees them all as one  large disk. However, they operate much more efficiently than a single  hard drive.</div></td>
+      </tr>
+      <tr>
+        <td>RAM</td>
+        <td>Random Access Memory</td>
+        <td>RAM is the storage medium used within the computer to
+          store programs and data while the computer is switched on and running.
+          Once the power to the computer is switched off, any programs or data not
+          saved to the Hard Disk Drive will be lost permanently.</td>
+      </tr>
+      <tr>
+        <td>RAMDAC</td>
+        <td> Random Access Memory Digital to 
+          Analog Converter</td>
+        <td>Chip on a video board that generates the analog video 
+          signals </td>
+      </tr>
+      <tr>
+        <td>RAN</td>
+        <td>Radio Access Network</td>
+        <td>the ground-based infrastructure required for delivery of  third-generation (3G) wireless communications services, including  high-speed mobile access to the Internet.</td>
+      </tr>
+      <tr>
+        <td>RARE</td>
+        <td> Reseaux Associés pour la Recherche <br />
+          Européenne</td>
+        <td>The European Association of Research Networks. Now 
+          called TERENA </td>
+      </tr>
+      <tr>
+        <td>RAPI</td>
+        <td>Rsvp Application Programming <br />
+          Interface</td>
+        <td>An RSVP-specific API that enables applications to 
+          interface explicitly with an RSVP process </td>
+      </tr>
+      <tr>
+        <td>RARP</td>
+        <td>Reverse Address Resolution Protocol</td>
+        <td>The protocol which allows a user to broadcast a <a href="mac_address.htm">MAC address</a> on the  local network, resulting in the network interface (NIC) returning it's  IP Address</td>
+      </tr>
+      <tr>
+        <td>RAS</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Registration, Admission, Status </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> remote-access server (services)</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Row Address Select</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Row Address Strobe</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Remote Announcing System</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a management protocol between terminals and Gatekeepers in the H.323 network.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A server that facilitates network connections to an enterprise  local-area or wide-area network from users remotely accessing the  network over cable or telephone lines using a modem. The server uses  various protocols to authenticate and connect remote users.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A control pin on a DRAM used to latch and activate a row  address. The row selected on a DRAM is determined by the data present  at the address pins when RAS becomes active.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a signal sent by the processor to a DRAM circuit to tell it that an associated address is a row address.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a switch feature that allows an outside caller, with  proper access, to make announcements over the local public or office  announcing system.</p></td>
+      </tr>
+      <tr>
+        <td>RAT</td>
+        <td>Remote Administration Tool</td>
+        <td>refers to products such                   as PC Anywhere and Carbon Copy but is more often used to refer                   to trojan RATs such as Back Orifice and NetBus.</td>
+      </tr>
+      <tr>
+        <td>RBA</td>
+        <td>Run Book Automation </td>
+        <td>automate IT operations processes across different IT management disciplines. RBA 
+          products have an orchestration interface to design, administer and monitor processes; a workflow 
+          to support the processes; and integration to many IT operations tools needed to support the 
+          processes. </td>
+      </tr>
+      <tr>
+        <td>RBAC</td>
+        <td>role-based access control</td>
+        <td>RBAC is a strategy for implementing security policy management,  specifically in the area of authorization. The idea behind RBAC is to  define roles as sets of privileges to different systems that represent  common access rights for users. </td>
+      </tr>
+      <tr>
+        <td>RBL</td>
+        <td>Real-time Black-hole List or Real-time Block List</td>
+        <td>RBLs hold information about blocked sites, typically used to list site that generate spam. </td>
+      </tr>
+      <tr>
+        <td>RBOC</td>
+        <td>Regional Bell Operating Company</td>
+        <td>The local telephone company in each of the seven U.S. regions.</td>
+      </tr>
+      <tr>
+        <td>RC</td>
+        <td>Release Candidate</td>
+        <td>A version (of software) that is released before the      final release. A release candidate may contain outstanding issues (or bugs)      or incomplete functionality. Also know as a "technical preview" or      "beta release".</td>
+      </tr>
+      <tr>
+        <td>RC2/4/5</td>
+        <td>Rivest Cipher 2/4/5</td>
+        <td><p>a family of proprietary ciphers developed by Ronald Rivest of RSA Security.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> RC2 is a secret-key block cipher — that is, it encrypts data one fixed-size block at a time — for bulk encryption.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> RC4 is stream cipher —it encrypts data as a sequence of bits, one bit at a time. </p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> RC5 is a block cipher; it is more secure than RC4, but slower. </p></td>
+      </tr>
+      <tr>
+        <td>RCA</td>
+        <td>Radio Corporation of America (cables)</td>
+        <td>The standard, single-ended analog cables used to connect audio and  video devices to each other. Typically a red input is for the left  channel of sound, white is for the right, and yellow is for compsite  video.</td>
+      </tr>
+      <tr>
+        <td>RCC</td>
+        <td><span id="lblWord3">radio common carrier</span></td>
+        <td><span id="lblDefinition4">A telecommunications common  carrier that provides radio communications services but is not engaged  in the business of providing landline local exchange telephone service. </span></td>
+      </tr>
+      <tr>
+        <td>RCM</td>
+        <td>Revision and Configuration Management</td>
+        <td>HP service - RCM collects configuration, revision,     and patch data from your supported systems </td>
+      </tr>
+      <tr>
+        <td>rcp</td>
+        <td>Remote copy</td>
+        <td>A UNIX utility that copies files over an Ethernet.</td>
+      </tr>
+      <tr>
+        <td>RCP</td>
+        <td>Rich Client Platform</td>
+        <td>Minimal set of plug-ins needed to build a rich client 
+          application.</td>
+      </tr>
+      <tr>
+        <td>RCS</td>
+        <td>Revision Control System</td>
+        <td>Manages multiple revisions of files by automating the 
+          storage, retrieval, logging, identification, and merging of 
+          revisions. It's particularly useful for text that is revised 
+          frequently, such as programs, documentation, graphics, 
+          papers, and form letters</td>
+      </tr>
+      <tr>
+        <td>RCU</td>
+        <td> Rapid Cloning Utility </td>
+        <td>included with the NetApp FlexClone license. RCU is an integrated cloning and 
+          provisioning utility for virtual machines that instantly replicates data volumes and data sets 
+          as transparent virtual copies</td>
+      </tr>
+      <tr>
+        <td>RDAC</td>
+        <td>Redundant Disk Array Controller</td>
+        <td>Provides application-transparent protection for array controller and data path failures using a special-purpose daemon process and kernel-resident I/O driver</td>
+      </tr>
+      <tr>
+        <td>RDBA</td>
+        <td>Remote Database Access</td>
+        <td>a standard                                                     permitting the exchange of information                                                     between different DBMS systems.</td>
+      </tr>
+      <tr>
+        <td>RDBMS</td>
+        <td>relational database management system</td>
+        <td>RDBMS is a program that lets you create, update, and administer a relational database. </td>
+      </tr>
+      <tr>
+        <td>RDDL</td>
+        <td>Resource Directory Description <br />
+          Language</td>
+        <td><a href="file_xml.htm">XML</a>-based language for describing a resource directory. A 
+          resource directory provides a text description of some 
+          class of resources and of other resources related to that 
+          class. It also contains a directory of links to these related 
+          resources</td>
+      </tr>
+      <tr>
+        <td>RDF</td>
+        <td><p><span id="lblWord4"><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> radio direction-finding </span></p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Resource Description Framework</p></td>
+        <td><div align="justify">
+            <p><span id="lblDefinition5"><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Radiodetermination using the reception of radio waves for the purpose of determining the direction of a station or object. </span></p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a specification that defines how metadata, or descriptive  information, should be formatted. The RDF model uses a  subject-predicate-object format, which is a standardized way of  describing something.</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>RDI</td>
+        <td><span id="lblWord13">remote defect indication</span></td>
+        <td><span id="lblDefinition15">A signal transmitted at the  first opportunity in the outgoing direction when a terminal detects  specific defects in the incoming signal. </span></td>
+      </tr>
+      <tr>
+        <td>RDL</td>
+        <td>Report Definition Language</td>
+        <td><a href="file_xml.htm">XML</a>-based industry standard used to define reports</td>
+      </tr>
+      <tr>
+        <td>RDM</td>
+        <td>Remote Deployment Manager</td>
+        <td><strong> </strong>An IBM tool (formerly called LANClient Control Manager, or  "LCCM") that allows systems administrators to remotely configure and  deploy operating systems and applications on IBM systems.</td>
+      </tr>
+      <tr>
+        <td>rDNS</td>
+        <td>Reverse DNS</td>
+        <td>a method of resolving an IP address into a domain name, just as the DNS resolves domain names into associated IP addresses. </td>
+      </tr>
+      <tr>
+        <td>RDP</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Remote Desktop Protocol </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Router Discovery Protocol</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a protocol designed for secure communications in networks using Microsoft Terminal Services. RDP is available for most versions of the Windows operating system as well as Mac OS X, Linux and FreeBSD.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A standard protocol, to inform hosts of the presence of routers to  which they can send packets. You can also use RDP instead of host  wiretapping routing protocols (for example, RIP).</p></td>
+      </tr>
+      <tr>
+        <td>RDR</td>
+        <td>Rate of Defect Recurrence</td>
+        <td>How many times a defect is 
+          reintroduced over the life of an application</td>
+      </tr>
+      <tr>
+        <td>RDT</td>
+        <td><span id="lblWord14">remote digital terminal </span></td>
+        <td><p><span id="lblDefinition16"><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An intelligent network element that interfaces between customer access lines and digital facilities. </span></p>
+            <p><span id="lblDefinition17"><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The digital loop carrier (DLC) multiplexer that is at the end of the DLC that is closest to the network interface (NI). </span></p></td>
+      </tr>
+      <tr>
+        <td>RED</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Random Early Detection</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Reputation Enabled Defense</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A congestion-avoidance algorithm developed in the early 1990s built on the base-level TCP behavior of automatically slowing transmissions when packet loss is detected </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <a href="http://www.watchguard.com">WatchGuard</a> RED uses a cloud-based WatchGuard reputation server that  assigns a reputation score between 1 and 100 to every URL.</p></td>
+      </tr>
+      <tr>
+        <td>REG</td>
+        <td>Range Extender with Gain</td>
+        <td><p>A unit that provides range extension in a loop for both transmission and signaling.</p></td>
+      </tr>
+      <tr>
+        <td>ReGS</td>
+        <td>Reporting Grid Services</td>
+        <td>A  set of core Open Grid Services Architecture (OGSA) services for logging, tracing,  and monitoring applications in OGSA-based grid environments. </td>
+      </tr>
+      <tr>
+        <td>REJ</td>
+        <td>Reject. In communications</td>
+        <td>a command or response that requests data be retransmitted.</td>
+      </tr>
+      <tr>
+        <td>Rel</td>
+        <td>Recorder element</td>
+        <td>The minimum distance between two recorded points (spots) in an imagesetter.</td>
+      </tr>
+      <tr>
+        <td>REL</td>
+        <td>Rights Expression Language</td>
+        <td>A language for specifying rights to content, fees or other  consideration required to secure those rights, types of users qualified  to obtain those rights</td>
+      </tr>
+      <tr>
+        <td>RELAX</td>
+        <td>REgular LAnguage description for Xml</td>
+        <td>Uses <a href="file_xml.htm">XML</a> syntax to express the structure relationships that are present in a DTD, and adds the XML Datatype Schema mechanisms, as well</td>
+      </tr>
+      <tr>
+        <td>REN</td>
+        <td>Ringer Equivalency Number</td>
+        <td>1 REN = the energy to ring one Plain Old Telephone POL  or Single Line Telephone (SLT). The REN number can be found on the FCC  label on the device. </td>
+      </tr>
+      <tr>
+        <td>RePDV</td>
+        <td>Reputation Digital Vaccine </td>
+        <td>HP TippingPoint service that protects   enterprises from the latest security risks by providing greater visibility into   malicious activity on corporate networks. </td>
+      </tr>
+      <tr>
+        <td>Res</td>
+        <td>resolution </td>
+        <td>A term used to define image resolution instead of ppi. Res 12 indicates 12 pixels per millimeter.
+</td>
+      </tr>
+      <tr>
+        <td>RES</td>
+        <td>Robots Exclusion Standard</td>
+        <td>Standard that allows web site administrators to indicate to 
+          visiting robots which parts of their site should not be 
+          visited by the robot</td>
+      </tr>
+      <tr>
+        <td>REST</td>
+        <td>REpresentational State Transfer</td>
+        <td>A loosely defined specification for HTTP-based services where  all of the information required to process a request is present in the  initial request and where each request receives only a single response,  and where the response is in a machine-readable form.</td>
+      </tr>
+      <tr>
+        <td>RETAIN</td>
+        <td>Remote Technical Assistance and Information Network</td>
+        <td>Database used by IBM Support Centers to record all known  problems with IBM licensed programs.</td>
+      </tr>
+      <tr>
+        <td>REVS</td>
+        <td>Rapid Exchange of Virus Samples list. </td>
+        <td>A mailing list for antivirus companies, allowing their virus analysis staff to securely send samples of 'emergency' viruses to other antivirus developers and for the lab staff to discuss emerging 'virus emergencies'. </td>
+      </tr>
+      <tr>
+        <td>REXX</td>
+        <td>Restructured EXtended eXecutor</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> A general-purpose, high-level, programming language, particularly suitable  for EXEC procedures or programs for personal computing.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> The i5/OS  implementation of the Systems Application Architecture Procedures Language.</p></td>
+      </tr>
+      <tr>
+        <td>RF</td>
+        <td>Radio frequency</td>
+        <td>Describes the portion of the spectrum used to transmit radio signals. Often used adjectivally.</td>
+      </tr>
+      <tr>
+        <td>RFB</td>
+        <td>Remote Framebuffer </td>
+        <td>a protocol for remote access used by the remote control application VNC (Virtual Network Computing)</td>
+      </tr>
+      <tr>
+        <td>RFC</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> radio-frequency choke</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Request For Comments</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> an inductor (coil) designed to keep high-frequency signals from flowing into power supply lines and other interconnections.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The name of the result and the process for creating a standard on the <em>Internet</em>.  New standards are proposed and published on the Internet, as a Request  For Comments. </p></td>
+      </tr>
+      <tr>
+        <td>RFCOMM</td>
+        <td>Radio Frequency Communication</td>
+        <td>a Bluetooth protocol which is a simple set of transport protocols, providing emulated RS232 serial ports.</td>
+      </tr>
+      <tr>
+        <td>RFI</td>
+        <td><span id="lblWord15">remote failure indication</span></td>
+        <td><span id="lblDefinition18">A signal transmitted in the  outgoing direction when a terminal determines that specific defects  have persisted long enough to declare a received signal failure. </span></td>
+      </tr>
+      <tr>
+        <td>RFID</td>
+        <td>radio frequency identification</td>
+        <td>An analog-to-digital conversion technology that uses radio frequency  (RF) waves to transfer data between a movable item and a reader for  identification, tracking or location purposes. It does not require  physical contact or a line of sight between the reader or scanner and  the tagged item. </td>
+      </tr>
+      <tr>
+        <td>RFMD</td>
+        <td><a href="http://www.rfmd.com">RF Micro Devices</a></td>
+        <td>global leader in the design and manufacture of high-performance semiconductor components.</td>
+      </tr>
+      <tr>
+        <td>RFS / RFU</td>
+        <td>Ready For Service / Use</td>
+        <td>Ready For Service / Use</td>
+      </tr>
+      <tr>
+        <td>RFP</td>
+        <td>Request For Proposal</td>
+        <td>A request for bids that indicates the specifications for a software project or other system needs.</td>
+      </tr>
+      <tr>
+        <td>RFT</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Request For Technology</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> revisable-form text </p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A request from the Open Software Foundation for proposals for new standards.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A data  stream defined by document content architecture that is used to exchange unresolved  documents (which cannot be directly printed or displayed) between systems.</p></td>
+      </tr>
+      <tr>
+        <td>RGB</td>
+        <td>Red/Green/Blue</td>
+        <td>An RGB signal has four separate elements; red/green/blue and sync. This results in a cleaner <br />
+          image than with composite signals due to the lower level of distortion and interference. </td>
+      </tr>
+      <tr>
+        <td>RGMP</td>
+        <td>Router-port Group Management Protocol</td>
+        <td>IP multicast constraining mechanism for router-only network segments. RGMP must be enabled on the routers and on the Layer 2 switches</td>
+      </tr>
+      <tr>
+        <td>RTGS</td>
+        <td>Radioisotope Thermoelectric Generators</td>
+        <td>a simple electrical generator which obtains its power from radioactive decay. </td>
+      </tr>
+      <tr>
+        <td>RHCE</td>
+        <td>Red Hat Certified Engineer</td>
+        <td>Mid to advanced level certification for IT professionals who 
+          are able to install and configure Red Hat Linux, understand 
+          limitations of hardware and configure basic networking and 
+          file systems</td>
+      </tr>
+      <tr>
+        <td>RHCS</td>
+        <td>Red Hat Cluster Suite</td>
+        <td>Red Hat's software to create a high availability and load balancing cluster</td>
+      </tr>
+      <tr>
+        <td>RHEL</td>
+        <td>Red Hat Enterprise Linux</td>
+        <td>RED HAT OS</td>
+      </tr>
+      <tr>
+        <td>RHR</td>
+        <td><span id="lblWord5">radio horizon range </span></td>
+        <td><span id="lblDefinition6">The distance at which a direct  radio wave can reach a receiving antenna of given height from a  transmitting antenna of given height.</span></td>
+      </tr>
+      <tr>
+        <td>RHSBL</td>
+        <td>Right-Hand Side Blacklist</td>
+        <td>A type of DNSBL that uses  domain names instead of IP addresses. </td>
+      </tr>
+      <tr>
+        <td>RIA</td>
+        <td>Rich Internet Application</td>
+        <td>Evolution of the web development and deployment model</td>
+      </tr>
+      <tr>
+        <td>RIM</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Reference Information Model</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Research In Motion</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A comprehensive, object-oriented information model for clinical  healthcare. RIM serves as a semantic point of reference for all <a href="glossary_h.htm">HL7</a> standards development efforts.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> vendor of wireless communication products based in Waterloo, Ontario.  Its products include the popular BlackBerry handheld device <a href="http://www.rim.com">www.rim.com</a>.</p></td>
+      </tr>
+      <tr>
+        <td>RIMM</td>
+        <td>Rambus In-Line Memory Module</td>
+        <td> RIMM is a synchronous dynamic RAM module that is used on newer motherboards. RIMM's are   	manufactured by <a href="http://www.rambus.com/">Rambus Corporation</a>.</td>
+      </tr>
+      <tr>
+        <td>RIP</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> raster image processor</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Routing Information Protocol</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a device that handles computer output as a
+          grid of dots. Dot-matrix, inkjet, and laser printers are all raster image
+          processors. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An internal router protocol used for informing network computers of changes in configuration.</p></td>
+      </tr>
+      <tr>
+        <td>RIPE</td>
+        <td>Réseaux IP Européens </td>
+        <td>the Internet registry                   organization for Europe. <a href="http://www.ripe.net/">http://www.ripe.net/</a></td>
+      </tr>
+      <tr>
+        <td>RIR</td>
+        <td>regional Internet registry</td>
+        <td>an organization that manages the allocation and registration of Internet number resources within a particular region <strong></strong></td>
+      </tr>
+      <tr>
+        <td>RISC</td>
+        <td> Reduced Instruction Set Computer</td>
+        <td>A processor supporting simple      instructions (typically only one memory access per instruction) and often      reduced instruction set size, sacrificing complexity for greater speed. </td>
+      </tr>
+      <tr>
+        <td>RJ11</td>
+        <td>Registered Jack 11</td>
+        <td>The physical specification for the four-wire jack commonly used in U.S. telephone systems.</td>
+      </tr>
+      <tr>
+        <td>RJ45</td>
+        <td>Registered Jack 45</td>
+        <td>A type of eight-wire connector commonly used in local-area networks.</td>
+      </tr>
+      <tr>
+        <td>RJE</td>
+        <td>Remote Job Entry</td>
+        <td>Transmission of a batch job to a remote computer which processes the job.</td>
+      </tr>
+      <tr>
+        <td>RLC</td>
+        <td>Radio Link Control </td>
+        <td>a link-layer protocol that is responsible for error recovery and flow control in 3G (UMTS) cellular systems.</td>
+      </tr>
+      <tr>
+        <td>RLE</td>
+        <td>run-length encoding</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A technique  for compressing data that avoids repeatedly having to code data elements of  the same value</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A type of compression that is based  on strings of repeated, adjacent characters or symbols, which are called "runs."</p></td>
+      </tr>
+      <tr>
+        <td>RLP</td>
+        <td>Radio Link Protocol</td>
+        <td>a link layer protocol used for 2G (GSM and cdmaOne) and CDMA-2000 (3G)  network-based error corrections to ensure robust data transmission.</td>
+      </tr>
+      <tr>
+        <td>RLL</td>
+        <td>Run Length Limited</td>
+        <td>an encoding scheme used to store data on certain PC hard  disks.</td>
+      </tr>
+      <tr>
+        <td>rlogin</td>
+        <td>remote login</td>
+        <td>the UNIX command that allows you to use your computer as a terminal on another computer.</td>
+      </tr>
+      <tr>
+        <td>RMA</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> rate monotonic analysis</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Return Materials Authorization</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The process of analyzing a real-time system to assign individual thread priorities according to the rate monotonic algorithm.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> This is a number issued                                                     to return equipment for service, validation, upgrades, or exchange.</p></td>
+      </tr>
+      <tr>
+        <td>RMC</td>
+        <td><p> <img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Raptor Management Console</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Resource Monitoring and Control</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Symantec term</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> IBM term. Scalable, reliable backbone subsystem of RSCT. It runs on a single machine or on each node (operating system image) of a cluster and provides a common abstraction for the resources of the individual system or the cluster of nodes</p></td>
+      </tr>
+      <tr>
+        <td>RME</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Rack Mount Equipment</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> resource model engine </p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> RME is equipment which is designed to mount in a  standard steel framework consisting of parallel pairs of steel channel  verticals spaced 19" and drilled for mounting screws.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An analysis  engine that is used to identify, notify, and cure performance and availability  problems. </p></td>
+      </tr>
+      <tr>
+        <td>RMI</td>
+        <td>Remote Method Invocation</td>
+        <td>technique for calling a method in a Java
+          class located on a machine (such as a web server) differsent from the
+          machine (such as the browser client) on which the current application is
+          running. </td>
+      </tr>
+      <tr>
+        <td>RMON</td>
+        <td>Remote Monitoring</td>
+        <td>A network monitoring                                                     protocol defined in RFC 2074</td>
+      </tr>
+      <tr>
+        <td>RMS</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Record Management            System</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Right Management Service </p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Root Mean Square</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> an <a href="glossary_a.htm">API</a> for            device-dependent use of            audio and video. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A feature in Vista to encrypt confidential documentation with policies.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a fancy way of describing the average voltage level of an audio signal.</p></td>
+      </tr>
+      <tr>
+        <td>RMU</td>
+        <td>Rack Mount Unit</td>
+        <td>A single RMU is 1.75 inches of vertical space in a rack  housing. It is typically in the form of a number such as this; 4U,  meaning 4 units or RMUs.</td>
+      </tr>
+      <tr>
+        <td>RNA</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Ribonucleic acids</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Ring No Answer</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a class of nucleic acids that act as a carrier for genetic information  as well as catalyzing important biochemical reactions. RNAs contain  sugar ribose and the organic base uracil.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> What you get when the modem you just called doesn't 
+          answer</p></td>
+      </tr>
+      <tr>
+        <td>RNC</td>
+        <td>Radio Network Controller</td>
+        <td>the governing element in the UMTS radio access network (UTRAN)  responsible for control of the Node Base Stations (BS), that is to say,  the base stations which are connected to the controller.</td>
+      </tr>
+      <tr>
+        <td>R-NE</td>
+        <td><span id="lblWord17">remote-network element </span></td>
+        <td><span id="lblDefinition20">A type of network element (NE)  that contains a DUA (directory user agent), an optional local cache,  and possibly other application processes such as the registration  agent. </span></td>
+      </tr>
+      <tr>
+        <td>RNI</td>
+        <td> Raw Native Interface</td>
+        <td>Native interface proposed by Microsoft </td>
+      </tr>
+      <tr>
+        <td>RNR</td>
+        <td>receive not ready</td>
+        <td>In communications,  a data link command or response that indicates a temporary condition of being  unable to accept incoming frames.</td>
+      </tr>
+      <tr>
+        <td>ROA</td>
+        <td><span id="lblWord11">recognized operating agency</span></td>
+        <td><span id="lblDefinition12">Any operating agency, as  defined in the ITU Convention (Geneva, 1992), which operates a public  correspondence or broadcasting service </span></td>
+      </tr>
+      <tr>
+        <td>ROADM</td>
+        <td>reconfigurable optical add-drop multiplexer</td>
+        <td>a device that is utilized on many different fiber optic networks. Essentially, this type of multiplexer has the ability to control the direction and focus of both infrared and visible light emissions within a range of different wavelengths.</td>
+      </tr>
+      <tr>
+        <td>ROD</td>
+        <td>record oriented data </td>
+        <td>The type  of document definition used to describe proprietary document formats. </td>
+      </tr>
+      <tr>
+        <td>RODM</td>
+        <td>Resource Object Data Manager</td>
+        <td>In IBM Tivoli NetView for z/OS, a component that provides an in-memory cache for  maintaining real-time data in an address space that is accessible by multiple  applications.</td>
+      </tr>
+      <tr>
+        <td>RoHS</td>
+        <td>Restriction of Hazardous Substances</td>
+        <td>The RoHS directive has been adopted by the European Union. RoHS  restricts the use of six hazardous substances: lead (Pb), mercury,  cadmium, hexavalent chromium, polybrominated biphenyls (PBB) and  polybrominated diphenyl ethers (PBDE) in all electrical and electronic  products, and their component parts</td>
+      </tr>
+      <tr>
+        <td>ROI</td>
+        <td>Return on Investment</td>
+        <td>Return on Investment</td>
+      </tr>
+      <tr>
+        <td>ROKSO</td>
+        <td>Register of Known Spam Operations</td>
+        <td>a list of over 500 professional spammers that is maintained by the Spamhaus Project, an organization dedicated to identifying and exposing spam operators. Any spammer known to have been terminated by three consecutive <a href="glossary_i.htm">ISP</a>s is added to the list. </td>
+      </tr>
+      <tr>
+        <td>ROLR</td>
+        <td><span id="lblWord9">receive objective loudness rating </span></td>
+        <td><span id="lblDefinition10">The ratio in dB of the voltage entering a loop and telephone to the sound pressure produced by the telephone's receiver. </span></td>
+      </tr>
+      <tr>
+        <td>ROM</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> read-only memory</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Report Object Model</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Data stored in computer memory that can be accessed and read by the  user, but not modified. ROM is often permanent, and stores system  control software.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Object model at the base of the Business Intelligence and Reporting Tools (BIRT) </p></td>
+      </tr>
+      <tr>
+        <td>ROOM</td>
+        <td>Real-Time Object-Oriented                                                     Modeling</td>
+        <td>An Object-Oriented Object-Oriented                                                     analysis and design approach</td>
+      </tr>
+      <tr>
+        <td>ROP</td>
+        <td>Raster Operation</td>
+        <td>A set of low-level graphics operations in Windows, i.e., operations that deal with raster graphics.</td>
+      </tr>
+      <tr>
+        <td>RoR</td>
+        <td>Ruby on Rails </td>
+        <td>A web application stack based upon the Ruby programming language, a webserver (like Apache or lighttpd), and a database server (like MySQL).</td>
+      </tr>
+      <tr>
+        <td>ROR</td>
+        <td>remote outdoor router</td>
+        <td>a device that connects a remote location in a WLAN to either another remote location with an ROR for a point-to-point connection or to the system's COR for point-to-multipoint connections.</td>
+      </tr>
+    <tr>
+        <td>ROS</td>
+        <td>run of site</td>
+        <td> in Online Advertising ROS is a type of online ad buying campaign where the banner, image, or media ad can appear on any page within the targeted Web site. </td>
+      </tr>    
+ <tr>
+        <td>ROSE</td>
+        <td>Remote Operations Service Element</td>
+        <td>OSI RPC mechanism used by various OSI network application protocols. </td>
+      </tr>
+      <tr>
+        <td>rot13</td>
+        <td>rotate 13</td>
+        <td>a type of ENCRYPTION commonly used on the Internet to
+          conceal answers to puzzles and the like. To encode a message, the first
+          13 letters of the alphabet are swapped with the last 13.</td>
+      </tr>
+      <tr>
+        <td>RP-SMA</td>
+        <td>Reverse Polarity SubMiniature version A</td>
+        <td> a type of antenna connector used on brands of routers including Buffalo and Asus.</td>
+      </tr>
+      <tr>
+        <td>RP-TNC</td>
+        <td>Reverse Polarity Threaded Neill-Concelman </td>
+        <td> a type of antenna connector used on Linksys access points. </td>
+      </tr>
+      <tr>
+        <td>RPA</td>
+        <td> Recursive  Pyramid  Algorithm</td>
+        <td> a reformulation of 
+          the classical  pyramid algorithm  (PA) for computing  the discrete wavelet 
+          transform  (DWT).</td>
+      </tr>
+      <tr>
+        <td>RPC</td>
+        <td>Remote Procedure Call</td>
+        <td><div align="justify">Most  computer programs run procedures, or sets of instructions, using the  computer's CPU. In other words, the instructions are processed locally  on the same computer that the software is running from. </div></td>
+      </tr>
+      <tr>
+        <td>RPF</td>
+        <td>Reverse Path Forwarding</td>
+        <td>Enables routers to correctly forward multicast traffic down the distribution tree. It makes use of the existing unicast routing table to determine the upstream and downstream neighbors</td>
+      </tr>
+      <tr>
+        <td>RPG</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Report Program Generator</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> role-playing game</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A programming language that was developed by IBM in the 1960s to simplify programming for business applications.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> role-playing game</p></td>
+      </tr>
+      <tr>
+        <td>RPI</td>
+        <td>Rockwell Protocol Interface</td>
+        <td>A feature in some modems that allows data compression and error correction to be performed by software instead of hardware. <a href="http://www.rockwell.com" target="_blank">HTTP://WWW.ROCKWELL.COM</a>.</td>
+      </tr>
+      <tr>
+        <td>RPL</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Remote Program Load</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Requested Privilege Level</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Recognized Prior Learning</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Bootable network device protocol, developed and used mostly by IBM</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a level of privilege within the architecture of a computer system where the most privileged layer is usually zero. </p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> an industry acknowledgement of a person's skills and knowledge obtained through learning programs outside of a formal education system.</p></td>
+      </tr>
+      <tr>
+        <td>RPM</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Rapid Predictive Modeler </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Red Hat Package Manager</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Revolutions Per Minute</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Route Processor Module</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> BI  product that automatically step through a behind-the-scenes workfow of data 
+          preparation, variable selection, and transformation</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A packaging system based on files with the .rpm extension that contain  dependency information, pre- and post-install scripts, and the actual  user runtimes (files/executables) that are part of the package.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The speed at which a disk drive rotates is measured in revolutions per minute.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Cisco term</p></td>
+      </tr>
+      <tr>
+        <td>RPN</td>
+        <td>Reverse Polish Notation</td>
+        <td>A way of expressing a sequence of calculations without using  parentheses to show which operation must be performed first. Reverse  Polish notation goes in the opposite direction from Polish notation.</td>
+      </tr>
+      <tr>
+        <td>RPO</td>
+        <td>recovery point objective</td>
+        <td> A term used in <a href="glossary_d.htm">DR</a> and <a href="glossary_b.htm">BCP</a>. The RPO defines what constitutes an acceptable loss of data —  specifically, the required timeliness of the data that can be recovered  using backups, journals or transaction logs.</td>
+      </tr>
+      <tr>
+        <td>RPP</td>
+        <td><p>receiving party pays</p></td>
+        <td><p align="justify">The convention under which the party receiving a communication              pays all or   some of the end-to-end cost of the communication.<br />
+        </p></td>
+      </tr>
+      <tr>
+        <td>RPR</td>
+        <td>Resilient packet ring</td>
+        <td>The IEEE 802.17 technological specification to deliver packet-based  services over SONET rings. RPR is an OSI-Rm (OSI Reference Model) Layer  2 technology with framing very similar to that of Ethernet.</td>
+      </tr>
+      <tr>
+        <td>RPT</td>
+        <td><span id="lblWord6">radio personal terminal </span></td>
+        <td><span id="lblDefinition7">A light-weight, pocket-size  portable radio terminal (or "personal terminal") providing the  capability for the user to be either stationary or in motion while  accessing and using telecommunication services.</span></td>
+      </tr>
+      <tr>
+        <td>RQN</td>
+        <td>Real-Quick Newsletter</td>
+        <td>FreeBSD newsletter</td>
+      </tr>
+      <tr>
+        <td>RR</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Register to Register</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> repeatable read</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The class of CPU instructions (and assembler codes that 
+          go with them) relating to only registers, not main memory</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An isolation  level that prevents any row that is read from being changed by other applications  until the transaction is completed.</p></td>
+      </tr>
+      <tr>
+        <td>RR / RRS</td>
+        <td>round-robin scheduling </td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a scheduling algorithm that iterates through all available choices  before beginning again with the first choice.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Round robin DNS is usually used for balancing the load of geographically distributed Web servers. </p></td>
+      </tr>
+      <tr>
+        <td>RR_TOV</td>
+        <td>resource recovery timeout value</td>
+        <td>In fibre channel networks, the minimum time a target device in a loop  waits after a loop initialization primitive (LIP) before logging out a SCSI initiator.</td>
+      </tr>
+      <tr>
+        <td>RRI</td>
+        <td>Reverse Rate Indicator</td>
+        <td>a parameter in a 3G wireless network provided by the reverse link,  which aids the Access Point in determining the rate at which the  reverse link is sending data.</td>
+      </tr>
+      <tr>
+        <td>RRPP</td>
+        <td>Rapid Ring Protection Protocol</td>
+        <td>link layer protocol </td>
+      </tr>
+      <tr>
+        <td>RS</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Recommended Standard</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Reed-Solomon</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Remote Scripting</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> RuneScape</p>
+</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> for example, RS-232C. More recent designations use EIA, for example, EIA-232C.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> codes are block-based error correcting 
+              codes with a wide range of applications in digital <br />
+              communications and storage. </p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Allows code in a client page to call functions in an ASP page running on the server </p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a fantasy MMORPG <a href="http://www.runescape.com/">www.runescape.com/</a></p>
+</td>
+      </tr>
+      <tr>
+        <td>RS-MMC</td>
+        <td>Reduced Size Multi-Media Card</td>
+        <td>Found mostly in camera phones.</td>
+      </tr>
+      <tr>
+        <td>RSA</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Remote Supervisor Adapter</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> register save area </p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Rivest, Shamir and Adleman</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> rural service area</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> PCI adapter which simplifies remote system management by providing around-the-clock remote access to the server. The RSA monitors the server and sends out alerts to designated recipients via <a href="glossary_l.htm">LAN</a>, pager, email or <a href="glossary_s.htm">SNMP</a> if a failure is detected </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The area  of main storage in which the contents of registers are saved.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> An  asymmetric encryption technique, named after its inventors Rivest,  Shamir and Adleman. Based on the assumption that the factoring of the  product of two large prime numbers is very difficult. <a href="http://www.rsa.com">www.rsa.com</a></p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> cellular service areas used by the FCC to license cellular telephone service. </p></td>
+      </tr>
+      <tr>
+        <td>RSBAC</td>
+        <td>Rule Set Based Access Control </td>
+        <td>targets actions based on rules for entities operating on objects.</td>
+      </tr>
+      <tr>
+        <td>RSCT</td>
+        <td>Reliable Scalable Cluster Technology </td>
+        <td>Set of software components, used for AIX and Linux, to provide clusters with improved system availability, scalability, and ease of use</td>
+      </tr>
+      <tr>
+        <td>rsh</td>
+        <td>Remote Shell Protocol</td>
+        <td>a protocol that allows a user to execute commands on a remote system  without having to log in to the system. For example, rsh can be used to  remotely examine the status of a number of access servers without  connecting to each communication server, executing the command, and  then disconnecting from the communication server.</td>
+      </tr>
+      <tr>
+        <td>RSIP</td>
+        <td>Realm Specific Internet Protocol</td>
+        <td>Like NAT, RSIP translates between public and private IP addresses. But instead of requiring a boundary router to translate, RSIP uses a simple protocol between a user's desktop PC and a boundary router to perform preparatory signaling</td>
+      </tr>
+      <tr>
+        <td>RSL</td>
+        <td><span id="lblWord10">received signal level</span></td>
+        <td><span id="lblDefinition11">The signal level at a receiver input terminal.</span></td>
+      </tr>
+      <tr>
+        <td>RSM</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Relational Storage Manager</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Remote Storage Management</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Route Switch Module</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> IBM database term</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Microsoft OS term</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Basically a router on a card in the switch for routing 
+            between Virtual Local Area Networks </p></td>
+      </tr>
+      <tr>
+        <td>RSN</td>
+        <td>Real Soon Now</td>
+        <td>at an indefinite time in the future, probably much later than promised.</td>
+      </tr>
+      <tr>
+        <td>RSPAN</td>
+        <td>Remote Switched Port Analyzer</td>
+        <td>extends SPAN by enabling remote monitoring of multiple switches across your network.</td>
+      </tr>
+      <tr>
+        <td>RSS</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>RDF Site Summary / Really Simple Syndication</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>Receive Side Scaling</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>Relay Spam Stopper</p></td>
+        <td><div align="justify">
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>RSS is method of providing website content such as news stories or software updates in a standard XML format.  RSS content can be accessed with an RSS-enabled Web  browser or other programs designed for retrieving RSS feeds.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>increases performance on multi-processor systems 
+              by efficiently balancing network loads across CPU <br>
+              cores</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>Queryable DNS-based database of spam-relaying mail 
+            servers. See <a href="http://work-rss.mail-abuse.org/rss/">http://work-rss.mail-abuse.org/rss/</a></p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>RSSI</td>
+        <td>Relative Signal Strength Indicator</td>
+        <td>a measurement of radia signals at the point in which they are received and measured.</td>
+      </tr>
+      <tr>
+        <td>RSU</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>Recommended Service Upgrade</p>
+            <p><span id="lblWord16"><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>remote switching unit </span></p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>IBM-recommended PTFs (Program Temporary Fix) supplied as part of monthly z/OS service support </p>
+            <p><span id="lblDefinition19"><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>The subtending remote switching  device that depends in part on its host switch for call control but is  capable of providing intra-unit switching.</span></p></td>
+      </tr>
+      <tr>
+        <td>RSVP</td>
+        <td>Resource Reservation Protocol</td>
+        <td>A transport-layer protocol used to improve network quality of service  (QOS) by reserving the resources (such as bandwidth and buffer space)  that applications require. Developed by the Internet Engineering Task  Force (IETF), RSVP relies on end devices to request their priority so  that resources can be reserved for flows to facilitate the requested  QOS.</td>
+      </tr>
+      <tr>
+        <td>RTC</td>
+        <td>Rich Thin Client</td>
+        <td>All about technologies for thin client with rich functionality and widget set, as opposed to Html clients</td>
+      </tr>
+      <tr>
+        <td>RTD</td>
+        <td>Real-Time  Decisions </td>
+        <td>Oracle's intelligent  process  automation (IPA) for 
+          operational  decisions</td>
+      </tr>
+      <tr>
+        <td>RTE</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> real-time enterprise</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> round-trip engineering</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>An enterprise that achieves competitive advantage by using  up-to-date information to progressively remove delays in the management  and execution of its critical business processes.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The  mechanism used to synchronize code and model information. This term includes  the code generation and reverse engineering features.</p></td>
+      </tr>
+      <tr>
+        <td>RTF</td>
+        <td>Rich Text Format</td>
+        <td>A file format that encodes documents so their messages include  boldface, italics and other limited text stylings across platforms and  applications. Differences exist between implementations by Lotus and  Microsoft.</td>
+      </tr>
+      <tr>
+        <td>RTG</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>Radioisotope Thermoelectric Generators</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>Receive/transmit Transition Gap</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>a simple electrical generator which obtains its power from radioactive decay</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> <strong> </strong>a concept in the mobile wireless network, is a gap between the last  sample of the uplink burst and the first sample of the subsequent  downlink burst at the antenna port of the BS in a time division duplex  (TDD) transceiver.</p></td>
+      </tr>
+      <tr>
+        <td>RTK</td>
+        <td>Real Time Kinematic</td>
+        <td>highly-accurate, highly-repeatable positioning.  With RTK, a base station 
+          receiver  is placed on a  stable  (ideally  immobile) mount, allowing multiple GPS  rover  receivers  to utilize  this 
+          type of correction within a limited range of the base station.</td>
+      </tr>
+      <tr>
+        <td>RTM</td>
+        <td>Read The Manual</td>
+        <td>Read The Manual</td>
+      </tr>
+      <tr>
+        <td>RTMP</td>
+        <td>routing table maintenance protocol</td>
+        <td>a communication protocol used by AppleTalk to ensure 
+          that all routers on the network have consistent routing information</td>
+      </tr>
+      <tr>
+        <td>RTO</td>
+        <td>recovery time objective</td>
+        <td>recovery time objective</td>
+      </tr>
+      <tr>
+        <td>RTP</td>
+        <td> Real-Time Transport Protocol</td>
+        <td>An end-to-end network-transport protocol suitable 
+          for applications transmitting real-time data (such as audio, video, or simulation data) 
+          over multicast or unicast network services.</td>
+      </tr>
+      <tr>
+        <td>rtPS</td>
+        <td>Real-Time Polling Service</td>
+        <td>one of the five QOS service types defined in the IEEE 802.16 WiMAX.</td>
+      </tr>
+      <tr>
+        <td>RTS</td>
+        <td>request to send </td>
+        <td>A control packet used by a station to indicate that it has data to  send. After sending an RTS, the station must receive a clear to send  (CTS) from the destination station before transmitting data packets.</td>
+      </tr>
+      <tr>
+        <td>RTSC</td>
+        <td>Read the Source Code</td>
+        <td>a software developer asks a question about undocumented code.</td>
+      </tr>
+      <tr>
+        <td>RTSE</td>
+        <td>Reliable Transfer Service Element</td>
+        <td>A lightweight ISO/OSI application service used above X.25 networks to handshake application PDUs across the session service and TP0 </td>
+      </tr>
+      <tr>
+        <td>RTSP</td>
+        <td>Real Time Streaming Protocol</td>
+        <td>RTSP is an official Internet standard (<em>RFC</em> 2326) for delivering and receiving streams of data such as audio and video. 
+          The standard allows for both real-time ("live") streams of data and streams from stored data. </td>
+      </tr>
+      <tr>
+        <td>RTT</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Radio Transmission Technology</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Real-Time Technology</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> round-trip time</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> the “voice” protocol for CDMA-enabled cellular devices, usually 
+          abbreviated  as  “1X”. </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Refers to a technology that allows a user to receive data during the actual time that a physical process occurs, known as real time. Real time is measured in milliseconds or microseconds</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Time required for a network communication to  travel from the source to the destination and back. RTT includes the  time required for the destination to process the message from the  source and to generate a reply. </p></td>
+      </tr>
+      <tr>
+        <td>RTTY</td>
+        <td><span id="lblWord7">radio teletypewriter</span></td>
+        <td><span id="lblDefinition8">A teletypewriter employed in a communication system using radio circuits.</span></td>
+      </tr>
+      <tr>
+        <td>RTU</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Remote Terminal Unit </p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Right To Use</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a device located at a remote site to collect data and transmit the data  back to a central station (or master). An RTU also collects information  from the master device and implements processes that are directed by  the master.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The Sun software licensing, usually included in the price of 
+              the software</p></td>
+      </tr>
+      <tr>
+        <td>R-UIM</td>
+        <td>removable user identity module</td>
+        <td>A smart card  that is designed to be used in  mobile phones based on <a href="glossary_c.htm">CDMA</a>. It allows  roaming across <a href="glossary_c.htm">CDMA</a> and <a href="glossary_g.htm">GSM </a>networks.</td>
+      </tr>
+      <tr>
+        <td>RUOW</td>
+        <td>remote unit of work</td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A unit  of work that allows for the remote preparation and execution of SQL statements.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> The form of SQL distributed processing in which the application  is on a system different from the relational database</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> A unit of work that lets a user or an application program  read or update data at one location per unit of work. </p></td>
+      </tr>
+      <tr>
+        <td>RUP</td>
+        <td>Rational Unified Process</td>
+        <td>RUP is a software  development process from Rational, a division of IBM. It divides the  development process into four distinct phases </td>
+      </tr>
+      <tr>
+        <td>RUS</td>
+        <td>Recipient Update Service</td>
+        <td>Microsoft Exchange Mail Server Service that generates and updates email addresses seen in the Global Address List (GAL)</td>
+      </tr>
+      <tr>
+        <td>RVLC</td>
+        <td>Reversible Variable Length Code</td>
+        <td>MPEG-4 Audio Error Resilience (ER) technique that
+          reduces error propagation within scale factor data</td>
+      </tr>
+      <tr>
+        <td>RVI</td>
+        <td>Reverse Interrupt</td>
+        <td> A communications control character that is  transmitted by a receiving terminal requesting a cancellation of the  current transmission, so that it may send a message of its own that is  of higher priority.</td>
+      </tr>
+      <tr>
+        <td>RW</td>
+        <td>Read Write</td>
+        <td>Device capability to read and write its media</td>
+      </tr>
+      <tr>
+        <td>RWI</td>
+        <td><span id="lblWord2">radio and wire integration </span></td>
+        <td><span id="lblDefinition3">The combining of wire circuits with radio facilities. </span></td>
+      </tr>
+      <tr>
+        <td>RWM</td>
+        <td>Read-Write Memory</td>
+        <td>Memory with RW capability</td>
+      </tr>
+      <tr>
+        <td>RWP</td>
+        <td>Remote Write Protocol</td>
+        <td>An Internet protocol for exchanging short messages between terminals.</td>
+      </tr>
+      <tr>
+        <td>RWU</td>
+        <td>remote wake-up</td>
+        <td>a generic term for the action of turning on a computer over a network from a remote location. </td>
+      </tr>
+      <tr>
+        <td>RX / RXD</td>
+        <td>Receive / Receiving Data</td>
+        <td>A modem status signal indicated by a light on the modem, which means the local modem is receiving data.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>rack</td>
+        <td>A framework or structure that holds computer servers or networking  equipment, usually by means of shelves or mounting plates. The height  of computer equipment is expressed in <a href="glossary_u.htm">U</a>, which equal the  distance between shelf increments in a standard rack</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Radeon</td>
+        <td>Radeon is a brand of GPU and RAM produced by AMD</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Ransomware </td>
+        <td>a form of malware in which rogue software code effectively holds a user's computer hostage until a "ransom" fee is paid. Ransomware often infiltrates a PC as a computer worm or Trojan horse that takes advantage of open security vulnerabilities. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> RealAudio</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> RealPlayer</p></td>
+        <td><p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a communication protocol developed by Real Networks
+          (<a href="http://www.realaudio.com">www.realaudio.com</a>) that allows audio signals to be broadcast over the
+          Internet.</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> a widely used program for playing RealAudio files, distributed
+              by Real Networks</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>red book</td>
+        <td><dl>
+            <dt>Another name for the CD-DA audio CD format introduced by Sony and  Philips, the Red Book standards defines the number of tracks on the  disc that contain digital audio data and the error correction routines  that save sound from minor data loss.</dt>
+        </dl></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Remote Desktop</td>
+        <td>a feature of some versions of Microsoft Windows that
+          allows one computer to serve as the screen, keyboard, and mouse of
+          another; thus, any computer can be operated remotely.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Retina display</td>
+        <td>screen technology introduced by Apple in the iPhone 4.
+
+It features a 960 x 640 resolution, an 800:1 contrast ratio and four times the number of pixels than earlier iPhone models.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>rich clients</td>
+        <td><p>Two-tier fat clients. There are two types of rich clients:</p>
+            <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Stand-alone rich clients are the more flexible of the two rich client  types in that they can support both disconnected and connected  operations, allowing a single client architecture to execute in both  online and offline modes.</p>
+          <p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Browser-based rich clients don´t work well in a disconnected mode, but they do enjoy the luxury of having a predefined operating  environment installed on just about every PC they might need to run on.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Rip</td>
+        <td><div> To transfer data to a hard disk from something else. </div></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Router</td>
+        <td>A special-purpose computer that handles the connection between 2 or more Packet-Switched <em>networks</em>. Routers spend all their time looking at the source and destination addresses of the <em>packets</em> passing through them and deciding which route to send them on. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>routing table</td>
+        <td> In internet working, the process of moving a packet of data from source to
+          destination. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Ruby</td>
+        <td>a scripting language for object-oriented programming similar in
+          intent to PERL and PYTHON. Ruby was developed by Yukihiro Matsumoto
+          in 1995. See <a href="http://www.ruby-lang.org">www.ruby-lang.org</a></td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 2.00802993774 -->
+</html>

@@ -1,0 +1,1529 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - W for Web</title>
+<meta name="keywords" content="wikipedia, wiki, wimax, wmp, windows media player, wireless, windows, web 2.0, western digital, www, world of warcraft, wow, wsj">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page178" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm790" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable on"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-w">W</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >W</h1><div class="marker" ></div>
+<div id="pm602" class="tile  m1195 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>W for Web</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm755" class="tile  m1472 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">term</th>
+        <th scope="col">definition</th>
+      </tr>
+      <tr>
+        <td>W3C</td>
+        <td>World Wide Web Consortium</td>
+        <td>An organization formed in 1994 to promote the Web's evolution as a  platform for information, commerce and communication. The W3C, which  has more than 500 member organizations, has developed XML and a  variety of XML-related specifications.</td>
+      </tr>
+      <tr>
+        <td>WAA</td>
+        <td>Wide Area Adapter</td>
+        <td> An adapter connecting to a WAN.</td>
+      </tr>
+      <tr>
+        <td>WAAS</td>
+        <td>Wide Area Augmentation System</td>
+        <td>a collection of satellites and ground stations that  send out <a href="g">GPS</a> signal corrections to provide increased position accuracy. </td>
+      </tr>
+      <tr>
+        <td>WAB</td>
+        <td>Windows Address Book</td>
+        <td>Filename extension by Microsoft</td>
+      </tr>
+      <tr>
+        <td>WAC</td>
+        <td>Wholesale 
+          Applications Community</td>
+        <td>Wholesale  
+          Applications Community</td>
+      </tr>
+      <tr>
+        <td>WACK / WAK</td>
+        <td>Wait acknowledgement</td>
+        <td>This means the receiving station is not ready to receive the ACK.</td>
+      </tr>
+      <tr>
+        <td>WADS</td>
+        <td>write-ahead data set </td>
+        <td>A data  set containing log records that reflect completed operations and are not yet  written to an online log data set. </td>
+      </tr>
+      <tr>
+        <td>WAE</td>
+        <td>Wireless Application Environment</td>
+        <td>the top most level in the WAP suite,  which combines both the WWW and Mobile Telephony technologies.</td>
+      </tr>
+      <tr>
+        <td>WAF</td>
+        <td>Web application firewall</td>
+        <td>Attacks against Web-based applications, as  well as PCI requirements to address Web application security</td>
+      </tr>
+      <tr>
+      <tr>
+        <td>WAI-ARIA</td>
+        <td>Web Accessibility Initiative - Accessible Rich Internet Applications</td>
+        <td>a draft technical specification published by the <a href="http://www.w3.org/">World Wide Web Consortium </a>that specifies how to increase the accessibility of dynamic content and user interface components developed with Ajax, HTML, JavaScript and related technologies.</td>
+      </tr>
+      <tr>
+        <td>WAIS</td>
+        <td>Wide Area Information Servers</td>
+        <td>Developed in the early 1990s WAIS was the first truly large-scale  system to allow the indexing of huge quantities of information on the <em>Web</em>, and to make those indices searchable across <em>networks</em> such as the <em>Internet</em>.  WAIS was also pioneering in its use of ranked (scored) results where  the software tries to determine how relevant each result it. </td>
+      </tr>
+      <tr>
+        <td>WAL</td>
+        <td>wats access line </td>
+        <td> A line class marked as a WATS line, provided from an          equal access end office. The WATS access line provides the same service and features as a          normal business line.</td>
+      </tr>
+      <tr>
+        <td>WALE</td>
+        <td>wats access line extension</td>
+        <td>A WAL provided to a customer served by an          end office which has not been converted to equal access through an end office which has          been converted.  </td>
+      </tr>
+      <tr>
+        <td>WAMP</td>
+        <td>Windows, Apache, Mysql, PHP (or Perl or Phyton)</td>
+        <td>Web applications platform</td>
+      </tr>
+      <tr>
+        <td>WAN</td>
+        <td>Wide-area Network</td>
+        <td><div align="justify">Used  to distinguish the broader telecommunication structure from a local  area network (LAN). A wide area network may be composed entirely of  private structures, but the term seems to also connote the inclusion of  public networks and all kinds of transmission media.</div></td>
+      </tr>
+      <tr>
+        <td><a href="wireless_access_protocol.htm">WAP</a></td>
+        <td><a href="wireless_access_protocol.htm">Wireless Application Protocol</a></td>
+        <td>WAP is a set of specifications developed by the WAP Forum for efficient communication of data over wireless networks to  small devices, such as personal digital assistants and cell phones.</td>
+      </tr>
+      <tr>
+        <td>WARIA</td>
+        <td>Workflow And Reengineering International Association</td>
+        <td>The charter of the WARIA is to identify and clarify issues that are common to users of workflow, electronic commerce and those who are in the process of reengineering their organizations. See also <a href="http://www.waria.com/">http://www.waria.com/</a></td>
+      </tr>
+      <tr>
+        <td>WAS</td>
+        <td>Web Application Server</td>
+        <td>Web Application Server</td>
+      </tr>
+      <tr>
+        <td>WATS</td>
+        <td>Wide Area Telecommunications/Telephone Service</td>
+        <td>Long distance service provided by various carriers that includes both intrastate and interstate service for outgoing and incoming (800) calls. WATS provides a bulk savings plan for companies with a high volume of toll calls, such as telemarketing.</td>
+      </tr>
+      <tr>
+        <td>WAVE</td>
+        <td>Wide Area Virtualization <br>
+          Engine</td>
+        <td>Cisco's engine perform WAN optimization focused on Layer 4 to Layer 7 (application 
+          layer) and host Windows Services through virtualization components at the branch</td>
+      </tr>
+      <tr>
+        <td>WBEM</td>
+        <td>Web-Based Enterprise Management</td>
+        <td>An initiative started by BMC software, Compaq, Cisco, Intel and  Microsoft in 1996 and accepted by the Desktop Management Task Force  (now known as the "Distributed Management Task Force") in 1998.</td>
+      </tr>
+      <tr>
+        <td>WBMP</td>
+        <td>Wireless BitMaP</td>
+        <td>a graphic format optimized for mobile computing devices.  A WBMP image is identified using a TypeField value, which describes  encoding information </td>
+      </tr>
+      <tr>
+        <td>WCF</td>
+        <td> Windows Communication Foundation </td>
+        <td>Set of .NET technologies for building and running connected systems </td>
+      </tr>
+      <tr>
+        <td>WCS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Web customer 
+          service </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Websphere Commerce Server</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> WCS framework consists of Knowledge base for self-service, E-mail response management, web chat, Collaborative browsing and Multichannel interaction recording.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IBM Software platform framework for e-commerce, including marketing, sales, customer and order processing functionality in a tailorable, integrated package</p></td>
+      </tr>
+      <tr>
+        <td>WD</td>
+        <td>Western Digital</td>
+        <td> An industry leader in the disk drive and drive controller industry. <a href="http://www.westerndigital.com" target="_blank">http://www.westerndigital.com</a></td>
+      </tr>
+      <tr>
+        <td>WDDM</td>
+        <td>Windows Display Driver Model</td>
+        <td> The graphics driver model supported by Windows Vista that's required for display of the full Aero Glass effects.</td>
+      </tr>
+      <tr>
+        <td>WDDX</td>
+        <td>Web Distributed Data Exchange </td>
+        <td>an XML based technology that facilitates complex data  exchange between Web programming languages (ColdFusion, Perl, ASP,  Java, JavaScript, PHP, and others).</td>
+      </tr>
+      <tr>
+        <td>WDF</td>
+        <td>Windows Driver Foundation</td>
+        <td>Strategy for the next generation of Windows drivers. WDF defines a single driver model that supports the creation of object-oriented, event-driven drivers for either kernel mode or user mode </td>
+      </tr>
+      <tr>
+        <td>WDM</td>
+        <td><p>Wavelength Division Multiplexing</p></td>
+        <td><p align="justify">Optical  transmission technique in which two or more wavelengths, are combined for transmission over a single  optical fiber. At the receiving end, the wavelengths are separated and  directed to separate receivers.</p></td>
+      </tr>
+      <tr>
+        <td>WDOG</td>
+        <td>Watchdog protocol</td>
+        <td>provides constant validation of active workstation                        connections and notifies the NetWare operating system when                        a connection may be terminated as a result of lengthy periods                        without communication </td>
+      </tr>
+      <tr>
+        <td>WDS</td>
+        <td>Wireless Distribution System </td>
+        <td>a technology that enables access points to communicate with one another  in order to extend the range of a wireless network. WDS is appearing in  802.11g-based access points.</td>
+      </tr>
+      <tr>
+        <td>WDT</td>
+        <td>watchdog timer</td>
+        <td>a 16 bit counter that resets the processor when it rolls over to zero.  The watchdog timer is a fail-safe mechanism that intervenes if a system  stops functioning or in case of a code crash.</td>
+      </tr>
+      <tr>
+        <td>WebCam</td>
+        <td>WEB CAMera</td>
+        <td> kind of cheap TV camera          which you can use for videoconferencing over the internet, or just showing          off</td>
+      </tr>
+      <tr>
+        <td>WebDAV</td>
+        <td>Web-based Distributed Authoring and Versioning</td>
+        <td>A set of extensions to the <em>HTTP</em> protocol that allows multiple users to not only read but also to add, delete, and change documents residing on a web server. <br />
+            <br />
+          In order to use WebDAV you need WebDAV <em>client</em> software to connect to a HTTP <em>server</em> that has the WebDAV extensions installed. </td>
+      </tr>
+      <tr>
+        <td>webinar</td>
+        <td>(web seminar)</td>
+        <td>a group of people viewing a seminar presented over the Web</td>
+      </tr>
+      <tr>
+        <td>WEEE</td>
+        <td>Waste Electrical and Electronic Equipment</td>
+        <td>European Union directive (2002/96/EC) making manufacturers responsible for financing the recycling of end-of-life equipment. </td>
+      </tr>
+      <tr>
+        <td>WEP</td>
+        <td>Wired Equivalent Privacy</td>
+        <td>WEP: wireless feature used to encrypt and decrypt data signals transmitted between  Wireless LAN (WLAN) devices. An optional 802.11 feature (see 802.11),  WEP provides data confidentiality equivalent to that of a wired LAN  that does not employ advanced cryptographic techniques to enhance  privacy.</td>
+      </tr>
+      <tr>
+        <td>WES</td>
+        <td>Websense Email Security</td>
+        <td>Websense <a href="glossary_s.htm">SEG</a> product</td>
+      </tr>
+      <tr>
+        <td>WFM</td>
+        <td>Wired For Management Baseline</td>
+        <td>An Intel hardware specification for easier management of desktop PCs in a networked environment.</td>
+      </tr>
+      <tr>
+        <td>WfMC</td>
+        <td>WorkFlow Management Coalition</td>
+        <td>Non-profit, international organization of workflow vendors, users, analysts and university/research groups. See also <a href="http://www.wfmc.org/">http://www.wfmc.org/ </a></td>
+      </tr>
+      <tr>
+        <td>WFO</td>
+        <td>workforce optimization</td>
+        <td> solution to improve operational efficiency and drive interaction effectiveness</td>
+      </tr>
+      <tr>
+        <td>WFQ</td>
+        <td>weighted fair queuing</td>
+        <td>Congestion management algorithm that identifies conversations  (in the form of traffic streams), separates packets that belong to each  conversation, and ensures that capacity is shared fairly between these  individual conversations. WFQ is an automatic way of stabilizing  network behavior during congestion and results in increased performance  and reduced retransmission. </td>
+      </tr>
+      <tr>
+        <td>WGA</td>
+        <td>Windows Genuine Advantage </td>
+        <td>WGA is a program that investigates Windows -based computers to be sure that their copy of the Windows OS is legitimate. The system checks the OS version, the product key, the license key, the hard disk serial number and other information about the hardware and software in the computer.</td>
+      </tr>
+      <tr>
+        <td>WHISPER</td>
+        <td>Windows Highly Intelligent SPEech Recognition</td>
+        <td>Windows Highly Intelligent SPEech Recognition</td>
+      </tr>
+      <tr>
+        <td>WHQL</td>
+        <td>Windows Hardware Quality Lab</td>
+        <td>A Microsoft group that provides and manages testing programs to  ensure that your hardware and drivers qualify for the Windows Logo  Program (WLP).</td>
+      </tr>
+      <tr>
+        <td>WIA</td>
+        <td>Windows Image Acquisition</td>
+        <td>Standardized API for acquiring digital images from devices that are primarily used to capture still images and for managing these devices</td>
+      </tr>
+      <tr>
+        <td>WiBro</td>
+        <td>Wireless Broadband</td>
+        <td>a wireless broadband internet technology being developed by the Korean  telecoms industry.</td>
+      </tr>
+      <tr>
+        <td>WIC</td>
+        <td>Wan Interface Card</td>
+        <td>Wan Interface Card of Cisco router</td>
+      </tr>
+      <tr>
+        <td>Wi-Fi</td>
+        <td>Wireless Fidelity</td>
+        <td><div align="justify">It  is pretty much a rip-off of the term "Hi-Fi," or High Fidelity, which  refers to high-quality audio or surround sound. Wi-Fi refers to  wireless network components that are based on one of the Wi-Fi  Alliance's 802.11 standards.</div></td>
+      </tr>
+      <tr>
+        <td>wiki</td>
+        <td>What I Know Is</td>
+        <td>Typically used to describe a collaborative (or community) project allowing visitors to edit webpages and add content for the benefit of the group or community.
+          
+          Relevant Links:
+          
+          * <a href="http://en.wikipedia.org">http://en.wikipedia.org</a>/ - Wikipedia, the Free Encyclopedia. Possibly the best known WIKI.</td>
+      </tr>
+      <tr>
+        <td>WiMax</td>
+        <td>World Interoperability for Microwave Access</td>
+        <td>also known as IEEE 802.16 — is an emerging global broadband wireless  standard; a large number of companies back standardization and  certification work through the WiMAX Forum.</td>
+      </tr>
+      <tr>
+        <td>WIMPS</td>
+        <td>windows, icons, menus, pointers, scroll bars</td>
+        <td>A style of graphical user interface originally developed by Xerox,  popularized by the Apple Macintosh and adopted by Microsoft for Windows.</td>
+      </tr>
+      <tr>
+        <td height="29">WINE</td>
+        <td>Wine Is Not an Emulator</td>
+        <td>Windows Emulator for Unix platforms</td>
+      </tr>
+      <tr>
+        <td height="34">WinFS</td>
+        <td>Windows Future Storage</td>
+        <td>the code name for a data storage and management system based on relational databases, developed by Microsoft and first demonstrated in 2003</td>
+      </tr>
+      <tr>
+        <td height="34">Winkey</td>
+        <td>Windows key</td>
+        <td>Akey marked
+          with the Microsoft Windows logo and found on some PC keyboards. It provides a shortcut to some Windows menus</td>
+      </tr>
+      <tr>
+        <td height="29">WINS</td>
+        <td>Windows Internet Name Service</td>
+        <td>A system that determines the IP                                                   address associated with a particular                                                   network computer. This is called                                                   name resolution.</td>
+      </tr>
+      <tr>
+        <td height="29">Winsock</td>
+        <td>Windows sockets</td>
+        <td>files that allow Windows programs to connect to the Internet and other computers.</td>
+      </tr>
+      <tr>
+        <td>Wintel (slang)</td>
+        <td>Windows and Intel </td>
+        <td>The hardware and software combination of an Intel <a href="glossary_c.htm">CPU</a> running Microsoft Windows. Often used with the word "platform" in  opposition to the UNIX or Macintosh platforms.  Sometimes used in a derogatory sense to connote the monopoly powers that Intel and Microsoft yield.</td>
+      </tr>
+      <tr>
+        <td>WIPO</td>
+        <td>World Intellectual Properties Organization</td>
+        <td>an UN organization, based in Geneva, Switzerland, formed for the                   purpose of promoting the protection of intellectual property copyrights                   worldwide through treaty agreements between all participating                   countries. <a href="http://www.wipo.org/">http://www.wipo.org/</a></td>
+      </tr>
+      <tr>
+        <td><a href="wireless_network.htm">WLAN</a></td>
+        <td><a href="wireless_network.htm">wireless LAN</a></td>
+        <td>A LAN communication technology in which radio, microwave or infrared  links take the place of physical cables. Three physical media types of  WLAN are available. The first two — direct-sequence spread spectrum  (see <strong>DSSS</strong>) and frequency-hopping spread spectrum (see <strong>FHSS</strong>)  — are based on radio technologies that are not interoperable. </td>
+      </tr>
+      <tr>
+        <td><a href="local_loop.htm">WLL</a></td>
+        <td><a href="local_loop.htm">wireless local loop</a></td>
+        <td>A wireless connection of a wireless phone or other device in a home or  office to a fixed network. WLL systems are point-to-multipoint  radio-based products used to provide fixed wireless access to networks  and services.</td>
+      </tr>
+      <tr>
+        <td>WMI</td>
+        <td>Windows Management Instrumentation</td>
+        <td>Microsoft's implementation of Web-Based Enterprise Management (WBEM), which is an industry initiative to develop a standard technology for accessing management information in an enterprise environment </td>
+      </tr>
+      <tr>
+        <td>WML</td>
+        <td>Website Meta Language</td>
+        <td>Free and extensible Webdesigner's off-line HTML generation toolkit for Unix, distributed under the GNU General Public License. See also <a href="http://thewml.org/">http://thewml.org/</a></td>
+      </tr>
+      <tr>
+        <td>WML</td>
+        <td>Wireless Markup Language</td>
+        <td>An XML-based markup language, designed for specifying the content and  user interfaces of narrowband wireless devices, such as pagers and  cellular phones.</td>
+      </tr>
+      <tr>
+        <td>WMOS</td>
+        <td>Warehouse Management for Open Systems</td>
+        <td>Manhattan Associates WMS offering, which includes Manhattan's other supply chain solutions, such as  transportation, distributed order management, replenishment and  planning.</td>
+      </tr>
+      <tr>
+        <td>WMP</td>
+        <td>Windows Media Player</td>
+        <td>Microsoft <em>Windows Media Player is</em> a famous digital media player and media library program,, now <a href="http://www.microsoft.com/windows/windowsmedia/player/11/default.aspx">windows media player 11</a>.</td>
+      </tr>
+      <tr>
+        <td>WMS</td>
+        <td>warehouse management system</td>
+        <td>WMS is a software application that supports the day-to-day operations in a warehouse. WMS programs enable centralized management of tasks such as tracking inventory levels and stock locations. WMS systems may be standalone applications or part of an Enterprise Resource Planning (ERP) system. </td>
+      </tr>
+      <tr>
+        <td>WOA</td>
+        <td>Web-oriented architecture</td>
+        <td>an architectural substyle of service-oriented 
+          architecture (SOA) and is based on the representational state transfer (REST) architectural 
+          principles off the World Wide Web</td>
+      </tr>
+      <tr>
+        <td>WOL</td>
+        <td>Wake On LAN</td>
+        <td>The ability of a network card to wake up a PC that is powered down or on standby (i.e. sleep or suspected), when a wake-up message is received across the LAN.</td>
+      </tr>
+      <tr>
+        <td>WORM</td>
+        <td>write once, read many</td>
+        <td>A storage medium on which information can be recorded once and read  many times. Most optical storage technologies use WORM media, in  contrast to magnetic media (such as tape), which can be re-recorded.</td>
+      </tr>
+      <tr>
+        <td>WOS</td>
+        <td>Wireless Office Systems </td>
+        <td>a technology that allows the user to transfer calls to a mobile telephone.</td>
+      </tr>
+      <tr>
+        <td>WOSA</td>
+        <td>Windows Open Service Architecture</td>
+        <td>An architecture and set of application programming interfaces that position Windows as a universal client. It standardizes the <br />
+          interfaces that developers can use in accessing underlying network services. </td>
+      </tr>
+      <tr>
+        <td>WOW</td>
+        <td><p>World of Warcraft</p>
+          <p>World Organization of Webmasters </p></td>
+        <td><p>A very popular MMORPG where users can take on fantasy avatars and play  together to attack different enemies in a very detailed and extensive  virtual world.</p>
+          <p>sponsors several web-related certifications   and provides widely accepted certification standards. </p></td>
+      </tr>
+      <tr>
+        <td>WOW!</td>
+        <td>(formerly) WideOpenWest</td>
+        <td>cable provider in the U.S. <a href="http://www.wowway.com/">http://www.wowway.com/</a></td>
+      </tr>
+      <tr>
+        <td>WPA</td>
+        <td>Wi-Fi Protected Access</td>
+        <td><div align="justify">WPA  is a security protocol designed to create secure Wi-Fi  networks. It is similar to the WEP protocol, but offers improvements in  the way it handles security keys and the way users are authorized.</div></td>
+      </tr>
+      <tr>
+        <td>WPAD</td>
+        <td>Web Proxy AutoDiscovery</td>
+        <td>an Internet protocol that enables a Web browser to automatically connect to a cache server (or proxy server) location in a network in order to retrieve stored Web pages at a quicker rate than having to leave the network </td>
+      </tr>
+      <tr>
+        <td>WPAR</td>
+        <td>Workload PARtition</td>
+        <td>Feature introduced with the IBM AIX® Version 6.1 operating system. It allows running applications to move between System p machines or System p logical partitions (LPARs)</td>
+      </tr>
+      <tr>
+        <td>WPF</td>
+        <td>Windows Presentation Foundation</td>
+        <td>New window system that comes pre-installed on Microsoft Windows Vista </td>
+      </tr>
+      <tr>
+        <td>WPLO</td>
+        <td>Warranty Parts/Labor/Onsite</td>
+        <td>There are three components of HP Standard Warranty, specifically Parts,  Labor and Onsite. There are variations depending on the model, e.g.  some models include 1/1/1 (One year Parts, One year Labor, One year  Onsite) or 3/3/0 (Three years Parts, Three years Labor and no onsite;  pick up and return only).</td>
+      </tr>
+      <tr>
+        <td>wpm</td>
+        <td>Words Per Minute</td>
+        <td>Speech recognition processing power</td>
+      </tr>
+      <tr>
+        <td>WPN</td>
+        <td> Worldwide Port Name</td>
+        <td>A unique 16-character identifier assigned to each port on 
+          a Fibre Channel card. Used in LUN mapping.</td>
+      </tr>
+      <tr>
+        <td>WQUXGA</td>
+        <td>Wide Quad Ultra eXtended Graphics Array</td>
+        <td>a display standard referring to a video adapter capable of a resolution of up to 3840 by 2400 pixels.</td>
+      </tr>
+      <tr>
+        <td>WRC</td>
+        <td>World Radiocommunication Conference</td>
+        <td>An ITU conference held every two or three years, to review and amend  the international radio regulations.</td>
+      </tr>
+      <tr>
+        <td>WRED</td>
+        <td>Weighted Random Early Detection</td>
+        <td>Combines IP precedence and Random Early Detection capabilities to provide differentiated performance characteristics for different classes of service</td>
+      </tr>
+      <tr>
+        <td>WRS</td>
+        <td>Wind River Systems</td>
+        <td>The company that developed the VxWorks real-time operating system.  Since                   its acquisition of competitor Integrated Systems (developers of                   pSOS) in 2000, Wind River has been the dominant player in the                   RTOS marketplace. <a href="http://www.wrs.com" target="_blank">http://www.wrs.com</a></td>
+      </tr>
+      <tr>
+        <td>WRT</td>
+        <td>Weighted Risk Trend</td>
+        <td> A weighted risk score measured over time</td>
+      </tr>
+      <tr>
+        <td>WS-Secuirty</td>
+        <td> Web Services Security</td>
+        <td>OASIS Standard  specifies how SOAP messages can have their integrity and  confidentiality ensured. </td>
+      </tr>
+      <tr>
+        <td>WSC</td>
+        <td>Windows Security Center </td>
+        <td>A central interface in the Windows Vista system for user to manage  security features and handle security problems. Windows Service  Hardening - A new security feature in Windows Vista that protects  services from being compromised by running them under more limited  accounts.</td>
+      </tr>
+      <tr>
+        <td>WSD</td>
+        <td>white space device</td>
+        <td>FCC-certified wireless device that can be used without an exclusive broadcast license in the RF spectrum below 700 MHz</td>
+      </tr>
+      <tr>
+        <td>WSE</td>
+        <td>Web Services Enhancements</td>
+        <td>Add-on to Microsoft Visual Studio .NET and the Microsoft .NET Framework providing developers the latest advanced Web services capabilities to keep pace with the evolving Web services protocol specifications</td>
+      </tr>
+      <tr>
+        <td>WSJ</td>
+        <td>Wall Street Journal</td>
+        <td>WSJ is an American English-language international daily newspaper. It is published in New York City by Dow Jones & Company.<a href="http://www.wsj.com/">http://www.wsj.com/</a></td>
+      </tr>
+      <tr>
+        <td>WSFC</td>
+        <td>Windows Server Failover Clustering</td>
+        <td>Windows Server Failover Clustering</td>
+      </tr>
+      <tr>
+        <td>WSP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Web Standards Project</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Wireless Session Protocol</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a collective project and effort of Web developers, tool developers, and end users whose goal is to stop the fragmentation of the web by persuading the  browser makers that common standards are in everyone's best interest. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> provides the upper-level application layer of WAP with a consistent interface</p></td>
+      </tr>
+      <tr>
+        <td>WSS</td>
+        <td>Windows Sharepoint Services</td>
+        <td>Windows 2003 integrated portfolio of collaboration and communication services designed to connect people, information, processes, and systems both within and beyond the organizational firewall</td>
+      </tr>
+      <tr>
+        <td>WTG</td>
+        <td>Wily Transaction Generator</td>
+        <td> CA APM's synthetic transaction generator used to simulate 
+          transactions</td>
+      </tr>
+      <tr>
+        <td>WTL</td>
+        <td>Windows Template Library</td>
+        <td>Library for developing Windows applications and UI components. It extends ATL (Active Template Library) and provides a set of classes for controls, dialogs, frame windows, GDI objects, and more</td>
+      </tr>
+      <tr>
+        <td>WTLS</td>
+        <td>Wireless Transport Layer Security</td>
+        <td>the security level for WAP applications. Based on <a href="glossary_t.htm">TLS</a> v1.0 (a security layer used in the Internet, equivalent to Secure Socket Layer 3.1), WTLS was developed to address the problematic issues surrounding mobile network devices </td>
+      </tr>
+      <tr>
+        <td>WTX</td>
+        <td>Workstation Technology eXtended</td>
+        <td>A size (max 16.75"x14" -- 425mm x 356mm, LxW) and form factor specification for motherboards. See also <a href="http://www.wtx.org">http://www.wtx.org</a></td>
+      </tr>
+      <tr>
+        <td>WUS</td>
+        <td>Windows Update Services</td>
+        <td><p>Relevant links:</p>
+            <ul>
+              <li> <a href="http://technet.microsoft.com/en-us/wsus/default.aspx">http://technet.microsoft.com/en-us/wsus/default.aspx</a></li>
+            </ul></td>
+      </tr>
+      <tr>
+        <td>WVA</td>
+        <td>Wide Viewing Angle</td>
+        <td>The aspect ratios of each are 16:10 (widescreen).</td>
+      </tr>
+      <tr>
+        <td>WWAN</td>
+        <td>wireless wide-area network</td>
+        <td>wireless wide-area network</td>
+      </tr>
+      <tr>
+        <td>WWN</td>
+        <td>World wide name</td>
+        <td>A unique number assigned by a recognized naming authority 
+          that identifies a connection or a set of connections to the network.</td>
+      </tr>
+      <tr>
+        <td>WWNN</td>
+        <td>worldwide node name </td>
+        <td>A unique  64-bit identifier for a host containing a fibre-channel port.</td>
+      </tr>
+      <tr>
+        <td>WWPN</td>
+        <td>worldwide port name</td>
+        <td>A unique  64-bit identifier associated with a fibre-channel adapter port. </td>
+      </tr>
+      <tr>
+        <td>WWW</td>
+        <td><p>World Wide Web</p></td>
+        <td><p align="justify">A  facility developed for the internet, but also used on virtual private  networks, which enables network servers to be set-up and registered.  These servers contain Hypertext which when clicked on by a user will  point them to other network files containing further, related  information.</p></td>
+      </tr>
+      <tr>
+        <td>WYSIWYG </td>
+        <td>what you see is what you get</td>
+        <td>pronounced <em>wiz-ee-wig, </em>user interface that presents a screen image that closely matches the appearance of the printed document - like Microsoft's                   FrontPage® web page editor and Adobe Dreamweaver.</td>
+      </tr>
+      <tr>
+        <td>WZC</td>
+        <td>Wireless Zero Configuration</td>
+        <td>also known as Wireless Auto Configuration, or WLAN AutoConfig is a wireless connection management utility included with Microsoft Windows XP and later operating systems</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>warez</td>
+        <td>General term used to describe cracks, patches, keys, key generators or      other methods that allow software applications to be used without paying a      license fee, i.e. illegal pirate software.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Warm Boot</td>
+        <td>Rebooting the system by using a software command rather than turning  the power off, then on. The system is reset but power is never  interrupted         </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>wavelength</td>
+        <td> The distance between the crests of a wave in a radio signal,  measured as the speed of light divided by the frequency in <a href="glossary_h.htm">Hz</a>.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td><p>Web 2.0</p></td>
+        <td>A set of technologies and applications that enable efficient  interaction among people, content, and data in support of collectively  fostering new businesses, technology offerings, and social structures.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Web analytics</td>
+        <td>The use of a range of quantitative analyses to understand Web site  performance and visitor experience. These analyses include usage levels  and patterns on an individual and aggregate level.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>webmaster</td>
+        <td>the person who has principal responsibility for maintaining a
+          site on the WORLD WIDE WEB and updating some or all of the WEB PAGEs</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>WebOS</td>
+        <td> a mobile operating system developed by Palm for its Pre range of smartphones.
+
+With Palm's acquisition by HP in 2010, WebOS is now being expanded to address other devices, notably tablets, but also printers.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Webquest</td>
+        <td>A webquest is an inquiry-based learning instructional strategy utilizing information on the internet 
+          to guide learners. For information on developing <br />
+          webquests and sample webquests, see <a href="http://webquest.org/">http://webquest.org/</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>white book</td>
+        <td><dl>
+            <dt>This is the fourth major extension to the audio CD standard.  White Book is a very medium-specific format.</dt>
+        </dl></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>white label</td>
+        <td>product or service is a product or service produced by one company (the producer) that other companies (the marketers) rebrand to make it appear as if they made it. Common in Telco wholesale.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>white list</td>
+        <td>List of approved or trusted people or vendors or items etc. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>WHOIS</td>
+        <td>This is an Internet service that finds information about a domain name  or IP address. <a href="http://www.whois.net/" target="_blank">HTTP://WWW.WHOIS.NET</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>widget</td>
+        <td>An HTML-based program that runs in the Dashboard layer of the system.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td> Wikipedia  </td>
+        <td>The world's largest online encyclopedia, which can be edited by anyone at all. <a href="http://www.wikipedia.org">www.wikipedia.org</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>wikis</td>
+        <td>A wiki is a simple collaborative system for creating and maintaining hyperlinked 
+          collections of Web pages. A wiki usually enables users to add or change pages "in context"
+          without having to worry about where and how the content is physically stored. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>WildList</td>
+        <td>The WildList has been used as a 'reference standard' by many antivirus testing organizations that require 100% detection of acknowledged 'in the wild' viruses for tested products to attain various, 'desirable' certification levels.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>wireless power (supply)</td>
+        <td>facilitates the charging or direct powering of electrical and 
+          electronic equipment using inductive or radio frequency (RF) energy transfer. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>wolfpack</td>
+        <td>The codename for Microsoft's clustering solution. Wolfpack was released in September, 1997 as part of Windows NT 4.0, enterprise Edition. Its official name is MSCS.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>wraps</td>
+        <td><p>An online distribution platform for financial advisors.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>write lock</td>
+        <td>The process of controlling a field so that the ability  to change information held within it is maintained. In almost all  computer languages, a type of table is used. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td> Write-protected</td>
+        <td>A write-protected file has been set so that           it cannot be altered or deleted without first removing the write protection.           Also called read-only. </td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 2.04952001572 -->
+</html>

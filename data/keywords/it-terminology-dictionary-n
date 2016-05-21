@@ -1,0 +1,1657 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - N for network</title>
+<meta name="keywords" content="net, nas, nasdaq, news, npc, names, nat, nbc, next, nick">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page169" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm781" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable on"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-n">N</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >N</h1><div class="marker" ></div>
+<div id="pm604" class="tile  m1197 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>N for network</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm746" class="tile  m1463 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">term</th>
+        <th scope="col">definition</th>
+      </tr>
+      <tr>
+        <td>NAB</td>
+        <td>Not A Bug</td>
+        <td>Used as a reason when rejecting a bug report</td>
+      </tr>
+      <tr>
+        <td>NAC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> network access control </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> network attached connection</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> NAC process evaluates the security state of a system or 
+          user as it connects to the network; monitors the security state of systems that are already 
+          connected.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A particular type of connection that allows a connection directly to the active part of a network.</p></td>
+      </tr>
+      <tr>
+        <td>NACHA</td>
+        <td>National Automated Clearing House Association</td>
+        <td><strong> </strong>A financial industry organization that develops electronic  solutions to improve the payments system. Although it has retained the  "NACHA" acronym, the organization now uses "NACHA — The Electronic  Payments Association" as its full name.</td>
+      </tr>
+      <tr>
+        <td>NAI</td>
+        <td>Network Associates Inc.</td>
+        <td> A network security vendor headquartered in Santa Clara, California. now <a href="http://mcafee">McAfee</a></td>
+      </tr>
+      <tr>
+        <td>NAK</td>
+        <td>Negative acknowledgement or not acknowledged</td>
+        <td>The opposite of the ACK signal. It indicates a message was not received correctly,  or that the terminal is not ready to send.</td>
+      </tr>
+      <tr>
+        <td>NAM</td>
+        <td>Number Assignment Module</td>
+        <td>The component of a wireless phone that holds its telephone number and electronic serial number in memory.</td>
+      </tr>
+      <tr>
+        <td>NAMPS</td>
+        <td>Narrowband Advanced Mobile Phone Service </td>
+        <td>an improved version of AMPS systems. NAMPS is a cellular call-handling  system that uses digital signalling techniques to split the existing 30  kHz wideband voice channels into three 10 kHz narrowband voice channels.</td>
+      </tr>
+      <tr>
+        <td>NaN</td>
+        <td>Not a Number</td>
+        <td>a value or symbol that is usually produced as the result of an  operation on invalid input operands, especially in floating-point  calculations</td>
+      </tr>
+      <tr>
+        <td>NANAE</td>
+        <td>News.Admin.Net-Abuse.Email</td>
+        <td>Usenet newsgroups</td>
+      </tr>
+      <tr>
+        <td>NANOG</td>
+        <td> North American Network Operators Grou</td>
+        <td>provides a forum                   for the exchange of technical information, and promotes discussion                   of implementation issues that require community cooperation. <a href="http://www.nanog.org/">http://www.nanog.org/</a></td>
+      </tr>
+      <tr>
+        <td>NANP</td>
+        <td>Identifies the electrical conditions on the circuit.</td>
+        <td><p>The numbering plan used in the United States, Canada, Bermuda,  Puerto Rico, and certain Caribbean Islands. The NANP format is a  10-digit number that consists of a 3-digit NPA code (Area Code),  3-digit NXX code (Exchange), and 4-digit code (Line).</p></td>
+      </tr>
+      <tr>
+        <td>NAP / NAPs</td>
+        <td>network access points</td>
+        <td>a public network exchange facility where <a href="choosing-isp">ISPs</a> can connect with one another in peering arrangements. The NAPs are a key component of the Internet backbone because the connections within them determine how traffic is routed. They are also the points of most Internet congestion. </td>
+      </tr>
+      <tr>
+        <td>NAP</td>
+        <td>Network Access Protection </td>
+        <td>A client feature supported by Windows Vista that provides for  monitoring and isolation of computers on a Longhorn server-based  network that do not meet administrator-defined health status  requirements.</td>
+      </tr>
+      <tr>
+        <td>NAS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> network access server</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Network Application Support</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> network-attached storage</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> also known as a "media gateway" or a "remote access server" (RAS), is  an access control point for remote users connecting to a company's  internal network or to an <a href="choosing-isp">ISP</a> via analog modems or ISDN.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a term and action originated by DEC. It was the way the industry came to support applications integration across a distributed multivendor environment.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> NAS is hard disk storage that is set up with its own network address rather than being attached to the department computer that is serving applications to a network's workstation users.</p></td>
+      </tr>
+      <tr>
+        <td>NASDAQ</td>
+        <td>National Association of Securities Dealers Automated Quotations</td>
+        <td> the largest electronic screen-based equity securities trading market in the United States  <a href="http://www.nasdaq.com/">http://www.nasdaq.com/</a></td>
+      </tr>
+      <tr>
+        <td>NASS</td>
+        <td>Network Attachment Subsystem </td>
+        <td>a component in the IP Multimedia Susbsystem (IMS)</td>
+      </tr>
+      <tr>
+        <td>NASTRAN</td>
+        <td>NASA Stress Analysis</td>
+        <td>Software that is used to solve large stress analysis problems.</td>
+      </tr>
+      <tr>
+        <td>NAT</td>
+        <td>Network Address Translation</td>
+        <td><div align="justify">
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> NAT  translates the IP addresses of computers in a local network to a single  IP address. This address is often used by the router that connects the  computers to the Internet. </p>
+          <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In a firewall, the conversion  of secure IP addresses to external registered addresses.</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>NAV</td>
+        <td>Norton Anti Virus</td>
+        <td>Symantec AV brand</td>
+      </tr>
+      <tr>
+        <td>NAVSTAR</td>
+        <td>NAVigation Satellite Timing and Ranging</td>
+        <td>the official government name for the satellite system that supports GPS devices. </td>
+      </tr>
+     <tr>
+        <td>NBC</td>
+        <td>National Broadcasting Company</td>
+        <td>NBC is an American commercial broadcasting television network and former radio network headquartered in the GE Building in New York City's Rockefeller Center with additional major offices near Los Angeles and in Chicago.</td>
+      </tr>
+      <tr>
+        <td>NBSP</td>
+        <td>Non-Breaking Space</td>
+        <td>An HTML command that is used to display a single text space without a visible character in that space. </td>
+      </tr>
+      <tr>
+        <td>NC</td>
+        <td>Network Computer</td>
+        <td>An Internet PC from Oracle, designed for Internet use only.</td>
+      </tr>
+      <tr>
+        <td>NCC</td>
+        <td>Norton Control Center</td>
+        <td>Norton Utilities' program by Symantec</td>
+      </tr>
+      <tr>
+        <td>NCCM</td>
+        <td>Network Configuration and Change Management </td>
+        <td>tools focus on discovering 
+          and documenting network device configuration files, auditing changes, comparing configurations 
+          to the policy or "gold standard" for that device, and deploying configuration updates to 
+          multivendor network devices.</td>
+      </tr>
+      <tr>
+        <td>NCI</td>
+        <td>Network Channel Interface </td>
+        <td><p>Identifies the electrical conditions on the circuit.</p></td>
+      </tr>
+      <tr>
+        <td>NCp</td>
+        <td>Netware Core Protocol</td>
+        <td>The set of procedures that <a href="http://www.csgnetwork.com/glossaryn.html#Novell"><strong>Novell</strong></a> NOSs use to handle all network client requests.</td>
+      </tr>
+      <tr>
+        <td>NCP</td>
+        <td><p>Network Control Program</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A program  that controls the operation of a communication controller.</p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A program  used for requests and responses exchanged between physical units in a network  for data flow control.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An  IBM licensed program that provides communication controller support for single-domain,  multiple-domain, and interconnected network capability.</p></td>
+      </tr>
+      <tr>
+        <td>NCQ</td>
+        <td>Native Command Queuing</td>
+        <td>A technology designed to increase performance of SATA  hard disks under certain situations by allowing the individual hard  disk to internally optimize the order in which received read and write  commands are executed.</td>
+      </tr>
+      <tr>
+        <td>NDC</td>
+        <td>networked data center</td>
+        <td><strong> </strong>A service that goes beyond making data center functionality  available on a network. An NDC employs networking technology to treat  multiple data centers and the network as a single system to efficiently  access and process applications.</td>
+      </tr>
+      <tr>
+        <td>NDM</td>
+        <td>Network Data Mover</td>
+        <td> File transmission                           protocol software.</td>
+      </tr>
+      <tr>
+        <td>NDMP</td>
+        <td>Network Data Management Protocol</td>
+        <td>A standard protocol — proposed by storage technology vendors Network  Appliance and Legato Systems — that storage management applications can  use to back up data in a network of heterogeneous servers. NDMP defines  a standard agent that can operate on any file server, regardless of  hardware platform or operating system. </td>
+      </tr>
+      <tr>
+        <td>NDIS</td>
+        <td>Network Driver Interface Specification</td>
+        <td>Windows specification for how communication protocol programs (such as TCP/IP) and network device driver should communicate with each other. </td>
+      </tr>
+      <tr>
+        <td>NDP</td>
+        <td>Neighbor Discovery Protocol</td>
+        <td>a protocol in the Internet Protocol Suite used with IPv6</td>
+      </tr>
+      <tr>
+        <td>NDr</td>
+        <td>Non-Delivery Receipt</td>
+        <td>When an e-mail message is composed and sent to an invalid e-mail address the receiving, or in some cases the sending, e-mail server attempts to send an NDR to the sender of the e-mail message, to inform them that the e-mail address used is invalid.</td>
+      </tr>
+      <tr>
+        <td>NDS</td>
+        <td>Netware Directory Services</td>
+        <td>Novell's name for the tree structured hierarchy within Novell NOSs that includes all network resources and services. </td>
+      </tr>
+      <tr>
+        <td>NEC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> National Electric Code</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> NEC</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A nationally recognized safety standard for the construction, design and maintenance of electrical circuits.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A leading manufacturer and supplier in all commercial  electronics industries worldwide. They have several International  manufacturing and operations locations. See them at <a href="http://www.nec.com" target="_blank">HTTP://WWW.NEC.COM</a>.</p></td>
+      </tr>
+      <tr>
+        <td>NEl</td>
+        <td>Network Element Layer</td>
+        <td>An abstraction of functions related                                                   specifically to the technology,                                                   vendor, and the network resources                                                   or network elements that provide                                                   basic communications services.</td>
+      </tr>
+      <tr>
+        <td>NEMs</td>
+        <td>network equipment manufacturers </td>
+        <td>network equipment manufacturers </td>
+      </tr>
+      <tr>
+        <td>NES</td>
+        <td>Nintendo Entertainment System</td>
+        <td>Nintendo is a Japanese company that produces very popular arcade-like  video games that require their own dedicated game equipment.</td>
+      </tr>
+      <tr>
+        <td>net-J</td>
+        <td>Internet disc jockey</td>
+        <td>In addition to the development of VJ's (video jockeys for music television) there is also the performance position of the Internet disc jockey (or "net-J"). Many enterprising webcasters have begun their own radio stations broadcasting strictly over the Internet. </td>
+      </tr>
+      <tr>
+        <td>NetApp</td>
+        <td>Network Appliance</td>
+        <td>NETAPP Inc. is a major vendor in the network attached storage (NAS) arena </td>
+      </tr>
+      <tr>
+        <td>netbeui</td>
+        <td>NetBios Enhanced User Interface</td>
+        <td>It is an enhanced   	version of the NetBIOS protocol used by network operating systems. 
+          Netbeui was originally designed by IBM for their Lan Manager server and   	later extended by Microsoft and Novell.</td>
+      </tr>
+      <tr>
+        <td>NETBIOS</td>
+        <td>network basic input/output system</td>
+        <td>allows applications on separate computers to communicate over a <a href="glossary_l.htm">local area network (LAN)</a></td>
+      </tr>
+      <tr>
+        <td>Netizen</td>
+        <td>citizen of the <em>Internet</em></td>
+        <td>someone who uses networked resources. The term connotes civic responsibility and participation. </td>
+      </tr>
+      <tr>
+        <td>newbie</td>
+        <td>New beginner</td>
+        <td>Internet         slang for someone who hasn't been using computers or the internet long.</td>
+      </tr>
+      <tr>
+        <td>NEWS</td>
+        <td>Network Extensible Window System</td>
+        <td>A window system based on PostScript that Sun developed and licenses</td>
+      </tr>
+      <tr>
+        <td>NEXT</td>
+        <td>Near-End Crosstalk</td>
+        <td>an error condition that can occur when connectors are attached to  twisted pair cabling. NEXT is usually caused by crossed or crushed wire  pairs.</td>
+      </tr>
+      <tr>
+        <td>NF / NFs</td>
+        <td>Normal Forms</td>
+        <td>the structures and algorithms to normalize a relational database. One  can only describe a database as having a normal form if the  relationships between quantities have been rigorously defined.</td>
+      </tr>
+      <tr>
+        <td>NFC</td>
+        <td> Near-field communication</td>
+        <td>a short-range, wireless, personal-area technology 
+          designed to interact with consumer electronics, mobile devices and PCs. <a href="http://www.nfc-forum.org">http://www.nfc-forum.org</a></td>
+      </tr>
+      <tr>
+        <td>NFF</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> No Fault Found.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Notes Flat File</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> No Fault Found.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An interchange format for the Lotus Notes/Domino platform based on <a href="glossary_x.htm">XML</a>.</p></td>
+      </tr>
+      <tr>
+        <td>NFI</td>
+        <td>Near Field Imaging</td>
+        <td>Touch screen where the screen itself is the sensor. NFI uses a sophisticated sensing circuit that can detect a conductive object - a finger or conductive stylus - through a layer of glass, as well as through gloves or other potential barriers </td>
+      </tr>
+      <tr>
+        <td>NFS</td>
+        <td>Network File System</td>
+        <td>A method of sharing files across a computer network. Pioneered by Sun  Microsystems, it is now a de facto standard in the Unix environment.  NFS is built on <a href="glossary_t.htm">TCP/IP</a> and Ethernet.</td>
+      </tr>
+      <tr>
+        <td>NGC</td>
+        <td>Next Generation Communications </td>
+        <td>Next Generation Communications </td>
+      </tr>
+      <tr>
+        <td>NGN</td>
+        <td>Next-Generation Network</td>
+        <td>a broad term to describe some key architectural evolutions in  telecommunication core and access networks that will be deployed before  2020. The idea is that one network transports all information and  services  by  encapsulating these into packets, as on the Internet.</td>
+      </tr>
+      <tr>
+        <td>NGOSS</td>
+        <td>next-generation operational support system <br />
+          solutions </td>
+        <td>NGOSS is the TeleManagement Forum’s initiative to drive operational efficiency and cost reduction among 
+          telecom networks. NGOSS is a comprehensive, integrated framework for developing, procuring and 
+          deploying operational and business support systems and sofware.</td>
+      </tr>
+      <tr>
+        <td>NHIN</td>
+        <td>Nationwide Health Information Network</td>
+        <td>An interoperable network based on standards that is across the nation and enables <br />
+          the secure exchange of heath information.</td>
+      </tr>
+      <tr>
+        <td>NHM</td>
+        <td>Next Human Network</td>
+        <td>an Internet content service operator headquartered in Seongnam, South Korea and established in 1998. It operates the <a href="http://www.naver.com/">Naver</a> portal, which is the most popular Internet portal and search engines in South Korea, and <a href="http://www.hangame.com/">Hangame</a>, the country's number one online game portal. </td>
+      </tr>
+      <tr>
+        <td>NHRP</td>
+        <td>Next Hop Resolution Protocol</td>
+        <td>Protocol   used by routers to dynamically discover the MAC address of other routers and   hosts connected to an NBMA network.</td>
+      </tr>
+      <tr>
+        <td>NIC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Network Information Center</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Network Interface Card</p></td>
+        <td><div align="justify">
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Generally, any office that handles information for a network. The most  famous of these on the Internet was the InterNIC, which was where most  new domain names were registered until that process was decentralized  to a number of private companies.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Pronounced  "nick," this is the card that physically makes the connection between  the computer and the network cable. These cards typically use an  Ethernet connection and are available in 10, 100, and 1000 Base-T  configurations.</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>nicad</td>
+        <td>nickel-cadmium</td>
+        <td>a type of rechargeable battery formerly
+          used in laptop computers. Nickel-cadmium batteries are toxic and should
+          not be discarded in ordinary trash.</td>
+      </tr>
+      <tr>
+        <td>NICAM</td>
+        <td>Near Instantaneous Companded Audio Multiplex</td>
+        <td><p>A technique for including   	digital audio when broadcasting analogue TV. NICAM is intended to provide CD   	quality stereo for TV broadcasts. Basically it is a digital sound TV carrier   	signal said to be very robust, even when analogue reception was poor. In reality   	this was not the case and in areas where signal strength was poor, switching   	to mono gave favourable results like on FM radio broadcasts</p></td>
+      </tr>
+      <tr>
+        <td>NICE</td>
+        <td>Narrative, Immersive, Collaborative Environment</td>
+        <td>Rechargeable battery technology</td>
+      </tr>
+      <tr>
+        <td>NID</td>
+        <td>Network Interface Device</td>
+        <td>a device that terminates copper pair from the serving  central office at the user’s destination and which is typically located  outside that location.</td>
+      </tr>
+      <tr>
+        <td>NIH</td>
+        <td>not invented here (syndrome)</td>
+        <td><strong> </strong>An informal term used to describe a vendor's reluctance or refusal to support technologies it did not develop itself.</td>
+      </tr>
+      <tr>
+        <td>NILO</td>
+        <td>Network Interface LOader</td>
+        <td>Boot Linux, FreeBSD, Windows 95/98/NT4 and support the Intel PXE standard, and is suitable for burning into ROM. It is an evolution of the previous Etherboot and Netboot projects. See <a href="http://www.nilo.org/">http://www.nilo.org/</a></td>
+      </tr>
+      <tr>
+        <td>NIM</td>
+        <td>Network Interface Module</td>
+        <td>the interface provided, up to two per carrier, for the PSTN used by V.32 dial backup  modules (DBMs) and dial/lease modems, and for the switched 56 kbps  digital service used by the 2-wire and 4-wire switched 56 DBMs.</td>
+      </tr>
+      <tr>
+        <td>NiMH</td>
+        <td>Nickel Metal Hydride</td>
+        <td>batteries do not suffer from the  memory effect as the NiCad counterpart. Compared to a NiCad battery of  equal size, NiMH batteries run for 30% longer on each charge cycle. </td>
+      </tr>
+      <tr>
+        <td>NIP</td>
+        <td>Non-Impact Printer</td>
+        <td>A printer that prints without striking the paper; for example, a laser  printer or an inkjet printer. Non-impact printers are quieter than  impact printers, such as dot matrix or daisy wheel printers.</td>
+      </tr>
+      <tr>
+        <td>NIR</td>
+        <td> Near-Infrared </td>
+        <td>A portion of the electromagnetic 
+spectrum representing light waves approaching infrared. </td>
+      </tr>
+      <tr>
+        <td>NIS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Network Information Service</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Norton Internet Security</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Sun Microsystems' client-server protocol for keeping track of user and host names on a network.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Symantec - Software</p></td>
+      </tr>
+      <tr>
+        <td>NIST</td>
+        <td>National Institute of Standards and Technology</td>
+        <td>Founded in 1901, <a href="http://www.nist.gov/public_affairs/factsheet/strengthen_economy_safety.htm">NIST</a> is a non-regulatory 
+          federal agency within U.S. Commerce Department's Technology 
+          Administration. </td>
+      </tr>
+      <tr>
+        <td>NJE</td>
+        <td>network job entry</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In object  distribution, an entry in the network job table that specifies the system  action required for incoming network jobs sent by a particular user or group  of users.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A facility for linking single-processor systems or  multi-access spool complexes into a processing network</p></td>
+      </tr>
+      <tr>
+        <td>NLA</td>
+        <td>Network Location Awareness</td>
+        <td>Enables Windows Sockets 2 applications to identify the logical network to which a Windows computer is attached and to which physical network interface a given application has saved specific information </td>
+      </tr>
+      <tr>
+        <td>NLB</td>
+        <td>Network Load Balancing</td>
+        <td>A clustering technology from Microsoft allowing  		network traffic to be evenly distributed across a number of servers. It  		also helps to provide high availability by detecting host failures and  		rerouting traffic to one of the available servers.</td>
+      </tr>
+      <tr>
+        <td>NLDF</td>
+        <td>national language dependent function</td>
+        <td>Any function of a hardware or software product that must be altered  to suit a country, region, or language.</td>
+      </tr>
+      <tr>
+        <td>NLM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> NetWare Loadable Module</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Network Lifecycle Management</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Individual program   that can be loaded into memory on a NetWare server and function as part of the   NetWare network operating system.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a key component of the HP Business Service Management (BSM) offering, which reduces service disruptions by improving  visibility into the performance of networks and systems. HP Software Network Management Center provides NLM for automation. </p></td>
+      </tr>
+      <tr>
+        <td>NLO</td>
+        <td>net-liberated organization</td>
+        <td>A Gartner concept describing an organizational philosophy enabled by the advent of the Internet and related Web technologies.</td>
+      </tr>
+      <tr>
+        <td>NLOS</td>
+        <td>Near Line OF Sight</td>
+        <td>Used to describe radio transmission across a path that is partially  obstructed, usually by a physical object. Many types of radio  transmissions depend on line-of-sight between the transmitter and  receiver.</td>
+      </tr>
+      <tr>
+        <td>NLP</td>
+        <td>Natural language processing</td>
+        <td>refers to the computer understanding, analysis, manipulation, and/or  generation of natural language. NLP is a subfield of artificial  intelligence and linguistics. It studies the problems of automated  generation and understanding of natural human languages.</td>
+      </tr>
+      <tr>
+        <td>NLQ</td>
+        <td>Near Letter Quality</td>
+        <td>Print quality almost as good as an electric typewriter; quality similar  to a cloth-ribbon typewriter. The characters are legible but not sharp.  Some dot matrix printers print NLQ.</td>
+      </tr>
+      <tr>
+        <td>NLS</td>
+        <td>National Language Support</td>
+        <td>The set of system functions in 32-bit Windows containing information that is based on language and cultural conventions.</td>
+      </tr>
+      <tr>
+        <td>NLSP</td>
+        <td>Novell Link State Protocol </td>
+        <td>The equivalent of Open Shortest                                                   Path First (OSPF) /o for IPX /i                                                   RIP /r and SAP services. Much                                                   more efficient in its use of bandwidth                                                   and improved stability.</td>
+      </tr>
+      <tr>
+        <td>NLSR</td>
+        <td>Natural language <a href="speech_recognition.htm">speech recognition </a></td>
+        <td><div align="justify">This is a computer's ability to convert spoken input into text, or   to              interpret spoken commands. Special software is used to digitize vocal sounds   and compares them with a library              of sound patterns.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>NMC</td>
+        <td>Network Management Center </td>
+        <td>an operations center used to manage network resources such as the MSC, location registers and base stations.</td>
+      </tr>
+      <tr>
+        <td>NMI</td>
+        <td>nonmaskable interrupt</td>
+        <td>An interrupt that cannot be disabled. Known as a trap (on some Intel processors), as a level 7 interrupt (Motorola), or by other names.</td>
+      </tr>
+      <tr>
+        <td>NMOS</td>
+        <td>Negative-channel Metal Oxide Semiconductor</td>
+        <td>A semiconductor technology that uses negatively charged base material. NMOS circuits are used with logic and memory chips.</td>
+      </tr>
+      <tr>
+        <td>NMS</td>
+        <td>Network Management Station<p>
+Network Monitoring System
+</td>
+        <td>
+a server that runs a network management application. Network elements communicate with the NMS to relay management and control information. The NMS also enables network data analysis and reporting.
+<p>An application to notify front-line                                                   support personnel about problems                                                   with applications running on remote                                                   machines</td>
+      </tr>
+      <tr>
+        <td>NNI</td>
+        <td>network-to-network interface</td>
+        <td>A term used to denote the interface between two public frame relay or asynchronous transfer mode (ATM) networks.</td>
+      </tr>
+      <tr>
+        <td>NNTP</td>
+        <td>Network News Transfer Protocol</td>
+        <td><div align="justify">For  a message to be posted to a newsgroup, it must be sent through this  protocol that interacts between news servers and newsreader programs.  NNTP is basically the software foundation of a newsgroup server. It is  what queries, distributes, posts, and retrieves news articles.</div></td>
+      </tr>
+      <tr>
+        <td>no-op</td>
+        <td>no operation</td>
+        <td>A machine instruction that does nothing in itself, but holds a place  for an instruction to be entered later. Also called do-nothing  operation.</td>
+      </tr>
+      <tr>
+        <td>NO/NC</td>
+        <td>Normally Open/Normally Closed</td>
+        <td>Generally pertains to a set of contacts on a switch or relay and the position that they are normally found in. NO is normally open and usually means the circuit is open. NC is normally closed and usually means the circuit is engaged and capable.</td>
+      </tr>
+      <tr>
+        <td>NOC</td>
+        <td>Network Operations Center</td>
+        <td><div align="justify">It  is the central location where a company's servers and networking  equipment are located. The NOC may reside either within a company's  campus or at an external location.</div></td>
+      </tr>
+      <tr>
+        <td>NOS</td>
+        <td>Network Operating System</td>
+        <td>An operating system which makes it possible for computers to be on a network, and manages the different aspects of the network.</td>
+      </tr>
+      <tr>
+        <td>NPA</td>
+        <td>numbering plan area</td>
+        <td>A geographical boundary within which no two          telephones will have the same seven-digit number. "N" is any number between two          and nine, "P" is always one or zero; and "A" is any number excluding          zero. </td>
+      </tr>
+      <tr>
+        <td>NPC</td>
+        <td>North Pacific Cable</td>
+        <td>NPC is cable system that connect USA and Japan</td>
+      </tr>
+      <tr>
+        <td>NPDA</td>
+        <td>Network Problem Determination Application</td>
+        <td>An IBM host- based program designed to aid in the isolation and diagnosis of network problems.</td>
+      </tr>
+      <tr>
+        <td>NPI</td>
+        <td>National Provider Identifier</td>
+        <td>A system for classifying all providers of health care services, supplies, and equipment <br />
+          covered under <a href="glossary_h.htm">HIPAA</a>. </td>
+      </tr>
+      <tr>
+        <td>NPL</td>
+        <td>Netscape Public License</td>
+        <td>an open-source license, one of the licenses under which Mozilla is  distributed. Its most notable feature is that it gives the original  developer of Mozilla</td>
+      </tr>
+      <tr>
+        <td>NPP</td>
+        <td>Network Payment Protocol</td>
+        <td>A non-proprietary standard governing how BIPS-enabled client software  interfaces with bank payment processing systems. NPP messages are in  Extensible Markup Language (XML) and begin with a Bank Internet Payment  System (BIPS) XML header.</td>
+      </tr>
+      <tr>
+        <td>NPSI</td>
+        <td>nonpartitioned secondary index </td>
+        <td>An index on a partitioned table space that is not the partitioning index  and is not partitioned. </td>
+      </tr>
+      <tr>
+        <td>NPU</td>
+        <td>Network Processor</td>
+        <td>similar to a microprocessor or CPU, is specially deisgned for use in  applications involving network routing and packet processing. Many  network processors feature multiple RISC CPUs running in parallel.</td>
+      </tr>
+      <tr>
+        <td>NRM</td>
+        <td>normal response mode</td>
+        <td>An operational  mode of an unbalanced data link in which the secondary station starts transmission  only as the result of receiving explicit permission, by polling, from the  primary station.</td>
+      </tr>
+      <tr>
+        <td>NRO</td>
+        <td>Number Resource Organization</td>
+        <td><p>coordinating body  for the five RIRs that manage the distribution of <a href="ip-address">IP Address</a></p>
+        <p><a href="http://www.nro.net">www.nro.net</a></p></td>
+      </tr>
+      <tr>
+        <td>NRZ</td>
+        <td>Non Return to Zero</td>
+        <td>a type of data stream where successive data pulses "ones" are  continuous over several clock cycles without returning to the "zero"  state between successive "ones".</td>
+      </tr>
+      <tr>
+        <td>NRZI</td>
+        <td>Non-Return to Zero Inverted</td>
+        <td>Also known as "invert-on-zero" coding, NRZI  is an SDLC encoding technique where a change in state represents a  binary 0 and no change in state represents a binary 1.</td>
+      </tr>
+      <tr>
+        <td>ns</td>
+        <td>Nanosecond</td>
+        <td>One billionth of a second.  In this time, electrical pulses travel approximately 12<br />
+          inches</td>
+      </tr>
+      <tr>
+        <td>NSA</td>
+        <td>Network Security Appliance</td>
+        <td>SonicWALL SMB firewall line</td>
+      </tr>
+      <tr>
+        <td>NSLookup</td>
+        <td>Name Server Lookup</td>
+        <td>a utility for converting                   IP addresses to the associated hostname and vice versa.</td>
+      </tr>
+      <tr>
+        <td>NSI</td>
+        <td>Network Solutions, Inc</td>
+        <td> the organization that, until 1998, had sole responsibility for maintaining the registry of TLDs
+          ending in  .com,  .net, and  .org, under a contract with the United States
+          Government. Its web address is <a href="http://www.networksolutions.com">www.networksolutions.com</a>.</td>
+      </tr>
+      <tr>
+        <td><a href="nslu2.htm">NSLU2</a></td>
+        <td><a href="nslu2.htm">Network Storage Link for USB 2.0</a></td>
+        <td> a NAS device made by Linksys introduced in 2004 and discontinued in 2008. It makes USB Flash memory and hard disks accessible over a network using the SMB protocol. <a href="http://www.linksysbycisco.com/US/en/products/NSLU2">http://www.linksysbycisco.com/US/en/products/NSLU2</a></td>
+      </tr>
+      <tr>
+        <td>NSFNET</td>
+        <td>National Science Foundation Network</td>
+        <td>a high speed network of networks which is hierarchical in nature. At the highest level is a backbone network which spans the continental United States. </td>
+      </tr>
+      <tr>
+        <td>NSM</td>
+        <td>Network and <br>
+          Security Manager</td>
+        <td>Juniper integrated, policy-driven security and network management products.</td>
+      </tr>
+      <tr>
+        <td>NSP</td>
+        <td>Network Service Provider</td>
+        <td>A company that provides Internet access to ISPs. NSPs offer direct access to the Internet backbone and to the Network Access Points (NAPs). </td>
+      </tr>
+      <tr>
+        <td>NSR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> nonshared resources</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Non-Source Routed</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Files with  their own set of buffers and control blocks.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Frame forwarding through a mechanism other than Source Route Bridging.</p></td>
+      </tr>
+      <tr>
+        <td>NSS</td>
+        <td>Network Switching Subsystem</td>
+        <td>a portion of a GSM network that manages the connections and  communications within the network. The BSS and OSS complete the major  components of the network.</td>
+      </tr>
+      <tr>
+        <td>NT</td>
+        <td>New Technology</td>
+        <td> Specifically refers to Microsoft's Windows  NT 3.5 and NT 4 Windows operating systems. Later versions of Windows are built on NT, which is why references to NT remain in later versions of Windows.</td>
+      </tr>
+      <tr>
+        <td>NTCIP</td>
+        <td>National Transportation Communications for Intelligent Transportation System Protocol</td>
+        <td>a family of standards designed to achieve interoperability and interchangeability between computers and electronic traffic control equipment from different manufacturers.</td>
+      </tr>
+      <tr>
+        <td>NTE</td>
+        <td><p>Network Termination Equipment</p></td>
+        <td><p>Located in the home or office. Examples are set-top boxes, LAN cards.</p></td>
+      </tr>
+      <tr>
+        <td>NTF</td>
+        <td>No Trouble Found</td>
+        <td>IBM computer maintenance abbreviation.</td>
+      </tr>
+      <tr>
+        <td>NTFS</td>
+        <td>New Technology File System</td>
+        <td>The NTFS file system used in Windows NT, Windows 2000 and Windows  Server 2003. NTFS  file system allows permissions to be assigned to individual files  and folders.</td>
+      </tr>
+      <tr>
+        <td>NTO</td>
+        <td>Network Terminal Option</td>
+        <td>An IBM <a href="glossary_s.htm">SNA</a> environment program that allows  non-SNA asynchronous and BSC devices access to the network via the  communications control unit (3705/3725/3745).</td>
+      </tr>
+      <tr>
+        <td>NTP</td>
+        <td>network time protocol</td>
+        <td>Protocol for synchronizing the clocks of 
+          computer systems over packets switched, variable-latency data networks. </td>
+      </tr>
+      <tr>
+        <td>NTRU</td>
+        <td>Number Theory is Really Useful</td>
+        <td>Technology for high speed, low footprint public key cryptography, based on the mathematics of lattice reduction. (Marketed by NTRU Cryptosystems, Inc,<a href="http://www.ntru.com/"> http://www.ntru.com/</a>)</td>
+      </tr>
+      <tr>
+        <td>NTT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> network topology template</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Nippon Telegraph and Telephone</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A template that depicts how the logical deployment template nodes communicate  with each other.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a telephone company that dominates the telecommunication market in Japan. NTT is the largest telecommunications company in Asia</p></td>
+      </tr>
+      <tr>
+        <td>NTSC</td>
+        <td>National Television System Committee</td>
+        <td>A specification for video transmission. </td>
+      </tr>
+      <tr>
+        <td>NUI</td>
+        <td>Natural User Interfaces </td>
+        <td>describes a wide-ranging category of technology that is perhaps most  easily identified by what it lacks – the traditional methods of input  including mice, keyboards, and controllers.</td>
+      </tr>
+      <tr>
+        <td>NUMA</td>
+        <td>Non-Uniform Memory Access</td>
+        <td>A multiprocessing architecture where each processor or small group of  processors has its own group of memory chips. Accessing memory local to  the processor is faster than accessing remote memory on other processor  boards.</td>
+      </tr>
+      <tr>
+        <td>NVE</td>
+        <td>Network Visible Entity</td>
+        <td>A network addressable service (ie. protocol socket) that acts as a network service process (not a node.)</td>
+      </tr>
+      <tr>
+        <td>NZ-DSF</td>
+        <td>Non Zero-Dispersion-Shifted Fiber </td>
+        <td>a dispersion shifted Single Mode (SM) fiber that has the zero dispersion point near the 1550 nm window.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>N + 1</td>
+        <td>A configuration of clustered servers or storage subsystems that  provides redundancy for improved reliability by using multiple primary  systems and one backup system. This provides for improved scalability  and reduced cost compared to two-times (1+1) configurations.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>n-tier architecture</td>
+        <td>"n" represents the number of tiers in an application architecture.  Often, this will be a two- or three-tier client/server architecture. A  three-tier client/server platform architecture is defined such that the  server-based applications are separated from the  DBMS or data repository.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>narcissus</td>
+        <td>A defect in infrared systems that appears as a dark circular area on a  displayed image, caused by radiation reflecting into a detector. It can  be reduced by low-reflective coatings or by altering the lens surface.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>narrowband</td>
+        <td>A low information capacity, equivalent to one speech channel (4kHz analogue or 64kbit/s digital signal).</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Navigate</td>
+        <td>To find one's way around the Internet.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>nesting</td>
+        <td>programming commands that are inside of another command.  The term does not lend itself to any single language but generally to  all that support nesting. Not all commands can be nested and not all  combinations of commands can be nested. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Netbeans</td>
+        <td>Open-source application development tools, <a href="http://www.netbeans.org">www.netbeans.org</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>netbook</td>
+        <td><p>basically a small, inexpensive yet Internet-ready computer with less computing power than a standard laptop.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>NetWare</td>
+        <td>Novell-developed NOS. Provides               file and printer sharing among networks of PCs.               Each network must have at least one file server, and access to other               resources is dependent on connecting to and logging into file server.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Network Topology </td>
+        <td>The physical and logical relationship of nodes in a network; the schematic arrangement of the links and nodes 
+          of a network typically in the form of a star, ring, tree or bus topology. </td>
+      </tr>
+    <tr>
+        <td> </td>
+        <td>Nexus</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Cisco Nexus (introduced 2008), modular network switches designed for data centers
+</p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Google Nexus (released 2010), a line of Android Devices produced</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Node</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A collection of modems that provide local access to a system. When you dial your local access number, you are dialing into a generally local node which then connects you to the main ISP system. </p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> a single station on a network.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>noise</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Unplanned energy introduced onto a communications path, resulting in          transmission errors. Undesirable signals bearing no desired information</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The          unpredictable difference between the observed data and the true process. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>northbridge </td>
+        <td> the chip or chips that connect a <a href="http://www.webopedia.com/TERM/C/CPU.html">CPU</a> to <a href="http://www.webopedia.com/TERM/M/memory.html">memory</a>, the <a href="http://www.webopedia.com/TERM/P/PCI.html">PCI</a> <a href="http://www.webopedia.com/TERM/B/bus.html">bus</a>, <a href="http://www.webopedia.com/TERM/L/L2_cache.html">Level 2 cache</a> and <a href="http://www.webopedia.com/TERM/A/AGP.html">AGP</a> activities. The Northbridge chips communicate with the CPU through the <a href="http://www.webopedia.com/TERM/F/frontside_bus.html">FSB</a>. other is <a href="s">Southbridge</a>.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>nuke</td>
+        <td> To intentionally delete the entire contents of a given directory, hard drive, or storage volume.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Nuker</td>
+        <td>Now a generic term for several <a href="glossary_t.htm">TCP/IP</a> <a href="glossary_d.htm">DoS</a> attacks, but originally made (in)famous by the WinNuke DoS attack which crashed Windows machines that had not been suitably patched or firewalled.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>null</td>
+        <td>When a variable has no value, it  considered to be null. Having a null value is different than having a  value of 0, since 0 is an actual value. However, when used in a boolean  test, both null and zero result in a FALSE value.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Nx64k</td>
+        <td>This refers to a circuit bandwidth                                                   or speed provided by the aggregation                                                   of nx64 kbps channels (where n=                                                   integer 1).</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>nym (server)</td>
+        <td> A computer that allows a subscribing user to send and receive e-mail messages using a nym, or assumed name, without revealing the user's true identity. </td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.50504207611 -->
+</html>

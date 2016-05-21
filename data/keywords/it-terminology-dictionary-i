@@ -1,0 +1,2050 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - I for IP address</title>
+<meta name="keywords" content="interface, isdn, idea, intel, ibm, internet download manager, idm, ipl, icsi, inc, ice, ibs, itu, ims, imap, icp, ieee, inter, International, images, image, isohunt, ign">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page164" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm777" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable on"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-i">I</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >I</h1><div class="marker" ></div>
+<div id="pm613" class="tile  m1206 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>I for IP address</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm741" class="tile  m1458 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>I²C</td>
+        <td>Inter-Integrated Circuit</td>
+        <td>a multi-master serial computer bus invented by Philips that is used to attach low-speed peripherals to a motherboard, embedded system, or cellphone. The name is pronounced eye-squared-see or eye-two-see. </td>
+      </tr>
+      <tr>
+        <td>I/O</td>
+        <td>Input/Output</td>
+        <td>Input/Output</td>
+      </tr>
+      <tr>
+        <td>I2</td>
+        <td>Internet2</td>
+        <td>next-generation Internet refers to consortium and government efforts 
+          to define a next-generation high-speed Internet with strong educational tools. </td>
+      </tr>
+      <tr>
+        <td>I2C</td>
+        <td>Inter-Integrated Circuit</td>
+        <td>2-wire bus developed by Philips Semiconductors in the early 1980's for efficient inter-IC communications.</td>
+      </tr>
+      <tr>
+        <td>IA-32/64</td>
+        <td>Intel Architecture - 32/64</td>
+        <td><p>acronym used in the names of Intel processor architectures.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IA-32: Intel proprietary <a href="glossary_c.htm">CISC</a> architecture</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IA-64 :based on Explicitly Parallel Instruction  Computing and certainly designed as the foundation for Intel's line of  microprocessors through 2005. </p></td>
+      </tr>
+      <tr>
+        <td>IaaS</td>
+        <td>integration as a service</td>
+        <td>integration as a service</td>
+      </tr>
+      <tr>
+        <td>IAB</td>
+        <td>Internet Architecture Board (previous Internet Activities Board)</td>
+        <td>The group that administrates the development of the Internet suite of protocols <a href="transmission-control-protocol--internet-protocol">TCP/IP</a>. The IAB has two investigative task forces, the IRTF and the IETF.<a href="http://www.iab.org/"> http://www.iab.org/</a></td>
+      </tr>
+      <tr>
+        <td>IAD</td>
+        <td>integrated access device</td>
+        <td>A network device that collects multiple types of traffic (such as  voice, data or video) at an enterprise site for transmission over a  service provider's network.</td>
+      </tr>
+      <tr>
+        <td>IAM</td>
+        <td>Identity and Access Management </td>
+        <td>IAM is an authoritative association of   			people with identifiers such as ID numbers and ID cards, access credentials such as   			usernames/passwords and authorization to access data and services. Identity and                   access management is fundamental for providing access to university services. </td>
+      </tr>
+      <tr>
+        <td>iAMT</td>
+        <td>Intel Active Management Technology</td>
+        <td>Hardware-based technology for remotely managing and securing PCs out-of-band</td>
+      </tr>
+      <tr>
+        <td>IANA</td>
+        <td> Internet Assigned Numbers Authority </td>
+        <td>they                   manage IP address space, root nameservers and domain names among                   other things. They're being replaced by ICANN. <a href="http://www.iana.org/">http://www.iana.org/</a></td>
+      </tr>
+      <tr>
+        <td>IAP</td>
+        <td>Internet Access Provider</td>
+        <td>a company that provides access to the Internet. IAPs generally provide dial-up access through a modem and PPP connection, though companies that offer Internet access with other devices</td>
+      </tr>
+      <tr>
+        <td>IAS</td>
+        <td>Internet Authentication Service</td>
+        <td>a RADIUS Server which performs connection authentication and accounting for remote access.</td>
+      </tr>
+      <tr>
+        <td>IAT</td>
+        <td>Inside Air Temperature</td>
+        <td>This is used in the electronics industry to mean the ambient air temperature of the air mass within the unit in discussion.</td>
+      </tr>
+      <tr>
+        <td>IB</td>
+        <td>Interface Bus</td>
+        <td>IB stands for Interface Bus</td>
+      </tr>
+      <tr>
+        <td>IBM</td>
+        <td>International Business Machines</td>
+        <td>Known informally as "Big Blue," IBM is one of the largest, most  well-known corporations that designs and manufactures computer systems,  software, networking systems, storage devices, and microelectronics. <a href="http://www.ibm.com">www.ibm.com</a></td>
+      </tr>
+      <tr>
+        <td>IBG</td>
+        <td>interblock gap</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The space between  records on a storage medium.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An area or space on a data medium  (tape or diskette) to indicate the end of a physical record or block.</p></td>
+      </tr>
+      <tr>
+        <td>IBO</td>
+        <td>industry business unit </td>
+        <td>SAP's Public Services Solution Management </td>
+      </tr>
+      <tr>
+        <td>IBR</td>
+        <td>intelligent  browser  referencing</td>
+        <td>Web acceleration function</td>
+      </tr>
+      <tr>
+        <td>IBS</td>
+        <td>Internet Banking System<br />
+          Group</td>
+        <td>IBS is term for Internet Banking System </td>
+      </tr>   
+   <tr>
+        <td>IBSG</td>
+        <td>Internet Business Solutions <br />
+          Group</td>
+        <td><a href="http://www.cisco.com/web/about/ac79/index.html">Cisco IBSG</a>, company's global consultancy, helps  CXOs from the world's largest public and private-sector organizations solve their most pressing challenges. </td>
+      </tr>
+      <tr>
+        <td>IBT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IntelliLight Broadband Transport</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Internet Based Training</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A SONET-based point-to-point service providing high bandwidth interfaces over shared SONET infrastructure facilities.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Evolution of the computer based training, which         offers real-time learning over the Internet with a teacher.</p></td>
+      </tr>
+      <tr>
+        <td>IC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Integrated Circuit</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> I see</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Many transistors and other circuit elements
+          “integrated” on a single silicon chip</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Shorthand slang, IC, meaning "I see". </p></td>
+      </tr>
+      <tr>
+        <td>ICA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Independent Computing Architecture</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> International Compliance Association</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A proprietary protocol for an application server system, designed by  Citrix Systems. The protocol lays down a specification for passing data  between server and clients, but is not bound to any one platform.</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> International Compliance Association <a href="http://www.int-comp.org">www.int-comp.org</a></p></td>
+      </tr>
+      <tr>
+        <td>ICANN</td>
+        <td>Internet Corporation For Assigned Names and Numbers</td>
+        <td><div align="justify">The  ICANN is an non-profit corporation that is responsible for allocating  IP address and managing the domain name system. Every computer  connected to the Internet, from servers to home PCs, has an IP address. <a href="http://www.icann.org/">http://www.icann.org/</a></div></td>
+      </tr>
+      <tr>
+        <td>ICC</td>
+        <td>Internet Commerce Corporation </td>
+        <td>Provides business-to-business electronic commerce services like Internet EDI, EDI fax, web commerce, infosafe document management and subsidiary services. <a href="http://www.icc.net">www.icc.net</a></td>
+      </tr>
+      <tr>
+        <td>ICCs</td>
+        <td> integration competency centers</td>
+        <td>SOA COEs, ICCs rely on metadata repositories 
+          and service registries to help them manage the ever-changing SOA and integration scenarios. </td>
+      </tr>
+      <tr>
+        <td>ICDL</td>
+        <td>International Computer Driving Licence</td>
+        <td>The ICDL Foundation works to promote an International certification of industry-standard computing skills. See <a href="http://www.ecdl.com">http://www.ecdl.com</a></td>
+      </tr>
+      <tr>
+        <td>ICE</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> in-circuit emulator</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> information and content exchange</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Interactive Connectivity Establishment</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> ICE is a debugging tool that takes the place of (emulates)                     the processor on the target board. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> ICE, an XML-based standard protocol for electronic business-to-business (B2B) asset management.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> ICE is a network protocol</p></td>
+      </tr>
+      <tr>
+        <td>ICF</td>
+        <td>Internet Connection Firewall</td>
+        <td><div align="justify">ICF  is a Windows XP feature that protects computers connected to the  Internet from unauthorized access. When ICF is enabled, Windows keeps a  log of incoming requests from other systems on the Internet. If the  request is something the user has requested, like a Web page, the  transmission will not be affected. </div></td>
+      </tr>
+      <tr>
+        <td>ICI</td>
+        <td><p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Information-centric infrastructure </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Interexchange Carrier Interface</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a technology framework that enables 
+          information producers and information consumers to organize, share and exchange any content, anytime, anywhere. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The interface between carrier networks that support SMDS (Switched Multimegabit Data Service).</p></td>
+      </tr>
+      <tr>
+        <td>ICM</td>
+        <td>incentive compensation management </td>
+        <td>applications automate functions for calculating and reporting on  commissions and associated variable compensation methods for sales  channels</td>
+      </tr>
+      <tr>
+        <td>ICMP</td>
+        <td>Internet Control Message Protocol</td>
+        <td><div align="justify">When  information is transferred over the Internet, computer systems send and  receive data using the <a href="glossary_t.htm">TCP/IP</a> protocol. If there is a problem with the  connection, error and status messages regarding the connection are sent  using ICMP, which is part of the Internet protocol.</div></td>
+      </tr>
+      <tr>
+        <td>ICMS</td>
+        <td>incentive compensation management system</td>
+        <td>A system that provide the sales manager with decision support tools to  model various compensation scenarios, measure the impact of those plans  on sales performance and effectively communicate incentive compensation  objectives</td>
+      </tr>
+      <tr>
+        <td>ICP</td>
+        <td>Internet Content Provider</td>
+        <td>ICP license is a permit issued by the Chinese Ministry of Industry and Information Technology to permit China-based websites to operate in China. The ICP license numbers for Chinese websites can often be found on the bottom of the front webpage. </td>
+      </tr>
+      <tr>
+        <td>ICPP</td>
+        <td>Intel Channel Partner Program</td>
+        <td>a program that provides benefits   and support to registered members selling Intel products, or solutions based on   Intel products. The ICPP provides its members with resources and support to help   build, promote, sell, and service Intel technologies. </td>
+      </tr>
+      <tr>
+        <td>ICQ</td>
+        <td>I Seek You</td>
+        <td>Instant messenger program</td>
+      </tr>
+      <tr>
+        <td>ICRA</td>
+        <td>Internet Content Rating Association</td>
+        <td>an organization that promotes
+          voluntary labeling of the content of web pages so that filter software can
+          prevent access to objectionable sites. See <a href="http://www.icra.org">www.icra.org</a>. </td>
+      </tr>
+      <tr>
+        <td>ICS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Incremental Change Synchronization</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Internet Connection Sharing</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A mechanism to monitor, export, and import changed items (both hierarchy and content) between a database and an information store or between two information stores </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Abbreviation used by Microsoft to refer to the internet      connection sharing facility built into more recent versions of Windows. Allows multiple      computers to share a single internet connection which is provided by one computer in a      group.</p></td>
+      </tr>
+      <tr>
+        <td>ICSA</td>
+        <td>International Computer Security Association</td>
+        <td>International Computer Security Association</td>
+      </tr>
+      <tr>
+        <td>ICSI</td>
+        <td>Institute for Clinical Systems Improvement </td>
+        <td>ICSI is a non-profit organization that brings together diverse groups  to transform the health care system so that it delivers  patient-centered and value-driven care. <a href="http://www.icsi.org/">http://www.icsi.org/</a></td>
+      </tr>
+      <tr>
+        <td>ICT</td>
+        <td>information and communication technology</td>
+        <td>A categorical term sometimes used (particularly in Europe) to refer the  combined fields of computing and communications. More commonly,  "information technology" (IT) is used in this sense, since the latter  term, by definition, includes both types of technology.</td>
+      </tr>
+      <tr>
+        <td>ICU</td>
+        <td> International Components for Unicode</td>
+        <td>an Open               Source set of C/C++ and Java libraries for Unicode and software               internationalization support. For information, see <a href="http://www.icu-project.org/">http://www.icu-project.org/</a></td>
+      </tr>
+      <tr>
+        <td>ID</td>
+        <td>identifier </td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> A sequence of bits  or characters that identifies a user, program, device, or system to another  user, program, device, or system.</p>
+            <p> <img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> In the C language, a sequence of letters, digits, and underscores  used to identify a data object or function.</p>
+          <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> In COBOL, a data name  that is unique or is made unique by the correct combination of qualifiers,  subscripts, or indexes.</p>
+          <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> The name of an item in a program written  in the Java language.</p>
+          <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> One or more characters used to identify  or name a data element and possibly to indicate certain properties of that  data element.</p></td>
+      </tr>
+      <tr>
+        <td>IDA</td>
+        <td>(Verizon) Internet Dedicated Access</td>
+        <td>Verizon's IDA offers permanently open, high  bandwidth, dedicated connections to a global Internet backbone network  via access circuits</td>
+      </tr>
+      <tr>
+        <td>IDARS</td>
+        <td> integrated document archive and retrieval system</td>
+        <td>IDARS is a consolidated system for
+          storing, accessing, managing, distributing and viewing<br />
+          fixed content, which includes print-stream-originated
+          reports, images and other fixed content. </td>
+      </tr>
+      <tr>
+        <td>IDC</td>
+        <td>Internet data center</td>
+        <td>A data center  containing  Internet-related facilities for the use of enterprises, Internet  service providers, <a href="glossary_a.htm">ASPs</a>, e-commerce  companies and other firms. IDSs typically provide server outsourcing,  hosting and colocation services, Internet connectivity, <a href="glossary_v.htm">VPNs</a>, and other network and transport services.</td>
+      </tr>
+      <tr>
+        <td>IDD</td>
+        <td>international direct dial / dialing</td>
+        <td>The placement of international calls by dialing them directly, rather than using operator assistance.</td>
+      </tr>
+      <tr>
+        <td>IDE</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Integrated Development Environment</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> integrated drive electronics</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A development environment that is integrated into an application. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A standard computer interface for storage devices, such as internal  hard disk drives.  A later version, enhanced IDE (EIDE), supports more capacity and  peripherals.</p></td>
+      </tr>
+      <tr>
+        <td>IDEA</td>
+        <td>International Data Encryption Algorithm</td>
+        <td>Patented, symmetric block cipher that uses a 128-bit key and operates on 64-bit blocks. </td>
+      </tr>
+      <tr>
+        <td>I-DEAS</td>
+        <td>Integrated-Design Engineering Analysis Software </td>
+        <td>a CAD/CAM software package of SDRC which was bought in 2002 by EDS and now merged into UGS's product NX (Unigraphics). </td>
+      </tr>
+      <tr>
+        <td>IDEMA</td>
+        <td>International Disk drive Equipment and Materials Association</td>
+        <td>International not-for-profit trade association that represents the Hard Disk Drive (HDD) industry and its infrastructure. See also <a href="http://www.idema.org/">http://www.idema.org/</a></td>
+      </tr>
+      <tr>
+        <td>iDEN</td>
+        <td>integrated digital enhanced network</td>
+        <td>A Motorola-enhanced mobile radio network technology that integrates  two-way radio, telephone, text messaging, and data transmission into a single  network.</td>
+      </tr>
+      <tr>
+        <td>IDIM</td>
+        <td>Identity Information 
+          Management </td>
+        <td>A set of principles, practices, policies, processes and
+          procedures that are used within an organization to 
+          manage identity information and realize desired 
+          outcomes concerning identity </td>
+      </tr>
+      <tr>
+        <td>IDIOT</td>
+        <td>Intrusion Detection In Our Time</td>
+        <td>Project to develop a new approach to efficient misuse detection methods. Its design made use of a new classification of intrusion methods based on complexity of matching and temporal characteristics</td>
+      </tr>
+      <tr>
+        <td>IDIQ</td>
+        <td>indefinite delivery/indefinite quantity;</td>
+        <td>Contracts that enable government customers to buy IT services from pre-selected vendors at pre-negotiated  rates. These contracts, developed and administered by individual  government organizations to meet their own IT service requirements, are  usually available to all federal agencies for a small administrative  fee.</td>
+      </tr>
+      <tr>
+        <td><a href="interface_definition_language.htm">IDL</a></td>
+        <td><a href="interface_definition_language.htm">Interface Definition Language</a></td>
+        <td>A language used to describe the interface to a software component or  routine in a manner that is not dependent on a particular programming  language or operating system. </td>
+      </tr>
+      <tr>
+        <td>IDM</td>
+        <td>Internet Download Manager  </td>
+        <td>IDM is a tool to increase download speeds by up to 5 times, resume  and schedule downloads. <a href="http://www.internetdownloadmanager.com/">http://www.internetdownloadmanager.com/</a></td>
+      </tr>
+      <tr>
+        <td>IDOL</td>
+        <td>Intelligent Data Operating Layer</td>
+        <td>heart of <a href="http://www.autonomy.com">Autonomy's</a> infrastructure</td>
+      </tr>
+      <tr>
+        <td>IDOM</td>
+        <td>integrated document and output management</td>
+        <td>Gartner's term for an integrated collection of technologies,  architectures and services aimed at applying the value of information  in documents to business practices. IDOM takes a digital approach to  reducing the burden and cost of paper-based documents.</td>
+      </tr>
+      <tr>
+        <td>IDQ</td>
+        <td>Informatica Data Quality</td>
+        <td> <a href="http://www.informatica.com">Informatica</a> Data Quality Solution delivers pervasive data quality </td>
+      </tr>
+      <tr>
+        <td>IDR</td>
+        <td> Intelligent Disaster Recovery</td>
+        <td>Backup exec option for tape-based system recovery </td>
+      </tr>
+      <tr>
+        <td>IDS</td>
+        <td>intrusion detection system</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> Software that detects attempts or successful attacks on monitored resources  that are part of a network or host system.</p>
+            <p> <img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> Software that notifies  the user of attempts to hack into, disrupt, or deny service to the system.</p></td>
+      </tr>
+      <tr>
+        <td>IDT</td>
+        <td>(originally) International Discount Telecommunications</td>
+        <td>a telecommunications and energy company headquartered in Newark, New Jersey. <a href="http://www.idt.net/">http://www.idt.net/</a></td>
+      </tr>
+      <tr>
+        <td>iDTV</td>
+        <td>Interactive digital television</td>
+        <td>A digital television broadcast linked to a return path that enables  consumers to send and receive individualized messages in real time on  their television set.</td>
+      </tr>
+      <tr>
+        <td>IDU</td>
+        <td>interface data unit</td>
+        <td>interface data unit</td>
+      </tr>
+      <tr>
+        <td>IE</td>
+        <td>Internet Explorer</td>
+        <td>Microsoft Internet Explorer. cf IE4, IE5, IE6, MSIE.</td>
+      </tr>
+      <tr>
+        <td>IEC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Inter-exchange Carrier</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> International Electrotechnical Commission</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A long distance telephone company.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> an organization that sets
+              numerous standards for the electronics industry. Web address:<br />
+                <a href="http://www.iec.ch">www.iec.ch</a>.</p></td>
+      </tr>
+      <tr>
+        <td>IEE</td>
+        <td>Institution of Electrical Engineers</td>
+        <td> See them at <a href="http://www.iee.org" target="_blank">HTTP://IEE.ORG</a></td>
+      </tr>
+      <tr>
+        <td>IEEE</td>
+        <td>Institute of Electrical and Electronics Engineers</td>
+        <td><div align="justify">An organization of engineers,              scientists and students involved in electrical,   electronics and related fields. IEEE 802 standard is the most widely recognized in the computer industry. See also: <a href="http://www.ieee.org/">http://www.ieee.org/</a><br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>IES</td>
+        <td>Integrated Environmental Solutions</td>
+        <td>The IES SketchUp plug-in is a toolbar that sits within the <a href="http://sketchup.google.com/">Google SketchUp</a> application and gives direct access to all of Integrated Environmental Solutions (IES) building simulation tools. </td>
+      </tr>
+      <tr>
+        <td>IETF</td>
+        <td><p>Internet Engineering Task Force</p></td>
+        <td>This subgroup of the Internet Society is responsible
+          for recommending   protocols and procedures used over the Internet. It comprises   representatives              from vendor, government and academic communities, and is   divided into six subcommittees. <a href="http://www.ietf.org/">http://www.ietf.org/</a></td>
+      </tr>
+      <tr>
+        <td>IFB</td>
+        <td>Internet Free/Busy</td>
+        <td>Microsoft Outlook feature </td>
+      </tr>
+      <tr>
+        <td>iFCP</td>
+        <td>Internet Fibre Channel Protocol</td>
+        <td>an emerging protocol dealing with backup and storage. It  is a gateway-to-gateway protocol for the implementation of a Fibre  Channel fabric in which TCP/IP switching and routing elements replace  Fibre Channel components. </td>
+      </tr>
+      <tr>
+        <td>IFL</td>
+        <td>Integrated Facility for Linux</td>
+        <td>an IBM mainframe processor dedicated to running the Linux operating system, with or without z/VM. </td>
+      </tr>
+      <tr>
+        <td>iFrame</td>
+        <td>inline frame</td>
+        <td>a browser feature that enables an HTML page to be displayed within its  own rectangle anywhere on another HTML page.  When necessary, inline frames contain  horizontal and vertical scrollbars to enable users to view all of the  page's contents within the frame.</td>
+      </tr>
+      <tr>
+        <td>IFRS</td>
+        <td>International Financial Reporting Standards</td>
+        <td>principles-based Standards, Interpretations and the Framework (1989)[1] adopted by the <a href="http://www.iasb.org/">International Accounting Standards Board (IASB)</a>.</td>
+      </tr>
+      <tr>
+        <td>iGEMS</td>
+        <td>Integrated Global Enterprise Management System</td>
+        <td>AT&T system correlates network events to predict and <br />
+          solve potential problems before they impact clients’ applications. </td>
+      </tr>
+      <tr>
+        <td>IGF</td>
+        <td>Internet Governance Forum</td>
+        <td>a multi-stakeholder forum for policy dialogue on issues of Internet  governance. Its establishment was announced by the UN Secretary General  in July 2006. It first convened in October/November 2006.</td>
+      </tr>
+      <tr>
+        <td>IGMP</td>
+        <td>Internet Group Management Protocol</td>
+        <td>The TCP/IP protocol that permits Internet hosts to take part in IP multicasting. It is an efficient means of broadcasting messages to groups of end-stations</td>
+      </tr>
+      <tr>
+        <td>IGP</td>
+        <td>interior gateway protocol</td>
+        <td>A type of network protocol used by interior routers to move information  within an autonomous system or group of networks under the control and  authority of a single entity. IGPs transfer packets from one network to  an adjacent one.</td>
+      </tr>
+      <tr>
+        <td>IGRP</td>
+        <td>Interior Gateway Routing Protocol</td>
+        <td>Kind of IGP which is a distance-vector routing protocol invented by Cisco, used by routers to exchange routing data within an autonomous system</td>
+      </tr>
+      <tr>
+        <td>IGS</td>
+        <td>IBM Global Services</td>
+        <td>IBM Global Services</td>
+      </tr>
+      <tr>
+        <td>IHS</td>
+        <td>Integrated Heat Spreader</td>
+        <td>The top surface of the IHS is designed to be the interface for contacting a HS/HSF. Allows more effecient heat transfer out of the package to an attached cooling device. Transform non-uniform heat from the die to the top of the IHS for more uniform spread</td>
+      </tr>
+      <tr>
+        <td>IHV</td>
+        <td>Independent hardware vendor</td>
+        <td>a hardware-manufacturing company that specializes in a specific type of hardware device and not a complete computer system. </td>
+      </tr>
+      <tr>
+        <td>IIOP</td>
+        <td>Internet  Inter-ORB  Protocol</td>
+        <td>a protocol that extends TCP/IP by
+          adding CORBA defined messages for objects to connect to each other
+          over the network.</td>
+      </tr>
+      <tr>
+        <td>IIS</td>
+        <td>Internet Information Server</td>
+        <td>Microsoft's Hypertext Transport Protocol (HTTP) server, originally packaged with the Windows NT operating system. </td>
+      </tr>
+      <tr>
+        <td>IKE</td>
+        <td>Internet Key Exchange</td>
+        <td> an IETF standard approach to exchanging keys for 
+          communications, typically used with implementations of IPSec.</td>
+      </tr>
+      <tr>
+        <td>ILEC</td>
+        <td> Independent  Local Exchange Carrier</td>
+        <td> These companies are the historical                           "Independents" who operate a local telephone business.</td>
+      </tr>
+      <tr>
+        <td>ILEs</td>
+        <td>Immersive learning environments</td>
+        <td> learning situations that are constructed 
+          using a variety of techniques and software tools including game-based learning, simulation-based 
+          learning and virtual worlds. </td>
+      </tr>
+      <tr>
+        <td>ILM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IBM License Manager</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Information Lifecycle Management</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Planned technology announced by IBM as part of the zSeries product  launch in October 2000. The ILM monitor  would have allowed IBM and other participating  vendors to supply usage information to determine license compliance and  provide a vehicle for software asset management.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Information Lifecycle Management.</p></td>
+      </tr>
+      <tr>
+        <td>iLO</td>
+        <td>Integrated Lights-Out</td>
+        <td>Remote management feature on HP servers.</td>
+      </tr>
+      <tr>
+        <td>ILP</td>
+        <td>initial loader program</td>
+        <td>reads an existing file containing database records; also called a boot-loader</td>
+      </tr>
+      <tr>
+        <td>IM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Identity Management</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Instant Messaging</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> an integrated system of business processes, policies and technologies  that enable organizations to facilitate and control their users' access  to critical online applications and resources while protecting confidential personal and business information from unauthorized users.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The facility to send and receive virtually      instantaneous text messages across the internet allowing a text based      conversation in real time. This allows two (or more) people with the same      (or compatible) instant messaging software to type messages to each other.</p></td>
+      </tr>
+      <tr>
+        <td>IMAC</td>
+        <td>installations, moves, adds and changes</td>
+        <td>General term for the routine work performed on computer equipment in an  enterprise, including installations, relocations and upgrades</td>
+      </tr>
+      <tr>
+        <td>IMAP</td>
+        <td>Internet Message Access Protocol</td>
+        <td><div align="justify">It  is a method of accessing e-mail messages on a server without having to  download them to your local hard drive. This is the main difference  between IMAP and another popular e-mail protocol called "POP3." POP3  requires users to download messages to their hard drive before reading  them. The advantage of using an IMAP mail server is that users can  check their mail from multiple computers and always see the same  messages. </div></td>
+      </tr>
+      <tr>
+        <td>IMAPI</td>
+        <td>Image Mastering Application Programming Interface</td>
+        <td>Allows an application to stage and burn a simple audio or data image to CD-R or CD-RW devices</td>
+      </tr>
+      <tr>
+        <td>IMC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Intelligent Management <br />
+          Center</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Internet Mail Consortium </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> HP's    single pane management platform that allows for <br />
+          management/visibility and integration of traditionally separate management tools</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> an international organization focused on cooperatively                   managing and promoting the rapidly-expanding world of electronic                   mail on the Internet. <a href="http://www.imc.org/">http://www.imc.org/</a></p></td>
+      </tr>
+      <tr>
+        <td>IME</td>
+        <td>Input Method Editor</td>
+        <td>A program that performs the conversion between keystrokes and  ideographs or other characters, usually by user-guided dictionary  lookup.</td>
+      </tr>
+      <tr>
+        <td>IMEI</td>
+        <td>International Mobile Equipment Identifier</td>
+        <td>Unique code given to mobile phones to identify them. The code is locked to the phone and not the sim.</td>
+      </tr>
+      <tr>
+        <td>IMS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Information Management                                                     System</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IP multimedia systems</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> DBMS from IBM</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IMS is an emerging architecture standard that defines how network elements  interoperate to provide voice, data, and video services and  applications in any combination, on any network (fixed or mobile).</p></td>
+      </tr>
+      <tr>
+        <td>IMSI</td>
+        <td>International Mobile Subscriber Identity</td>
+        <td>A unique number within the SIM card that identifies the subscriber to the system </td>
+      </tr>
+      <tr>
+        <td>IMUX</td>
+        <td>Inverse Multiplexer</td>
+        <td>Inverse Multiplexer</td>
+      </tr>
+      <tr>
+        <td>INAP</td>
+        <td>Intelligent Network Application Protocol</td>
+        <td>Allows applications to communicate between various nodes/functional entities of an intelligent network. The protocol defines the operations required to be performed between nodes/functional entities for providing intelligent network services</td>
+      </tr>
+      <tr>
+        <td>INC</td>
+        <td>International Network of Crackers </td>
+        <td>one of the premier cracking/releasing warez for the IBM PC during the very late 1980s and early 90s.</td>
+      </tr>
+      <tr>
+        <td>InfoSec</td>
+        <td>Information Security </td>
+        <td>Protection of information to insure confidentiality, integrity, and availability. </td>
+      </tr>
+      <tr>
+        <td>INI file</td>
+        <td>initialization file</td>
+        <td>Commonly used in Microsoft Windows 3.<em>x </em>and earlier, INI files  have been used by both the operating system and individual applications  to store persistent settings related to an application, driver, or  piece of hardware.</td>
+      </tr>
+      <tr>
+        <td>Inmarsat </td>
+        <td>International Maritime Satellite Organization</td>
+        <td>A global mobile satellite communications operator with headquarters in  London. Originally formed as an intergovernmental organization,  Inmarsat became a limited company in 1999.</td>
+      </tr>
+      <tr>
+        <td>INTAP</td>
+        <td>Interoperability Technology Association for Information Processing</td>
+        <td>The technical organization that officially develops Japanese OSI profiles and conformance tests</td>
+      </tr>
+      <tr>
+        <td>Intel</td>
+        <td>INTegrated ELectronics</td>
+        <td>CPU market leader.</td>
+      </tr>
+      <tr>
+        <td>InterNIC</td>
+        <td>Internet Network Information Center</td>
+        <td><div align="justify">he  InterNIC is an organization created by the National Science Foundation  to provide Internet information and domain name registration services.  While the InterNIC was started as a joint effort between Network  Solutions and AT&T, it is now run by the Internet Corporation For  Assigned Names and Numbers (ICANN).</div></td>
+      </tr>
+      <tr>
+        <td>IOA</td>
+        <td>input/output adapter </td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> A functional unit or a part of an I/O controller that connects devices  to an I/O processor.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> For devices, the electrical circuits on a  logic card that connect one device to another.</p>
+          <p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> A circuit board  containing logic and internal software that bridges an internal processor  or memory interconnect scheme and an external, common, standard channel or  link.</p></td>
+      </tr>
+      <tr>
+        <td>IOCA</td>
+        <td>Image Object Content Architecture</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> A defined data stream used to store raster image data.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> An architecture that provides a collection of constructs used  to interchange and present images.</p></td>
+      </tr>
+      <tr>
+        <td>IOD</td>
+        <td>in-order delivery</td>
+        <td>In fibre-channel  technology, a parameter that, when set, guarantees that frames are either  delivered in order or dropped.</td>
+      </tr>
+      <tr>
+        <td>iODBC</td>
+        <td>Independent Open DataBase Connectivity</td>
+        <td>Open source, platform independent implementation of both the ODBC and X/Open specifications. It is rapidly emerging as the industry standard for developing solutions that are language, platform and database independent. See also <a href="http://www.iodbc.org/">http://www.iodbc.org/ </a></td>
+      </tr>
+      <tr>
+        <td>IOM</td>
+        <td>Integrated Object Model</td>
+        <td>a set of object-based interfaces to features or services that are  provided by Base SAS software. IOM enables application developers to  use industry-standard programming languages, programming tools, and  communication protocols to develop client programs that access these  services on IOM servers.</td>
+      </tr>
+      <tr>
+        <td>IONL</td>
+        <td>Internal Organization of the Network Layer</td>
+        <td>The ISO/OSI standard for the architecture of the network layer. The IONL divides the network layer into subnetworks interconnected by convergence protocols (internetworking protocols), resulting in a catenet or internet</td>
+      </tr>
+      <tr>
+        <td>IOP</td>
+        <td>Interoperability</td>
+        <td>Ability of equipment from different manufacturers (or               different implementations) to operate together.</td>
+      </tr>
+      <tr>
+        <td>IOPS</td>
+        <td>Input/Output operations per second</td>
+        <td>Input/Output operations per second. </td>
+      </tr>
+      <tr>
+        <td>IoS</td>
+        <td>Internet over Satellite</td>
+        <td>This technology allows a user to access the Internet via a satellite that orbits the earth. From a fixed position (also referred to as GEOS), the statellite is able to maintain a reliable connection to the antennas on the earth. It orbits the earth at the exact speed of the earth's rotation.</td>
+      </tr>
+      <tr>
+        <td>iOS</td>
+        <td>iPhone OS</td>
+        <td>iOS (previously iPhone OS) is a mobile operating system developed by Apple Inc. and distributed exclusively for Apple hardware. It is the operating system that powers many of the company's iDevices.
+</td>
+      </tr>
+      <tr>
+        <td>IOS</td>
+        <td><p>international operator services (IOS Telecom)</p>
+          <p>Internetwork Operating System</p></td>
+        <td><p>call center operator-services providers in the U.S. <a href="http://www.iostelecom.com/">http://www.iostelecom.com/</a></p>
+          <p>the software used on the vast majority of Cisco Systems routers and current Cisco network switches.</p></td>
+      </tr>
+  <tr>
+        <td>IOTP</td>
+        <td>Internet Open Trading Protocol </td>
+        <td>an IETF specification which defines a way to create a business trading environment that is more reliable and personal than existing methods by giving the consumer more opportunities to interact directly with all parties of a transaction.</td>
+      </tr>
+      <tr>
+        <td>IoT</td>
+        <td> Internet of Things</td>
+        <td>IoT is when the Internet and networks expand to places such as manufacturing floors, energy grids, healthcare facilities, and transportation.</td>
+      </tr>
+      <tr>
+        <td>I-PNNI</td>
+        <td>Integrated Private Network-Network Interface</td>
+        <td>PNNI-compatible protocol used to exchange information               between routers that augment or replace protocols such as <a href="glossary_o.htm">OSPF</a> and IPX. </td>
+      </tr>
+      <tr>
+        <td>IP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Intellectual Property</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Internet Protocol </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IP is the rights in ideas (e.g. in an invention
+          which will be protected by patent law) or expression of ideas (e.g. a book or
+          drawing which will be protected by copyright law) </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The basic underlying protocol of the Internet, originally developed  during a 15-year period under the auspices of the U.S. Department of  Defense. Used in conjunction with <a href="glossary_t.htm">TCP</a>, it provides a common address system and  communications protocol to track the addresses of network nodes, route  outgoing messages and recognize incoming ones.</p></td>
+      </tr>
+      <tr>
+        <td><a href="address_ip.htm">IP address /number</a></td>
+        <td><a href="address_ip.htm">Internet Protocol addresss /number</a></td>
+        <td>Internet Protocol address (IP address) is a  unique number consisting of 4 parts separated by dots, e.g.
+          165.113.245.3 Every machine that is on the Internet has a unique IP number.</td>
+      </tr>
+      <tr>
+        <td>IP PBX</td>
+        <td>Internet Protocol private branch exchange</td>
+        <td>IP PBX vendors replace the traditional TDM/PCM circuit switching and  offer a IP-switching platform for voice communications. The  communication servers provide true multimedia capability and offer many  advantages for high bandwidth applications. </td>
+      </tr>
+      <tr>
+        <td>IP telephony</td>
+        <td>Internet Protocol telephony</td>
+        <td>Voice traffic or data traffic that has traditionally been treated like  voice traffic — it is transmitted over an IP  network. Three distinct types of IP telephony traffic exist: real-time  voice, non-real-time voice and fax.</td>
+      </tr>
+      <tr>
+        <td>IPA</td>
+        <td>intelligent process automation</td>
+        <td>The automation of repeatable operational decisions within business process sets</td>
+      </tr>
+      <tr>
+        <td>IPAM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Intellectual property asset management </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IP Address Management</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Discovering and exploiting gaps in competitors' patent strategies and their own patent strategies and inventing or acquiring intellectual 
+          property (IP) to cover those gaps. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IP Address Management</p></td>
+      </tr>
+      <tr>
+        <td>IPC</td>
+        <td>interprocess communication</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The process by which programs send messages to each other. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A mechanism of an operating system that allows processes to communicate  with each other within the same computer or over a network.</p></td>
+      </tr>
+      <tr>
+        <td>IPL</td>
+        <td>initial program load</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The process  that loads the system programs from the system auxiliary storage, checks the  system hardware, and prepares the system for user operations.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The process of loading the operating system and other basic software into  main storage.</p></td>
+      </tr>
+      <tr>
+        <td>IPL / IPLC</td>
+        <td>international private line / international private leased circuit</td>
+        <td>point-to-point private line used by an organization to communicate between offices that are  geographically dispersed throughout the world.</td>
+      </tr>
+      <tr>
+        <td>IPM</td>
+        <td>Internetwork Performance Monitor</td>
+        <td>Cisco network response time and availability troubleshooting application </td>
+      </tr>
+      <tr>
+        <td>IPMX</td>
+        <td>IP management exchange </td>
+        <td><p>A service, residing in the network, operated by a neutral provider  that mediates quality of service, revenue settlement, and performance  management among different carrier networks.</p></td>
+      </tr>
+      <tr>
+        <td>IPP</td>
+        <td> Internet Printing Protocol</td>
+        <td>A client-server protocol for printing over the Internet. 
+          The Mac OS X printing infrastructure and the Mac OS X Server print service that’s built 
+          on it support IPP.</td>
+      </tr>
+      <tr>
+        <td>IPPP</td>
+        <td>Internet presence provider and promoter</td>
+        <td>a company that helps an enterprise create a Web site, arrange for hosting (housing, maintaining, and providing Internet access) for the Web site, and promote an audience for it.</td>
+      </tr>
+      <tr>
+        <td>IPR</td>
+        <td>Intellectual Property Rights</td>
+        <td>a legal field related to creations of the mind such as musical,  literary, and artistic works; inventions; and symbols, names, images,  and designs used in commerce, including copyrights, trademarks,  patents, and related rights.</td>
+      </tr>
+      <tr>
+        <td>IPRM</td>
+        <td>intellectual property rights management</td>
+        <td>IPR management</td>
+      </tr>
+      <tr>
+        <td>IPRR</td>
+        <td> Intellectual property rights and royalties</td>
+        <td>software lets companies with digital 
+          media assets monetize those assets by issuing contracts that license the use of their IP for 
+          distribution, incorporation with advertising, use in consumer products, or display through <br />
+          traditional and digital means in vehicles other than those owned by the copyright holder. </td>
+      </tr>
+      <tr>
+        <td>IPS</td>
+        <td>intrusion prevention system</td>
+        <td>Beyond an IDS, an IPS takes the 
+          additional step of blocking the attempted intrusion. IPS monitors network and/or system activities for malicious or unwanted behavior and can react, in real-time, to block or prevent those activities.</td>
+      </tr>
+      <tr>
+        <td>IPSec</td>
+        <td>IP Security </td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> A collection of Internet Engineering Task Force (IETF) standards that define  an architecture at the IP layer to protect IP traffic  by using various security services.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> A protocol  that provides cryptographic security services at the network layer.</p></td>
+      </tr>
+      <tr>
+        <td>IPT</td>
+        <td><p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Identity Protection Technology </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> IP telephony </p></td>
+        <td><div align="justify">
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> technology  in 2nd Generation Intel® Core™ processor platforms</p>
+          <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the transmission of voice conversations  (phone-to-phone) over packet  IPT — switched IP data  networks, such as private enterprise LANs, WANs, intranets and the  Internet. Specifically, IP telephony involves the delivery of the  telephony application  over IP, instead of a circuit-switched or other  modality.<br />
+            </p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>IPTV</td>
+        <td><span id="intelliTxt">Internet Protocol Television</span></td>
+        <td><p><span id="intelliTxt2"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a term used to describe the distribution of video  and TV services via a broadband connection using Internet technology.  IPTV is commonly associated with the delivery of on-demand TV, where  viewers access programming as and when they want without waiting for  broadcast schedules. </span></p>
+            <p><span><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In PC Internet terms, IPTV is used to describe the  delivery of content over Internet infrastructure using a set of  proprietary protocols developed by a technology provider such as Joost.</span></p></td>
+      </tr>
+      <tr>
+        <td>IPv4</td>
+        <td>Internet Protocol, version 4</td>
+        <td>The most widley used version of the IP.
+          IPv4 allows for a theoretical maximum of approximately four billion <em>IP Numbers</em> (technically 232),  but the actual number is far less due to inefficiencies in the way  blocks of numbers are handled by networks.</td>
+      </tr>
+      <tr>
+        <td>IPv6</td>
+        <td>Internet Protocal version 6</td>
+        <td><div align="justify">Every  computer system and device connected to the Internet is located by an  IP address. The current system of distributing IP addresses is called  IPv4. This system assigns each computer a 32-bit numeric address, such  as 120.121.123.124.</div></td>
+      </tr>
+      <tr>
+        <td>IPv6CP</td>
+        <td>IPv6 PPP Control Protocol</td>
+        <td>responsible for configuring,                        enabling and disabling the IPv6 protocol modules on both                        ends of a <a href="glossary_p.htm">PPP</a> link. </td>
+      </tr>
+      <tr>
+        <td>IPX</td>
+        <td>Internetwork Packet Exchange</td>
+        <td><div align="justify">It  is a networking protocol used to connect networks based on Novell's  NetWare. IPX is "connectionless," meaning it doesn't require  connections to be maintained during an exchange of packets, like a  phone call does.</div></td>
+      </tr>
+      <tr>
+        <td>IR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> InfraRed</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Internet Registry</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An IR device is one which is able to use infrared for  		communication, a type of wireless device.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The IANA has the discretionary authority to delegate portions of
+              its responsibility and, with respect to network address and
+              Autonomous System identifiers, has lodged this responsibility with
+              an IR.</p></td>
+      </tr>
+      <tr>
+        <td>IRC</td>
+        <td>Internet Relay Chat</td>
+        <td>Basically a huge multi-user live chat facility. There are a number of major IRC servers around the world which are linked to each other. Anyone can create a  channel and anything that anyone types in a given channel is seen by  all others in the channel.</td>
+      </tr>
+      <tr>
+        <td>IRF</td>
+        <td> Intelligent Resilient Framework</td>
+        <td>HP frankwork built to fail over to other 
+          switches in case of an outage or other disaster. </td>
+      </tr>
+      <tr>
+        <td>iRMC</td>
+        <td>Integrated Remote Management Controller</td>
+        <td>Implementation of a Remote Access Card (RAC) by Fujitsu</td>
+      </tr>
+      <tr>
+        <td>IRP</td>
+        <td>I/o Request Packet</td>
+        <td>Data structure used by Windows to communicate to kernel-mode device drivers</td>
+      </tr>
+      <tr>
+        <td>IRQ</td>
+        <td>Interrupt Request</td>
+        <td>PCs use interrupt requests to manage  various hardware operations. Devices such as sound cards, modems, and  keyboards can all send interrupt requests to the processor. </td>
+      </tr>
+      <tr>
+        <td>IRS</td>
+        <td>Interrupt Source</td>
+        <td>Synonymous with bad guys, snakes, nightmares, ulcers, high blood pressure, audits and system crashes! See them at <a href="http://www.irs.gov" target="_blank">HTTP://WWW.IRS.GOV</a></td>
+      </tr>
+      <tr>
+        <td>IRTF</td>
+        <td> Internet Research Task Force</td>
+        <td>a group focused                   on researching Internet protocols, applications, architecture                   and technology <a href="http://www.irtf.org/">http://www.irtf.org/</a></td>
+      </tr>
+      <tr>
+        <td>IRU</td>
+        <td>Indefeasible Right of Use </td>
+        <td>a contractual agreement between the operators of a communications cable, such as submarine communications cable</td>
+      </tr>
+      <tr>
+        <td>IS</td>
+        <td>Information Systems</td>
+        <td>the department that is in charge of information services, information management and computing in general in larger businesses. </td>
+      </tr>
+      <tr>
+        <td>ISA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Industry Standard Adapter</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Internet Security and Acceleration</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The original 8- and 16-bit expansion card standard used in PCs. ISA cards run at a bus speed of 8MHz.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Microsoft  Firewall Client.</p></td>
+      </tr>
+      <tr>
+        <td>ISACA</td>
+        <td>Information Systems Audit and Control Association</td>
+        <td>See<a href="http://www.isaca.org/"> http://www.isaca.org/</a></td>
+      </tr>
+      <tr>
+        <td>ISAM</td>
+        <td>Indexed Sequential Access Method</td>
+        <td>a popular form of record retrieval from files on larger systems. This method was consistent with <a href="http://www.ibm.com" target="_blank">IBM's</a> method of dealing with multiple users in the same file at the same time. </td>
+      </tr>
+      <tr>
+        <td>ISATAP</td>
+        <td>Intra-Site Automatic Tunnel Addressing Protocol</td>
+        <td> an IPv6 transition mechanism  meant to transmit IPv6 packets between dual-stack nodes </td>
+      </tr>
+      <tr>
+        <td>ISC</td>
+        <td>Internet Software Consortium</td>
+        <td>a nonprofit                   corporation dedicated to production-quality software engineering                   for key Internet standards <a href="http://www.isc.org/">http://www.isc.org/</a></td>
+      </tr>
+      <tr>
+        <td>iSCSI</td>
+        <td>Internet SCSI</td>
+        <td>A proposed network transport standard — supported by a group of vendors  that include Cisco Systems, Adaptec and IBM — designed to enables <a href="glossary_s.htm">SANs</a> to be built using <a href="glossary_s.htm">SCSI</a> protocols. It works by encapsulating SCSI data in  IP packets for transport over IP-based networks.</td>
+      </tr>
+      <tr>
+        <td>ISDN</td>
+        <td>Integrated Services Digital Network</td>
+        <td><div align="justify">A technical standard and design philosophy for              digital networks. ISDN   provides high-speed, high-bandwidth channels to subscribers via the              public   switched telephone network, achieving end-to-end digital functions with   standard              equipment interface devices.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>IS-IS</td>
+        <td>Intermediate-System-to-Intermediate-System</td>
+        <td>A routing method among intermediate systems that requires the end  systems, rather than the intermediate systems, to be responsible for  providing error correction. It reduces complexity and overhead of  routing protocols.</td>
+      </tr>
+      <tr>
+        <td>ISIS</td>
+        <td>Image and Scanner Interface Specification</td>
+        <td>A common interface standard that allows consistent scanner control  dialogue. Created by Pixel Translations (now part of ActionPoint), ISIS  has become a popular standard for document-imaging scanners.</td>
+      </tr>
+      <tr>
+        <td>ISL</td>
+        <td>inter-switch link</td>
+        <td>The physical  connection that carries a protocol for interconnecting multiple routers and  switches in a SAN.</td>
+      </tr>
+      <tr>
+        <td>ISM</td>
+        <td> industrial, scientific and medical </td>
+        <td> The industrial, scientific and medical (ISM) radio bands.</td>
+      </tr>
+      <tr>
+        <td>ISN</td>
+        <td>Initial Sequence Numbers</td>
+        <td>A number, created by an operating system, that computers use to reconstruct data sent over the Internet. </td>
+      </tr>
+      <tr>
+        <td>ISO</td>
+        <td> International Organization for Standardization</td>
+        <td><p>ISO followed by a number is used to identify one of the published ISO   	standards. </p>
+            <p><a href="http://www.iso.org">www.iso.org</a> - ISO Home Page</p></td>
+      </tr>
+      <tr>
+        <td>ISOC</td>
+        <td>Internet SOCiety</td>
+        <td>Based in Herndon, Virginia, the Internet Society promotes the Internet and coordinates standards. You can visit their site (<a href="http://www.isoc.org/">http://www.isoc.org/</a>)</td>
+      </tr>
+      <tr>
+        <td>ISP</td>
+        <td>Internet Service Provider</td>
+        <td>An institution that provides access to the Internet in some form, usually for money. </td>
+      </tr>
+      <tr>
+        <td>ISR</td>
+        <td>interrupt service routine</td>
+        <td>A small piece of software executed in response to a particular interrupt. </td>
+      </tr>
+      <tr>
+        <td>ISS</td>
+        <td>Internet Security Systems</td>
+        <td>An security software vendor headquartered in Atlanta. acquired by IBM</td>
+      </tr>
+      <tr>
+        <td>ISSAC</td>
+        <td>Information System for Advanced Academic Computing</td>
+        <td>Serves as a clearinghouse for information about the use of IBM-compatible hardware and software as aids to instruction and research in higher education. Membership is free to all students, faculty, and staff at these institutions.</td>
+      </tr>
+      <tr>
+        <td>ISTG</td>
+        <td>InterSite Topology Generator</td>
+        <td>Managing active directory replication</td>
+      </tr>
+      <tr>
+        <td>ISUP</td>
+        <td>ISDN User Part</td>
+        <td>part of the SS #7 which is used to set up telephone calls in PSTN</td>
+      </tr>
+      <tr>
+        <td>ISV</td>
+        <td>independent software vendor</td>
+        <td>A software producer that is not owned or controlled by a major IT  vendor. An ISV is a company whose primary function is to distribute  software.</td>
+      </tr>
+      <tr>
+        <td>IT</td>
+        <td>Information Technology </td>
+        <td>broad subject concerned with technology and other aspects of managing  and processing information, especially in large organizations.</td>
+      </tr>
+      <tr>
+        <td>ITAD</td>
+        <td>IT asset disposition</td>
+        <td><p>Processes to redeploy, remarket, donate, recycle, or dispose of IT  assets in compliance with data security, environmental, and industry  regulations. </p></td>
+      </tr>
+      <tr>
+        <td>ITAM</td>
+        <td>IT asset management</td>
+        <td>A systematic approach to managing IT assets throughout their life cycle, from procurement through retirement and disposal. </td>
+      </tr>
+      <tr>
+        <td>ITC</td>
+        <td>IT consolidation</td>
+        <td>IT consolidation</td>
+      </tr>
+      <tr>
+        <td>ITCAM</td>
+        <td>IBM Tivoli Composite Application Monitoring</td>
+        <td>IBM Tivoli IT management sofware </td>
+      </tr>
+      <tr>
+        <td>ITCM</td>
+        <td>IT Change Management</td>
+        <td>tool functionality governs documentation, review, 
+          approval, coordination, scheduling, monitoring and reporting of RFCs. The basic functional 
+          requirements begin in the area of case documentation, with industry-standard assignment 
+          capabilities of classification and categorization.</td>
+      </tr>
+      <tr>
+        <td>ITCS</td>
+        <td>Intermodal Transport Control System</td>
+        <td>Performance-minded transport system place high demands on the quality of their transport network.</td>
+      </tr>
+      <tr>
+        <td>ITeS</td>
+        <td>Information Technology Enabled Services</td>
+        <td>outsourcing of processes that can be enabled with information  technology and covers diverse areas like finance, HR, administration, health  care, telecommunication, manufacturing etc. Armed with technology and  manpower, these services are provided from e-enabled locations. </td>
+      </tr>
+      <tr>
+        <td>ITIL</td>
+        <td>Information Technology Infrastructure Library</td>
+        <td>An initiative developed by the Central Computing and Telecommunications  Agency consultancy for the government of the United Kingdom. It offers  a set of best practices in 24 service delivery and IT service support  areas, including help desk, problem management, change management,  software distribution and cost control.</td>
+      </tr>
+      <tr>
+        <td>ITL</td>
+        <td> Instructional Technology Lab</td>
+        <td>The ACCC's ITL, which helps faculty and computer       support staff work with instructional technology.  see       the <a href="http://www.boardwatch.com/isp/">ITL home page</a>.</td>
+      </tr>
+      <tr>
+        <td>ITLA</td>
+        <td>Incremented Three Letter Acronym </td>
+        <td> at one time IBM ran out of TLAs. In order to move to four                   letter acronyms, they had to come up with a four letter acronym                   to replace TLA. So ITLA was adopted as the "standard" to describe all                   four letter acronyms! </td>
+      </tr>
+      <tr>
+        <td>ITO</td>
+        <td>IT outsourcing</td>
+        <td>The contractual vehicle through which enterprises use external sources  to provide life cycle service and support operations for their IT  infrastructure. Outsourcing can be partial or total, and can involve not only operations but also the acquisition  of customer assets and personnel.</td>
+      </tr>
+      <tr>
+        <td>ITOM</td>
+        <td>IT operations management</td>
+        <td>IT operations management</td>
+      </tr>
+      <tr>
+        <td>ITU</td>
+        <td><p>International Telecommunication Union</p></td>
+        <td><p align="justify">This is an international organization,              headquartered in Geneva, Switzerland,   within which governments and the private sector              coordinate global telecommunications networks and services.              See also: <a href="http://www.itu.int/">http://www.itu.int/</a><br />
+        </p></td>
+      </tr>
+      <tr>
+        <td>ITWAB</td>
+        <td>IT Workload Automation Broker Tools </td>
+        <td> technology  designed to overcome the 
+          static and manual nature of scheduling jobs. It's capable of managing mixed workloads based on 
+          business policies, where resources are assigned and unassigned in an automated fashion to 
+          meet service-level objectives.</td>
+      </tr>
+      <tr>
+        <td>ITXC</td>
+        <td>Internet Telephony Exchange Carrier</td>
+        <td>a US based wholesale provider of VoiP, Internet-based phone calls.  acquired by Teleglobe Bermuda Ltd. in 2004</td>
+      </tr>
+      <tr>
+        <td>IVANS</td>
+        <td>International Value Added Network Services</td>
+        <td>IVANS is an external public telecommunication service which
+          provides customers with enhanced services such as electronic
+          mailbox messaging, data interchange or database access and
+          retrieval etc.</td>
+      </tr>
+      <tr>
+        <td>IVDT</td>
+        <td>Integrated Voice and Data Terminal</td>
+        <td> A dual function device incorporating both a terminal keyboard/display and voice telephone.</td>
+      </tr>
+      <tr>
+        <td>IVIS</td>
+        <td>in-vehicle information system</td>
+        <td>A system that enables intelligent vehicles to provide the functionality to  increase the productivity and safety of the driver.</td>
+      </tr>
+      <tr>
+        <td>IVR</td>
+        <td>interactive voice response</td>
+        <td><div align="justify">This function enables callers to push buttons in response to              voice prompts to   listen to recorded information, or have their calls automatically routed to   an              appropriate queue or party.</div></td>
+      </tr>
+      <tr>
+        <td>IXC</td>
+        <td>Interexchange Carrier</td>
+        <td>Any individual,                           partnership, association, joint-stock company, trust,                           governmental entity or corporation engaged for hire in                           interstate or foreign communication by wire or radio between                           two or more exchanges.</td>
+      </tr>
+      <tr>
+        <td>IXS</td>
+        <td>Integrated xSeries Server</td>
+        <td>An Intel server that fits inside System i products to support larger Windows  application demands.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>icon</td>
+        <td><dl>
+            <dt>Symbols or illustrations on the desktop or computer screen that indicate program files, documents, or other functions.</dt>
+        </dl></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Idea management</td>
+        <td>a structured process of generating, capturing, discussing and 
+          improving, organizing, evaluating and prioritizing valuable insight or alternative thinking that would 
+          otherwise not have emerged through normal processes.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>IGN</td>
+        <td>IGN is an entertainment website that focuses on video games, films, music and other media. <a href="http://www.ign.com/">http://www.ign.com/</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>index</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The name on some operating systems for a directory listing of files.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The starting point of a data set. For example, say a record within a  sector of a cylinder of a disk. The first bit of the container does not  have user data. It is the pointer to the index of that container.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A file of information, usually small amounts of the same information  in another file that is much larger. The smaller file also keeps track  of the exact record number of the record in the large file containing  the same information, only in much greater detail. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>iLink</td>
+        <td> iLink is the registered trademark of Sony's IEEE 1394 digital connection. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Instagram </td>
+        <td>Instagram is an online mobile photo-sharing, video-sharing and social networking service that enables its users to take pictures and videos, and share them on a variety of social networking platforms. The name "Instagram" is a portmanteau of "instant camera" and "telegram"</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>insourcing</td>
+        <td>The process of separating the IS organization from the enterprise,  usually as a business unit measured by its own profit and loss. The  insourced IS organization provides the enterprise with IT services on a  business-rules basis.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>interface</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Connection between two systems or devices. </p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A display technique, used primarily in the early 1990s, that enables a monitor to provide more resolution inexpensively. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The preparation a graphic image so that alternating rows  are displayed in separate passes. Interlaced images give a unique  effect because the entire image is displayed quickly and then details  are filled in gradually.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Internet</td>
+        <td>The word "internet"                                                     literally means "network                                                     of networks". In itself,                                                     the Internet is comprised of thousands                                                     of smaller regional networks scattered                                                     throughout the globe.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Internet telephony</td>
+        <td><strong> </strong>Use of Internet protocols for transmitting two-way audio  signals in real time, as an alternative to traditional telephone  carriers.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>InterNIC</td>
+        <td>the entity that controls the registration of most domain  names on the Internet. The InterNIC is a cooperative activity between  the National Science Foundation, Network Solutions, Inc. and AT&T. <a href="http://www.internic.net" target="_blank">HTTP://WWW.INTERNIC.NET</a>.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>intranet</td>
+        <td>An intranet is a constrained version of the Internet usually owned and  controlled by a single company or organisation. Intranets can still be  world-wide, use <a href="glossary_t.htm">TCP/IP</a> protocols, and be structured as a collection of  networks but the greatest difference is that access is limited to a set  of authorised users   using firewalls and other mechanisms.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>IsoHunt </td>
+        <td>isoHunt is a BitTorrent index with over 1.7 million torrents in its database and 20 million peers from indexed torrents. <a href="http://isohunt.com/">http://isohunt.com/</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Itanium</td>
+        <td>A new processor generation introduced by Intel in 2001, based on IA-64 architecture.</td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.99985480309 -->
+</html>

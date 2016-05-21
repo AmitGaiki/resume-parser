@@ -1,0 +1,2028 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - M for Mac address</title>
+<meta name="keywords" content="maps, map, mail, mean, md, mcp, microsoft, macintosh, mp3, midi, msn, microsoft security essentials, mib, mmo, mainframe, middleware, motherboard. mobileme, msi, mbps">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page168" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm780" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable on"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-m">M</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >M</h1><div class="marker" ></div>
+<div id="pm605" class="tile  m1198 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>M for Mac address</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm745" class="tile  m1462 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">term</th>
+        <th scope="col">definition</th>
+      </tr>
+      <tr>
+        <td>m-business</td>
+        <td>mobile business</td>
+        <td>Gartner uses this term to describe the new business models and  opportunities enabled by the extensive deployment of mobile and  wireless technologies and devices — such as Bluetooth, <a href="w">WAP</a>, UMTS, <a href="g">GPRS</a>, smartphones and e-purses</td>
+      </tr>
+      <tr>
+        <td>m-commerce</td>
+        <td>mobile commerce;</td>
+        <td>A category of commerce that includes any purchase transaction completed  using a wireless device, such as a cellular phone, PC or personal  digital assistant.</td>
+      </tr>
+      <tr>
+        <td>M2M</td>
+        <td><p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Manufacturer-to-Manufacturer </p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> model-to-model</p></td>
+        <td><p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a kind of <a href="b">B2B</a> in which electronic exchanges connect manufacturers to each other and streamline business processes. </p>
+        <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> language communication via metadata operators</p></td>
+      </tr>
+      <tr>
+        <td>MAA</td>
+        <td> Mail access agent</td>
+        <td>A mail service that communicates with a user’s email program 
+          to download mail message headers to the user’s local computer.</td>
+      </tr>
+      <tr>
+        <td>Mac</td>
+        <td>Macintosh </td>
+        <td>Computer system that has Mac OS for its OS. There are a few different companies that have produced Macs, but by far the largest is Apple.</td>
+      </tr>
+      <tr>
+        <td>MAC</td>
+        <td><a href="mac-media-access-control">Media Access Control</a><p>
+Mid-Atlantic Crossing
+</td>
+        <td>A  MAC address is a hardware identification number that uniquely  identifies each device on a network. The MAC address is manufactured  into every network card, such as an Ethernet card or Wi-Fi card, and  therefore cannot be changed.<p>
+MAC cable system in USA, St. Croix</td>
+      </tr>
+      <tr>
+        <td>MAC</td>
+        <td>message authentication code</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In Cryptographic Support, the first 4 bytes from the last 8-byte block of  ciphertext produced when encrypting a message using cipher block chaining</p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In computer security, a value that is a part of a message or accompanies  a message and is used to determine that the contents, origin, author, or other  attributes </p></td>
+      </tr>
+      <tr>
+        <td>MADM</td>
+        <td>Multiple Appearance Directory Number</td>
+        <td>allows the same directory number to appear on more than one telephone.</td>
+      </tr>
+      <tr>
+        <td>MAE</td>
+        <td>Metropolitan Area Exchange and/or Ethernet</td>
+        <td>A NAPS where <a href="choosing-isp">ISPs</a> can connect to each other. <a href="http://www.mae.net/">Metropolitan                   Area Ethernet</a> </td>
+      </tr>
+      <tr>
+        <td>MAGs</td>
+        <td>Multichannel access gateways</td>
+        <td>onsist of client- and server-side middleware, 
+          accompanied by tools or packaged as plug-ins, that enable mobile applications to work well 
+          across a diverse set of devices and networks</td>
+      </tr>
+      <tr>
+        <td>mAH</td>
+        <td>milliampere-hour or milliamp-hour </td>
+        <td>a measurement of the amount of charge a battery can hold.</td>
+      </tr>
+      <tr>
+        <td>MAID</td>
+        <td><div>massive array of idle disks</div></td>
+        <td>MAID is a storage technology that employs a large group of disk drives in which only those drives in active use are spinning at any given time. </td>
+      </tr>
+      <tr>
+        <td>Malware</td>
+        <td>Malicious Software</td>
+        <td>Programs with the intent to cause problems.</td>
+      </tr>
+      <tr>
+        <td>MAN</td>
+        <td><p>Metropolitan Area Network</p></td>
+        <td><p align="justify">A  data network intended to serve an area the size of a city. Such  networks are being implemented by innovative techniques, such as  running optical fibres through subway tunnels. </p></td>
+      </tr>
+      <tr>
+        <td>MANET</td>
+        <td>Mobile Ad Hoc Network</td>
+        <td><div align="justify">A  MANET is a type of ad hoc network that can change locations and  configure itself on the fly. Because MANETS are mobile, they use  wireless connections to connect to various networks. </div></td>
+      </tr>
+      <tr>
+        <td>MAP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Manufacturing Automation Protocol</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Mobile Application Part</p>
+<p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Major Sync Point</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> MAP is an IEEE specification for cable and network operations, IEEE 802.4.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> MAP is SS7 protocol which provides an application layer for the various nodes in GSM and UMTS mobile core networks and GPRS core networks to communicate with each other</p>
+<p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  MAP is ITU-T term</td>
+      </tr>
+      <tr>
+        <td>MAPI</td>
+        <td>Messaging Application Programming Interface</td>
+        <td>The Microsoft-developed programming interface specification that  enables an application to send and receive mail over an e-mail  messaging system, such as Microsoft Exchange. It was designed to  separate the mail engine from the mail client.</td>
+      </tr>
+      <tr>
+        <td>MAPP</td>
+        <td>Microsoft Active Protections Program</td>
+        <td>To improve security protections for customers, Microsoft provides vulnerability information to major security software providers in advance of each monthly security update release </td>
+      </tr>
+      <tr>
+        <td>MAPS</td>
+        <td>Mail Abuse Protection System</td>
+        <td><a href="http://maps.vix.com/">Mail                   Abuse Protection System</a> - an organization                   that provides information to networks about other networks that                   are tolerating email abuse. They provide several lists which networks                   can use to block mail coming from abusive sites.</td>
+      </tr>
+      <tr>
+        <td>MARS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Monitoring, Analysis and Response System</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Multicast Address Resolution Server</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Multivariate Adaptive Regression Splines</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Cisco's security monitoring for threat identification, mitigation and  compliance secures network devices and host applications supporting</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Tracks the multicast-capable hosts                                                   and any existing groups for adding                                                   and removing multicast routers                                                   from a conference.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a generalization        of a <a href="glossary_d.htm">data mining</a> decision tree.</p></td>
+      </tr>
+      <tr>
+        <td>MAS</td>
+        <td>Modula-2 Algebra System</td>
+        <td>an experimental computer algebra  system which combines imperative programming facilities with  algebraic specification capabilities for the design and  study of algebraic algorithms. </td>
+      </tr>
+      <tr>
+        <td>MASER</td>
+        <td>Microwave Amplification by Simulated Emission of Radiation</td>
+        <td>A device designed to generate a microwave signal with low-noise properties.</td>
+      </tr>
+      <tr>
+        <td>MathML</td>
+        <td>Mathematics  Markup  Language</td>
+        <td>an extension of HTML
+          designed to facilitate the display of mathematical expressions</td>
+      </tr>
+      <tr>
+        <td>MAU</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Medium Attachment Unit </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Multistation Access Unit</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> provides the physical and electrical interface between an Ethernet device and the medium system to which it is connected. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A Token Ring   wiring hub. </p></td>
+      </tr>
+      <tr>
+        <td>MAX</td>
+        <td>Master  Auxiliary  Correction</td>
+        <td>A  method  of  RTK  Network  (RTKN)  correction  proprietary  to <a href="http://leica.com">Leica</a> <a href="http://www.leica-geosystems.com">Geosystems</a>™ in which multiple base stations are used to determine an RTK correction. M</td>
+      </tr>
+      <tr>
+        <td>Mb</td>
+        <td>megabyte</td>
+        <td>an amount of computer memory equal to  1,048,576
+          bytes = 1,024 kilobytes. One megabyte can store more than one million
+          characters</td>
+      </tr>
+      <tr>
+        <td>Mbps</td>
+        <td>MegaBits Per Second</td>
+        <td><div align="justify">
+            <p>In  data communications, a common measure of data speed for computer modems  and transmission carriers. One Mbps is equal to  1,000,000 bps or 1,000 kbps. <br />
+            </p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>MBR</td>
+        <td>Master Boot Record</td>
+        <td>Record located at the beginning of a bootable disk on      Intel based systems, containing the boot loader.</td>
+      </tr>
+      <tr>
+        <td>MBS</td>
+        <td>Maximum Burst Size </td>
+        <td>ATM network performance parameter that defines the duration of transmission at a peak rate that would be accepted on a given ATM virtual circuit.</td>
+      </tr>
+      <tr>
+        <td>MBSA</td>
+        <td>Microsoft Baseline Security Analyzer</td>
+        <td>Scans for missing hotfixes and vulnerabilities in some Microsoft products</td>
+      </tr>
+      <tr>
+        <td>MBT</td>
+        <td>MB Technology</td>
+        <td>MB Technologies' Bindows is the leading SDK used for developing zero-footprint SOA client-side applications. <a href="http;//mb.bindows.net/"> mb.bindows.net/</a></td>
+      </tr>
+      <tr>
+        <td>MCA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> message channel agent </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Micro Channel Architecture</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A program  that transmits prepared messages from a transmission queue to a communication  link, or from a communication link to a destination queue.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A 32-bit standard developed by IBM for expansion cards. The standard  offered improvements over 16-bit ISA, but never caught on outside of  IBM computers.</p></td>
+      </tr>
+      <tr>
+        <td>MCCM</td>
+        <td>multichannel campaign management </td>
+        <td>processes enable companies to communicate offers to customer segments  across a multichannel environment, such as direct mail, call centers,  websites, e-mail and communities.</td>
+      </tr>
+      <tr>
+        <td>MCI</td>
+        <td>Microwave Communications, Inc.</td>
+        <td>Microwave Communications, Inc., acquired by Verizon.</td>
+      </tr>
+      <tr>
+        <td>MCIF</td>
+        <td>(IBM) Measured Capability Improvement Framework</td>
+        <td>a set of guidelines and processes developed to help companies more effectively manage, measure and improve their software delivery process. </td>
+      </tr>
+      <tr>
+        <td>MCL</td>
+        <td>Mesh Connectivity Layer </td>
+        <td>a technology that allows a computer user to connect to a wireless mesh network that uses Wi-Fi or WiMAX.</td>
+      </tr>
+      <tr>
+        <td>MCM</td>
+        <td>Multi-Chip Module</td>
+        <td>an integrated circuit comprising of several chips all
+          packaged within the same package</td>
+      </tr>
+      <tr>
+        <td>MCMP</td>
+        <td>Multi-channel Multi-point</td>
+        <td>a circuit card that enables the support of up to six independent applications over a single multipoint digital facility. </td>
+      </tr>
+      <tr>
+        <td>MCP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Microsoft Certified Professional </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Multi-chip package</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> refers to both an individual Microsoft certification and a broader  professional certification program. To be an MCP, candidates must  complete any one exam within the program. The MCP program offers  multiple certifications, based on different areas of technical  expertise.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A combination of semiconductor devices in one package, usually SRAM and Flash.</p></td>
+      </tr>
+      <tr>
+        <td>MCR</td>
+        <td>Maximum Cell Rate</td>
+        <td>An Available Bit Rate (ABR) traffic parameter (in cells               per second) that gives the slowest rate at which the network controls               the flow of the source on an ABR Virtual Channel (VC) connection.</td>
+      </tr>
+      <tr>
+        <td>MCSE</td>
+        <td>Microsoft Certified Systems Engineer</td>
+        <td>A certification from Microsoft      intended to demonstrate proficiency in managing and administering Windows      based networks together. <a href="http://www.microsoft.com/learning/mcp/mcse/Default.asp">www.microsoft.com/learning/mcp/mcse/Default.asp</a></td>
+      </tr>
+      <tr>
+        <td>MCU</td>
+        <td>multipoint control unit </td>
+        <td>A device  that supports video meetings between three or more participants. </td>
+      </tr>
+      <tr>
+        <td>MD2/4/5</td>
+        <td>Message Digest algorithm 2/4/5</td>
+        <td><p>Message digests are algorithmic operations, generally performed on
+          text, which produce a unique signature for that text. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> MD-2,
+              described in RFC 1319; </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> MD-4, described in RFC 1320; </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> MD-5,
+            described in RFC 1321 all produce a 128-bit signature. </p></td>
+      </tr>
+      <tr>
+        <td>MDA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> model-driven <br />
+          approaches </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Model-driven architecture </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> enable business-level functionality to be modeled by standards</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a software design approach for the development of software systems. It provides a set of guidelines for the structuring of specifications, which are expressed as models. </p></td>
+      </tr>
+      <tr>
+        <td>MDB</td>
+        <td>Message-Driven Beans</td>
+        <td>part of the Java EE specifications</td>
+      </tr>
+      <tr>
+        <td>MDF</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Main Distribution Frame</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Medium Density Fiberboard</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The primary point at which outside plant facilities terminate within a  wire center for interconnection to other telecommunications facilities  within the wire center.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A type of particle board that is often used in the construction of  subwoofer enclosures. It is used due to its ability to absorb vibration  and its sturdiness.</p></td>
+      </tr>
+      <tr>
+        <td>MDI</td>
+        <td>Medium Dependent Interface</td>
+        <td>used to make a physical and electrical connection between a transceiver and a media segment.</td>
+      </tr>
+      <tr>
+        <td>mdisk</td>
+        <td>managed disk</td>
+        <td>A SCSI logical unit (LU) that a RAID controller provides and a cluster manages.</td>
+      </tr>
+      <tr>
+        <td>MDIX</td>
+        <td>medium dependent interface crossover </td>
+        <td>an Ethernet port connection that allows networked end stations (i.e., PCs or workstations) to connect to each other using a null-modem, or crossover, cable. </td>
+      </tr>
+      <tr>
+        <td>MDM</td>
+        <td>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> master data management</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Meter Data Management</p>       </td>
+        <td> <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the set of processes to create and maintain a single view of reference <em>data</em> that is shared across systems.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a key component in the Smart Grid infrastructure that is in the process of being evolved and adopted by utility </p></td>
+      </tr>
+      <tr>
+        <td>MDP</td>
+        <td>Mobile Data Protection</td>
+        <td>Mobile Data Protection</td>
+      </tr>
+      <tr>
+        <td>MDS</td>
+        <td>Master Data Service</td>
+        <td>IBM MDM product</td>
+      </tr>
+      <tr>
+        <td>MDX</td>
+        <td>Multidimensional Expressions</td>
+        <td>The querying language for OLAP cubes.</td>
+      </tr>
+      <tr>
+        <td>ME</td>
+        <td>Millenium Edition </td>
+        <td>Microsoft's replacement for Windows 98 in September 14, 2000 release.</td>
+      </tr>
+      <tr>
+        <td>MEMS</td>
+        <td>micro-electromechanical systems </td>
+        <td>an emerging technology for making microscopic machines. Using  microfabrication technology, MEMS integrates actuators, mechanical  elements, sensors and electronics on a common silicon substrate.</td>
+      </tr>
+      <tr>
+        <td>MEO</td>
+        <td> Medium/Middle Earth Orbit</td>
+        <td>A telecommunication satellite system that is mainly used for geographical/global positioning systems.</td>
+      </tr>
+      <tr>
+        <td>MERVA</td>
+        <td>Message Entry and Routing with Interfaces to Various Applications</td>
+        <td>IBM connectivity to SWIFT network</td>
+      </tr>
+      <tr>
+        <td>MES</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Manufacturing Execution Systems</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Mobile Entertainment Service</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> systems manage manufacturing operations in factories.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Nokia's platform that allows developers to create interactive games for WAP</p></td>
+      </tr>
+      <tr>
+        <td>MESA</td>
+        <td>Manufacturing Enterprise Solutions Association</td>
+        <td>a global community of manufacturers, producers, industry leaders and solution <a href="http://www.mesa.org">www.mesa.org</a></td>
+      </tr>
+      <tr>
+        <td>MFA</td>
+        <td>Multifactor authentication </td>
+        <td>MFA is a security system in which more than one form of authentication is implemented to verify the legitimacy of a transaction. </td>
+      </tr>
+      <tr>
+        <td>MFC</td>
+        <td>Microsoft Foundation Class</td>
+        <td>A library of C++ functions provided by Microsoft that allows developers to more easily work with Windows operating systems.</td>
+      </tr>
+      <tr>
+        <td>MFD</td>
+        <td>Multi Function Device</td>
+        <td>A combined         printer, scanner, photocopier and fax machine.</td>
+      </tr>
+      <tr>
+        <td>MFM</td>
+        <td>modified frequency modulation</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Variation in the amplitude and frequency of the write signal.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Pertains to the number of bytes of storage that can be stored on the recording  media.</p></td>
+      </tr>
+      <tr>
+        <td>MFP</td>
+        <td>multifunction product</td>
+        <td><strong> </strong>A network-attached document production device that combines two or more of the copy, print, scan and fax functions.</td>
+      </tr>
+      <tr>
+        <td>MFS</td>
+        <td>Multi-Function Security</td>
+        <td>IBM's all-in-one firewall</td>
+      </tr>
+      <tr>
+        <td>MFT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Managed file transfer</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Master File Table</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> MFT is a type of software used to provide secure internal, external and  ad-hoc data transfers through a network. MFT products are built using  the FTP network protocol.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Table containing NT's file system structure</p></td>
+      </tr>
+      <tr>
+        <td>MGAS</td>
+        <td>mostly global address space </td>
+        <td>A flexible virtual address space model, used in systems such as HP-UX, that  preserves most of the address space for shared applications. </td>
+      </tr>
+      <tr>
+        <td>MGC</td>
+        <td>Media Gateway Controller</td>
+        <td>Provides a single management platform for fault, configuration, performance and security management. It manages the Cisco PGW 2200 PSTN Gateway and the Cisco SC2200 Signaling Controller. </td>
+      </tr>
+      <tr>
+        <td>MIA</td>
+        <td>Media Interface Adapter</td>
+        <td>Converts electrical  signals into optical signals and vice versa.</td>
+      </tr>
+      <tr>
+        <td>MiB</td>
+        <td>mebibyte </td>
+        <td>1024 kibibytes.</td>
+      </tr>
+      <tr>
+        <td>MIB</td>
+        <td>Management Information Base</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A collection of data objects that can be accessed via a network management protocol such as Simple Network Management Protocol (SNMP)</p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A definition  for management information that specifies the information available from a  host or gateway and the operations allowed.</p></td>
+      </tr>
+      <tr>
+        <td>MIC</td>
+        <td> Message Integrity Check</td>
+        <td>A protocol that prevents an attacker from determining 
+          the encryption key used to encrypt packets on a wireless network.</td>
+      </tr>
+      <tr>
+        <td>MICR</td>
+        <td>Magnetic Ink Character Recognition</td>
+        <td> a character recognition system that uses special ink  and characters. When a document that contains this ink needs to be  read, it passes through a machine, which magnetizes the ink and then  translates the magnetic information into characters. The most common  use of the technology is in the financial world. MICR technology is  used by banks.</td>
+      </tr>
+      <tr>
+        <td>MID-II</td>
+        <td>Management Information DataBase II</td>
+        <td>A collection of objects that can be accessed via a network management protocol such as SNMP. </td>
+      </tr>
+      <tr>
+        <td>MIDI</td>
+        <td> Musical Instrument Digital Interface</td>
+        <td> A high-quality audio file format. </td>
+      </tr>
+      <tr>
+        <td>MIH</td>
+        <td>Master Information Hub</td>
+        <td>MDM facility supports the creation of custom data domains</td>
+      </tr>
+      <tr>
+        <td>MII</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Medium Independent Interface</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Microsoft/Intel/IBM</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> provides a 40-pin connection to outboard transceivers (also called PHY devices). Used to attach 802.3 interfaces.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Microsoft/Intel/IBM</p></td>
+      </tr>
+      <tr>
+        <td>MILNET</td>
+        <td>Military Network</td>
+        <td>Military Network</td>
+      </tr>
+      <tr>
+        <td>MIME</td>
+        <td>Multipurpose Internet Mail Extensions</td>
+        <td>Originally a standard for defining the types of files attached to  standard Internet mail messages. The MIME standard has come to be used  in many situations where one cmputer programs needs to communicate with  another program about what kind of file is being sent. </td>
+      </tr>
+      <tr>
+        <td>MIMO</td>
+        <td>Multiple Input, Multiple Output</td>
+        <td>A technique for faster wireless  		communication. MIMO allows for the use of multiple transmitter and  		receiver antennas to increase throughput. </td>
+      </tr>
+      <tr>
+        <td>MIP</td>
+        <td>Multum in Parvum (Latin) means "many in one"</td>
+        <td>A method of increasing the quality of a texture map by applying different-resolution  			texture maps for different objects in the same image, depending on their size and depth</td>
+      </tr>
+      <tr>
+        <td>MIPS</td>
+        <td>Millions of Instructions Per Second</td>
+        <td>The number of computer instructions processed per second. A measure of computer power.</td>
+      </tr>
+      <tr>
+        <td>MIS</td>
+        <td>management information systems</td>
+        <td>This was once the predominant name for the central data-processing  organization in an enterprise. Today, information systems (IS) is the  more commonly used term.</td>
+      </tr>
+      <tr>
+        <td>MISRA</td>
+        <td>Motor Industry Software Reliability                   Association</td>
+        <td>MISRA C can be considered a subset of ISO C; the discarded language                   constructs are those deemed most prone to error <a href="http://www.misra.org.uk" target="_blank">http://www.misra.org.uk</a>.</td>
+      </tr>
+      <tr>
+        <td>MIT</td>
+        <td>Massachusetts Institute of Technology </td>
+        <td>A university in Cambridge, Massachusetts. MIT is a privately endowed research institution with the mission of advancing knowledge and educating students in science and technology. It is very well-respected and has produced many well-known computer and technology professionals within the industry. </td>
+      </tr>
+      <tr>
+        <td>MITM</td>
+        <td>Man In The Middle</td>
+        <td>a type of network attack where                   the intruder intercepts traffic between two hosts and answers                   each one, fooling the hosts into thinking they are talking directly                   to each other.</td>
+      </tr>
+      <tr>
+        <td>ML</td>
+        <td>Modular Line</td>
+        <td>An HP brandname for the ProLiant Modular Line, which is an expandable tower. </td>
+      </tr>
+      <tr>
+        <td>M/L</td>
+        <td>Mobile-to-Land Traffic</td>
+        <td><p>Traffic that originates on a CMRS provider’s system and is terminated to a landline user.</p></td>
+      </tr>
+      <tr>
+        <td>MLHG</td>
+        <td>Multi-Line Hunting</td>
+        <td>The    ability of a switching system to connect calls to another phone in a group    when other numbers in the group are busy. Types include serial or circular.</td>
+      </tr>
+      <tr>
+        <td>MLT</td>
+        <td>Mechanized Loop Test </td>
+        <td><p>A test system that tests the end user's loop, which is comprised of  the wires and equipment used to provide dial tone/calling service to  that end user.</p></td>
+      </tr>
+      <tr>
+        <td>MMC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Microsoft Management Console</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> MutiMedia Card</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A standardized interface into which you can plug snap-ins to perform different administrative tasks.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> mass storage devices in the form of a new type of memory  media with a compact design, image storage capacity of up to 1GB,  compatibility with different digital camera brands and MP3 devices</p></td>
+      </tr>
+      <tr>
+        <td>MMDS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> multi-megabit data service</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Multipoint Microwave Distribution System</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a line-of-site point-to-point technology operating at 2.44GHz to 2.5GHz  that serves areas with heavy foliage, relatively few environmental  obstructions and moderate rainfall.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> wireless broadband technology for Internet Access. MMDS channels come in 6 MHz chunks and runs on licensed and unlicensed channels. Each channel can reach transfer rates as high as 27Mbps or 1Gbps</p></td>
+      </tr>
+      <tr>
+        <td>MMF</td>
+        <td>Multimode Fiberoptic Cable</td>
+        <td>Fiberoptic cable in which signal or light propagates               in multiple modes or paths. Since these paths may have varying lengths,               transmitted pulse of light may be received at different times and               smeared so pulses may interfere with surrounding pulses.</td>
+      </tr>
+      <tr>
+        <td>MMO / MMOG</td>
+        <td>massively multiplayer online game</td>
+        <td>a multiplayer video game which is capable of supporting hundreds or thousands of players simultaneously. By necessity, they are played on the Internet, and usually feature at least one persistent world. </td>
+      </tr>
+      <tr>
+        <td>MMORPG</td>
+        <td> Massive Multiplayer Online Role Playing Game</td>
+        <td> Massive Multiplayer Online Role Playing Game</td>
+      </tr>
+      <tr>
+        <td>MMR</td>
+        <td>Modified Modified Read</td>
+        <td>data compression method used in Group 3 facsimile machines.</td>
+      </tr>
+      <tr>
+        <td>MMS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Microsoft Media Server</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Multimedia Messaging Service</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Streaming protocol used by the Microsoft Media Server. Used to access unicast content from a Windows Media Server to a Windows Media Player </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A mobile-messaging standard jointly defined by the 3G Partnership Project and the <a href="glossary_w.htm">WAP</a> Forum. MMS provides a broad set of features that cannot be delivered through traditional wireless-messaging standards, and to send messages to both mobile phone numbers and e-mail addresses.</p></td>
+      </tr>
+      <tr>
+        <td>MMU</td>
+        <td>Memory Management Unit</td>
+        <td>a hardware device responsible for handling memory accesses requested by the main processor.</td>
+      </tr>
+      <tr>
+        <td>MMX</td>
+        <td>multimedia extensions</td>
+        <td> set of additional instructions added to the
+          later models of the Pentium microprocessor and its successors to support
+          high-speed processing of animation and sound.</td>
+      </tr>
+      <tr>
+        <td>MNP</td>
+        <td>Microcom Networking Protocol</td>
+        <td>a communications protocol developed by Microcom, Incorporated (now owned by Compaq, then HP), that is used by many high speed modems. </td>
+      </tr>
+      <tr>
+        <td>MNS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> managed network services</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Master of Network Science</p></td>
+        <td><p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The vendor delivery of primarily operational support for a  network environment in which the hardware assets, financial obligations  and personnel remain on the books of the customer.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> 3COM's highly acclaimed recognition for demonstrated  knowledge of networking functions. It is the equivalent of Novell's CNS  and Microsoft's MCSE certification. </p></td>
+      </tr>
+      <tr>
+        <td>MO</td>
+        <td>Magneto-Optical </td>
+        <td>A  type of disk drive that combines magnetic disk technologies with CD-ROM  technologies. </td>
+      </tr>
+      <tr>
+        <td>MOB</td>
+        <td>movable object </td>
+        <td>a    graphical object that is manipulated separately from the    background. These are seen all the time in computer    games.</td>
+      </tr>
+      <tr>
+        <td>MoBo</td>
+        <td>motherboard</td>
+        <td>The computer's main circuit board. All internal components are attached or connected in some way to the motherboard.   									The motherboard holds the processor, the bus, memory sockets, expansion slots, and more.   									It acts as a conduit for power, and makes sure the various components can communicate. </td>
+      </tr>
+      <tr>
+        <td>MODEM</td>
+        <td>modulator-demodulator</td>
+        <td><div align="justify">A modem is a conversion device that allows a computer to              transmit information   over analog communication lines (for example, traditional phone lines)   by              converting information that is digitally stored on the computer into   transmission signals. <br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>MOE</td>
+        <td>Measures of Effectiveness</td>
+        <td>a probability model based on engineering concepts that allows one to  approximate the impact a give action will have on an environment. In  Information warfare it is the ability to attack or defend within an  Internet environment.</td>
+      </tr>
+      <tr>
+        <td>MOF</td>
+        <td>Microsoft Operations Framework</td>
+        <td>Provides technical guidance that enables organizations to achieve mission-critical system reliability, availability, supportability, and manageability of Microsoft products and technologies</td>
+      </tr>
+      <tr>
+        <td>MOH</td>
+        <td>Music On Hold</td>
+        <td>A telephony term. Often  this is a port on the the control device; it may however, be an add-on  attachment allowing audio to be routed to an incoming or outgoing  system call that is placed on hold.</td>
+      </tr>
+      <tr>
+        <td>MOM</td>
+        <td>Microsoft Operations Manager</td>
+        <td>Provides manageability as part of the design and implementation of Windows Server System technologies</td>
+      </tr>
+      <tr>
+        <td>MOO</td>
+        <td>Mud, Object Oriented</td>
+        <td>One of several kinds of multi-user role-playing environments. </td>
+      </tr>
+      <tr>
+        <td>Moodle</td>
+        <td>Modular Object-Oriented Dynamic Learning Environment</td>
+        <td>Moodle is an open source course  management system, orginally developed by Martin Dougiamas. It is used  by thousands of educational institutions around the world to provide an  organized interface for e-learning, or learning over the Internet. </td>
+      </tr>
+      <tr>
+        <td>MoReq</td>
+        <td>Model Requirements for the Management of Electronic Records </td>
+        <td>a model specification of ERMS</td>
+      </tr>
+      <tr>
+        <td>MORPH</td>
+        <td>(from) metamorphosis</td>
+        <td>To change one image into another by means of digital technology</td>
+      </tr>
+      <tr>
+        <td>MOS</td>
+        <td>Mean Opinion Score</td>
+        <td>a numerical indication of the perceived quality of received media after compression and/or transmission.</td>
+      </tr>
+      <tr>
+        <td>MOSFET</td>
+        <td>Metal-Oxide-Semiconductor Field-Effect Transistor</td>
+        <td>A transistor with a source and drain region. It is considered a key element in integrated circuit technology.</td>
+      </tr>
+      <tr>
+        <td>MOSS</td>
+        <td>Microsoft Office SharePoint Server </td>
+        <td> the full version of a portal-based platform for collaboratively creating, managing and sharing documents and Web services. MOSS enables users to create "Sharepoint Portals" that include shared workspaces, applications, blogs, wikis and other documents accessible through a Web browser.</td>
+      </tr>
+      <tr>
+        <td>MoST</td>
+        <td>mobile solutions terminal</td>
+        <td>The mobile terminal used by service personnel.</td>
+      </tr>
+      <tr>
+        <td>MOTD</td>
+        <td><strong>m</strong>essage <strong>o</strong>f <strong>t</strong>he <strong>d</strong>ay</td>
+        <td>Many computers    (particularly more capable ones) are configured to    display a MOTD when accessed remotely. </td>
+      </tr>
+      <tr>
+        <td>MOV</td>
+        <td>Merchant of Venice</td>
+        <td>in computer programming, is a stock market trading and technic analysis  program to manage graphs and portfolios. It has an internal language  which supports all the most important econometric functions (RSI,  Bollinger Bands, Momentum, Moving Averages, ecc.).</td>
+      </tr>
+      <tr>
+        <td>MP3</td>
+        <td>MPEG Layer 3</td>
+        <td>An open MPEG standard for digital audio  compression. It offers significant compression while retaining good to  excellent audio quality.</td>
+      </tr>
+      <tr>
+        <td>MPAS</td>
+        <td>mostly private address space</td>
+        <td>A flexible virtual address space model, used in systems such as HP-UX, that  can allocate larger address space blocks to processes.</td>
+      </tr>
+      <tr>
+        <td>MPEG</td>
+        <td>Moving Picture Experts Group</td>
+        <td>A digital video standard for compression of full-motion images. The  compression ratios achieved with MPEG encoding make it an ideal  standard for delivery of digital video data. </td>
+      </tr>
+      <tr>
+        <td>MPI</td>
+        <td>Master Patient Index</td>
+        <td>A list of all known patients in an area, activity, or organization. </td>
+      </tr>
+      <tr>
+        <td>MPIF</td>
+        <td>Multi-Processor Interconnect Facility</td>
+        <td>IBM facilty to support multiple TPF complexes communicating with each other</td>
+      </tr>
+      <tr>
+        <td>MPL</td>
+        <td><p>Mozilla Public License </p>
+            <p>Multi-schedule Private Line</p></td>
+        <td><p>a free and open source software license. <a href="http://www.mozilla.org/MPL/">www.mozilla.org/MPL/ </a></p>
+            <p>An AT&T tariff for a leased voice-grade line.</p></td>
+      </tr>
+      <tr>
+        <td><a href="mpls-vpn">MPLS</a></td>
+        <td><p><a href="mpls-vpn">Multiprotocol Label Switching</a></p></td>
+        <td><div align="justify"> a scheme typically used to enhance an IP network. Routers on the incoming edge of the MPLS network add an 'MPLS label' to the top of each packet. This label is based on some criteria and is then used to steer it through the subsequent routers.</div></td>
+      </tr>
+      <tr>
+        <td>MPN</td>
+        <td>Microsoft Partner Network </td>
+        <td>Microsoft Partner Network </td>
+      </tr>
+      <tr>
+        <td>MPOE</td>
+        <td>minimum point of entry</td>
+        <td>the closest practical point to where the cables of a telecommunications service carrier cross a property line or where its wiring enters a multi-unit building. </td>
+      </tr>
+      <tr>
+        <td>MPP</td>
+        <td>massively parallel processing</td>
+        <td>The coordinated execution of a single request by multiple single-processor  computers in a shared-nothing environment </td>
+      </tr>
+      <tr>
+        <td>Mpps</td>
+        <td>millions of packets per second</td>
+        <td>a measurement of information sent per second</td>
+      </tr>
+      <tr>
+        <td>MPPE</td>
+        <td>Microsoft Point to Point Encryption</td>
+        <td>Encrypts data for PPP or PPTP connections</td>
+      </tr>
+      <tr>
+        <td>MPS</td>
+        <td>managed print services</td>
+        <td>strategy designed to help manage the volume of documents flowing through the organization and minimize the costs</td>
+      </tr>
+      <tr>
+        <td>MQ</td>
+        <td>message queue (formerly)</td>
+        <td>an IBM standard for program-to-program messaging across multiple  platforms. WebSphere MQ run time environment including the setup of the queue manager network. Websphere MQ is sometimes referred to as message-oriented  middleware (MOM).</td>
+      </tr>
+      <tr>
+        <td>MQT</td>
+        <td>materialized query table </td>
+        <td>A  table whose definition is based on the result of a query and whose data is  in the form of precomputed results that are taken from the table or tables  on which the MQT definition is based.</td>
+      </tr>
+      <tr>
+        <td>MRAM</td>
+        <td>magnetoresistive random access memory</td>
+        <td>a method of storing data bits using magnetic charges instead of the electrical charges used by <a href="d">DRAM</a>. By combining the high speed of static RAM and the high density of DRAM, proponents say MRAM could be used to significantly improve electronic products by storing greater amounts of data, enabling it to be accessed faster while consuming less battery power.  </td>
+      </tr>
+      <tr>
+        <td>MRI</td>
+        <td>Magnetic Resonance Imaging</td>
+        <td>A medical imaging technique used for image capture. Tissue area is simultaneously subjected to electromagnetic radiation and a magnetic field</td>
+      </tr>
+      <tr>
+        <td>mrouter</td>
+        <td>multicast / router</td>
+        <td>multicast / router</td>
+      </tr>
+      <tr>
+        <td>MRO</td>
+        <td>maintenance, repair and operations</td>
+        <td><strong> </strong>The activities associated with the operation and repair of  any facility, equipment or asset, and the material purchased to support  these activities.</td>
+      </tr>
+      <tr>
+        <td>MRTG</td>
+        <td>Multi Router Traffic Grapher</td>
+        <td>an open source tool used to monitor the traffic load on network links.</td>
+      </tr>
+      <tr>
+        <td>MRU</td>
+        <td>most recently used</td>
+        <td>a list of most-recently-used files or web addresses. Many word
+          processors, web browsers, and so on, maintain MRU lists so the user can
+          quickly return to a document that was used recently.</td>
+      </tr>
+      <tr>
+        <td>ms</td>
+        <td>millisecond</td>
+        <td>A unit of time equal to one one-thousandth of a second.</td>
+      </tr>
+      <tr>
+        <td>MS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Microsoft</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Memory Stick</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An industry abbreviation for the dominant giant in computer technology</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The technology developed by Sony to advance mass storage  devices, formally known as Sony Memory Stick. MS technology was  introduced in 1999 and now has sizes up to 1GB in size. It also has  variations such as MS Duo, MS Pro and MS Pro Duo.</p></td>
+      </tr>
+      <tr>
+        <td>MSA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> metropolitan statistical area</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Mobile Sales Assistant </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Modular Smart Array</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> cellular service areas used by the FCC to license cellular telephone service. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Oracle's CRM product</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Uses existing linear multi-channel bi-directional tape format.</p></td>
+      </tr>
+      <tr>
+        <td>MSAP</td>
+        <td> Microsoft <br />
+          Application Platform</td>
+        <td>Microsoft application platform suite</td>
+      </tr>
+      <tr>
+        <td>MSB</td>
+        <td>Most Significant Bit</td>
+        <td>Highest order bit in binary representation of numerical               value.</td>
+      </tr>
+      <tr>
+        <td>MSBD</td>
+        <td>Media Stream Broadcast Distribution</td>
+        <td>Protocol used to distribute streams between Windows Media Encoder and the Windows Media server components, and to transfer streams between servers</td>
+      </tr>
+      <tr>
+        <td>MSC</td>
+        <td>Mobile Switching Center</td>
+        <td> A switch providing services and coordination between mobile users in a network and external networks.</td>
+      </tr>
+      <tr>
+        <td>MSCS</td>
+        <td>Microsoft Cluster Server</td>
+        <td>A technology that provides high availability by grouping computers into MSCS  clusters.</td>
+      </tr>
+      <tr>
+        <td>MSDB</td>
+        <td>main storage database</td>
+        <td>A root-segment  database that resides in virtual storage. The data in an MSDB is stored in  segments. </td>
+      </tr>
+      <tr>
+        <td>MSDN</td>
+        <td>Microsoft Developer Network</td>
+        <td>A community of practice for developers created by Microsoft. MSDN  offers Web-based and offline services to programmers who write  applications using Microsoft technologies.</td>
+      </tr>
+      <tr>
+        <td>MSDE</td>
+        <td>Microsoft Data Engine</td>
+        <td>A desktop database engine that works as an extension of <a href="s">SQL</a> Server 7.0  to store data for offline application components.</td>
+      </tr>
+      <tr>
+        <td>MSDP</td>
+        <td>Multicast Source Directory Protocol</td>
+        <td>Developed for peering between <a href="choosing-isp">ISPs</a>, it enables Rendezvous Points (RPs) to share information about active sources</td>
+      </tr>
+      <tr>
+        <td>MSE</td>
+        <td>Microsoft Security Essentials </td>
+        <td>provides real-time protection for your home or small business PC that guards against viruses, spyware, and other malicious. <a href="http://www.microsoft.com/security_essentials/">www.microsoft.com/security_essentials/ </a></td>
+      </tr>
+      <tr>
+        <td>MSEE</td>
+        <td>Microsoft Equation Editor</td>
+        <td> add-on software that lets you build complex mathematical 
+          equations and insert them into such Office applications as Word, PowerPoint, Outlook, and Excel by 
+          picking symbols from a toolbar, then typing numbers and variables.</td>
+      </tr>
+      <tr>
+        <td>MSI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Medium Scale Integration</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Message Signal Interrupts</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> MicroSoft Installer</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Micro Star International </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Chips containing hundreds of transistors, but not thousands. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> sets aside a special 
+            message space in the PCI flat memory space for passing 
+            a certain type of control message called an interrupt. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> an installer system by Microsoft for Windows platforms and .MSI file extension</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> an international computer component and notebook manufacturer </p></td>
+      </tr>
+      <tr>
+        <td>MSIL</td>
+        <td>Microsoft Intermediate Language</td>
+        <td>An intermediate, CPU-independent language (also known as IL, or  Intermediate Language) into which source code is compiled in  Microsoft's Common Language Infrastructure (CLI), part of its .NET  platform.</td>
+      </tr>
+      <tr>
+        <td>MSL</td>
+        <td>Mean Sea Level</td>
+        <td>This  is a common frame of reference  for positions with a vertical component.   The 
+          average location at which the ocean meets the beach is considered “mean sea level”. </td>
+      </tr>
+      <tr>
+        <td>MSMQ</td>
+        <td>Microsoft Message Queuing</td>
+        <td>A message-queuing middleware product (or, more accurately, an  operating-system service) that provides store-and-forward connectivity  between two application programs.</td>
+      </tr>
+      <tr>
+        <td>MSM</td>
+        <td>Mainframe Service Management </td>
+        <td>the concept of service optimization, addressing IT requirements for  mainframe system management, data management and enterprise workload  automation.</td>
+      </tr>
+      <tr>
+        <td>MSN</td>
+        <td>Microsoft Network</td>
+        <td>Launched in 1995 along with Windows 95, it is an online service provider (OSP) comprised of various Web sites and Web pages that are operated by Microsoft or its affiliates. <a href="http://www.msn.com" target="_blank">HTTP://WWW.MSN.COM</a>.</td>
+      </tr>
+      <tr>
+        <td>MSNP</td>
+        <td>Microsoft Notification Protocol</td>
+        <td>an instant messaging protocol developed by Microsoft for use by the .NET Messenger Service and the instant messaging clients that connect to it</td>
+      </tr>
+      <tr>
+        <td>MSO</td>
+        <td>multiple-system operator</td>
+        <td>A company that owns cable systems in several different cities, such as AT&T, Cablevision.</td>
+      </tr>
+      <tr>
+        <td>MSPP</td>
+        <td>MultiService Provisioning Platform</td>
+        <td>A marketing term for a network of devices (e.g. switches and  multiplexers) that can support multiple protocols  and multiple services such as voice, data and video in a  variety of formats.</td>
+      </tr>
+      <tr>
+        <td>MSS / MSSP</td>
+        <td>managed security service (provider)</td>
+        <td>A company that provides outsourced monitoring and management of  security devices and systems. Common services include managed firewall,  intrusion detection, virtual private network, vulnerability scanning  and antivirus services.</td>
+      </tr>
+      <tr>
+        <td>MSS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Maximum Segment Size</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> mobile satellite service</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the largest amount of data, specified in bytes, that a computer or  communications device can handle in a single, unfragmented piece.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A  radiocommunication service between mobile earth stations and one or more space  stations, or between space stations used by this service.</p></td>
+      </tr>
+      <tr>
+        <td>MTA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Mail Transfer Agent</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> message transfer agent</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Multi-Threaded Apartment</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Software that implements SMTP and provides  storage for mail messages to be forwarded or delivered to a local user.  MTAs implement SMTP (RFC 821). </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> OSI application process used to store and forward  messages in the X.400 Message Handling System. Equivalent to Internet  mail agent. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A threading context in which components must handle synchronization themselves. Under COM+ the threads that run in the MTA com from a thread pool managed by the system</p></td>
+      </tr>
+      <tr>
+        <td>MTBF / MTTF</td>
+        <td>mean time between failures / mean time to failure</td>
+        <td>The estimated or actual average time period between failures in a computer component or system</td>
+      </tr>
+      <tr>
+        <td>MTP</td>
+        <td>message transfer part</td>
+        <td>Part  of the SS7 protocol normally used to provide a connectionless service roughly  equivalent to levels one to three of the OSI reference model.</td>
+      </tr>
+      <tr>
+        <td>MT-RJ</td>
+        <td>Mechanical Transfer Registered Jack</td>
+        <td>a fiber optics connector popular for small form factor devices due to its small size. </td>
+      </tr>
+      <tr>
+        <td>MTS</td>
+        <td>Microsoft Transaction Server</td>
+        <td>A facility that helps Windows users run business logic applications in a middle  tier server.</td>
+      </tr>
+      <tr>
+        <td>MTSO</td>
+        <td>Mobile Telephone Switching Office</td>
+        <td>The switching office that all base station cell sites connect to. </td>
+      </tr>
+      <tr>
+        <td>MTTR</td>
+        <td>mean time to repair</td>
+        <td>An estimated or actual average time required to perform repairs on a computer component or system.</td>
+      </tr>
+      <tr>
+        <td>MTU</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> maximum transfer unit</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Maximum Transmission Unit</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The maximum  number of bytes that an Internet Protocol (IP) datagram can contain.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a networking term that defines the largest packet size that can be  sent over a network connection. The MTU is typically limited by the  type of connection, but may sometimes be adjusted in a computer's  network settings.</p></td>
+      </tr>
+      <tr>
+        <td>MUA</td>
+        <td>Mail User Agent</td>
+        <td> the client that you read your email                   with. Common ones are Netscape, Eudora and Outlook Express.</td>
+      </tr>
+      <tr>
+        <td>MUD</td>
+        <td>Multi-User Dungeon or Dimension</td>
+        <td>A (usually text-based) multi-user simulation environment. Some are  purely for fun and flirting, others are used for serious software  development, or education purposes and all thatlies in between. </td>
+      </tr>
+      <tr>
+        <td>MULTOS</td>
+        <td>Multi-Application Operating System</td>
+        <td><strong> </strong>A smart-card operating system originally created by Mondex, and now overseen by a consortium of 13 smart card companies.</td>
+      </tr>
+      <tr>
+        <td>MUSE</td>
+        <td>Multi-User Simulated Environment</td>
+        <td>One kind of MUD - usually with little or no violence. </td>
+      </tr>
+      <tr>
+        <td>multimedia </td>
+        <td>multiple forms of media</td>
+        <td>This includes text, graphics, audio, video, etc. </td>
+      </tr>
+      <tr>
+        <td>mutex</td>
+        <td>mutual exclusion</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A guarantee of exclusive access to a shared resource.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A synchronization  function that is used to allow multiple jobs or processes to serialize their  access to shared data.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A flag used by a semaphore to protect shared  resources. The mutex is locked and unlocked by threads in a program.</p></td>
+      </tr>
+      <tr>
+        <td>MUX</td>
+        <td><p>Multiplexor</p></td>
+        <td><p>A device that combines several input signals into a single outgoing   signal.</p></td>
+      </tr>
+      <tr>
+        <td>MVNO</td>
+        <td>mobile virtual network operator</td>
+        <td>A company that provides mobile network services through a contract with  a mobile network operator.</td>
+      </tr>
+      <tr>
+        <td>MVS</td>
+        <td>Multiple Virtual Storage</td>
+        <td>An IBM mainframe operating system. The term MVS is used to describe an entire family of mainframe operating systems.</td>
+      </tr>
+      <tr>
+        <td>MW</td>
+        <td>middleware</td>
+        <td>Software         that provides some functionality between the database and the end user. </td>
+      </tr>
+      <tr>
+        <td>MWE</td>
+        <td>multiword expression</td>
+        <td>A semantically  or syntactically significant expression that consists of multiple words that  expresses a single concept. Multiword expressions can be phrasal in nature,  comprising several sentence elements.</td>
+      </tr>
+      <tr>
+        <td>MWI</td>
+        <td>Mobile Web Initiative</td>
+        <td>Proposes to address issues like interoperability and usability for mobile phones through a concerted effort of players in the mobile field, including authoring tool vendors, content providers, handset manufacturers, browser vendors and mobile operators</td>
+      </tr>
+      <tr>
+        <td>MX record</td>
+        <td>mail exchange record</td>
+        <td><a href="glossary_d.htm">DNS</a> resource record type indicating which host can handle e-mail for a particular domain. </td>
+      </tr>
+      <tr>
+        <td>MXF</td>
+        <td> Material Exchange Format</td>
+        <td> broad application  led to various vendor 
+          interpretations and implementations and therefore interoperability problems. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>macro</td>
+        <td>A file containing a sequence of instructions that can be executed as one   	command. These commands can be in the form of a key, symbol or name. As an   	example, one symbol could represent a predefined list of commands.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>magic quadrant</td>
+        <td>A two-dimensional graphical framework developed by Gartner that places  a particular set of vendors from a specific technology industry sector  into a strategic matrix.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>mailer-daemon</td>
+        <td> an automated program, adopted by some ISPs, that returns Internet mail to you if it is undeliverable for one reason or another.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>mainframe</td>
+        <td>A large-capacity computer system with processing power that is  significantly superior to PCs or midrange computers. Traditionally,  mainframes have been associated with centralized, rather than  distributed, computing environments.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Manchester encoding </td>
+        <td>a method of transmitting bits that allows the receiver to easily synchronize with the sender.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>masquerade </td>
+        <td>a type of attack where the attacker pretends to be an authorized user  of a system in order to gain access to it or to gain greater privileges  than they are authorized for. A masquerade may be attempted through the  use of stolen logon IDs and passwords, through finding security gaps in  programs, or through bypassing the authentication mechanism.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Master/Slave</td>
+        <td>Bus access method whereby the right to transmit is assigned to one device only, the Master, and all the other 
+          devices, the Slaves may only transmit when requested. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Media Tablet </td>
+        <td>a device based on a touchscreen display whose primary focus is the consumption of media.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>mesh network</td>
+        <td> each of the nodes are joined together by telecom "lines" -- wireless or wired.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>meta</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In computer science, meta is a common prefix that means  "about". As an example, metadata is data that describes other data  (data about data). A metalanguage is a language used to describe other  languages. A metafile is a file that contains other files.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The HTML META tag is used to describe the contents of a Web page.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Metadata</td>
+        <td>Information about a web page hidden inside it to help search engines  find it. It often includes a description of the page which will be  picked up by search engines.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Microblogging</td>
+        <td>a narrow-scope mode of social communication 
+          pioneered by the social network site <a href="http://Twitter.com">Twitter.com</a> and followed by similar services from <a href="http://www.plurk.com/">Plurk</a>, <a href="https://www.yammer.com/">Yammer</a>, <a href="http://socialcast.com/">Socialcast</a> and <a href="http://identi.ca/">Identi.ca</a>. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>micropayments</td>
+        <td><dl>
+            <dt>Electronic payment for information or services ranging from a few cents to a tenth of a cent.</dt>
+        </dl></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>micro server</td>
+        <td>may also be written as microserver or MicroServerm, small server appliance that works like a server. Micro servers are off-the-shelf appliances  that are designed for ease of installation and maintenance.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Middleware </td>
+        <td><p>Middleware is software that allows elements of applications to  interoperate across networks links, despite differences in underlying  communications protocols, system architectures, operating systems, and  databases and other application services. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>mirroring</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Replicating data on different computers or devices to provide backup or improved performance</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In a storage sense, "mirroring" refers to duplicating data on multiple  disk storage devices to provide backup in the event of a system  failure.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In an Internet sense, "mirroring" refers to replicating the contents of  a Web site at another site to minimize load on the main server, or to  speed up connectivity in a specific geographic region.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>mirror site</td>
+        <td>A site that's identical to another. These are usually set up on  different servers to handle heavy traffic on popular sites to eliminate  bottlenecks. Many international sites have mirror sites in various  countries to speed up access. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Mobile Application Stores</td>
+        <td>offer downloadable applications to mobile users, mostly  
+          consumers, via a storefront that is either embedded in the mobile handset or found on the fixed or 
+          mobile Web. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Mobile Robots </td>
+        <td>move and navigate in an autonomous or semiautonomous manner and have the ability to sense or influence their local environments.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>MobileMe</td>
+        <td>MobileMe (formerly .Mac and iTools) is a subscription-based collection of online services and software offered by Apple Inc. <a href="http://www.me.com/">http://www.me.com/</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Moore's Law</td>
+        <td>The idea that computing power doubles every 18 months, originally conceived by Intel co-founder Gordon Moore in 1965.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Mosaic</td>
+        <td>The original WWW browser developed at University of Illinois, given to public domain. Mosaic has been outdated by commercial browsers like Netscape's Navigator and IE. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>mount</td>
+        <td>This term comes from the days when tape media had to be physically mounted at the instruction of an operating system.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Mouse elbow</td>
+        <td>A repetitive strain injury that is caused by repeatedly using a
+          mouse. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Multicast</td>
+        <td>single packets copied by the network and sent to a  specific subset of network addresses. These addresses are specified in  the Destination Address Field.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>multihoming</td>
+        <td>For TCP/IP, the ability  to specify multiple interfaces per line description</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>MySQL</td>
+        <td>popular open-source database software. See SQL; <a href="http://www.mysql.com">www.mysql.com</a>/</td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.66892504692 -->
+</html>

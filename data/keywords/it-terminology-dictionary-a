@@ -1,0 +1,2470 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - A for App</title>
+<meta name="keywords" content="adn, aria, ati, ai, artificial intelligence, aol, aaa, apple, amd, api, asp, at&t, android, atm, atom, av, as, autonomous, activesync, apa, Amazon, aws, aim, apr, arm, an, afi, architecture, avg">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page152" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm769" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable on"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-a">A</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >A</h1><div class="marker" ></div>
+<div id="pm606" class="tile  m1199 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>A for app</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm730" class="tile  m1447 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">term</th>
+        <th scope="col">definition</th>
+      </tr>
+      <tr>
+        <td>A</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Ampere</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Anchor</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Current measurement unit</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="h">HTML</a> tag, a link to another
+        location</p></td>
+      </tr>
+      <tr>
+        <td>A/N/K</td>
+        <td>alphabetic, numeric,  katakana</td>
+        <td>Pertaining to alphabetic, numeric,  or katakana characters.</td>
+      </tr>
+      <tr>
+        <td>a11y</td>
+        <td>accessibility</td>
+        <td>There are eleven letters between the    "a" and the "y". </td>
+      </tr>
+      <tr>
+        <td>A2A</td>
+        <td>application-to-application</td>
+        <td>An approach to enterprise application integration that provides  visibility into internal systems, so that these systems can share  information or business processes.</td>
+      </tr>
+      <tr>
+        <td>AA</td>
+        <td>anti-aliasing</td>
+        <td>the technique of minimizing the distortion artifacts known as aliasing when representing a high-resolution signal at a lower resolution</td>
+      </tr>
+      <tr>
+        <td>AA</td>
+        <td>automated attendant</td>
+        <td>A device, typically attached to a private branch exchange or voice mail system, that answers incoming calls.</td>
+      </tr>
+      <tr>
+        <td>AAA</td>
+        <td>authentication, authorization, and accounting</td>
+        <td><p>Also pronounced "triple a." Refers to a framework for intelligently controlling access to computer  resources, enforcing policies, auditing usage, and providing the  information necessary to bill for services.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Authentication is the process of identifying an individual, usually based on a username and password.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Authorization is the process of granting or denying a user access to network resources once the user has been authenticated through the username and password.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Accounting is the process of keeping track of a user's activity while accessing the network resources</p></td>
+      </tr>
+      <tr>
+        <td>AAB</td>
+        <td>All-to-all broadcast</td>
+        <td>the process where every node  broadcasts its information to all other nodes. </td>
+      </tr>
+      <tr>
+        <td>AAC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Advanced Audio Coding</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> ATM access concentrator</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> an audio compression format newer and
+          more efficient than MP3, used internally by iTunes and Nintendo Wii</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A device used to concentrate a variety of services (such as frame  relay, Internet Protocol and video) over a single ATM network access connection.</p></td>
+      </tr>
+      <tr>
+        <td>AAL</td>
+        <td>ATM adaptation layer</td>
+        <td>The ATM layer where non-ATM data is  converted to ATM format. The AAL serves as the "glue" that connects  traditional packet and frame structures with short, fixed-length ATM  cells.</td>
+      </tr>
+      <tr>
+        <td>AARP</td>
+        <td>AppleTalk Address Resolution Protocol </td>
+        <td>Provides for the                                                         dynamic assignment of node                                                         identifiers to nodes within                                                         an AppleTalk network.</td>
+      </tr>
+      <tr>
+        <td>AAS</td>
+        <td>Auto Area Segmentation</td>
+        <td>Scanner technology which detects and optimizes text and graphics on the same page by Epson.</td>
+      </tr>
+      <tr>
+        <td>AAT</td>
+        <td>Average Access Time</td>
+        <td>The average amount of time it takes for a storage peripheral to transfer data to the CPU.</td>
+      </tr>
+      <tr>
+        <td>AAUI</td>
+        <td>Apple Attachment Unit Interface</td>
+        <td>A 14-position, 0.050-inch-spaced ribbon contact connector. </td>
+      </tr>
+      <tr>
+        <td>ABAP</td>
+        <td>Advanced Business Application Programming</td>
+        <td>Powerful programming language created specifically for 
+          developing SAP applications. The core development tool in SAP's R/3 system.</td>
+      </tr>
+      <tr>
+        <td>ABC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> activity-based costing</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Atanasoff-Berry Computer</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An approach to understanding where and why costs are incurred within an  enterprise.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> First digital calculating machine that used vacuum tubes</p></td>
+      </tr>
+      <tr>
+        <td>ABEND</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> abnormal end</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Absent By Enforced Net Deprivation</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A type of system error in which a task or program fails to execute  properly (i.e., "abnormally ends"). The term is also used as the name  for a type of error message that indicates such a failure has occurred.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Sent in e-mail subject lines warning friends and others of forced loss of Internet access</p></td>
+      </tr>
+      <tr>
+        <td>ABI</td>
+        <td>application binary interface</td>
+        <td>A set of specifications that enables an application written for one  target OS and hardware platform to run on a  different OS and platform, where the two hardware platforms share the  same processor type.</td>
+      </tr>
+      <tr>
+        <td>ABLE</td>
+        <td>Agent Building and Learning Environment</td>
+        <td>A Java framework and toolkit for constructing and deploying intelligent  agents.</td>
+      </tr>
+      <tr>
+        <td>ABM</td>
+        <td>activity-based management</td>
+        <td>The use of ABC principles in the ongoing management of costs and resources. </td>
+      </tr>
+      <tr>
+        <td>ABME</td>
+        <td>asynchronous balanced mode extended</td>
+        <td>In communications, an operational mode in which modulus 128 sequence  numbers are used.</td>
+      </tr>
+      <tr>
+        <td>ABR</td>
+        <td>Automatic Baud Rate detection</td>
+        <td>The process in which a receiving device examines the first character of  an incoming message to determines its speed, code level, and stop bits. </td>
+      </tr>
+      <tr>
+        <td>ABR</td>
+        <td>available bit rate</td>
+        <td>An ATM service category. ABR service is  conceptually similar to that of a frame relay network - a minimal cell  rate is guaranteed, and bursts can be supported if the network  resources allow it.</td>
+      </tr>
+      <tr>
+        <td>ACA</td>
+        <td>Australian Communications Authority</td>
+        <td> The Australian government body that regulates the nation's communications industries.</td>
+      </tr>
+      <tr>
+        <td>ACAP</td>
+        <td>Application Configuration Access Protocol</td>
+        <td>a standard for accessing program configuration  information from a remote server, allowing a user to use and change  their configuration from any workstation by reading or writing the  values on a central server. Defined in RFC 2244.<br /></td>
+      </tr>
+      <tr>
+        <td>ACC</td>
+        <td> Adaptive Cruise Control<p>Authorization Contract for Containers</td>
+        <td>Adaptive Cruise Control<p>Specification (JSR-115) that defines new java.security.Permission classes to satisfy the J2EE authorization model </td>
+      </tr>
+      <tr>
+        <td>ACCU</td>
+        <td> Association of C and C++ Users</td>
+        <td>A worldwide association of people who are interested in C, C++, and related programming languages.</td>
+      </tr>
+      <tr>
+        <td>ACD</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Automatic Call Delivery</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> automatic  call distributor or distribution</p></td>
+        <td><div align="justify">
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> feature that allows cellular & wireless phones to receive incoming calls when roaming.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> specialized phone system that handles many incoming  calls. ACDs are used for a variety of order-taking functions, such as calls to  help desks or  dispatching of service technicians. </p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>ACDI</td>
+        <td>Asynchronous Communications Device Interface</td>
+        <td>A software device that permits asynchronous transmission, a way of  transmitting data in which one character is sent at a time, and there  may be uneven amounts of time between characters.</td>
+      </tr>
+      <tr>
+        <td>ACE</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> access control entry </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Adobe Certified Expert </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Advanced CMOS-ECL</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Agile Communication Environment</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a set of identities and permissions that are directly associated with a  particular resource. Each access control entry is directly associated  with only one resource. More than one ACE can be associated with each  resource.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a professional who has demonstrated  proficiency with one or more Adobe software products. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A high-end processor technology introduced by Hitachi in the 1990s.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Nortel SIP-based platform acquired by Avaya</p></td>
+      </tr>
+      <tr>
+        <td>ACEE</td>
+        <td>access control environment element</td>
+        <td>In RACF, a control block containing details of the current user, including  user ID, current connect group, user attributes, and group authorities.</td>
+      </tr>
+      <tr>
+        <td>ACF</td>
+        <td>Advanced Communications Function</td>
+        <td>A family of IBM communications programs that handle tasks such as  resource sharing and distribution of functions. They include  ACF/Virtual Telecommunications Access Method (ACF/VTAM) and ACF/Network  Control Program (ACF/NCP).</td>
+      </tr>
+      <tr>
+        <td>ACF2</td>
+        <td>Access Control Facility 2</td>
+        <td>A host-based security subsystem from CA (formerly Computer Associates); also known as CA-ACF2.</td>
+      </tr>
+      <tr>
+        <td>ACG</td>
+        <td>adaptive code generation</td>
+        <td>A  technology that enables a program that uses processor features of a given  system model to continue to work correctly when the program is moved to another  system model that does not have all the processor features of the original  model.</td>
+      </tr>
+      <tr>
+        <td>ACH</td>
+        <td>automated clearinghouse</td>
+        <td>A type of funds transfer network that processes debit and credit  transactions between accounts from participating financial institutions.</td>
+      </tr>
+      <tr>
+        <td>ACI</td>
+        <td>access control information </td>
+        <td>Data that identifies the access rights of a group or principal.</td>
+      </tr>
+      <tr>
+        <td>ACID</td>
+        <td>atomicity, consistency, isolation, durability</td>
+        <td>Four well-established tests for verifying the integrity of business transactions in a data-processing environment.</td>
+      </tr>
+      <tr>
+        <td>ACK</td>
+        <td>acknowledgement </td>
+        <td>When a modem receives a                                                         data packet, it sends a                                                         signal back to the sending                                                         modem. If all the data is                                                         present and correct, it                                                         sends an ACK signal, which acts as a                                                         request for the next data                                                         packet. </td>
+      </tr>
+      <tr>
+        <td>ACL</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Access control list</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> application connectivity link</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Asianet Communications Limited</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Asynchronous Connectionless                                                         Link</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A list of authorised users, processes or systems.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A service that transmits out-of-band information between DirectTalk and the  Siemens Hicom 300 switch.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> an Indian media conglomerate jointly owned by STAR TV and Jupiter Entertainment. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> type of data packet                                                         (data only).</p></td>
+      </tr>
+      <tr>
+        <td>ACM</td>
+        <td>Association for Computing Machinery<p>Address Complete Message</td>
+        <td> a worldwide association of
+          computer professionals headquartered in the United States. www.acm.org<p>Address Complete Message</td>
+      </tr>
+      <tr>
+        <td>ACMS</td>
+        <td>Application Control and Management System</td>
+        <td>A transaction-processing monitor from Compaq (now part of  Hewlett-Packard); originally a product of Digital Equipment, which  Compaq acquired in 1998.</td>
+      </tr>
+      <tr>
+        <td>ACP</td>
+        <td>array control processor</td>
+        <td>A type of processor used in storage systems.</td>
+      </tr>
+      <tr>
+        <td>ACPI</td>
+        <td>Advanced Configuration and Power Interface</td>
+        <td>A standard developed by Intel, Microsoft and Toshiba to improve PC power management and plug-and-play capabilities.<br /></td>
+      </tr>
+      <tr>
+        <td>ACR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Allowed Cell Rate</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> attenuation-to-crosstalk ratio</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An ABR service parameter,                                                         ACR is the current rate                                                         in cells/sec at which a                                                         source is allowed to send.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A measure of signal quality in network cabling.</p></td>
+      </tr>
+      <tr>
+        <td>ACRI</td>
+        <td>additional coding-related required information</td>
+        <td>A specification that is required by an encoding scheme  to complete its definition, which extends beyond the character set and code  page elements.</td>
+      </tr>
+      <tr>
+        <td>ACROSS</td>
+        <td>Automated Cargo Release and Operations Service System</td>
+        <td>Automated Cargo Release and Operations Service System</td>
+      </tr>
+    <tr>
+        <td>ACS</td>
+        <td>Affiliated Computer Services, Inc</td>
+        <td>Xerox Corp.'s $6.4 billion acquisition of Affiliated Computer Services Inc.</td>
+      </tr>
+      <tr>
+        <td>ACSE</td>
+        <td>Association Control Service Element</td>
+        <td>The method used in International Organization for Standardization's OSI for establishing a call between two applications.</td>
+      </tr>
+      <tr>
+        <td>ACSLS</td>
+        <td>Automated Cartridge System Library Software</td>
+        <td>A Unix-based tape-library-sharing system from Storage Technology.</td>
+      </tr>
+      <tr>
+        <td>ACT</td>
+        <td>access control template</td>
+        <td>a reusable named authorization pattern that you can apply to multiple  resources. An access control template consists of a list of users and  groups and indicates, for each user or group, whether permissions are  granted or denied.</td>
+      </tr>
+      <tr>
+        <td>ACU</td>
+        <td>abstract code unit </td>
+        <td>A measurement  used by the z/OS XL C/C++ compiler for judging the size of a function. The  number of ACUs that comprise a function is proportional to its size and complexity.</td>
+      </tr>
+      <tr>
+        <td>AD</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Active Directory</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Administrative Domain</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The directory service portion of the Windows 2000 operating system.  AD manages the identities and relationships of the  distributed resources that make up a network environment.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Defined in RFC 1136. On the Internet, a group of networks, hosts, and routers operated by the same organization.</p></td>
+      </tr>
+      <tr>
+        <td>ADAPT</td>
+        <td>Architecture, Design, Analysis and Planning Tool</td>
+        <td>Architecture, Design, Analysis and Planning Tool</td>
+      </tr>
+      <tr>
+        <td>ADB</td>
+        <td>Apple Desktop Bus</td>
+        <td>Port on the Macintosh for a keyboard, a mouse, and other peripherals.</td>
+      </tr>
+      <tr>
+        <td>ADC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Advanced Direct Connect</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Analog to Digital Converter</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> automated data collection</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a peer-to-peer file-sharing protocol, based on the topology of the Direct Connect (DC) protocol. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Often referred to  A/D, the analog to  digital converter is an electronic device that transforms the analog  signal to digital signal, helping interconnecting the two kinds of  technology/gear. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The automated conversion of disparate types of information into  computer records. ADC devices and technologies include bar code  systems, optical character recognition and speech recognition.</p></td>
+      </tr>
+      <tr>
+        <td>ADCCP</td>
+        <td>Advanced Data Communications Control Procedures</td>
+        <td>A bit-oriented, ANSI-standard communications link-layer protocol.</td>
+      </tr>
+      <tr>
+        <td>ADDM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Application Discovery and Dependency 
+          Mapping</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Automatic Database Diagnostic Monitor </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> BMC's application</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> analyzes the data in Oracle’s Automatic Workload Repository (AWR) to discover 
+              the actual cause behind performance problems</p></td>
+      </tr>
+      <tr>
+        <td>ADE</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Application Data Export</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> application development environment</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Technology by Oracle Databases</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An product that offers a range of tools or features (for example, for  programming, interface development and testing) to provide a complete  "environment" for developing applications.</p></td>
+      </tr>
+      <tr>
+        <td>ADF</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Activity Decision Flow</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Application Development Facility</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> automatic document feeder</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The  format in which models are exported from WebSphere Business Integration Workbench  into WebSphere Business Modeler.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An IBM program for developing IMS applications</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a device for feeding documents into a
+              SCANNER automatically, sheet by sheet</p></td>
+      </tr>
+      <tr>
+        <td>admin</td>
+        <td>ADMINISTRATOR</td>
+        <td>the account name used by the system administrator under
+          Windows NT and its successors</td>
+      </tr>
+      <tr>
+        <td>ADI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Analog Devices, Inc.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Application Desktop Integrator</p></td>
+        <td><p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> leader in  high performance signal processing solutions http://www.analog.com/</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Spreadsheet-based extension of Oracle Applications. It provides full-cycle accounting within the comfort and familiarity of a spreadsheet for General Ledger and Oracle Assets </p></td>
+      </tr>
+      <tr>
+        <td>ADK</td>
+        <td>Additional Decryption Key</td>
+        <td>Key to be able to decrypt data even if the private key owner is unwilling to provide the private key</td>
+      </tr>
+      <tr>
+        <td>ADL</td>
+        <td>Advanced Distributed Learning</td>
+        <td>A set of standards designed to facilitate the sharing of learning objects  across different learning management systems.</td>
+      </tr>
+      <tr>
+        <td>ADM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Agile development management</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Application <br />
+          Development Manager </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Agile development management</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Oracle Siebel's product that reduce the deployment efort and application 
+          downtime and to increase the application deployment quality</p></td>
+      </tr>
+      <tr>
+        <td>ADMD</td>
+        <td>Administration Management Domain or Administrative Management Domain</td>
+        <td>A public e-mail message service that uses the X.400 protocol. </td>
+      </tr>
+      <tr>
+        <td>ADMF</td>
+        <td>Asynchronous Data Mover Facility</td>
+        <td>A IBM mainframe feature designed to enhance system performance in data moves between central and expanded storage.</td>
+      </tr>
+      <tr>
+        <td>ADN</td>
+        <td>Advanced Digital Network<p>
+application delivery networking </td>
+        <td>ADN refers to a 56Kbps leased-line. <p>
+ADN is an approach and a suite of technologies that comprises application security, application acceleration and network availability.</td>
+      </tr>
+      <tr>
+        <td>ADO</td>
+        <td>ActiveX Data Objects</td>
+        <td> A high-level data access object model introduced by Microsoft in 1996.</td>
+      </tr>
+      <tr>
+        <td>ADP</td>
+        <td>Accidental Damage Protection</td>
+        <td>A hardware support agreement covering physical damage to aproduct  caused by or resulting from a fortuitous incident. Accidents covered  include liquid spills, drop impact, electrical surges, and accidental  breakage.</td>
+      </tr>
+      <tr>
+        <td>ADPCM</td>
+        <td>adaptive differential pulse code modulation</td>
+        <td>A speech-coding method that calculates the difference between two  consecutive speech samples in standard pulse code modulation (PCM)  coded telecommunications voice signals. </td>
+      </tr>
+      <tr>
+        <td>ADS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Active Directory Service</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Asynchrous Data Switching</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Windows 2000 network objects database that stores each specific network item in a central database and that may be replicated</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A PBX system that supports  asynchronous data.</p></td>
+      </tr>
+      <tr>
+        <td>ADSI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Active Directory Services Interface</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Analog Display Services Interface</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A Microsoft Active Directory feature that enables Windows 2000  applications to interact with other directory services without the need to know the details of the underlying protocols.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Protocol that simplifies use of advanced features by               displaying text messages, generated by a remote computer or central               office switch, on a user's telephone display or television set.</p></td>
+      </tr>
+      <tr>
+        <td>ADSL</td>
+        <td>Asynchrous Data Switching Line</td>
+        <td><div align="justify">A digital local loop using copper facilities and  providing greater bandwidth in one direction than the other.</div></td>
+      </tr>
+      <tr>
+        <td>ADSM</td>
+        <td>ADSTAR Distributed Storage Manager</td>
+        <td>An IBM product which provides services       for backing up, archiving and restoring data files by allowing a central workstation       to act as a server for networked workstations and personal computers.</td>
+      </tr>
+      <tr>
+        <td>ADSR</td>
+        <td>Attack, Decay, Sustain, Release</td>
+        <td>the four parameters in a basic synthesizer. While  Sustain is a level control, the Attack, Decay and Release are time and  ratio-dependant parameters. When a key is pressed, the Attack  determines the ratio with which it reaches a top level and the begins  to fall at the ratio of the Decay parameter down to the level set by  the Sustain value. </td>
+      </tr>
+      <tr>
+        <td>ADSTAR</td>
+        <td>Automated Document Storage and Retrieval</td>
+        <td>IBM's name for its storage products business in the 1990s.</td>
+      </tr>
+      <tr>
+        <td>ADT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Abstract Data Type</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> admission, discharge and transfer</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> application deployment template</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a class of data structures                                                         described by means of a                                                         set of operations rather                                                         than by physical representation,                                                         such as a class in object-oriented                                                         programming.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A category of hospital software. An ADT system records admissions to,  discharges from and transfers within a hospital, and maintains the  hospital census.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A combination of the logical deployment template and the network topology  template that describes the deployment of application modules on servers and  clusters.</p></td>
+      </tr>
+      <tr>
+        <td>ADTG</td>
+        <td>Advanced Data Table Gram</td>
+        <td>Microsoft Proprietary binary format for storing database data </td>
+      </tr>
+      <tr>
+        <td>ADUC</td>
+        <td>Active Directory Users and Computers</td>
+        <td>A snap-in in the Microsoft Management Console (MMC)</td>
+      </tr>
+      <tr>
+        <td>AEC</td>
+        <td>Architecture, Engineering, Construction</td>
+        <td>A computer graphics market requiring specialized applications that facilitate efficient planning, design, drafting, and analysis.</td>
+      </tr>
+      <tr>
+        <td>AES</td>
+        <td><p>Advanced Encryption Standard</p></td>
+        <td><p align="justify">A competition is currently underway to define a public 256-bit symmetric   encryption algorithm that will replace DES (Data Encryption Standard). </p></td>
+      </tr>
+      <tr>
+        <td>AF</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Assured Forwarding</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> audio frequency</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Using AF, a provider may offer different levels of service for IP packets received from a customer domain. Each AF class is allocated a specified amount of buffer space and bandwidth </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a frequency within the range of human hearing, 20
+              to 20,000 hertz</p></td>
+      </tr>
+      <tr>
+        <td>AFC</td>
+        <td>antiferromagnetically coupled</td>
+        <td>A type of storage media that uses an advanced magnetic coating expected  to dramatically increase HDD capacity. IBM shipped  the first AVC-based storage products in 2001.</td>
+      </tr>
+      <tr>
+        <td>AFI</td>
+        <td>Authority and Format Identifier</td>
+        <td> This identifier is part                                                         of the network level address                                                         header.</td>
+      </tr>
+      <tr>
+        <td>AFIS</td>
+        <td>Automated Fingerprint Identification System</td>
+        <td><div align="justify"> a biometric ID methodology that uses digital imaging technology to obtain, store, and analyze fingerprint data. The AFIS was originally used by the U.S. Federal Bureau of Investigation (FBI) in criminal cases. </div></td>
+      </tr>
+      <tr>
+        <td>AFK</td>
+        <td>Away From Keyboard</td>
+        <td>An example of Internet shorthand used in chat rooms, E-Mail, and instant messages.</td>
+      </tr>
+      <tr>
+        <td>AFM</td>
+        <td>Atomic Force Microscope </td>
+        <td>a powerful tool to manipulate matters at the nanoscale. It is today  used for imaging a wide range of surfaces such as glass, composites,  ceramics, polymers and biological samples. AFM finds increasing application in nanotechnology and biophysics.</td>
+      </tr>
+      <tr>
+        <td>AFP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Advanced Function Printing</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Apple Filing Protocol</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An IBM all-points-addressable enterprisewide print architecture.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A client/server protocol used by Apple file service to share 
+              files and network services. AFP uses TCP/IP and other protocols to support 
+              communication between computers on a network.</p></td>
+      </tr>
+      <tr>
+        <td>AFL</td>
+        <td>Academic Free License</td>
+        <td>permissive free software license written in 2002 by Lawrence E. Rosen</td>
+      </tr>
+      <tr>
+        <td>AGC</td>
+        <td>Automatic Gain Control</td>
+        <td>Most often used in audio circuits; an electronic circuit which automatically increases the volume when someone is speaking quietly and drops the volume when someone is speaking loudly, to keep the transmitted signal constant.</td>
+      </tr>
+      <tr>
+        <td>AGP</td>
+        <td>Accelerated Graphics Port</td>
+        <td>An Intel technology for desktop systems. It increases system  performance by offloading graphic requirements from the system bus to a  bus dedicated to video processing.</td>
+      </tr>
+      <tr>
+        <td>AHCI</td>
+        <td>Advanced Host Controller Interface</td>
+        <td>an interface specification that allows the storage  driver to enable advanced SATA features such as Native  Command Queuing and hot plug. </td>
+      </tr>
+      <tr>
+        <td>AHP</td>
+        <td>analytical hierarchy process</td>
+        <td>A process that uses hierarchical decomposition to deal with complex  information in multicriterion decision making, such as information  technology vendor and product evaluation.</td>
+      </tr>
+      <tr>
+        <td>AI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Action Indicator</p><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Adobe Illustrator</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> artificial intelligence </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> AI is an ISDN term</p>
+<p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> AI is a draw program for Macintosh and Windows. It is especially useful for technical drawing.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> AI is the use of computers to simulate human thinking. Artificial intelligence is concerned with building computer programs that can solve problems creatively</p></td>
+      </tr>
+      <tr>
+        <td>AIA</td>
+        <td>Application Integration Architecture </td>
+        <td>Application Integration Architecture </td>
+      </tr>
+      <tr>
+        <td>AID</td>
+        <td>attention identifier</td>
+        <td>A character  in a data stream that is sent to the host system when a display station user  presses an AID key. Typical AID keys are function keys  or the Clear, Enter, Page Up, Page Down, Help, Print, and Home keys.</td>
+      </tr>
+      <tr>
+        <td>AIM</td>
+        <td>AOL Instant Messenger</td>
+        <td>an application that allows computer users to
+          correspond with friends while online</td>
+      </tr>
+      <tr>
+        <td>AIN</td>
+        <td>Advanced Intelligent Network</td>
+        <td>Introduced by AT&T Network Systems in 1991, AIN enables service  providers to define, test and introduce new multimedia messaging,  personal-communication and cell-routing services.</td>
+      </tr>
+      <tr>
+        <td>AIO</td>
+        <td>all in one </td>
+        <td> These are printers that are a combination of various devices in one  machine, including printer, scanner, fax machine and copier.</td>
+      </tr>
+      <tr>
+        <td>AIOD</td>
+        <td>Automatic Identified Outward Dialing</td>
+        <td> An option on a PBX that specifies the extension number                           instead of the PBX number on outward calls. Used for internal                           billing.</td>
+      </tr>
+      <tr>
+        <td>AIP</td>
+        <td>Advanced Inspection and <br />
+          Prevention </td>
+        <td>Cisco ASA add-in modules</td>
+      </tr>
+      <tr>
+        <td>AIR</td>
+        <td>Additive Increase Rate</td>
+        <td>An ABR service parameter,                                                         AIR controls the rate at                                                         which the cell transmission                                                         rate increases. It is signaled                                                         as AIRF, where AIRF = AIR*Nrm/PCR.</td>
+      </tr>
+      <tr>
+        <td>AIT</td>
+        <td>Advanced Intelligent Tape</td>
+        <td>An eight-millimeter helical-scan tape drive designed and manufactured  by Sony. Sony has differentiated its AIT drive from other 8-millimeter  tape drives with a unique media feature on the tape cartridge called  memory in cassette (MIC).</td>
+      </tr>
+      <tr>
+        <td>AIX</td>
+        <td>Advanced Interactive Executive</td>
+        <td><div align="justify">AIX is an operating system developed by IBM and is in fact Unix-based. </div></td>
+      </tr>
+      <tr>
+        <td>Ajax</td>
+        <td>Asynchronous JavaScript and XML</td>
+        <td>A way of including content in a <em>web page</em> in which <em>javascript</em> code in the web page fetches some data from a server and displays it  without re-fetching the entire surrounding page at the same time (hence  the 'Asynchronous') </td>
+      </tr>
+      <tr>
+        <td>AJP</td>
+        <td>Apache JServ Protocol</td>
+        <td>Binary, packet-oriented protocol bridging the web server with the servlet container. The web server attempts to maintain persistent TCP connections to the servlet container, and to reuse a connection for multiple request/response cycles</td>
+      </tr>
+      <tr>
+        <td>AL PA</td>
+        <td>Arbitrated Loop Physical Address</td>
+        <td>In Fibre Channel transmissions, an 8-bit value 
+          used to identify a participating device in an arbitrated loop.</td>
+      </tr>
+      <tr>
+        <td>ALET</td>
+        <td>access list entry token</td>
+        <td>A  token that serves as an index into an access list.</td>
+      </tr>
+      <tr>
+        <td>ALG</td>
+        <td>Application Layer Gateway</td>
+        <td>Used in conjuction with <a href="n">NAT</a> to allow IP address translation</td>
+      </tr>
+      <tr>
+        <td>ALGOL</td>
+        <td>ALGOrithmic Language</td>
+        <td>a pair of programming languages that
+          had a strong impact on programming language design. </td>
+      </tr>
+      <tr>
+        <td>ALI</td>
+        <td>Application layer  interface</td>
+        <td><div align="justify">The ALI forms the interface for the application layer in  the
+          OSI reference  model. It provides a clearly defined separation of communication and  application</div></td>
+      </tr>
+      <tr>
+        <td>ALM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Application Life Cycle Management </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Asset 
+              Lifecycle Management</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Asynchronous Line Multiplexer</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the facility for common 
+          process workflow and consolidation of planning, management, measurement and reporting of 
+          work item activities in the development process. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Asset 
+              Lifecycle Management</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A device that connects multiple terminals or other serial interface devices to Sun network file servers or workstations. Also known as "multiple terminal interface."</p></td>
+      </tr>
+      <tr>
+        <td>ALP</td>
+        <td>Application Layer Program / Protocol</td>
+        <td>A program or network protocol at the Application Layer</td>
+      </tr>
+      <tr>
+        <td>ALSA</td>
+        <td>Advanced Linux Sound Architecture</td>
+        <td>Linux kernel component intended to replace the original Open Sound System for providing drivers for sound cards. </td>
+      </tr>
+      <tr>
+        <td>ALT</td>
+        <td>alternative</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Used in an HTML tag for the benefit of people using nongraphical  browsers, or for people using a browser with graphics turned off.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A top-level category of "alternative" USENET newsgroups. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The Alt key on the keyboard of PC compatibles, typically used in conjunction with other keys.</p></td>
+      </tr>
+      <tr>
+        <td>ALU</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Alcatel-Lucent </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> arithmetic logic unit</p></td>
+        <td><p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A leader in fixed, mobile and converged broadband networking, IP and  optics technologies, applications and services www.alcatel-lucent.com</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A CPU's core element, which carries out arithmetic computations.</p></td>
+      </tr>
+      <tr>
+        <td>AM</td>
+        <td>Amplitude Modulation</td>
+        <td>A particular technology, most commonly used in radio  broadcasting, where blending a modulated signal into a carrier wave by  varying the amplitude of the carrier creates the final transmit  frequency.</td>
+      </tr>
+      <tr>
+        <td>AMA</td>
+        <td>automatic message accounting</td>
+        <td>A function that automatically documents billing data related to subscriber-dialed long-distance calls.</td>
+      </tr>
+      <tr>
+        <td>Amanda</td>
+        <td>(formerly) Advanced Maryland Automatic Network Disk Archiver</td>
+        <td>an open source computer archiving tool that is able to back up data residing on multiple computers on a network. http://www.amanda.org/</td>
+      </tr>
+      <tr>
+        <td>AMD</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Active Matrix Display</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Advanced Microchip Devices</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> architected model-driven</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> LCD  technology, used for computer screens, in  which there is a transistor for each pixel, which prevents losing image  quality between scans.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A semiconductor manufacturer and is a major   competitor of Intel. They manufacture the Athlon, Duron, and K6 CPU chips.  www.amd.com</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="service-oriented-architecture-soa">SOA</a> tools that automate models and rules</p></td>
+      </tr>
+      <tr>
+        <td>AME</td>
+        <td>Advanced Metal Evaporated</td>
+        <td> A media formulation manufactured by Sony for use in its consumer and computer product lines.</td>
+      </tr>
+      <tr>
+        <td>ami</td>
+        <td>Analyze, Metricate, Improve</td>
+        <td>A method for software project                                                         management and process improvement.</td>
+      </tr>
+      <tr>
+        <td>AMI</td>
+        <td><p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> advanced metering <br />
+          infrastructure</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Alternate Mark Inversion</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Application Messaging Interface </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> utility-focused applications</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Line coding format used on T1 facilities that transmits               ones by alternate positive and negative pulses.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The programming interface provided by WebSphere MQ that defines a high  level interface to message queuing services.</p></td>
+      </tr>
+      <tr>
+        <td>AML</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Anti-Money-Laundering </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Astronomical Markup Language</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Verify the identity of any person seeking to open an account, determine the source and 
+          destination of their funding, and check the account opener's name against any 
+          government-provided lists of known or suspected terrorists or terrorist organizations. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A standardized format for exchange of metadata related to astronomy.  This language will enhance the ability of astronomers to retrieve  scientific data, and make it possible for humans and intelligent agents  to use the same information.</p></td>
+      </tr>
+      <tr>
+        <td>AMMA</td>
+        <td>Advanced Memory Management Architecture</td>
+        <td>Strategies for providing sufficient memory to all the processes in a computer system, performed by the memory management unit.</td>
+      </tr>
+      <tr>
+        <td>AMP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> ampere (A)</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> amplifier</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Asymmetric Multi-Processing</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a measurement of electrical current. One coulomb flowing per second. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a term used for devices that increase output of sound or electrical voltage or current.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> an option built into many current operating systems to share CPU functions between two mirrored servers.</p></td>
+      </tr>
+      <tr>
+        <td>AMPS</td>
+        <td>Advanced Mobile Phone System</td>
+        <td> The original standard specification for analog systems. Used primarily in North America, Latin America, Australia and parts of Russia and Asia.</td>
+      </tr>
+      <tr>
+        <td>AMR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Audio Modem Riser</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Automatic meter reading</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> an Intel specification that defines a new architecture for the design of motherboards. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the technology of automatically collecting consumption, diagnostic, and status data from water meter or energy metering devices (water, gas, electric) and transferring that data to a central database for billing, troubleshooting, and analyzing. </p></td>
+      </tr>
+      <tr>
+        <td>AMRF</td>
+        <td>Action Message Retention Facility</td>
+        <td>A z/OS facility that, when active, retains all action messages except  those specified by the installation.</td>
+      </tr>
+      <tr>
+        <td>AMS</td>
+        <td>access method services<p>
+Analog/Mixed-Signal
+<p> Application Management Services</td>
+        <td>A multifunction  utility named IDCAMS that is used to manage catalogs, devices, and both VSAM  and non-VSAM data sets.<p>
+Analog/Mixed-Signal<p> Application Management Services</td>
+      </tr>
+      <tr>
+        <td>AMT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Active Management Technology</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> address mapping table </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Allows the IT team to better discover, heal, and protect their networked computing assets </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A table  that provides a current mapping of node addresses to hardware addresses.</p></td>
+      </tr>
+      <tr>
+        <td>AMTA</td>
+        <td>American Mobile Telecommunications Association</td>
+        <td>AMTA represents and promotes the interest of specialized  wireless communications, meeting the educational, informational and  regulatory needs of licensees and related businesses. See them at AMTAUSA.ORG.</td>
+      </tr>
+      <tr>
+        <td>ANDF</td>
+        <td>Architecture-Neutral                                                         Distribution Format</td>
+        <td>an                                                         emerging OSF standard for                                                         software distribution. Programs                                                         are compiled into ANDF before                                                         distribution, and executables                                                         are produced from it for                                                         the local target system.</td>
+      </tr>
+      <tr>
+        <td>ANI</td>
+        <td>Automatic Number Identification</td>
+        <td>The number                           associated with the telephone station from which switched                           calls are originated or terminated.</td>
+      </tr>
+      <tr>
+        <td>Anon FTP</td>
+        <td>Anonymous FTP</td>
+        <td>A method for downloading and  uploading files using FTP protocol without having a username or a  password.  In place of a username, word "anonymous" is used, and in  place of a password, email address is usually used.</td>
+      </tr>
+      <tr>
+        <td>ANOVA</td>
+        <td>analysis of variance</td>
+        <td> A form of statistical analysis.</td>
+      </tr>
+      <tr>
+        <td>ANR</td>
+        <td>automatic network routing</td>
+        <td>In High-Performance Routing (HPR), a highly efficient routing protocol that  minimizes cycles and storage requirements for routing network layer packets  through intermediate nodes on the route.</td>
+      </tr>
+      <tr>
+        <td>ANSI</td>
+        <td>American National  Standards  Institute</td>
+        <td>the main industrial standardization organization in the United States. There are official ANSI
+          standards in almost all industries, and many of them have to do with
+          computers. www.ansi.org</td>
+      </tr>
+      <tr>
+        <td>ANX</td>
+        <td>Automotive Network Exchange</td>
+        <td>Established by the Automotive Industry Action Group to offer  extranet-based applications to suppliers of Chrysler, Ford and General  Motors.</td>
+      </tr>
+      <tr>
+        <td>AOA</td>
+        <td>angle of arrival</td>
+        <td>Based on triangulation, a method of processing cellular phone signals,  AOA allows the physical position of switched-on wireless devices to be  located.</td>
+      </tr>
+      <tr>
+        <td>AOCE</td>
+        <td> Apple Open Collaboration Environment</td>
+        <td>Macintosh System 7 extensions that make it possible to share e-mail,  directory, and other services in a multiplatform environment.</td>
+      </tr>
+      <tr>
+        <td>AoE</td>
+        <td>Ata Over Ethernet</td>
+        <td>Network protocol designed for simple, high-performance access of SATA storage devices over Ethernet networks. It gives the possibility to build SANs with low-cost, standard technologies</td>
+      </tr>
+      <tr>
+        <td>AOF</td>
+        <td><p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Advanced Open File</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> application object file</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Backup exec option backs up open files during a backup job</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An  ASCII text file that contains the names of the global description file and  the component description files, which together describe the management characteristics  of an application.</p></td>
+      </tr>
+      <tr>
+        <td>AOL</td>
+        <td><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> America Online<p>
+<img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Application Object Library</td>
+        <td><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> AOL is founded in 1985, America Online, based in Dulles, Virginia, has become the world's leader in interactive services, Web brands, Internet technologies, and e-commerce services. <http://www.aol.com> www.aol.com </a>
+<p><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> AOL stand for Application Object Library</td>
+      </tr>
+      <tr>
+        <td>AOR</td>
+        <td>Address of Record</td>
+        <td><div align="justify">An SIP term, an  AOR provides a single public address for all 
+          telecommunications.  The AOR can be mapped across multiple devices and media types.</div></td>
+      </tr>
+      <tr>
+        <td>AP</td>
+        <td>access point</td>
+        <td>a hardware device or a computer's software that acts as a communication hub for users of a wireless device to connect to a wired LAN. APs are important for providing heightened wireless security and for extending the physical range of service a wireless user has access to.</td>
+      </tr>
+      <tr>
+        <td>APA</td>
+        <td>all-points addressable </td>
+        <td>Able  to address, reference, and position text, overlays, and images at any defined  position or picture element (pel) on the printable area of the paper. </td>
+      </tr>
+      <tr>
+        <td>APaaS</td>
+        <td>application platform as a <br />
+          service</td>
+        <td>application platform as a 
+          service</td>
+      </tr>
+      <tr>
+        <td>APACS</td>
+        <td>Association for Payment Clearing Services</td>
+        <td> The organization that manages U.K. payment systems.</td>
+      </tr>
+      <tr>
+        <td>APaRT</td>
+        <td>automated packet recognition/translation</td>
+        <td> Technology that allows a server to be attached  to CDDI or FDDI without requiring the reconfiguration of applications  or network protocols.</td>
+      </tr>
+      <tr>
+        <td>APC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> asynchronous procedure call</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> American Power Conversion</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Antenna Phase Center</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A kernel-defined control object which represents a procedure that is called asynchronously within a particular thread context. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> American Power Conversion</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A theoretical point in the guidance receiver for which a position is derived. </p></td>
+      </tr>
+      <tr>
+        <td>APDU</td>
+        <td>application-layer protocol data unit </td>
+        <td>In OSI, a protocol data unit in the application layer.</td>
+      </tr>
+      <tr>
+        <td>APF</td>
+        <td>Automated Purposing Framework</td>
+        <td>Collection of scripts and utilities that enable you to consistently and reliably prepare computer hardware (BIOS, mass storage) and install the Windows operating system and layered products on one or more build computers</td>
+      </tr>
+      <tr>
+        <td>API</td>
+        <td><p>Application Programming Interface</p>Advanced Photonix, Inc</td>
+        <td><p align="justify">An interface to a computer operating system or software program that gives   other programs access to functions similar to those offered to users through a   graphical user interface. </p>a leading supplier of opto-electronic solutions and Terahertz sensors and instrumentation to a global OEM ...advancedphotonix.com/</td>
+      </tr>
+      <tr>
+        <td>APM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Active policy management</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Advanced Power Management</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> application 
+            performance management </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> analyzes 
+          unstructured content in documents and e-mails, and applies the appropriate rules for access, life 
+          cycle management and oversight.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A feature from Intel and Microsoft for battery-powered computers, which  powers-down or the display when the computer has been inactive for a  certain length of time in order to conserve power.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> application 
+            performance management </p></td>
+      </tr>
+      <tr>
+        <td>APML</td>
+        <td>Attention Profiling Markup Language</td>
+        <td>used to consolidate and 
+          aggregate individual users' ranked interests</td>
+      </tr>
+      <tr>
+        <td>APNIC</td>
+        <td>Asia Pacific Network Information Center</td>
+        <td>Nonprofit Internet registry organization for the  Asia Pacific region. The other Internet registries are currently IANA,  RIPE NCC, and InterNIC. http://www.apnic.net/</td>
+      </tr>
+      <tr>
+        <td>APO</td>
+        <td>Advanced Planner and Optimizer</td>
+        <td> A supply-chain-planning suite from SAP.</td>
+      </tr>
+      <tr>
+        <td>APOP</td>
+        <td>Authenticated Post Office Protocol</td>
+        <td>similar to the POP  protocol except that APOP enables your password to be encrypted while being transmitted over the network. </td>
+      </tr>
+      <tr>
+        <td>APOT</td>
+        <td>Alternate (Additional) Point of Termination</td>
+        <td>form identifies specific collocation terminations                                   at the ICDF frame where the CLEC "UNE termination                                   cables" are terminated. These terminations                                   are used for the purpose of ordering UNEs, Ancillary                                   Services, or Finished Services. </td>
+      </tr>
+      <tr>
+        <td>app</td>
+        <td>application </td>
+        <td>a computer program that performs useful work not
+          related to the computer itself. Examples include WORD PROCESSORs, PRESENTATION GRAPHICS  programs</td>
+      </tr>
+      <tr>
+        <td>APPC</td>
+        <td>Advanced Program-to-Program Communication</td>
+        <td>The programming interface to LU 6.2, IBM's protocol for peer-to-peer  program communication under SNA.</td>
+      </tr>
+      <tr>
+        <td>APPN</td>
+        <td>Advanced Peer to Peer Networking</td>
+        <td>IBM data communications support that routes data between Advanced  Peer-to-Peer Communication (APPC) systems to enable users anywhere on  the network to have direct communication with each other.</td>
+      </tr>
+      <tr>
+        <td>APR</td>
+        <td>Apache Portable Runtime</td>
+        <td>Its mission is to provide a free library of C data structures and routines, forming a system portability layer to as many operating systems as possible, including Unices, MS Win32, BeOS and OS/2 </td>
+      </tr>
+      <tr>
+        <td>APS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> advanced planning and scheduling</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Automatic Protection Switching</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A subcomponent of supply chain planning (SCP) that focuses on manufacturing planning and scheduling.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A mean for automatically detecting and signalling a transmission link failure </p></td>
+      </tr>
+      <tr>
+        <td>APWG</td>
+        <td>Anti-Phishing Working Group </td>
+        <td><div align="justify"> an international membership organization that seeks to eliminate fraud based on attacks from phishing and e-mail spoofing. These attacks hurt legitimate businesses as the attackers fraudulently use the identity of an established organization in their attack.</div></td>
+      </tr>
+      <tr>
+        <td>AQCB</td>
+        <td>Automated Quote Contract Billing</td>
+        <td>System                           used to price non-tariffed products and services.</td>
+      </tr>
+      <tr>
+        <td>AR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Access Rate</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Augmented reality</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The data rate of the user access channel. The rate (maximum) at which access devices can offer data to the frame relay network</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a technology that superimposes graphics, audio and other 
+              virtual enhancements over a live view of the real world. It is this "real world" element that <br />
+              differentiates AR from virtual reality.</p></td>
+      </tr>
+      <tr>
+        <td>ARA</td>
+        <td>Apple Remote Access</td>
+        <td> Communication software designed to offer remote access to an AppleTalk-compatible network via an ARA server.</td>
+      </tr>
+      <tr>
+        <td>ARAD</td>
+        <td>architected rapid application development </td>
+        <td><a href="service-oriented-architecture-soa">SOA</a> tools that automate models and rules</td>
+      </tr>
+      <tr>
+        <td>ARAG</td>
+        <td>AntiReflection AntiGlare</td>
+        <td>There are add-on screens for monitors that eliminate screen glare and protect the user’s eyes.</td>
+      </tr>
+     <tr>
+        <td>ARC</td>
+        <td>Ames Research Center<p>Archive</td>
+        <td>NASA facility is charged with the mission of assisting with better life quality on earth, human exploration, space travel and the search for life on other planets. www.nasa.gov/centers/ames
+<p>Archive</td>
+      </tr>
+      <tr>
+        <td>ARCNET</td>
+        <td>Attached Resource Computer NETwork</td>
+        <td>a LAN protocol, similar in purpose to Ethernet or Token Ring.</td>
+      </tr>
+      <tr>
+        <td>ARD</td>
+        <td>Automatic Ring Down</td>
+        <td>Private line connecting                           a station instrument in one location with a station instrument                           in another location. When station one is off hook, station                           two rings. Also called "hot line".</td>
+      </tr>
+      <tr>
+        <td>ARIA</td>
+        <td>Accessible Rich Internet Applications </td>
+        <td>ARIA, also WAI-ARIA, defines a way to make Web content and Web applications more accessible to people </td>
+      </tr>      <tr>
+        <td>ARIN</td>
+        <td>American Registry for Internet Numbers </td>
+        <td>the Internet registry service for North and South America, as                   well the Carribean and sub-Saharan Africa. http://arin.net/</td>
+      </tr>
+      <tr>
+        <td>ARL</td>
+        <td>ABLE Rule Language </td>
+        <td>A rule-based  programming language that is used to express business logic outside of program  logic. ARL provides tight integration with Java objects, and the tooling provided  with ABLE is based on the Eclipse platform.</td>
+      </tr>
+      <tr>
+        <td>ARM</td>
+        <td>Advanced RISC Machines<p>Asynchronous Response Mode<p>Active Registry Monitor
+</td>
+        <td>a RISC  processor find most of their    use on hand-held machines and PDAs. Currently owned by Intel, and    currently produced by both the above and Digital/Compaq. <p>Asynchronous Response Mode<p>Active Registry Monitor</td>
+      </tr>
+      <tr>
+        <td>ARP</td>
+        <td>Address Resolution Protocol</td>
+        <td>A method for finding a host's Ethernet address from its Internet address. It works like this: The sender broadcasts an ARP packet containing the Internet address of another host and waits for it to send back its Ethernet address.</td>
+      </tr>
+      <tr>
+        <td>ARPANET</td>
+        <td>Advance Research Projects Agency Network</td>
+        <td>A packet-switched network                                                         developed in the early 1970s.                                                         The “father”                                                         of today’s Internet.                                                         ARPANET was decommissioned                                                         in June 1990. http://www.arpa.mil/</td>
+      </tr>
+      <tr>
+        <td>ARQ</td>
+        <td>automatic repeat request</td>
+        <td>A modem status signal indicated by a light on the modem; in cases of  transmissions errors, the ARQ is a request to the sender to retransmit.</td>
+      </tr>
+      <tr>
+        <td>ARS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Action Request System</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> automatic route selection</p></td>
+        <td> <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> call tracking and resolution software provided by BMC Software</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Device (or software) which chooses the lowest          cost route for long-distance calls over specific lines or services, including WATS,          leased, specialized non-Bell common carriers  or direct distance dialing          (DDD). </p></td>
+      </tr>
+      <tr>
+        <td>ART</td>
+        <td>Additional Reference Transmission</td>
+        <td>ART is carrier term</td>
+      </tr>     
+ <tr>
+        <td>ARTS</td>
+        <td>Association for Retail Technology Standards</td>
+        <td>Data Model standard</td>
+      </tr>
+      <tr>
+        <td>ARu</td>
+        <td>audio response unit </td>
+        <td> Output device which provides a spoken response to          digital inquiries from a telephone or other device. The response is usually assembled by a          computer from a prerecorded vocabulary of words.  </td>
+      </tr>
+      <tr>
+        <td>AS/400</td>
+        <td>Application System/400</td>
+        <td>A midrange computer system introduced by IBM in 1988 as a replacement for its System/36 and System/38 product families.</td>
+      </tr>
+      <tr>
+        <td>AS2</td>
+        <td>Applicability Statement 2</td>
+        <td><div align="justify"> a specification for EDI between businesses using the Internet's Web page protocol, HTTP. The specification is an extension of the earlier version, Applicability Statement 1 (AS1).</div></td>
+      </tr>
+      <tr>
+        <td>ASA</td>
+        <td>average speed of answer</td>
+        <td> A standard quantitative method for measuring the speed at which call center calls are answered.</td>
+      </tr>
+      <tr>
+        <td>ASBR</td>
+        <td>Autonomous System Boundary Router</td>
+        <td>ASBRs run both OSPF and another routing protocol, such as RIP. ASBRs must reside in a nonstub OSPF area. </td>
+      </tr>
+      <tr>
+        <td>ASC</td>
+        <td>Abstract Syntax Checker </td>
+        <td>In  OSI, a utility program for OSI Communications Subsystem that processes user-specified  ASN.1 statements</td>
+      </tr>
+      <tr>
+        <td>ASCII</td>
+        <td><p>American Standard Code for Information Interchange</p></td>
+        <td><p align="justify">pronounced as-kee, standard way of encoding characters into digital codes. An ASCII file is   taken to mean a text file containing unformatted text that is, characters but   not information about fonts, sizes and so on.</p></td>
+      </tr>
+      <tr>
+        <td>ASCL</td>
+        <td>Asianet Satellite Communications Limited </td>
+        <td>dataline, broadband internet, leading ISP in kerala. asianet.co.in</td>
+      </tr>
+      <tr>
+        <td>ASE</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Adaptive Server Enterprise</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> application service element</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> relational database management system product of Sybase Corporation, is a direct descendant of Sybase SQL Server.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A set of functions in the application layer of OSI that provides a capability  for the interworking of application entities for a specific purpose on a single  application association.</p></td>
+      </tr>
+      <tr>
+        <td>ASF</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Advanced Streaming Format</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Automatic Sheet Feeder</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> set of standards from Microsoft that is utilized in WMP7 technology.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The technology dictates the different ways printers feed  paper. Dot matrix printers usually run on a continuous Web of paper  while laser printers or ink jet type printers are generally single  sheet. They are also often referred to as page printers.</p></td>
+      </tr>
+      <tr>
+        <td>ASIC</td>
+        <td>Application-Specific Integrated Circuit</td>
+        <td>A chip with custom-built hardware circuits for a particular set of  functions. ASICs are commonly used in networking devices to maximize  performance and provide integration of multiple functions into a single  chip.</td>
+      </tr>
+      <tr>
+        <td>ASIF</td>
+        <td>access security information field</td>
+        <td>In SNA, a field within Function Management Header Type 5 (FMH-5), which  is used to convey security information.</td>
+      </tr>
+      <tr>
+        <td>ASIS</td>
+        <td>access security information subfield</td>
+        <td>In SNA, a subfield within Function Management Header Type 5 (FMH-5), which is used to convey security information.</td>
+      </tr>
+    <tr>
+        <td>ASK</td>
+        <td>Anomalous State of Knowledge</td>
+        <td>ASK is a programming term</td>
+      </tr>
+      <tr>
+        <td>ASLR</td>
+        <td>Address Space Layout Randomization</td>
+        <td>a process which entails arranging the positions of major data areas  randomly in virtual address space.  Microsoft's Windows Vista and Windows Server 2008 have ASLR enabled by default</td>
+      </tr>
+      <tr>
+        <td>ASLS</td>
+        <td>Analog Single Line Station</td>
+        <td>a telephony term. An extension port on a PABX/KSU that will allow a standard household type phone to interface with the system.</td>
+      </tr>
+      <tr>
+        <td>ASM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Auto-sequencing memory</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Automatic Storage Management</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  	Anti machine data memory including data counters to be programmed by flowware to generate the data streams at run time.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Oracle 10g database feature that provides the database administrator with a simple storage management interface that is consistent across all server and storage platforms </p></td>
+      </tr>
+      <tr>
+        <td>ASML</td>
+        <td>originally  ASM Lithography (ASM for Advanced Semiconductor Materials)</td>
+        <td>largest supplier in the world of photolithography systems for the semiconductor industry, founded in 1984 as a joint venture between the Dutch companies Advanced Semiconductor Materials International (ASMI) and Philips. www.asml.com</td>
+      </tr>
+      <tr>
+        <td>AS</td>
+        <td>Activesync</td>
+        <td>AS is Microsoft software</td>
+      <tr>
+        <td>AS / ASN</td>
+        <td>autonomous system (number)</td>
+        <td>A number assigned to a local network, registered into the carrier's  routing community and placed under the umbrella of an administrative  domain called an autonomous system</td>
+      </tr>
+      <tr>
+        <td>ASN</td>
+        <td>Abstract Syntax Notation</td>
+        <td>The International Organization for Standardization's OSI language for describing abstract syntax.</td>
+      </tr>
+      <tr>
+        <td>ASN.1</td>
+        <td>Abstract Syntax Notation One</td>
+        <td>In OSI, a notation for defining data structures  and data types. The notation is defined in international standards ISO 8824/ITU  X.208 and ISO 8825/ITU X.209.</td>
+      </tr>
+      <tr>
+        <td>ASO</td>
+        <td>Address Supporting Organization</td>
+        <td><p><a href="i">ICANN</a> Supporting Organization responsible for reviewing and developing recommendations on <a href="ip-address">IP address</a> policy</p>
+        <p><a href="http://aso.icann.org">aso.icann.org</a></p></td>
+      </tr>
+      <tr>
+        <td>ASP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Abstract Service Primitive</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Active Server Pages </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Application Server Process</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Application Service Provider</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Aspect Oriented Programming</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Average Selling Price </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Implementation-independent description of interaction               between service-user and service-provider at particular service boundary,               as defined by <a href="o">OSI</a>.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a Microsoft technology, allows programmers to develop custom code that  works with Microsoft's <a href="i">IIS</a>.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Application Server Process</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Sometimes refered to as an "app-on-tap," this is a third-party company  that distributes software-based services from a central location to  customers in other locations.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Aspect Oriented Programming</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  This term is used in the microchip manufacturing world. Companies like  AMD and Intel strive for high ASPs. The ASP is an indication not only  of direct profits, but how well a company is keeping up with the  technology curve.</p></td>
+      </tr>
+      <tr>
+        <td>ASPI</td>
+        <td>Advanced SCSI Programming Interface</td>
+        <td>An interface from Adaptec that allows application programs to access SCSI hardware. See SCSI.</td>
+      </tr>
+      <tr>
+        <td>ASPX</td>
+        <td>Active Server Pages eXtended</td>
+        <td>Dynamic web pages engine for the Microsoft .NET framework </td>
+      </tr>
+      <tr>
+        <td>ASR</td>
+        <td>Access Service Request<p>
+Automatic Speech Recognition<p>
+Automated System Recovery
+</td>
+        <td>Access Service Request<p>
+Automatic Speech Recognition<p>
+Automated System Recovery </td>
+      </tr>
+      <tr>
+        <td>ASQ</td>
+        <td><p>Automated Software                                                         Quality</p></td>
+        <td><p> </p>
+            <p>The use of software                                                         tools, such as automated                                                         testing tools, to improve                                                         software quality.</p>
+          <p> </p></td>
+      </tr>
+      <tr>
+        <td>ASR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Automatic Send and Receive</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  automatic speech recognition</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Automated system recovery </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Any one of several devices designed to transmit and receive data unattended, in contrast with RO, "receive only" devices.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Another name for speech recognition technology.</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  One of several backup mechanisms on Windows XP. ASR is intended to be  taken infrequently, whenever there are changes in the system.</p></td>
+      </tr>
+      <tr>
+        <td>ASV</td>
+        <td>Approved Scanning Vendor</td>
+        <td>Company approved by the PCI 
+          SSC to conduct external vulnerability scanning services. </td>
+      </tr>
+      <tr>
+        <td>AT</td>
+        <td>Advanced Technology</td>
+        <td>the class of IBM PCs originally introduced in
+          1984 using the 80286 microprocessor and a 16-bit bus</td>
+      </tr>
+      <tr>
+        <td>AT&T</td>
+        <td>American Telephone And Telegraph</td>
+        <td> The USA's major common carrier for long distance telephone lines.</td>
+      </tr>
+      <tr>
+        <td>ATA</td>
+        <td>            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Actual Time of Arrival</p>
+<p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Advanced Technology Attachment</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Analog Telephone Adaptor</p></td>
+        <td> <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Actual Time of Arrival</p>
+<p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An integrated bus usually used between host processors and disk drives. Used interchangeably with IDE.</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> connects the conventional telephone to the Internet, converts the  analog voice signals into IP packets, delivers dial tone and manages  the call setup.</p></td>
+      </tr>
+      <tr>
+        <td>ATAG</td>
+        <td>Authoring Tool Accessibility Guidelines</td>
+        <td>W3C recommendation that explains how to develop authoring tools that make it easier to produce accessible Web pages that conform to the Web Content Accessibility Guidelines (WCAG)</td>
+      </tr>
+      <tr>
+        <td>ATAPI</td>
+        <td>AT Attachment Packet Interface</td>
+        <td>A hardware and software specification that documents the interface between a host computer and CD-ROM drives using the ATA bus. </td>
+      </tr>
+      <tr>
+        <td>ATB</td>
+        <td>all trunks busy</td>
+        <td>A single tone interrupted at a 120 impulses per minute          (ipm) rate to indicate all lines or trunks in a routing group are busy.  </td>
+      </tr>
+      <tr>
+        <td>ATCA</td>
+        <td>Advanced Telecom Computing Architecture</td>
+        <td><div align="justify">ATCA provides the telecommunications industry with an opportunity to  adopt a standard architecture for a broad spectrum of products,  including wireless access, wireless core networks, and IP Multimedia  Subsystem IMS network elements.</div></td>
+      </tr>
+      <tr>
+        <td>ATG</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> advanced technology group</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Art Technology Group</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A group charged with researching, tracking and evaluating emerging  technologies for an enterprise, and with prototyping and piloting  advanced-technology projects prior to deployment.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A developer of online customer relationship management applications, headquartered in Cambridge, Massachusetts.</p></td>
+      </tr>
+      <tr>
+        <td>ATI</td>
+        <td><p> Allied Telesyn International</p></td>
+        <td><p>Networking hardware manufacturer</p></td>
+      </tr>
+      <tr>
+        <td>ATL</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Active Template Library</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> automated tape library</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A group of routines provided by Microsoft that can be used to help more easily create ASP, ActiveX, and COM objects in C++.</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A system used for high-capacity, tape-based data storage. ATLs  typically have dozens of drives and can accommodate hundreds tape  cartridges.</p></td>
+      </tr>
+      <tr>
+        <td>ATLAS</td>
+        <td>Authorization Token Layer Acquisition Service</td>
+        <td>Describes the service needed to acquire authorization tokens to access a target system using the CSIv2 protocol. This design defines a single interface with which a client acquires an authorization token</td>
+      </tr>
+      <tr>
+        <td>ATM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Adobe Type Manager</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> asynchronous  transfer mode</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> automated teller machine</p></td>
+        <td><div align="justify">
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a software program or system extension manufactured by Adobe Systems that is used to enhance the display of screen fonts on computer monitors,</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a
+            transfer mode for  switching and transmission that efficiently and flexibly organizes information
+            into cells. It is  asynchronous in the sense that the recurrence of cells depends on the required  or
+            instantaneous bit  rate.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A public banking machine that customers can access by inserting or  swiping a magnetic card and entering a password.</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>ATO</td>
+        <td>assemble to order</td>
+        <td>A strategy allowing a product or service to be made to meet the custom  requirements of a specific order, where a large number of such  customized products can be assembled in various forms from common  components.</td>
+      </tr>
+      <tr>
+        <td>Atom</td>
+        <td> <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Any Transport over MPLS</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Atom</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a technology developed by Cisco for transporting Layer 2 packets over an IP/MPLS backbone.</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Atom is the name of an XML-based Web content and metadata syndication format, and an application-level protocol for publishing and editing Web resources belonging to periodically updated Web sites. </p></td>
+      </tr>
+      <tr>
+        <td>ATP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> AppleTalk Transaction Protocol</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> available to promise</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In AppleTalk networks, a protocol that provides client/server request and  response functions for hosts accessing the ZIP  for zone information.</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The uncommitted portion of a company's inventory or planned production.  This figure is frequently calculated from the master production  schedule and is maintained as a tool for order promising.</p></td>
+      </tr>
+      <tr>
+        <td>ATPCO</td>
+        <td>Airline Tariff Publishing Company</td>
+        <td><p> The central database where airlines file and publish their fares</p></td>
+      </tr>
+      <tr>
+        <td>ATRAC</td>
+        <td>Adaptive TRansform Acoustic Coding</td>
+        <td>Audio compression algorithm, introduced by Sony for its Mini Disk, which relies on the masking of low-amplitude frequency components by temporaly adjacent high-amplitude components</td>
+      </tr>
+      <tr>
+        <td>ATRN</td>
+        <td>Authenticated Turn</td>
+        <td>Authenticated Turn</td>
+      </tr>
+  <tr>
+        <td>ATS</td>
+        <td>Abstract Test Suite<p>Applications Technology Satellite<p>Air to Surface</td>
+        <td>Abstract Test Suite<p>Applications Technology Satellite<p>Air to Surface </td>
+      </tr>
+      <tr>
+        <td>ATSC</td>
+        <td>Advanced Television Systems Committee</td>
+        <td>an international, non-profit organization developing voluntary standards for digital television. </td>
+      </tr>
+      <tr>
+        <td>ATTIS</td>
+        <td>AT&T Information Systems</td>
+        <td> A division of AT&T Technologies that supplies and manufactures CPE.</td>
+      </tr>
+      <tr>
+        <td>ATU-C / ATU-R</td>
+        <td>ADSL Transmission Unit, Central or Remote</td>
+        <td>Device at end of ADSL line that stands between line and               first item of equipment in subscriber premises or telephone switch.               May be integrated within access node.</td>
+      </tr>
+      <tr>
+        <td>ATUL</td>
+        <td>ADSL Termination Unit Remote</td>
+        <td>ATUR is the ADSL modem or PC card that physically terminates an ADSL connection at the end user’s location.</td>
+      </tr>
+      <tr>
+        <td>ATVEF</td>
+        <td>Advanced TV Enhancement Forum</td>
+        <td>A standard for creating enhanced, interactive television content and  for delivering that content to a range of television, set-top, and  PC-based receivers (http://www.atvef.com). </td>
+      </tr>
+      <tr>
+        <td>ATX</td>
+        <td>Advanced Technology eXtended </td>
+        <td>A particular set of characteristics defining a generic  type of motherboard, power supply and chassis combination. The  definition came from Intel, along with a consortium of hardware and  software makers to define the ability of the design.</td>
+      </tr>
+      <tr>
+        <td>AUDIT</td>
+        <td>AUtomated Data Input Terminal</td>
+        <td>AUtomated Data Input Terminal</td>
+      </tr>
+      <tr>
+        <td>AUI</td>
+        <td>Attachment Unit Interface</td>
+        <td>a device that contains a 15-bit pin, or socket, and is used to connect  a NIC with a standard Ethernet cable.</td>
+      </tr>
+      <tr>
+        <td>AUIML</td>
+        <td>Abstract User Interface Markup Language </td>
+        <td>An XML implementation that provides a platform and technology-neutral  method of representing windows, wizards, property sheets, and other user interface  elements. </td>
+      </tr>
+      <tr>
+        <td>AUP</td>
+        <td>acceptable use policy</td>
+        <td>a policy that a user must agree to follow in order to be provided with access to a network or to the Internet.</td>
+      </tr>
+      <tr>
+        <td>AUTOEXEC</td>
+        <td>Automatic Execution</td>
+        <td>When a program is executed on it's own.</td>
+      </tr>
+      <tr>
+        <td>AUTONEG</td>
+        <td>Autonegotiation</td>
+        <td>a feature that  determines link options and optimal settings for a given
+Ethernet connection. When AUTONEG is enabled, a network interface  card or a switch port can determine the capabilities of the device  at the far end of the link and select the best mode of  operation.</td>
+      </tr>
+      <tr>
+        <td>AUV</td>
+        <td>Autonomous Underwater Vehicle </td>
+        <td>a robotic device driven through water by a propulsion system. AUVs are  self-sufficient vehicles carrying their own energy source.  The control  of the vehicle is done using an onboard computer thus eliminating the  need of operators located elsewhere.</td>
+      </tr>
+      <tr>
+        <td>AUX</td>
+        <td>auxiliary device</td>
+        <td>A peripheral device that may perform a useful function but is not  necessary for the operation of the computer. Examples are printers,  scanners, and modems.</td>
+      </tr>
+      <tr>
+        <td>AV</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Anti Virus</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Audio Video or Visual</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Anti Virus software</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> pertaining to the recording and reproduction of sounds and pictures</p></td>
+      </tr>
+      <tr>
+        <td>AVD</td>
+        <td>alternate voice data </td>
+        <td> A single transmission facility which can be used          for either voice or data.  </td>
+      </tr>
+      <tr>
+        <td>AVED</td>
+        <td>AntiVirus Emergency Discussion list</td>
+        <td><div align="justify">A mailing list for professional antivirus researchers allowing them to alert other researchers to emerging or ongoing 'crisis' or 'emergency' virus events.</div></td>
+      </tr>
+      <tr>
+        <td>AVI</td>
+        <td>Audio/Video Interleaved</td>
+        <td>AVI is the most common format for   audio/video data on the personal computer.</td>
+      </tr>
+      <tr>
+        <td>AVK</td>
+        <td>Application Verification Kit</td>
+        <td>Tool intended to help developers test their applications for correct use of J2EE APIs and portability across J2EE compatible application servers, and to help developers avoid inadvertently writing non-portable code</td>
+      </tr>
+      <tr>
+        <td>AVS</td>
+        <td>Application Visualisation                                                         System</td>
+        <td>a portable modular                                                         UNIX-based graphics package                                                         supported by a consortium                                                         of vendors including Convex,                                                         DEC, IBM, HP, SET Technologies,                                                         Stardent and WaveTracer.</td>
+      </tr>
+      <tr>
+        <td>AVST</td>
+        <td>Applied Voice & Speech Technologies Inc.</td>
+        <td>software company in the telecommunication industry http://www.avst.com/</td>
+      </tr>
+      <tr>
+        <td>AWD</td>
+        <td>Access Workflow Designer</td>
+        <td>Organize and track information</td>
+      </tr>
+      <tr>
+        <td>AVVID</td>
+        <td>Architecture for Voice, Video and Integrated Data</td>
+        <td>An architectural approach for integrating enterprise voice, video and  data traffic over IP-based networks, introduced by Cisco Systems in  1999.</td>
+      </tr>
+      <tr>
+        <td>AWE</td>
+        <td> Advanced WavEffects</td>
+        <td>A series of sound cards from Creative Labs that includes the Sound Blaster AWE 32, the Sound Blaster AWE64, and the AWE64 Gold. </td>
+      </tr>
+      <tr>
+        <td>AWS</td>
+        <td>         <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Advanced Wireless Services</p>
+<p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Amazon Web Services</p>
+         <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  Autonomous Web Services</p>
+      </td>
+        <td> Amazon Web Services (AWS) delivers a set of services that together form a reliable, scalable, and inexpensive computing platform “in the cloud”. <a href="aws.amazon.com/">aws.amazon.com/</a>
+<p> a collection of remote computing services
+<p>a next generation Web Services based on business process model harmonization among independent systems</td>
+      </tr>
+      <tr>
+        <td>AWT</td>
+        <td>Abstract Window Toolkit</td>
+        <td>In  Java programming, a collection of GUI components that were implemented using  native-platform versions of the components. These components provide that  subset of functionality which is common to all operating system environments.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>a+</td>
+        <td>Pronounced A plus, a certification developed by the Computing Technology Industry Association (CompTIA) to validate vendor-neutral skills for entry-level computer technicians. Holders of the A+ certification have been trained in installing, repairing, troubleshooting, maintaining, customizing and operating PCs.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>AC97</td>
+        <td> The popular audio system from Realtek.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>acoustic coupler </td>
+        <td>A special type of modem that converts acoustic energy (sound          waves) into electrical energy, allowing a standard telephone handset to be attached to a          computer or data terminal for data transmission.  </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>ActiveX</td>
+        <td>A Microsoft technology that facilitates various Internet applications,  and therefore extends and enhances the functionality of Microsoft's  Internet Explorer browser. Like Java, ActiveX enables the development  of interactive content. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Activity Streams </td>
+        <td>a publish/subscribe notification mechanism that provides 
+          frequent updates to subscribers about the activities or events that relate to another individual.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Ada</td>
+        <td>a programming language developed in the late 1970s for the U.S.
+          Department of Defense. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Ad Hoc Network</td>
+        <td>A decentralized wireless network in which each node is capable of  forwarding data to other nodes without relying on an established access  point. An ad hoc network can be created spontaneously as needed and  requires no permanent infrastructure.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Adwords</td>
+        <td>an advertising service by Google for businesses wanting to display ads on Google and its advertising network. The AdWords program enables businesses to set a budget for advertising and only pay when people click the ads. adwords.google.com</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Aero</td>
+        <td> The new user interface for Windows Vista, except for the Start and Home Basic editions.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>air interface</td>
+        <td>a cellular industry term. It refers to the system that ensures  compatibility between subscriber terminal equipment (i.e. cell phones  and PDAs) and base stations. It involves the specification of channel  frequencies and widths,</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>air PBX</td>
+        <td>an IP-PBX system in which traditional PBX desk phones are replaced 
+          by cell phones. The implementation can be via WLAN or cellular. Devices using 
+          software telephone ("softphone") technology can use all functions provided by the call manager. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td> always-on</td>
+        <td> An internet connection which remains on 24/7 such as ADSL or cable, rather than only connecting on demand like a dialup.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Android </td>
+        <td> Linux based operating system that is backed by Google and the other members of the Open Handset Alliance. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Anonymous</td>
+        <td><p>With no traceability; unable to ascertain the actual identity of the  claimed identity; very likely to imply naming that is intentionally  opaque.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Anonymous FTP: Service supported by many Internet hosts. Typically, allows user  to download documents, files, programs, and other publicly accessible  data using FTP.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>antenna </td>
+        <td>A metallic device used to transmit and receive electromagnetic waves. An antenna can be a passive or active device. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>applet</td>
+        <td>This a Java program that  can be embedded in a Web page. The difference between a standard Java  application and a Java applet is that an applet can't access system  resources on the local computer.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>archive</td>
+        <td> Data that is important information, stored for a long  period of time in some recording media such as magnetic tapes, storage  arrays or other non-active hard disks.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>atom</td>
+        <td>Atom is an alternate XML format for easily sharing content, much like RSS Really Simple Syndication (format). Blogs on http://www.blogger.com/ for example, publish Atom feeds.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Autonomous Vehicles </td>
+        <td>can drive itself from a starting point to a 
+          predetermined destination in "autopilot" mode using various in-vehicle technologies and sensors, including GPS navigation technology</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>avatar</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A graphical icon that represents a real person in a  cyberspace system. When you enter the system, you can choose from a  number of fanciful avatars. Sophisticated 3D avatars even change shape  depending on what they are doing</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A common name for the superuser account on UNIX systems. The other common name is root. </p></td>
+      </tr>
+       <tr>
+        <td></td>
+        <td>AVG </td>
+        <td> AVG is a family of anti-virus and Internet security software for the Microsoft Windows, Linux, Mac OS X, and FreeBSD computing platforms, developed by AVG Technologies. <a href="http://www.avg.com">http://www.avg.com</a>  </td>
+      </tr>     <tr>
+        <td> </td>
+        <td>AZERTY</td>
+        <td>The standard French language keyboard layout. Term comes from the first six letters below the row of numbers.</td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 3.166670084 -->
+</html>

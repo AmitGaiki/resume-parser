@@ -1,0 +1,1930 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - B for Bandwidth</title>
+<meta name="keywords" content="blog, bank, bsnl, bpo, business process outsourcing, blue, bluetooth, bsc, balanced scorecard, bo, bi, bus, blogger, bbc, bridge, border, blade, booking, booking.com">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page157" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm770" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable on"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-b">B</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >B</h1><div class="marker" ></div>
+<div id="pm610" class="tile  m1203 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>B for bandwidth</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm734" class="tile  m1451 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>b</td>
+        <td>bit</td>
+        <td rowspan="2">The number of bits used to represent a                           character. For personal computers a byte is usually 8                           bits.</td>
+      </tr>
+      <tr>
+        <td>B</td>
+        <td>byte</td>
+      </tr>
+      <tr>
+        <td>B channel</td>
+        <td>Bearer Channel</td>
+        <td>A wire used in <a href="i">ISDN</a> service that can carry up to 64 Kbps of data when operating at full capacity. It is a clear channel "pipe" that carries voice, data, or video over ISDN. The BRI service offered to home users has two B channels. </td>
+      </tr>
+      <tr>
+        <td>B2B</td>
+        <td>business-to-business</td>
+        <td>B2B is also commonly used as an adjective to describe any activity, be it B2B marketing, sales, or e-commerce, that occurs between businesses and other businesses</td>
+      </tr>
+      <tr>
+        <td>B2C</td>
+        <td>business-to-consumer</td>
+        <td>B2C describes activities of commercial organizations serving the end consumer with products and/or services. It is usually applied exclusively to electronic commerce.</td>
+      </tr>
+      <tr>
+        <td>B2E</td>
+        <td>business-to-employee</td>
+        <td>The use and leverage of e-business approaches and Internet technologies  to deliver a comprehensive set of services to an enterprise's employees  and their managers. The full term is sometimes presented as  "business-to-enterprise."</td>
+      </tr>
+      <tr>
+        <td>B8ZS</td>
+        <td>Binary Eight Zero Suppression.</td>
+        <td>8ZS is a technique in T1 that modifies the AMI encoding  to ensure minimum pulse density without altering customer data. When  eight "zeros" in a row are detected, a pattern with intentional bipolar  violations is substituted.</td>
+      </tr>
+      <tr>
+        <td>B-HAVW</td>
+        <td> Behavioral Heuristic Analyzer in Virtual Environments</td>
+        <td>Bitdefender technology</td>
+      </tr>
+      <tr>
+        <td>BAA</td>
+        <td>Blanket Authorization Agreement</td>
+        <td>Signed                           by interconnectors guaranteeing that they have authority                           of the end user customer to request CPNI and place service                           orders on the customer’s behalf.</td>
+      </tr>
+      <tr>
+        <td>BAC</td>
+        <td>BroadCast Agent</td>
+        <td>Business Objects broadcast agent</td>
+      </tr>
+      <tr>
+        <td>BACNET</td>
+        <td>Building Automation and Control Network protocol</td>
+        <td>a communications protocol for building automation and control networks. </td>
+      </tr>
+      <tr>
+        <td>BAF</td>
+        <td>Bellcore AMA                           Format </td>
+        <td>Bellcore (Now Telcordia Technologies) AMA                           Format </td>
+      </tr>
+      <tr>
+        <td>BAI</td>
+        <td>Bank Administration Institute</td>
+        <td>File / report format used in financial services industry</td>
+      </tr>
+      <tr>
+        <td>BAM</td>
+        <td>business activity monitoring</td>
+        <td>A Gartner term that defines the concept of providing real-time access  to critical business performance indicators to improve the speed and  effectiveness of business operations. At its broadest level, BAM is the  convergence of operational business intelligence and real-time  application integration.</td>
+      </tr>
+      <tr>
+        <td>BAN</td>
+        <td>Body Area Networks</td>
+        <td>an emerging field of technology that has the potential to revolutionize  healthcare and pathbreaking applications in sports, communications and  security. </td>
+      </tr>
+      <tr>
+        <td>BAPI</td>
+        <td>Business Application Programming Interface</td>
+        <td>A set of documented, server-side interfaces to one or more R/3  processes, from SAP. BAPI packages multiple internal functions to  enable programmatic access to such higher-order tasks as checking  customer numbers, providing product descriptions, selecting products,  creating quotations or creating orders.</td>
+      </tr>
+      <tr>
+        <td>bar file</td>
+        <td>broker archive file</td>
+        <td>The  unit of deployment to the broker; also known as a bar file. It contains any  number of compiled message flows (.cmf), message sets (.dictionary), and a  single deployment descriptor.</td>
+      </tr>
+      <tr>
+        <td>Basel II</td>
+        <td>Basel Capital Accord</td>
+        <td>a regulatory framework for the banking sector, developed by the Basel  Committee on Banking Supervision. This committee meets every three  months at the Bank for International Settlements in Basel, Switzerland.</td>
+      </tr>
+      <tr>
+        <td>BASH</td>
+        <td>Bourne-Again SHell </td>
+        <td>an interactive UNIX shell based on the traditional Bourne shell, but  with increased functionality. BASH is the shell, or command language  interpreter, that will appear in the GNU operating system</td>
+      </tr>
+      <tr>
+        <td>BASIC</td>
+        <td><p>Beginners' All-purpose Symbolic Instruction Code</p></td>
+        <td><p>A high-level algebraic programming language developed at Dartmouth  College in the 1960s and widely taught to beginning programmers. It is  simple to use but lacks speed.</p></td>
+      </tr>
+      <tr>
+        <td>BAT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Baby Advanced Technology</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> batch</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Baidu, Alibaba, Tencent</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A type of system board</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> in Windows, a file whose name ends in .BAT and that
+              contains a list of commands</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />China's top three Internet companies, 百度、腾讯、阿里巴巴 in Chinese </p></td>
+      </tr>
+      <tr>
+        <td>BBC</td>
+        <td>British Broadcasting Corporation<p>
+Broadband Bearer Capability</td>
+        <td>The British Broadcasting Corporation (BBC) is a British public service broadcaster, headquartered at Broadcasting House in the City of Westminster, London <a href="http://www.bbc.co.uk/">http://www.bbc.co.uk/></a><p> A                                                   bearer class field that is part                                                   of the initial address message.</td>
+      </tr>
+      <tr>
+        <td>BBCs</td>
+        <td>buffer-to-buffer credits </td>
+        <td>allow data communication in a Fibre Channel <a href="glossary_s.htm">SAN</a> where there are long spans of fiber optic cable. Unless storage distance extension is employed, <a href="glossary_l.htm">latency</a> imposes a distance limitation of a few kilometers between the source and the destination in the network.</td>
+      </tr>
+      <tr>
+        <td>BBN</td>
+        <td> Bolt, Beranek and Newman</td>
+        <td>the last names of the three founders of BBN Technologies and the original name of the company. </td>
+      </tr>
+      <tr>
+        <td>BBP</td>
+        <td>Business-to-Business Procurement</td>
+        <td>A catalog-based procurement product from <a href="glossary_s.htm">SAP</a>.</td>
+      </tr>
+      <tr>
+        <td>BBS</td>
+        <td>Bulletin Board System</td>
+        <td>A computerized meeting and announcement system that allows people to  carry on discussions, upload and download files, and make announcements  without the people being connected to the computer at the same time.</td>
+      </tr>
+      <tr>
+        <td>BC4J</td>
+        <td>Business Components For Java</td>
+        <td>Java 2 platform, Enterprise Edition (J2EE) framework that helps developers quickly construct high-performance J2EE applications following industry-standard design patterns</td>
+      </tr>
+      <tr>
+        <td>BCB</td>
+        <td>buffer control block</td>
+        <td>An opaque cache manager structure that is used to maintain state as a  file system pins and releases data (for example, its volume structure)  in the cache.</td>
+      </tr>
+      <tr>
+        <td>Bcc</td>
+        <td>Blind Carbon Copy</td>
+        <td>When  you send an e-mail to only one person, you type the recipient's address  in the "To:" field. When you send a message to more than one person,  you have the option to enter addresses in the "Cc:" and "Bcc:" fields.</td>
+      </tr>
+      <tr>
+        <td>BCC</td>
+        <td>Block Check Character</td>
+        <td>A control character added to a block in  character oriented protocols (such as Bisync) used for determining if  the block was received in error</td>
+      </tr>
+      <tr>
+        <td>BCD</td>
+        <td>binary-coded decimal</td>
+        <td>a format for representing decimal numbers (integers) in which each digit is represented by four bits (nybble or nibble). See byte. For example, the number 375 would be represented as: 0011 0111 0101. </td>
+      </tr>
+      <tr>
+        <td>BCE</td>
+        <td>Bell Canada Enterprises;</td>
+        <td>Canada's Largest Communications Company <a href="http://www.bce.ca">http://www.bce.ca</a></td>
+      </tr>
+      <tr>
+        <td>BCEL</td>
+        <td>Byte Code Engineering Library</td>
+        <td>Library intended to give users a convenient possibility to analyze, create, and manipulate (binary) Java class files</td>
+      </tr>
+      <tr>
+        <td>BCI</td>
+        <td>Business Continuity Institute</td>
+        <td>The <a href="http://www.thebci.org">BCI</a> promotes the highest  standards of professional competence and commercial ethics in the  provision, maintenance and services for Business Continuity Management  (BCM).</td>
+      </tr>
+      <tr>
+        <td>BCM / BCMP</td>
+        <td>Business Continuity Management (Planning)</td>
+        <td>automates the 
+          collaborative research, analysis and writing needed to create a recovery plan for critical business 
+          and IT operations that can be published and distributed to the recovery teams.</td>
+      </tr>
+      <tr>
+        <td>BCOCA</td>
+        <td>Bar Code Object Content Architecture </td>
+        <td>An architected collection of constructs used to interchange and present bar code data.</td>
+      </tr>
+      <tr>
+        <td>BCP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Best Current Practice</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Bulk Copy Program</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> business continuity planning</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Means that a certain manner of proceeding is in general the most logical choice</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A program used to copy databases or parts of databases in Sybase and Microsoft SQL Server environments. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A broad approach to planning for the recovery of an enterprise's entire  business process in event of a massive disruption caused by  catastrophic event.</p></td>
+      </tr>
+      <tr>
+        <td>BCS</td>
+        <td>basic content services</td>
+        <td>BCSs provide document library services with complementary ad hoc  imaging, basic Web publishing, document collaboration and document  routing as their core functionalities.</td>
+      </tr>
+      <tr>
+        <td>BCUG</td>
+        <td>bilateral closed user group</td>
+        <td>In data communication, two users who have bilaterally agreed to communicate with each other, but not with other users. </td>
+      </tr>
+      <tr>
+        <td>BCV</td>
+        <td>business continuance volume</td>
+        <td>EMC's name for the data volumes created by its Symmetrix TimeFinder  feature. BCVs are copies of active data volumes that are separately  addressed from the source volume.</td>
+      </tr>
+      <tr>
+        <td>BCX</td>
+        <td>Basic To C Translator</td>
+        <td>an open source and free software, translates BASIC to C/C++ for  compilation on various Win32 compilers. It is a small command line tool  that takes a BASIC source code file and outputs a C/C++ source code  file.</td>
+      </tr>
+      <tr>
+        <td>BD</td>
+        <td> Blu-ray Disc</td>
+        <td>This is an optical disc format   	that was developed to enable recording, playback, and rewriting of <a href="glossary_h.htm">HD</a> video. This technology has a storage capacity far greater than that of   	traditional DVDs.</td>
+      </tr>
+      <tr>
+        <td>BDC</td>
+        <td>Backup Domain Controller</td>
+        <td>Secondary to the PDC, provides user/computer domain authentication</td>
+      </tr>
+      <tr>
+        <td>BDF</td>
+        <td>building distribution frame</td>
+        <td>The location in a building where equipment          attaches a number of cables from the LDF's</td>
+      </tr>
+      <tr>
+        <td>BECN</td>
+        <td>Backward Explicit Congestion Notification</td>
+        <td>A bit sent by a frame relay network to notify an interface device (DTE) that congestion avoidance procedures should be initiated by the sending device</td>
+      </tr>
+      <tr>
+        <td>BEEP</td>
+        <td>Blocks Extensible Exchange Protocol</td>
+        <td>a framework for creating network application protocols. It is intended  to abstract-out the common features that have traditionally been  duplicated in each protocol implementation</td>
+      </tr>
+      <tr>
+        <td>Bellcore</td>
+        <td>Bell Communications Research</td>
+        <td>A jointly owned, financed and centrally staffed organization of the  regional holding companies formed after the AT&T divestiture in  1984, charged with establishing network standards and interfaces.  Bellcore changed its name to Telcordia Technologies in 1999.</td>
+      </tr>
+      <tr>
+        <td>BER</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Basic Encoding Rules</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> bit error rate</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Standard rules for encoding data units described in ASN.1.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A measurement of digital transmission quality - the lower the rate, the  higher the quality. A minimum BER is often specified in service-level  agreements between digital carriers and their customers.</p></td>
+      </tr>
+      <tr>
+        <td>BERT</td>
+        <td>Bit Error Rate Test</td>
+        <td>A test that reflects the ratio of errored bits to the  total number transmitted. Usually shown in exponential form (10^-6) to  indicate that one out of a certain number of bits are in error.</td>
+      </tr>
+      <tr>
+        <td>BES</td>
+        <td>BlackBerry Enterprise Server</td>
+        <td>BlackBerry's  mobility platform</td>
+      </tr>
+      <tr>
+        <td>BFR</td>
+        <td>Bona Fide Request</td>
+        <td>Submitted CLECs with                           an interconnection, or pending, agreement with Qwest for                           non-tariffed, non-negotiated, non-mandated services, including                           operations standards.</td>
+      </tr>
+      <tr>
+        <td>BFT</td>
+        <td>Binary File Transfer</td>
+        <td>A method of transferring files using fax modems. It's an extension to the fax protocol. </td>
+      </tr>
+      <tr>
+        <td>BGA</td>
+        <td>ball grid array</td>
+        <td>As opposed to a pin grid array (PGA), a ball grid array is a type of  microchip connection methodology. Ball grid array chips typically use a  group of solder dots, or balls, arranged in concentric rectangles to  connect to a circuit board.</td>
+      </tr>
+      <tr>
+        <td>BGI</td>
+        <td>Binary Gateway Interface</td>
+        <td>Provides a method of running a program from a Web server. Similar to a Common Gateway Interface (CGI). The BGI uses a binary DLL which is loaded into memory when the server starts. While more efficient han a CGI, the BGI must be compiled and is not easily portable to other environments.</td>
+      </tr>
+      <tr>
+        <td>BGAN</td>
+        <td>Broadband Global Area Network</td>
+        <td>BGAN is a mobile communications system created to transmit broadband wireless voice and data communications almost anywhere on the earth's surface. </td>
+      </tr>
+      <tr>
+        <td>BGP</td>
+        <td>Border Gateway Protocol</td>
+        <td>The interdomain routing protocol implemented in Transmission Control Protocol/Internet Protocol (TCP/IP) networks.</td>
+      </tr>
+      <tr>
+        <td>BGP-4</td>
+        <td>Border Gateway Protocol-4</td>
+        <td>A networking redundancy service based on BGP.  It enables an enterprise to route Information Protocol (IP) traffic  destined for the same IP address via different network connections. In  a BGP-4 environment, when a transmission comes from an Internet service  provider's network, it will look for the primary router that connects  to the enterprise's location.</td>
+      </tr>
+      <tr>
+        <td>BHCA</td>
+        <td>busy hour call attempt</td>
+        <td><div align="justify">The capacity of a voice call processor can be measured in              BHCAs. BHCAs   measure the amount of calls that a voice system can attempt to handle in   a              continuous one-hour period (for example, 2,500 busy hour call attempts or,   equivalently, 2,500              call attempts during the busy hour). BHCA capacities   include all calls attempted, whether              completed or not.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>BHCC</td>
+        <td>busy hour call completion</td>
+        <td><div align="justify">The capacity of a processor can be measured in terms of<br />
+          BHCCs. BHCCs are a   measure that includes only completed calls, which makes it a more               rigorous   metric than BHCA.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>BHLI</td>
+        <td>Broadband High Layer Information</td>
+        <td> This is a Q.2931 information element                                                   that identifies an application                                                   (or session layer protocol of                                                   an application).</td>
+      </tr>
+      <tr>
+        <td>BHMC</td>
+        <td>Busy Hour Minutes of Capacity</td>
+        <td>For Switched                           Access </td>
+      </tr>
+      <tr>
+        <td>BHO</td>
+        <td>Browser Help Object</td>
+        <td>a software component that can be added to
+          Internet Explorer to add new functions. </td>
+      </tr>
+      <tr>
+        <td>BI</td>
+        <td>business intelligence</td>
+        <td>An interactive process for exploring and analyzing structured,  domain-specific information to  discern business trends or patterns, thereby deriving insights and  drawing conclusions. The BI process includes  communicating findings and effecting change.</td>
+      </tr>
+      <tr>
+        <td>BIA</td>
+        <td>business impact analysis</td>
+        <td>An analysis of the costs  that would be  incurred if a system or set of business processes failed to function  properly. BIA is a required early step in the BCP process.</td>
+      </tr>
+      <tr>
+        <td>BIBOP</td>
+        <td>big bag of pages</td>
+        <td>a technique that encodes object type in the high-order bits of their address, by using a lookup table that maps from those bits to a type.</td>
+      </tr>
+      <tr>
+        <td>BIC</td>
+        <td>bank identifier code</td>
+        <td>A code used to uniquely identify a bank, logical terminal, or branch within a SWIFT network.</td>
+      </tr>
+      <tr>
+        <td>BICI</td>
+        <td>Broadband Inter-Carrier Interface</td>
+        <td>A carrier-to-carrier interface line PNNI (private network-to-network  interface) that is needed because carriers do not permit their switches  to share routing information or detailed network maps with their  competition's equipment.</td>
+      </tr>
+      <tr>
+        <td>BiDi</td>
+        <td>Bi-Directional</td>
+        <td>the capability of a computer system to correctly display bi-directional text. </td>
+      </tr>
+      <tr>
+        <td>BIDS</td>
+        <td>Business Intelligence Development Studio</td>
+        <td><a href="i">IDE</a> from Microsoft used for developing data analysis and Business Intelligence solutions utilizing the Microsoft <a href="s">SQL</a> Server Analysis Services, Reporting Services and Integration Services</td>
+      </tr>
+      <tr>
+        <td>Bin</td>
+        <td>binary</td>
+        <td>Binary data, composed of something other than human-readable text. Binary code, the digital representation of text and data</td>
+      </tr>
+      <tr>
+        <td>Binhex</td>
+        <td>BINary HEXadecimal</td>
+        <td>A method for converting non-text files (non-ASCII) into <em>ASCII</em>. This is needed because Internet e-mail can only handle ASCII. </td>
+      </tr>
+      <tr>
+        <td>BIOD</td>
+        <td>block input/output daemon </td>
+        <td>In the Network File System (NFS), a daemon that performs parallel read/write requests on behalf of an NFS client.</td>
+      </tr>
+      <tr>
+        <td>BIOS</td>
+        <td><p>Basic Input/Output System</p></td>
+        <td><p>A  fundamental element of PCs and other computers. It is a kind of  built-in software that determines what a computer can do without  accessing programs from a disk.</p></td>
+      </tr>
+      <tr>
+        <td>BIP</td>
+        <td>Bit Interleaved Parity</td>
+        <td>Method used at PHY layer to monitor error performance               of link. Check bit or word is sent in link overhead covering previous               block or frame. Bit errors in payload will be detected and may be               reported as maintenance information.</td>
+      </tr>
+      <tr>
+        <td>BIPS</td>
+        <td>Bank Internet Payment System</td>
+        <td> The BIPS specification includes a protocol for sending payment instructions to banks safely over the Internet and a payment server architecture for processing those payment instructions</td>
+      </tr>
+      <tr>
+        <td>BIRT</td>
+        <td>Business Intelligence and Reporting Tools</td>
+        <td>Open source, Eclipse-based reporting system that integrates with your application to produce compelling reports for both web and PDF.</td>
+      </tr>
+      <tr>
+        <td>BIST</td>
+        <td>built-in self test</td>
+        <td> a feature included in newer integrated circuits and
+          other electronic equipment</td>
+      </tr>
+      <tr>
+        <td>BISUP</td>
+        <td>Broadband ISDN User's Part</td>
+        <td>SS7 protocol that defines signaling messages to control               connections and services.</td>
+      </tr>
+      <tr>
+        <td>Bisync or BSC </td>
+        <td>Binary SYNChronous</td>
+        <td>A synchronous communications protocol that transmits binary-coded data between two devices by using a set of control characters and control character sequences. </td>
+      </tr>
+      <tr>
+        <td>Bit</td>
+        <td>Binary DigIT</td>
+        <td>A single digit number in base-2, in other words, either a 1 or a zero. The smallest unit of computerized data. <em>Bandwidth</em>is usually measured in bits-per-second. </td>
+      </tr>
+      <tr>
+        <td>BIT7</td>
+        <td>Bit Seven</td>
+        <td><p>A TR008 DS1 line code that performs zero code suppression by placing a one in bit 7 of an all-zeros byte.</p></td>
+      </tr>
+      <tr>
+        <td>BITNET</td>
+        <td>Because It's Time Networking </td>
+        <td>Low-cost, low-speed academic network consisting  primarily of IBM mainframes and 9600-bps leased lines. BITNET is now  part of CREN. </td>
+      </tr>
+      <tr>
+        <td>BITS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Background Intelligent Transfer Service</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Banking Industry Technology Secretariat</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong>Bump-In-The-Stack </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Enables developers to write client applications that transfer files asynchronously between a client and server. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> The technology arm of the Bankers Roundtable, whose membership  comprises the top 125 bank holding companies in the United States.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Configuration where IPsec is implemented "underneath" an existing implementation of an IP protocol stack, between the native IP and the local network drivers. </p></td>
+      </tr>
+      <tr>
+        <td>BITW</td>
+        <td>Bump-In-The-Wire</td>
+        <td>Configuration where IPsec is implemented  through the use of an outboard crypto processor.</td>
+      </tr>
+      <tr>
+        <td>BIW</td>
+        <td>Business Information Warehouse</td>
+        <td>A component of SAP's R/3 system.</td>
+      </tr>
+      <tr>
+        <td>BL</td>
+        <td>BLade Server</td>
+        <td>An HP brandname  for ProLiant BladeServers, which are designed forthe performance, management, density and total cost of ownership (TCO) savings requirements of data centers.</td>
+      </tr>
+      <tr>
+        <td>BLAST</td>
+        <td> Basic Local Alignment Search Tool</td>
+        <td>consists of a set of algorithms. BLAST is used to compare biological  sequences like protein sequences or nucleotides. With BLAST a  comparison of individual sequence can be done against a database of  sequences and information obtained in case there is matching of  sequences.</td>
+      </tr>
+      <tr>
+        <td>BLISS</td>
+        <td>Broadband Local Integrated Services Solution</td>
+        <td>Allows service providers to offer a bundle of packet-based services including local and long distance voice services and high-speed data</td>
+      </tr>
+      <tr>
+        <td>B-LLI</td>
+        <td>Broadband Low Layer Information</td>
+        <td> This is a Q.2931 information element                                                   that identifies a layer 2 and                                                   a layer 3 protocol used by the                                                   application.</td>
+      </tr>
+      <tr>
+        <td>BLOB</td>
+        <td>binary large object</td>
+        <td>A generic term used to describe the handling and storage of long  strings of data by database management systems. A BLOB is a category of  data, characterized by large size (including media formats such as  audio and video), which can place extreme demands on storage systems  and network bandwidth.</td>
+      </tr>
+      <tr>
+        <td>Blog / Blogger<p>BLOG</td>
+        <td>weB LOG<p>Better Listings on Google
+</td>
+        <td>A blog is basically a journal that is available on the <em>web</em>.  The activity of updating a blog is "blogging" and someone who keeps a  blog is a "blogger."  Blogs are typically updated daily using software that allows people  with little or no technical background to update and maintain the blog.<p>Better Listings on Google</td>
+      </tr>
+      <tr>
+        <td>BLS</td>
+        <td>Basic Link Service</td>
+        <td>a Fibre Channel request and response protocol used by all  devices. </td>
+      </tr>
+      <tr>
+        <td>BMRT</td>
+        <td>Blue Moon Rendering Tools</td>
+        <td>RenderMan-compliant photorealistic rendering systems. It was distributed as freeware</td>
+      </tr>
+      <tr>
+        <td>BMT</td>
+        <td>Biel Mean Time</td>
+        <td>a synonym for Internet Time. BMT is followed by a @and 3  numbers ranging from 001 to 999. The Swatch organization devised an  idea to divide the 24 hour day into 1000 "beats", often called  Swatchbeats, each being 26.4 seconds in length.</td>
+      </tr>
+      <tr>
+        <td>BNC</td>
+        <td>Bayone-Neill-Concelman / British Naval Connector</td>
+        <td>A connector type for 10Base2 or Thin-Net networks. Shaped like the  letter T, it connects coaxial cables. The “T” has two male connectors  and one female connector.</td>
+      </tr>
+      <tr>
+        <td>BNF</td>
+        <td>Backus-Naur Form</td>
+        <td> formal meta-syntax for describing context-free syntaxes. In <a href="speech_recognition.htm">speech recognition</a>, a special adaptation of grammar representation specified by Speech Recognition Control Language (SRCL)</td>
+      </tr>
+      <tr>
+        <td>BNI</td>
+        <td>Broadband Network Interface</td>
+        <td>Broadband Network Interface</td>
+      </tr>
+      <tr>
+        <td>BNOS</td>
+        <td>Brocade Network OS </td>
+        <td>Brocade OS that can converge fbre channel and IP onto a 
+          Linux core</td>
+      </tr>
+      <tr>
+        <td>BO / BOBJ</td>
+        <td>Business Objects</td>
+        <td>a French enterprise software company, specializing in BI. Since 2007 is part of SAP AG. </td>
+      </tr>
+      <tr>
+        <td>BOA</td>
+        <td>Basic Object Adapter</td>
+        <td>Software that provides CORBA-compliant services for object implementations.</td>
+      </tr>
+      <tr>
+        <td>BOB</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Breakout Box</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Business Object Broker</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Also known as an EIA monitor, a breakout  box serves to monitor the status of signals of the pins of an RS-232C  connector or cable and allows signals to be broken, patched, or  cross-connected.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> SAP's message broker for R/3.</p></td>
+      </tr>
+      <tr>
+        <td>BOC</td>
+        <td>Bell operating company</td>
+        <td>Any of the 22 original companies (or their successors) that were  created from the breakup of AT&T in 1983. They were reorganized  into seven Bell regional holding companies (RHCs).</td>
+      </tr>
+      <tr>
+        <td>BOCU-1</td>
+        <td>Binary Ordered               Compression for Unicode</td>
+        <td>A Unicode compression scheme that is               MIME-compatible (directly usable for e-mail) and preserves binary               order, which is useful for databases and sorted lists. </td>
+      </tr>
+      <tr>
+        <td>BoD</td>
+        <td>Bandwidth on Demand </td>
+        <td>BoD value-added service enables you to request additional <em>bandwidth</em> between any two locations during heavy <em>demand</em> period</td>
+      </tr>
+      <tr>
+        <td>BOD</td>
+        <td>Business Object Document</td>
+        <td>A  representation of a standard business process that flows within an organization  or between organizations. BODs are defined by the Open Applications Group  using XML.</td>
+      </tr>
+      <tr>
+        <td>BOL</td>
+        <td>Books Online</td>
+        <td>A bookstore on the Internet created as a joint venture of German  publisher Bertelsmann and French publisher Havas. It is designed to be  pan-European with a Web site available in various local languages. <a href="http://www.bol.com">http://www.bol.com</a></td>
+      </tr>
+      <tr>
+        <td>BOM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Beginning of Message</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> bill of materials</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Byte Order Mark</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a telephony term. A short electrical pulse provided by a digital announcer when used in certain 4 wire E & M modes. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A structured list of the raw materials, parts and assemblies that  constitute a product to be manufactured, often used in manufacturing  and <a href="glossary_s.htm">SCM</a> systems.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> The Unicode               character U+FEFF when used to indicate the byte order of a text.</p></td>
+      </tr>
+      <tr>
+        <td>BONDING</td>
+        <td>Bandwidth on Demand Inter-Operability Group</td>
+        <td><p>An industry working group that develops common control and  synchronization standards needed to manage high-speed data as it  travels through the <a href="glossary_p.htm">PSTN</a>. These  standards are for DS0 inverse multiplexing and switched services.</p></td>
+      </tr>
+      <tr>
+        <td>boot</td>
+        <td>bootstrap</td>
+        <td>To start a computer and load the operating system to prepare the 
+          computer to execute an application. </td>
+      </tr>
+      <tr>
+        <td>BOOTP</td>
+        <td>Bootstrap Protocol</td>
+        <td>A protocol - defined in Internet Engineering Task Force Request for  Comment 951 - that enables a diskless client machine connected to an  IP network to discover its own IP address and the  address of a server running the protocol. </td>
+      </tr>
+      <tr>
+        <td>BOPS</td>
+        <td>Billions of Processes Per Second</td>
+        <td>Processing speed</td>
+      </tr>
+      <tr>
+        <td>bot / botnet</td>
+        <td> robot (network)</td>
+        <td><p>generally used to refer to an automated program used to  process data with minimal human intervention. Most often referred to as  certain types of search engines that seek out information from pages on  the Internet. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A "botnet" is a network of computers that are infected with malware and then used to send spam and shut down Web sites (DDoS).</p></td>
+      </tr>
+      <tr>
+        <td>BOT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> beginning of tape</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong>build-operate-transfer </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> In tape storage systems, the point at the start of the tape in a  cartridge. Tape cartridge load times are often measured in terms of the  time to BOT.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A process used in several Asia/Pacific countries that allows foreign  companies to build a telecommunications network in the country, operate  it for a period and then transfer ownership to the government.</p></td>
+      </tr>
+      <tr>
+        <td>BPA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Business Process Analysis</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> business process automation</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> the business-modeling space in 
+          which business professionals and IT analysts collaborate on enterprise business architecture, aimed at transforming 
+          and improving business performance.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The automation of complex business processes and functions beyond  conventional data manipulation and record-keeping activities, usually  through the use of advanced technologies.</p></td>
+      </tr>
+      <tr>
+        <td>BPC</td>
+        <td>Business Planning and Consolidation</td>
+        <td>SAP NetWeaver capabilities </td>
+      </tr>
+      <tr>
+        <td>BPDM</td>
+        <td>Business Process Definition Metamodel</td>
+        <td> the first          standard metamodel to facilitate development of service-oriented          architectures within and among enterprises by unifying internal          business or department processes (orchestration) with          interactions between businesses or departments (choreography). </td>
+      </tr>
+      <tr>
+        <td>BPDU</td>
+        <td>Bridge Protocol Data Unit</td>
+        <td> parts of the STP that help describe and identify attributes of a switch port.</td>
+      </tr>
+      <tr>
+        <td>BPEL</td>
+        <td>Business Process Execution Language</td>
+        <td>An XML-based language for the formal specification of business processes  and business interaction protocols.</td>
+      </tr>
+      <tr>
+        <td>BPEL4WS </td>
+        <td>Business Process Execution Language for Web Services</td>
+        <td>A set of specifications released in 2002 by IBM and Microsoft,  combining previously separate efforts of the two companies. BPEL4WS is  designed to enable Web services to support workflow and business  process execution.</td>
+      </tr>
+      <tr>
+        <td>bpi</td>
+        <td>bits per inch</td>
+        <td>The density, measured in number of bits per inch, at which information can be stored on magnetic tape.</td>
+      </tr>
+      <tr>
+        <td>BPL</td>
+        <td>broadband over power lines</td>
+        <td>This is a technology that has never emerged successfully  from many attempts since the early '80s. It is a direct competitor with  both DSL and cable connectivity and attempts the same capability over  electrical transmission lines.</td>
+      </tr>
+      <tr>
+        <td>BPM</td>
+        <td>business process management</td>
+        <td>BPM activities seek to make business processes more effective, more  efficient, and more capable of adapting to an ever-changing  environment.</td>
+      </tr>
+      <tr>
+        <td>BPON</td>
+        <td>Broadband Passive Optical Network</td>
+        <td>BPON standards were set by the ITU-T as G.983.3 for a local loop  technology running the ATM protocol over single mode fiber.</td>
+      </tr>
+      <tr>
+        <td>BPOS</td>
+        <td>Business Productivity Online Standard Suite</td>
+        <td>Microsoft Cloud-based services</td>
+      </tr>
+      <tr>
+        <td>BPP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Bluetooth Basic Printing</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Bridge Port Pair</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> business process platform</p></td>
+        <td><p><span id="intelliTxt"><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Represents a specially-developed Bluetooth  profile that allows devices to send text, e-mails, vCards, images or  other items to printers based on print jobs.</span></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Frame header information                                                   identifying a bridge/<a href="glossary_l.htm">LAN</a> pair                                                   of a Source route segment.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a combined IT and business model that 
+            enables enterprises to accommodate rapid, but controlled, business process changes through the 
+            use of integrated process composition technologies and reusable business process components 
+            in a managed environment. </p></td>
+      </tr>
+      <tr>
+        <td>BPPM</td>
+        <td>BMC ProactiveNet Performance Management </td>
+        <td>BMC's APM solution includes both real and synthetic 
+          transaction capabilities, including a passive end user experience agent deployed as a sofware 
+          process or within a VM as a virtual appliance. </td>
+      </tr>
+      <tr>
+        <td>bps</td>
+        <td>Bits Per Second</td>
+        <td><div align="justify">Bits  per second is the standard way of measuring how fast data moves across  a network or phone system. For example, a 56K modem can hypothetically  transfer data at 56,700 bits per second.</div></td>
+      </tr>
+      <tr>
+        <td>BPV</td>
+        <td>BiPolar Violation</td>
+        <td>the occurrence of two successive pulses of the same polarity in a bipolar signal. In T1 it is detected as an error.</td>
+      </tr>
+      <tr>
+        <td>BRA</td>
+        <td>Basic Rate Access</td>
+        <td> The name used in Canada and Europe for Basic Rate Interface (see BRI).</td>
+      </tr>
+      <tr>
+        <td>BRAN</td>
+        <td>Broadband Radio Access Networks </td>
+        <td>An ETSI project, it provides telecommunications services the middle ground between mobile systems and the wired access world</td>
+      </tr>
+      <tr>
+        <td>BRAS</td>
+        <td>Broadband Remote Access Server</td>
+        <td>the aggregation point for the subscriber traffic.</td>
+      </tr>
+      <tr>
+        <td>BRE</td>
+        <td>Business rule engines</td>
+        <td>used to automate controls, especially when business process management is implemented to 
+          standardize and automate critical regulated processes. </td>
+      </tr>
+      <tr>
+        <td>BREW</td>
+        <td>Binary Runtime Environment <br />
+          for Wireless</td>
+        <td>mobile channel technologies</td>
+      </tr>
+      <tr>
+        <td>BRF</td>
+        <td>Benchmark Report Format</td>
+        <td>In computer graphics, a standard format for reporting benchmark results. This format provides the purchaser with a consistent data-tracking system for comparing hardware platforms.</td>
+      </tr>
+      <tr>
+        <td>BRI</td>
+        <td>Basic Rate Interface</td>
+        <td>An Integrated Services Digital Network (ISDN) channel configuration.  BRI - known as Basic Rate Access (BRA) in Canada and Europe - consists  of two 64 kilobit per second (Kbps) data or voice channels, which are  designated as B (bearer) channels, and one 16-Kbps signaling or packet  data channel, designated as the D (delta) channel. BRI is, therefore,  often referred to as 2B+D.</td>
+      </tr>
+      <tr>
+        <td>BROUTER</td>
+        <td>Bridge-Router</td>
+        <td>This was an early technology, which took advantage of the (relative)  speed of a bridge, but also provided the capabilities of a router. The  brouter was characterized by the term, "bridge when possible, route  when necessary."</td>
+      </tr>
+      <tr>
+        <td>BRR</td>
+        <td>Business Readiness Rating</td>
+        <td>a proposed rating system for use by open source software community. </td>
+      </tr>
+      <tr>
+        <td>BRZ</td>
+        <td>Bipolar Return to Zero</td>
+        <td>RZ is a bipolar signal in which each pulse returns to  zero amplitude before its time period ends. This prevents the buildup  of DC current on the signal line.</td>
+      </tr>
+      <tr>
+        <td>BS 7799</td>
+        <td>British Standard 7799</td>
+        <td>A comprehensive standard from the British Standards Institute (BSI).  Formally titled the "Code of Practice for Information Security  Management," BS 7799 was significantly revised in 2000 and evolved into  International Organization for Standardization (ISO) standard 17799</td>
+      </tr>
+      <tr>
+        <td>BSA</td>
+        <td>Business Software Alliance</td>
+        <td>A software industry coalition whose stated missions include industry education and copyright enforcement.</td>
+      </tr>
+      <tr>
+        <td>BSC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="balance_score_card.htm">Balance Score Card</a></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> binary synchronous communication</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A business performance measurement system developed by Robert S. Kaplan  and David P. Norton, that provides a method of aligning business  activities to the strategy, and monitoring performance of strategic  goals over time.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A data-communication line protocol that uses a set of transmission  control characters and control character sequences to send binary-coded  data over a communication line.</p></td>
+      </tr>
+      <tr>
+        <td>BSD</td>
+        <td>Berkeley Software Distribution</td>
+        <td>the UNIX operating system derivative developed and distributed by the  Computer Systems Research Group of the University of California,  Berkeley, from 1977 to 1995</td>
+      </tr>
+      <tr>
+        <td>BSDI</td>
+        <td>Berkeley Software Design, Inc.</td>
+        <td>a commercial supplier of Internet and networking software based on the BSD (Berkeley) version of UNIX. </td>
+      </tr>
+      <tr>
+        <td>BSE</td>
+        <td>Basic Service Elements</td>
+        <td>In Open Network                           Architecture, BSEs are functions of the switched network. A BSE normally consists of an access link element,                           a features/functions element, or a transport and usage                           element that connects Enhanced Service Providers to their                           customers. </td>
+      </tr>
+      <tr>
+        <td>BSM</td>
+        <td>Business Service Management</td>
+        <td>a category of IT operations management 
+          software products that dynamically links the availability and performance events from underlying 
+          IT infrastructure and application components to the business-oriented IT services that enable 
+          business processes.</td>
+      </tr>
+      <tr>
+        <td>BSNL</td>
+        <td>Bharat Sanchar Nigam Limited</td>
+        <td>a state-owned telecommunications company headquartered in New Delhi, India. BSNL is one of the largest Indian cellular service providers and the largest land line telephone provider in India. </td>
+      </tr>
+      <tr>
+        <td>BSoD</td>
+        <td>Blue Screen of Death</td>
+        <td>Terminal error screen displayed by Microsoft  Windows, not normally recoverable except by a reboot. Also known as a Stop Screen. A blue screen will display a STOP error code, which may give some indication as to the cause. </td>
+      </tr>
+      <tr>
+        <td>BSP</td>
+        <td>board support package</td>
+        <td>Part of a software package that is processor                  or platform dependent.  Typically, sample source                   code for the BSP is provided by the package developer. </td>
+      </tr>
+      <tr>
+        <td>BSS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Base Station System</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Broadband Switching System</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> business support system</p></td>
+        <td><div align="justify">
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A wireless telecommunications term. A GSM device charged with managing radio frequency resources  and radio frequency transmission for a group of BTSs.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A carrier (e.g. LEC or IXC) switch for broadband communications. Such  switches are capable of switching frames (Frame Relay) or cells (SMDS  and ATM) at a very high rate of speed.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A category of support software and services used by
+            telecommunications   industry firms for customer records, installations, maintenance, billing   and              operations.<br />
+            </p>
+        </div></td>
+      </tr>
+      <tr>
+        <td>BSSID</td>
+        <td> basic service set identifier</td>
+        <td>uniquely identifies each BSS, the SSID  used in multiple, possibly overlapping.</td>
+      </tr>
+      <tr>
+        <td>BST</td>
+        <td>binary search tree</td>
+        <td>a type of binary tree where the nodes are arranged in order: for each  node, all elements in its left subtree are less-or-equal to the node  (<=), and all the elements in its right subtree are greater than the  node (>).</td>
+      </tr>
+      <tr>
+        <td>BT</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> BitTorrent</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> British Telecom</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> bluetooth</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a P2P file sharing system that reduces dependency on
+          the original host (or the SEED) by having everyone who downloads the
+          file also offer it for anonymous upload to others</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> British Telecom.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> wireless technology that allows  devices to communicate at short range. A cell phone being used with a  hands-free headset is one example. Sending a document between a  Bluetooth-enabled laptop and printer is another. </p></td>
+      </tr>
+      <tr>
+        <td>BTAG</td>
+        <td>Beginning Tag</td>
+        <td>An ATM term. A one octet field of the CPCS_PDU used in  conjunction with the etag octet to form an association between the  beginning of message and end of message.</td>
+      </tr>
+      <tr>
+        <td>BTAM</td>
+        <td>Basic Telecommunications Access Method</td>
+        <td>a low-level programming interface specified by IBM for use on the IBM System/360 for sending and receiving data through telecommunication lines</td>
+      </tr>
+      <tr>
+        <td>BTO</td>
+        <td>Business technology optimization</td>
+        <td>Business technology optimization</td>
+      </tr>
+      <tr>
+        <td>BTM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Benchmark Timing Methodology</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> business transaction monitoring</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In computer graphics, a method of measuring how long it takes to run the purchaser's benchmark interchange format program.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> business transaction monitoring</p></td>
+      </tr>
+      <tr>
+        <td>BTS</td>
+        <td>Bits Per Second</td>
+        <td>In  data communications, bits per second (abbreviated bps) is a common  measure of data speed for computer modems and transmission carriers.</td>
+      </tr>
+      <tr>
+        <td>BTW</td>
+        <td>By The Way</td>
+        <td>Computer jargon</td>
+      </tr>
+      <tr>
+        <td>BTX</td>
+        <td>Balanced Technology eXtended</td>
+        <td>ntel has collaborated with the Desktop Computing industry to create an  evolutionary step in the desktop computer form factor. BTX integrates cost-effective engineering and  design strategies for power dissipation, structural integrity, acoustic  performance, and motherboard design into a scalable form factor.</td>
+      </tr>
+      <tr>
+        <td>BUS</td>
+        <td>Broadcast and Unknown                                                   Server</td>
+        <td>This server handles data                                                   sent by an LE Client to the broadcast                                                   MAC address ('FFFFFFFFFFFF'),                                                   all multicast traffic, and initial                                                   unicast frames which are sent                                                   by a LAN Emulation Client.</td>
+      </tr>
+      <tr>
+        <td>BVD</td>
+        <td>Basic Virtual Disk</td>
+        <td><p>a <a href="glossary_v.htm">VD</a> configured using only non-hybrid <a href="what_is_raid.htm">RAID</a> levels like RAID-0, RAID5 or RAID5E. <br />
+          Its elements are physical disks. </p></td>
+      </tr>
+      <tr>
+        <td>BW</td>
+        <td>bandwidth</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The measure of the range of frequencies within a band required to  transmit a particular signal. The wider the bandwidth, the more  information it can carry.
+        </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Used to describe the data-carrying capacity of any given circuit or  pathway. The measure of the rate at which information can be passed.<br>
+          </p>          </td>
+      </tr>
+      <tr>
+        <td>BYOD</td>
+        <td>bring your own device</td>
+        <td>a type of VoIP subscription. Subscribers who have their own VoIP device (a SIP-capable device) when signing up for a VoIP service will usually be able to take advantage of a cheaper subscription plan</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>back door</td>
+        <td> A usually hidden or secret means                                                   for an external user to break                                                   into your host, network, application,                                                   or data. See also virus</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>back end</td>
+        <td>the part of a computer system not directly interacting with the
+          user.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>backbone</td>
+        <td>Backbone network is the main communication path in a WAN; the set
+          of cables or connections that carries most of the traffic</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>backhaul</td>
+        <td> The terrestrial link between an earth station and a switching or data center.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>bandwidth shaping</td>
+        <td>The process of manipulating, managing or controlling (shaping) portions of a network connection to the outside world and determining an allowed bandwidth consumption based on types of activities.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>bank</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A slot or group of slots, usually on a systemboard (motherboard), that are populated by memory modules of the same capacity.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A slang term for general memory in a computer; the memory bank.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Baud Rate</td>
+        <td>The speed at which a modem sends and receives                           data, e.g., 2400 bps, 9600 bps. One baud is roughly equivalent                           to one bit per second.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>benchmark / benchmarking</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a computer program used to test the performance of a computer
+          or a piece of software.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Measuring performance qualities (such as efficiency or spending) of  enterprise organizations or processes (such IS) against comparative  benchmarks. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>best-effort</td>
+        <td>Describes a network system that does not use a  sophisticated acknowledgment system to guarantee reliable delivery of  information. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>best practice</td>
+        <td>A group of tasks that optimizes the efficiency or effectiveness of the  business discipline or process to which it contributes. Best practices  are generally adaptable and replicable across similar organizations or  enterprises.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>beta</td>
+        <td>Software that's still in the testing stage not quite ready for wide  release. During a beta test users report bugs back to the developers.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>bid</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An attempt to gain control over a line in order to transmit data. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Usually associated with contention style of sharing a single line among several terminals. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Big Blue</td>
+        <td>A slang name for IBM. Blue is IBM's corporate color. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Bilevel</td>
+        <td>A type of image containing only black and white pixels.
+</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Binary </td>
+        <td>A numbering system with only two values: 0 (zero) and 1 (one).
+</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Biometric Authentication </td>
+        <td>use biometric traits to verify users' claimed
+          identities when accessing devices, networks, networked applications or Web applications</td>
+      </tr>
+    <tr>
+        <td> </td>
+        <td>Bitcoin</td>
+        <td>digital currency that serves the same functions and purposes as money
+ </tr>
+      <tr>
+        <td> </td>
+        <td>black box</td>
+        <td>A generic term used to identify functional equipment segments, as          opposed to circuitry, that make up each segment of a telecommunications system.  </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>blade server</td>
+        <td>A server architecture that houses multiple server modules ("blades") in  a single chassis. It is widely used in datacenters to save space and  improve system management.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>blawg</td>
+        <td><p> Slang term used to describe an online blog that is written by  lawyers, or one that is focused on providing legal-oriented content. </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>bogie</td>
+        <td>also spelled bogey, refers to a false blip on a radar display. The term is also  used to describe radar echoes that occur for unknown reasons, especially in the military, where  such a signal might indicate hostile aircraft.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>booking.com</td>
+        <td>Booking.com is the world's leading online hotel reservations agency by room nights sold, attracting over 30 million unique visitors each month via the Internet from both leisure and business markets worldwide. Priceline is the parent company. <a href="http://www.booking.com/">http://www.booking.com/</a></td>
+      </tr>      <tr>
+        <td> </td>
+        <td>Boolean</td>
+        <td>A term that originated in the in the realm of mathematics, and that is  now commonly known for its application to search engine logic. A  Boolean search allows for the inclusion or exclusion of documents  containing certain keywords</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Bottleneck</td>
+        <td>A point at which the performance or capacity of an entire system or  network can be significantly influenced. Formally, a bottleneck lies on  a network or system’s critical path and provides the lowest throughput.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>bounce</td>
+        <td>The return of a piece of mail because of an error in its delivery. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Bricks and clicks</td>
+        <td>business that existed pre-Internet that now uses e-commerce technology to sell on<br />
+          the Internet</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>bridge</td>
+        <td>Device that connects and passes packets between  two network segments that use the same communications protocol. Bridges  operate at the data link layer (Layer 2) of the OSI reference model.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>broadband</td>
+        <td>Broadband is another word for high-speed Internet.  Because it transfers information quickly, broadband is ideal for  downloading music and watching streaming videos.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>broadcast</td>
+        <td>Data packet that are sent to all nodes on a network. Broadcasts are identified by a broadcast address. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>buffer</td>
+        <td>A storage area used for handling data in transit.  Buffers are used in internetworking to compensate for differences in  processing speed between network devices. Bursts of data can be stored  in buffers until they can be handled by slower processing devices.  Sometimes referred to as a <em>packet buffer</em>. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>bug</td>
+        <td>An error in a piece of software that stops it from working the way that it should do.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>burn</td>
+        <td>Create a CD or DVD.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>burst</td>
+        <td>Temporary increased network loading due to a data  surge or alarm avalanche</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>bus</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A communication pathway between the components in your computer.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Bus topology has computers connected to a strand of network cabling that is  connected to network repeaters at one end and terminated at the other.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>business technology</td>
+        <td><p>Pervasive technology use that boosts business results.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>bypass mode</td>
+        <td>Operating mode on FDDI and token ring networks where an interface has de-inserted from the ring.</td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.66231203079 -->
+</html>

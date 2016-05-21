@@ -1,0 +1,1800 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - E for Ethernet</title>
+<meta name="keywords" content="ex, eos, eva, e paper, ea, edge, edi, emc, ems, engineering, edc, ebay, eta, espn">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page160" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm772" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable on"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-e">E</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >E</h1><div class="marker" ></div>
+<div id="pm615" class="tile  m1208 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>E for Ethernet</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm737" class="tile  m1454 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>E3</td>
+        <td>Electronic Entertainment Expo </td>
+        <td>The annual video game conference and show at the Los Angeles Convention center. <a href="http://www.e3expo.com">www.e3expo.com</a></td>
+      </tr>
+      <tr>
+        <td>e-</td>
+        <td>Electronic </td>
+        <td>Electronic or online (for instance an e-zine is an online magazine published only in an electronic form).</td>
+      </tr>
+      <tr>
+        <td>e-discovery</td>
+        <td>Electronic discovery </td>
+        <td>the collection, processing 
+          and review of large amounts of ESI within an enterprise to meet 
+          the mandates imposed by common law requirements for discovery. These demands may be due 
+          to civil or criminal litigation, regulatory oversight, or administrative proceedings. An independent 
+          group of consultants, legal scholars and vendors have created and put into the public domain an 
+          "E-Discovery Reference Model" ([EDRM]; <a href="http://www.edrm.net">www.edrm.net</a> )</td>
+      </tr>
+      <tr>
+        <td>e-paper</td>
+        <td>Electronic paper</td>
+        <td>e-paper a range of display technology which are designed to mimic the appearance of ordinary ink on paper.</td>
+      </tr>
+      <tr>
+        <td>E Phone</td>
+        <td>Emergency    Phones.</td>
+        <td>telecom slang.</td>
+      </tr>
+      <tr>
+        <td>E&M</td>
+        <td>recEive and transMit (or ear and mouth)</td>
+        <td> Trunking arrangement generally used for two-way switch-to-switch or switch-to-
+          network  connections. Cisco's analog E&M interface is an RJ-48 connector  that allows connections to PBX trunk lines (tie lines). E&M also is  available on E1 and T1 digital interfaces. </td>
+      </tr>
+      <tr>
+        <td>E1</td>
+        <td> </td>
+        <td>A European digital communications line with a transmission speed of  2.048 Mbps, as defined under the E-carrier system. For DS1, 32 digital voice channels are multiplexed onto one E1 channel </td>
+      </tr>
+      <tr>
+        <td>E2</td>
+        <td> </td>
+        <td>A digital telecommunications connection category defined under the European E-carrier system. An E2 line has an aggregate capacity of 8.448 megabits per second.</td>
+      </tr>
+      <tr>
+        <td>E2E</td>
+        <td>End-to-End</td>
+        <td>Also known as "soup-to-nuts" it is an acronym for a sector of the industry that specializes in providing end-to-end solutions.</td>
+      </tr>
+      <tr>
+        <td>E3</td>
+        <td> </td>
+        <td>A European digital telecommunications facility with a transmission  speed of 34.368 Mbps. For DS3,  32 voice channels are multiplexed onto one E3 channel.</td>
+      </tr>
+      <tr>
+        <td>EA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Electronic Arts </p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Enterprise Agreement</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> EA (NASDAQ: ERTS) is a major American developer, marketer, publisher and distributor of video games.</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> EA is a Microsoft volume software agreement.</p></td>
+      </tr>
+      <tr>
+        <td>EAB</td>
+        <td>Enterprise Address Book</td>
+        <td>A collection  of information about people, departments, and locations in an enterprise.  Information about people may include telephone numbers, mailing addresses,  and the department in which a person works. </td>
+      </tr>
+      <tr>
+        <td>EAI</td>
+        <td>Enterprise application integration</td>
+        <td>EAI is a business computing term for the plans, methods, and tools aimed at modernizing, consolidating, and coordinating the computer applications in an enterprise. </td>
+      </tr>
+      <tr>
+        <td>EAL</td>
+        <td>Evaluation Assurance Level </td>
+        <td>4 Common Criteria certification of Watchguard firewall</td>
+      </tr>
+      <tr>
+        <td>EAM</td>
+        <td>Event Aggregation Module </td>
+        <td>Tivoli Security Operations Manager module</td>
+      </tr>
+      <tr>
+        <td>EAP</td>
+        <td>Extensible Authentication Protocol </td>
+        <td> a protocol for wireless networks that expands on authentication methods used by the PPP, a protocol often used when connecting a computer to the Internet. </td>
+      </tr>
+      <tr>
+        <td>EAR</td>
+        <td>Emergency Assistance Request</td>
+        <td>usually an internal request within a company for  technical assistance by their own support staff to assist with an  end-user problem. Most of these problems are termed as BUGS by users  and by the programmers as undocumented features. </td>
+      </tr>
+      <tr>
+        <td>EARL</td>
+        <td>Enhanced Address Recognition Logic</td>
+        <td>a custom Catalyst 5000 family switch component similar to the learning bridge or content-addressable memory (CAM) of other types of network switches and routers</td>
+      </tr>
+      <tr>
+        <td>EAS</td>
+        <td>enterprise application server</td>
+        <td>enterprise application server</td>
+      </tr>
+      <tr>
+        <td>EASDAQ</td>
+        <td>European Association of Securities Dealers Automated Quotations</td>
+        <td> An electronic pan-European stock exchange founded by the  Belgian Banking and Finance Commission, closely modeled on the <a href="n">NASDAQ</a> exchange in the United States. In 2001, NASDAQ acquired a 58 percent  stake in EASDAQ and renamed it NASDAQ Europe.</td>
+      </tr>
+      <tr>
+        <td>EAT</td>
+        <td>End Around Test</td>
+        <td>Also known as a wrap test, returns output signal to input line </td>
+      </tr>
+      <tr>
+        <td>EAX</td>
+        <td>Environmental Audio</td>
+        <td>A hardware and software audio standard developed by Creative Labs. It  was originally used in SoundBlaster sound boards, and is supported by  other companies as well now.</td>
+      </tr>
+      <tr>
+        <td>EB</td>
+        <td>Exabyte</td>
+        <td>This is 2^60 bytes or 1024 petabytes. </td>
+      </tr>
+      <tr>
+        <td>EBCDIC</td>
+        <td>Extended Binary Coded Decimal Interchange Code</td>
+        <td>It is also called the Extended ASCII Code. This is a common asynchronous code used by IBM. It is pronounced "ehb-suh-dik". Many corporation that have legacy applications and databases in IBM's OS/390 operating system use this code for the text files. The 8 bit character code is used to represent 256 different bit patterns.</td>
+      </tr>
+      <tr>
+        <td>EBIF</td>
+        <td>Enhanced TV Binary Interchange Format</td>
+        <td>standard under 
+          the SelecTV brand announced in early 2010</td>
+      </tr>
+      <tr>
+        <td>EBML</td>
+        <td>Extensible Binary Meta Language</td>
+        <td>Simple, XML-like binary language for describing data in structured style. See <a href="http://ebml.sourceforge.net/">http://ebml.sourceforge.net/</a></td>
+      </tr>
+      <tr>
+        <td>EBPP</td>
+        <td>Electronic Bill Presentation and Payment</td>
+        <td>An acronym that implies using the Internet to send, receive, and pay bills, this is considered by some people to be the next step in online banking.</td>
+      </tr>
+      <tr>
+        <td>EBS</td>
+        <td>E-Business Suite </td>
+        <td>Oracle's order management hubs</td>
+      </tr>
+      <tr>
+        <td>EC2</td>
+        <td>Elastic Compute Cloud </td>
+        <td>Amazon EC2 allows customers to rent computers on which to run their own computer applications. EC2 allows scalable deployment of applications by providing a web services interface through which a customer can create virtual machines, i.e. server instances, on which the customer can load any software of their choice.</td>
+      </tr>
+      <tr>
+        <td>ECB</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> electronic code book </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Event Control Block</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A method of enciphering and deciphering data in address spaces or data spaces.  Each 64-bit block of plaintext is separately enciphered and each block of  the ciphertext is separately deciphered.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A data structure used to control sending and receiving of packets in a Novell Network </p></td>
+      </tr>
+      <tr>
+        <td><p>ECC</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> elliptic curve cryptography</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Error Checking and Correction</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Approach to public-key cryptography 
+          based on elliptic curves over finite fields. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A method of detecting and correcting system   	memory errors by adding additional bits and using a special algorithm.</p></td>
+      </tr>
+      <tr>
+        <td>ECEM</td>
+        <td>enterprise carbon and energy management </td>
+        <td>A corporatewide system of record for monitoring, managing, and reporting energy use and carbon emissions.    ECEM is a Forrester term, which we feel best describes the systems' functionality and customer requirements.</td>
+      </tr>
+      <tr>
+        <td>ECHS</td>
+        <td>Extended Cylinders, Heads, Sectors</td>
+        <td>Enables use of hard drives up to 8.4 GB in size</td>
+      </tr>
+      <tr>
+        <td>eCI</td>
+        <td>eCommerce integrator </td>
+        <td><p>A service provider that offers strategy, marketing, design, and  technical services for eBusiness. Technical services are custom  development, commerce package implementation, and application  integration, not hosting or network services.</p></td>
+      </tr>
+      <tr>
+        <td>ECM</td>
+        <td>Enterprise content management </td>
+        <td> a set of tools and methods that  obtain, organize, store and deliver information crucial to its operation. The fundamental objectives of ECM are to streamline access, eliminate bottlenecks, optimize security, maintain integrity and minimize overhead. </td>
+      </tr>
+      <tr>
+        <td>ECMA</td>
+        <td>European Computer Manufacturers Association</td>
+        <td><strong> </strong>An industry trade group headquartered in Geneva. The ECMA has developed more than 200 computer standards.</td>
+      </tr>
+      <tr>
+        <td>ECMP</td>
+        <td>Equal Cost Multipath Routing</td>
+        <td>distributes traffic across multiple high-bandwidth links to increase  performance. One company's OSPF implementation supports multiple  equal-cost paths between points and divides traffic evenly among the  available paths.</td>
+      </tr>
+      <tr>
+        <td>ECO</td>
+        <td>Engineering Change Order</td>
+        <td>Hardware minor revisions, usually in the days of minicomputers, where a change wasn't made to the PCB layout (which would probably carry the major revision number/letter)</td>
+      </tr>
+      <tr>
+        <td>ECP</td>
+        <td>electronic check presentment</td>
+        <td>The electronic presentation of check data to processing banks. In the  first ECP phase, one bank presents a second bank with electronic check  information based on the check's <a href="glossary_m.htm">MICR</a> line, which states the correct customer account and the amount  of the payment.</td>
+      </tr>
+      <tr>
+        <td>ECS</td>
+        <td>Extended Character Set</td>
+        <td>An industry acronym for a specialized ASCII character set. The main differences are in the control characters and the decimal character representations of decimal 128-255. </td>
+      </tr>
+      <tr>
+        <td>ECTF</td>
+        <td>Enterprise Computer Telephony Forum</td>
+        <td>Brings together the best industry thinkers on the planet to deliver on a shared vision in the computer telephony industry to allow for open access to a diversity of communications products and services. See also<a href="http://www.ectf.org/"> http://www.ectf.org/</a></td>
+      </tr>
+      <tr>
+        <td>E_D_TOV</td>
+        <td>error detect timeout value </td>
+        <td>The time that a switch waits for an expected response before declaring an  error condition. This value is adjustable in 1 microsecond increments from  2 - 10 seconds. </td>
+      </tr>
+      <tr>
+        <td>ED2K</td>
+        <td>eDonkey2000</td>
+        <td>a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of said files.</td>
+      </tr>
+      <tr>
+        <td>EDA</td>
+        <td> event-driven architecture</td>
+        <td>EDA is a software architecture pattern that orchestrates behavior around  the production, detection and consumption of events as well as the  responses they evoke.</td>
+      </tr>
+      <tr>
+        <td>EDC</td>
+        <td><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6">electronic dispersion compensation<p>
+<img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6">Electronic Data Capture 
+</td>
+        <td><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6">EDC technology is supported by the Optical Internetworking Forum (OIF) - a group currently defining a 10 Gbps interoperability specification targeting optical links. The  transmission distance of this specification supports up to 120 km (2400  ps/nm)<p>
+<img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6">EDC system is a computerized system designed for the collection of clinical data in electronic format</td>
+      </tr>
+      <tr>
+        <td>EDI</td>
+        <td>electronic data interchange</td>
+        <td>The exchange of structured electronic data between computer systems according  to predefined message standards.</td>
+      </tr>
+      <tr>
+        <td>EDIFACT</td>
+        <td>Electronic Data Interchange For Administration, Commerce and Transport</td>
+        <td>international EDI standard developed under the United Nation, also named UN/EDIFACT</td>
+      </tr>
+      <tr>
+        <td>EDO</td>
+        <td>Extended Data Output</td>
+        <td>a type of dynamic random access memory. EDO   	memory is much faster than DRAM because it can access more than one block of   	information at a time. EDO memory accesses a block of memory and as it is   	sending the information from one block it starts accessing another block to   	fetch information.</td>
+      </tr>
+      <tr>
+        <td>EDGE</td>
+        <td>Enhanced Data Rates for GSM Evolution</td>
+        <td>A radio interface technology with enhanced modulation designed to  provide <a href="glossary_g.htm">GSM</a> and time division  multiple access (TDMA) networks with the capacity to rival  third-generation (3G) cellular networks.</td>
+      </tr>
+      <tr>
+        <td>EDI</td>
+        <td><p>Electronic Data Interchange</p></td>
+        <td><p align="justify">The  process of automating the exchange of business information such as  purchase orders, delivery notes and invoices over a data network.</p></td>
+      </tr>
+      <tr>
+        <td>EDM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Electronic Document Management</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> EMC Data Manager</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A system that manages different kinds of documents, using computer programs and storage. An EDM system allows a company and its users to create a document or capture the hard copy of a file in electronic form.</p>
+            <p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" />  A centralized, high-performance backup and restore system  optimized for large enterprise database environments, from storage  vendor <a href="http;//emc.com">EMC</a>.</p></td>
+      </tr>
+      <tr>
+        <td>edress</td>
+        <td>e-mail address </td>
+        <td>e-mail address</td>
+      </tr>
+      <tr>
+        <td>EDS</td>
+        <td>Electronic Data Systems</td>
+        <td><strong> </strong>A multibillion-dollar system integration and IT services firm, founded in 1962 and headquartered in Plano, Texas. Acquired by HP.</td>
+      </tr>
+      <tr>
+        <td>EDW</td>
+        <td>enterprise data warehouse</td>
+        <td>enterprise data warehouse</td>
+      </tr>
+      <tr>
+        <td>EEPROM /EPROM</td>
+        <td><p>Electrical Erasable Programmable Read Only Memory</p></td>
+        <td><p>This type of memory can   	be reprogrammed and erased electronically repeatedly by using a device   	programmer which provides an electric surge.</p></td>
+      </tr>
+      <tr>
+        <td>EF</td>
+        <td>Expedited Forwarding</td>
+        <td>A Per-Hop Behavior in the Differentiated Service standard, used to create a virtual leased line service</td>
+      </tr>
+      <tr>
+        <td>EFI</td>
+        <td> Extensible Firmware Interface</td>
+        <td> Software that runs automatically when an Intel-based Macintosh first starts up. It determines the computers hardware configuration 
+          and starts the system software.</td>
+      </tr>
+      <tr>
+        <td>EFM</td>
+        <td>Enterprise fraud and misuse management </td>
+        <td>saves users money by enabling operational efficiencies, and by stopping  fraud and misuse that occur across multiple channels, accounts or  products</td>
+      </tr>
+      <tr>
+        <td>EFT</td>
+        <td>Electronic Funds Transfer</td>
+        <td>A system where money is transferred  		electronically from one bank account to another, without the need for  		any paper work such as the traditional cheque. </td>
+      </tr>
+      <tr>
+        <td>EFS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Encrypting File System</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong>Error Free Seconds </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> An encryption method based on digital certificates, which allows users  to protect the confidentiality of their data on a per-file or  per-folder basis.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A unit used                                                     to specify the error performance                                                     of T carrier systems, usually                                                     expressed as EFS per hour, day,                                                     or week. This method gives a better                                                     indication of the distribution                                                     of bit errors than a simple <a href="glossary_b.htm">BER</a>. </p></td>
+      </tr>
+      <tr>
+        <td>EGA</td>
+        <td>Enhanced Graphics Adapter</td>
+        <td>A computer display standard that provides a resolution of 640 by 350 pixels, a 
+          palette of 64 colors, and the ability to display as many as 16 colors at one time. </td>
+      </tr>
+      <tr>
+        <td>EGL</td>
+        <td>Enterprise Generation Language</td>
+        <td>A high-level language that allows developers to focus on business logic as  they create complex business applications for deployment in any of several  environments, including the Web. </td>
+      </tr>
+      <tr>
+        <td>EGNOS</td>
+        <td>European Geostationary Navigation Overlay 
+          Service</td>
+        <td>a satellite based augmentation system developed 
+          by  the European Space Agency. </td>
+      </tr>
+      <tr>
+        <td>EGP</td>
+        <td>Exterior Gateway Protocol</td>
+        <td>A reachability routing protocol used by gateways in a two-level internet. EGP is used in the Internet core system.</td>
+      </tr>
+      <tr>
+        <td>EH&S</td>
+        <td>Environmental, Health and <br />
+          Safety</td>
+        <td>EH&S compliance systems capture product or process data according to a regulatory <br />
+          authority's standards, forms and procedures for compliance with laws related to occupational <br />
+          health and safety; hazardous materials management and product genealogy/content; and <br />
+          environmental management.</td>
+      </tr>
+      <tr>
+        <td>EHA</td>
+        <td>Ethernet Hardware Address </td>
+        <td>MAC address, a <a href="http://en.wikipedia.org/wiki/Unique_identifier">unique identifier</a> assigned to <a href="http://en.wikipedia.org/wiki/Network_adapter" title="Network adapter">network interfaces</a> for communications on the physical network segment. </td>
+      </tr>
+      <tr>
+        <td>EHR</td>
+        <td>Electronic Health Record</td>
+        <td>n electronic record of health-related information on an 
+          individual that conforms to nationally recognized interoperability standards and that can be 
+          created, managed, and consulted by authorized clinicians and staff across more than one health 
+          care organization.</td>
+      </tr>
+      <tr>
+        <td>EIA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Electronic Industries Alliance</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> enterprise information architecture </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> High-tech association that represents the full spectrum of U.S. electronics and high-tech industry manufacturers. See also <a href="http://www.eia.org">http://www.eia.org</a></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> enterprise information architecture </p></td>
+      </tr>
+      <tr>
+        <td>EIGRP</td>
+        <td>Enhanced Interior Gateway Routing Protocol</td>
+        <td>Cisco proprietary routing protocol loosely based on their original IGRP. EIGRP is an advanced distance-vector routing protocol, with optimizations to minimize both the routing instability incurred after topology changes</td>
+      </tr>
+      <tr>
+        <td>EII</td>
+        <td>enterprise integration <br />
+          information</td>
+        <td>data integration</td>
+      </tr>
+      <tr>
+        <td>EIM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Enterprise Identity Mapping </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> enterprise information management</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> an open architecture from IBM for helping an enterprise manage the multiple user registries and identities that enable a computer user to access multiple applications with a SSO. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> an integrative discipline for structuring, describing and governing information 
+              assets, regardless of organizational and technological boundaries, to improve operational 
+              efficiency, promote transparency and enable business insight.</p></td>
+      </tr>
+      <tr>
+        <td>EIRP</td>
+        <td>Effective Isotropic Radiated Power</td>
+        <td>The effective power radiated from a transmitting antenna when an isotropic 
+          radiator is used to determine the gain of the antenna</td>
+      </tr>
+      <tr>
+        <td>EIS</td>
+        <td>enterprise information system</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> In System Manager, all the resources that the applications manage and the  functions for managing them.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> The applications that comprise an  enterprise's existing system for handling companywide information.</p></td>
+      </tr>
+      <tr>
+        <td>EIST</td>
+        <td>Enhanced Intel SpeedStep Technology</td>
+        <td>an advanced means of enabling  very high performance while also meeting the power-conservation needs  of mobile systems. Conventional Intel SpeedStep Technology switches  both voltage and frequency in tandem between high and low levels in  response to processor load.</td>
+      </tr>
+      <tr>
+        <td>EJB</td>
+        <td>Enterprise JavaBeans</td>
+        <td>A component  architecture defined by Sun Microsystems for the development and deployment  of object-oriented, distributed, enterprise-level applications</td>
+      </tr>
+      <tr>
+        <td>EKTS</td>
+        <td>electronic key telephone set</td>
+        <td>Any key telephone with a built-in          microprocessor which allows access to PBX-like features as well as access to multiple CO          lines and uses two- to four-pair wiring. </td>
+      </tr>
+      <tr>
+        <td>ELAN</td>
+        <td>Emulated Local Area Network</td>
+        <td>A logical network initiated by using the mechanisms defined by LANE  (LAN Emulation). This could include ATM and legacy attached end  stations.</td>
+      </tr>
+      <tr>
+        <td>ELM</td>
+        <td>Expertise location and management</td>
+        <td>the identification of human 
+          expertise, determining the status of that resource and integrating that person into the interaction 
+          process.</td>
+      </tr>
+      <tr>
+        <td>ELT</td>
+        <td>extract, load, and transform</td>
+        <td>The process of extracting data from one or more sources, loading it directly  into a relational database, and then using the database engine to run data  transformations. </td>
+      </tr>
+      <tr>
+        <td>EMA</td>
+        <td>Enterprise Management Associates</td>
+        <td>leading industry analyst firm that provides deep insight across the full spectrum 
+          of  IT  and  data management  technologies. <a href="http://www.enterprisemanagement.com">www.enterprisemanagement.com</a></td>
+      </tr>
+      <tr>
+        <td>EMC</td>
+        <td>Electromagnetic Compatibility</td>
+        <td>capability of systems or equipment to be tested in the intended  environment at designed levels of efficiency without degradation due to  electromagnetic interactions</td>
+      </tr>
+      <tr>
+        <td>EMF</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> ElectroMagnetic Field</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> ElectroMotive Force</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> These fields are produced by power lines, transformers,  appliances and radio frequency-RF sources such as microwave ovens,  cellular phones, AM/FM/TV transmitters, radars,etc. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> use to describe anything which behaves like an  electrical pump. Batteries, generators, thermoelectric devices, solar  cells, and piezoelectric crystals all do the same job in an electrical  circuit.</p></td>
+      </tr>
+      <tr>
+        <td>EMI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Electromagnetic interference</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong>Enhanced Multilayer Image </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> An alias for this term is 'RFI' or 'RF' or 'induced noise'. In  sensitive and/or badly designed equipment, EMI can cause serious  malfunctions or loss of control. EMC aims to prevent this ever  happening.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Cisco's multicast routing implentation permits any host to send a packet but only members of the multicast group to receive it if "EMI" is enabled on the Stack Master. </p></td>
+      </tr>
+      <tr>
+        <td>EMOTICON</td>
+        <td><em>EMOTion ICON</em></td>
+        <td>A group of         symbols used to indicate emotions in email or newsgroups.</td>
+      </tr>
+      <tr>
+        <td>EMPI</td>
+        <td>Enterprise Master Patient Index</td>
+        <td>EMPI is a database that contains a unique identifier for every patient in the enterprise. </td>
+      </tr>
+      <tr>
+        <td>EMR</td>
+        <td>electronic medical record</td>
+        <td>A system used to compile computerized patient healthcare information.  EMRs generally deal with information only in the form of document  images or text formatted for output to a printer or video display.</td>
+      </tr>
+      <tr>
+        <td>EMS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Enhanced Messaging Service</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> enterprise messaging system</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Expanded Memory Specification</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Messaging comprising simple pictures, sounds, animations, and modified text.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> enterprise-grade system that enables "program-to-program" messaging between applications and systems throughout an enterprise. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a technique for utilizing more than 1MB of main memory in DOS -based computers. The limit of 1MB is built into the DOS operating system. </p></td>
+      </tr>
+      <tr>
+        <td>EMV</td>
+        <td>Europay-MasterCard-Visa</td>
+        <td>An emerging general payment standard for smart cards.</td>
+      </tr>
+      <tr>
+        <td>ENIW</td>
+        <td>Web-enabled Ethernet Networking Interface</td>
+        <td> module presents additional remote Web capabilities by providing read/write access via the Internet. </td>
+      </tr>
+      <tr>
+        <td>ENQ</td>
+        <td>Enquiry</td>
+        <td>A control character used in the ASCII code set to request identification status.</td>
+      </tr>
+      <tr>
+        <td>ENS</td>
+        <td>enterprise nervous system</td>
+        <td>Gartner's term for the intelligent network that provides unifying  connectivity among people, application systems and devices in different  locations and business units across a virtual enterprise.</td>
+      </tr>
+      <tr>
+        <td>ENTL</td>
+        <td>Electronic New Hire/Termination/Leave of Absence</td>
+        <td>electronic document used to set up new staff, termination, or leave.</td>
+      </tr>
+      <tr>
+        <td>ENUM</td>
+        <td>electronic numbering / Electronic Number Mapping system</td>
+        <td><div align="justify">ENUM is an IETF standard
+          for mapping the   public telephone number address space into the DNS.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>ENX</td>
+        <td>European Network Exchange</td>
+        <td>the communications network of the European automotive industry. <a href="http://www.enxo.com">www.enxo.com</a></td>
+      </tr>
+      <tr>
+        <td>EOF</td>
+        <td>end-of-file</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> On a data medium,  a coded character indicating the end of the medium.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A code that  signals that the last record of a file has been read end-of-file delay</p></td>
+      </tr>
+      <tr>
+        <td>EOL</td>
+        <td>End Of Life</td>
+        <td> It usually refers to the time period of support for a  software product after a new revision has been placed into use. From  time to time, hardware vendors also use the term to describe a time  period of support for a given hardware item.</td>
+      </tr>
+      <tr>
+        <td>EoS / EoSDH</td>
+        <td>Ethernet over SONET / Ethernet Over SDH</td>
+        <td> EoS is a set of protocols which allow Ethernet traffic to be carried over synchronous digital hierarchy networks in an efficient and flexible way.Ethernet frames which are to be sent on the SDH link are sent through an "encapsulation" block to create a synchronous stream of data from the asynchronous Ethernet packets..</td>
+      </tr>
+      <tr>
+        <td>EPABX</td>
+        <td>Electronic Private Automatic Branch Exchange</td>
+        <td>refer to <a href="glossary_p.htm">PABX</a></td>
+      </tr>
+      <tr>
+        <td>ePC</td>
+        <td>electronic product code</td>
+        <td>a vision for using next-generation technology to supplant the bar code  based Universal Product Code (UPC) system for identifying supply chain  objects such as vehicle and pallet loads, case loads and individual  articles.</td>
+      </tr>
+      <tr>
+        <td>EPG(s)</td>
+        <td>electronic program guides</td>
+        <td>two-way television services</td>
+      </tr>
+      <tr>
+        <td>EPIC</td>
+        <td>Explicitly Parallel Instruction Computing</td>
+        <td>designed to fully incorporate all of the features of the Itanium series of processors from Intel. The uniquely designed EPIC  architecture allows the highest possible performance via new levels of  parallelism for enterprise and technical applications. </td>
+      </tr>
+      <tr>
+        <td>EPGs</td>
+        <td>electronic program guides</td>
+        <td> two-way television services</td>
+      </tr>
+      <tr>
+        <td>EPL</td>
+        <td>Ethernet Private Line </td>
+        <td>A point-to-point service that employs dedicated SONET channels over a shared SONET infrastructure</td>
+      </tr>
+      <tr>
+        <td>EPM</td>
+        <td>Enterprise Performance Management</td>
+        <td>Oracle Fusion release</td>
+      </tr>
+      <tr>
+        <td>EPN</td>
+        <td>Extended Port Network</td>
+        <td>A remote switching module of a telephone switch. Different vendors use  different names. EPN is specific to Avaya and  Definity line of PBXs.</td>
+      </tr>
+      <tr>
+        <td>ePO</td>
+        <td>EPolicy Orchestrator</td>
+        <td>McAfee tool that delivers real-time information and application integration for network, desktop, and server security</td>
+      </tr>
+      <tr>
+        <td>EPO</td>
+        <td>emergency power off </td>
+        <td>A means  of turning off power during an emergency, referring usually to a switch.</td>
+      </tr>
+      <tr>
+        <td>EPOC</td>
+        <td>Electronic Piece of Cheese</td>
+        <td>A 32-bit operating system designed by Symbian and written in C++. It is  used in mobile phones and PDAs, including PDAs manufactured by Psion.</td>
+      </tr>
+      <tr>
+        <td>EPP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Enhanced Parallel Port</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Enterprise Portal Platform</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An enhanced version of the parallel port specification for PCs. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="http://www.redhat.com">Red Hat</a>'s JBoss EPP is the commercial version of the open-source GateIn community portal.</p></td>
+      </tr>
+      <tr>
+        <td>EPR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Electronic Patient Record</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> EndPoint Reference</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> designed to allow fast and  easy on-line access to each patient's records in all areas across the  Hopkins continuum of care, thus enhancing patient care.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Combination of Web services elements that define the address for a resource in a SOAP header</p></td>
+      </tr>
+      <tr>
+        <td>EPS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Encapsulated PostScript</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Events Per Second </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Adobe file format for graphics and text supported by several graphics drawing applications. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> metric used in evaluating log management and related tools. It represents the total number of network and security events, accumulated from various network devices, that must be managed per second.</p></td>
+      </tr>
+      <tr>
+        <td>EPU</td>
+        <td>Energy Processing Unit</td>
+        <td>ASUS EPU utilizes innovative  technology to digitally monitor and finetune the CPU power supply with  improved VR responses in heavy or light loadings.</td>
+      </tr>
+      <tr>
+        <td>ERL</td>
+        <td>Echo Return Loss</td>
+        <td><p>A frequency-weighted measure of return loss over the middle of the  voiceband (approximately 560 to 1965 Hz) where talker echo is most  annoying.</p></td>
+      </tr>
+      <tr>
+        <td>ERMS</td>
+        <td>electronic records management 
+          systems</td>
+        <td>electronic records management
+          systems</td>
+      </tr>
+      <tr>
+        <td>ERP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="erp_system.htm">Enterprise resource planning</a></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> error recovery procedure</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> applications represent the core business applications of most  enterprises. These applications encompass management and administrative  functions, including financial management and HR, as well as components  for managing revenue activities  and expenditures  and  operations.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A  procedure designed to help isolate and, where possible, to recover from errors  in equipment. The procedure is often used in conjunction with programs that  record information on machine malfunctions.</p></td>
+      </tr>
+      <tr>
+        <td>ERR</td>
+        <td>ERRor</td>
+        <td>ERRor</td>
+      </tr>
+      <tr>
+        <td>eRX</td>
+        <td>e-Prescribing</td>
+        <td>a type of computer technology whereby physicians use 
+          handheld or personal computer devices to review drug and formulary coverage and to transmit 
+          prescriptions to a printer or to a local pharmacy.</td>
+      </tr>
+      <tr>
+        <td>ES-IS</td>
+        <td>End System to Intermediate System</td>
+        <td>The International Organization for Standardization's Open Systems Interconnection (OSI) protocol by which end systems announce themselves to intermediate systems.</td>
+      </tr>
+      <tr>
+        <td>ESA</td>
+        <td> Enthusiast System Architecture </td>
+        <td>Nvidia ESA is the industry’s  first open-standard PC monitoring and control protocol for real-time  communication and control of system thermal, electrical, acoustic and  operating characteristics. <a href="http://www.nvidia.com/object/nvidia_esa.html">http://www.nvidia.com/object/nvidia_esa.html</a></td>
+      </tr>
+      <tr>
+        <td>ESB</td>
+        <td>enterprise service bus</td>
+        <td>ESB brings flow-related concepts such as transformation and routing to a Service-Oriented Architecture.</td>
+      </tr>
+      <tr>
+        <td>ESCD</td>
+        <td>Extended System Configuration Data</td>
+        <td>Setup data that is stored in a Plug-and-Play-compatible system BIOS. It  consists of the system resource requirements of legacy (non-PNP)  devices, and the last working configuration of Plug-and-Play-compliant  devices.</td>
+      </tr>
+      <tr>
+        <td>ESCON</td>
+        <td>Enterprise Systems Connection</td>
+        <td>an IBM fiber optic connection technology that interconnects S/390 mainframe computers, workstations and network-attached storage devices across a single channel and supports half duplex data transfers. </td>
+      </tr>
+      <tr>
+        <td>ESDI</td>
+        <td>Enhanced Small Device Interface</td>
+        <td>This was a popular form of hard drive and controller interface before IDE took over the PC market.</td>
+      </tr>
+      <tr>
+        <td>ESE</td>
+        <td>Extensible Storage Engine</td>
+        <td>Stores all active directory objects</td>
+      </tr>
+      <tr>
+        <td>ESF</td>
+        <td>Extended Superframe Format</td>
+        <td>A T1 framing format that uses the framing bit to provide               mainte-nance and diagnostic functions.</td>
+      </tr>
+      <tr>
+        <td>ESG</td>
+        <td>Enterprise Strategy Group</td>
+        <td>an integrated, full-service IT analyst and business strategy firm,  world-renowned for forward-looking market intelligence, analysis, and  consulting services that deliver proven, measurable results. <a href="http://www.enterprisestrategygroup.com">www.enterprisestrategygroup.com</a></td>
+      </tr>
+      <tr>
+        <td>ESI</td>
+        <td>Edge Side Include</td>
+        <td>A technology  supporting cacheable and noncacheable Web page components that can be gathered  and assembled at the edge of a network.</td>
+      </tr>
+      <tr>
+        <td>ESL</td>
+        <td>electronic shelf labels</td>
+        <td>programmable wireless electronic device that can be <br />
+          affixed to store shelves/shelf channels</td>
+      </tr>
+      <tr>
+        <td>ESM</td>
+        <td>Enterprise Security Manager</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Symantec scalable security policy compliance and host-based vulnerability assessment tool </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="http://www.arcsight.com">ArcSight</a> ESM is the market-leading security correlation engine</p></td>
+      </tr>
+      <tr>
+        <td>ESM</td>
+        <td>Enterprise Service Management </td>
+        <td>consists of solutions and related professional services in the IT management areas </td>
+      </tr>
+      <tr>
+        <td>ESN</td>
+        <td>electronic serial number</td>
+        <td>Unique  identification number embedded in a wireless phone by the manufacturer to  prevent fraud. </td>
+      </tr>
+      <tr>
+        <td>ESP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> estimated street price</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Encapsulated Security Payload</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a manufacturer or developer's estimated price for a product in a specific region or market sector. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In a VPN, a security protocol that provides data  confidentiality and integrity.</p></td>
+      </tr>
+     <tr>
+        <td>ESPN</td>
+        <td>Entertainment and Sports Programming Network</td>
+        <td>ESPN is an American global cable television network focusing on comprehensive sports coverage. <a href="http://espn.go.com/">http://espn.go.com/</a></td>
+      </tr>
+      <tr>
+      <tr>
+        <td>ESRB</td>
+        <td>Entertainment Software Rating Board</td>
+        <td>a non-profit,
+          independent organization established in 1994 that reviews entertainment
+          software and web sites and assigns standardized ratings based on suitability for children. <a href="http://www.esrb.org">www.esrb.org</a></td>
+      </tr>
+      <tr>
+        <td>ESS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> employee self-service</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Extended Service Set </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Once simply defined as employee access to human resources (HR) systems,  for the purpose of reviewing or updating benefits or address  information that had previously been in an HR-staff-controlled domain.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a set of one or more interconnected BSSs and integrated local area networks that appear as a single BSS to the logical link control layer at any station associated with one of those BSSs.</p></td>
+      </tr>
+      <tr>
+        <td>ETA</td>
+        <td>Embedded Transport Acceleration</td>
+        <td>Intel ETA is the ability to deliver high-performance server communication</td>
+      </tr>      <tr>
+        <td>ETAS</td>
+        <td>Encrypted Transaction Audit System</td>
+        <td>This technology, developed by Computer Support Group, is used within many business websites. I-Biz and Ecommerce software are to enable security and special transaction auditing and tracking.</td>
+      </tr>
+      <tr>
+        <td>etc</td>
+        <td>Essential Text Configuration</td>
+        <td>In any unix (and variants like linux) system the /etc directory</td>
+      </tr>
+      <tr>
+        <td>ETC</td>
+        <td>Enhanced Throughput Cellular</td>
+        <td>Cellular modem protocol by AT&T</td>
+      </tr>
+      <tr>
+        <td>ETN</td>
+        <td>electronic tandem network</td>
+        <td>A private telecommunications network in which calls are automatically switched over specific trunks.</td>
+      </tr>
+      <tr>
+        <td>ETL</td>
+        <td>Extract, Transform and Load</td>
+        <td>Used to refer to sets of tools or processes      for extracting data from a data warehouse, transforming data in a data      warehouse or loading data into a data warehouse.</td>
+      </tr>
+      <tr>
+        <td>ETRN</td>
+        <td>Extended Turn</td>
+        <td>an extension to the SMTP mail delivery protocol that allows an SMTP server to request from another SMTP server any e-mail messages it has for a specific domain. </td>
+      </tr>
+      <tr>
+        <td>ETSI</td>
+        <td>European Telecommunications Standardisation Institute</td>
+        <td>produce the <em>telecommunications standards</em> that will be used throughout Europe and beyond. <a href="http://www.etsi.org">European Telecommunications Standardisation Institute</a></td>
+      </tr>
+      <tr>
+        <td>ETTb/ETTh</td>
+        <td>Ethernet To The Business/Home</td>
+        <td>Telecommunications carrier service providing Ethernet to a business subscriber (ETTb) or home subscriber (ETTh).</td>
+      </tr>
+      <tr>
+        <td>ETX</td>
+        <td>end-of-text character</td>
+        <td>The BSC transmission control character used to end a logical set of  records that began with the start-of-text character.</td>
+      </tr>
+      <tr>
+        <td>EUC</td>
+        <td>Extended UNIX Code</td>
+        <td>A protocol  that can support sets of characters from 1 to 4 bytes in length. EUC is a  means of specifying a collection of code pages rather than actually being  a code page encoding scheme itself.</td>
+      </tr>
+      <tr>
+        <td>EUEM</td>
+        <td>end user experience monitoring</td>
+        <td>end user experience monitoring</td>
+      </tr>
+      <tr>
+        <td>EULA</td>
+        <td>End-User License Agreement</td>
+        <td>The standard license agreement delivered with each copy of a Microsoft  software product, describing the software rights that pertain to the  user of that particular copy</td>
+      </tr>
+      <tr>
+        <td>EUP</td>
+        <td>Enterprise Unified Process</td>
+        <td>EUP  is a software development methodology that helps companies create  software in an structured and organized manner. It is an extension of  the Rational Unified Process (RUP), adding two new development phases  -- Production and Retirement.</td>
+      </tr>
+      <tr>
+        <td>Eutelsat</td>
+        <td>European Telecommunications Satellite Organization</td>
+        <td><strong> </strong>A Paris-based European satellite network operator. It offers  capacity on 23 satellites for television and radio broadcasting, data  networks, Internet services and mobile communications.</td>
+      </tr>
+      <tr>
+        <td>EVA</td>
+        <td> Enterprise Virtual Array</td>
+        <td>enterprise storage disk array sold by Hewlett-Packard. </td>
+      </tr>
+      <tr>
+        <td>EVDO</td>
+        <td>Evolution Data Only/Evolution Data Optimized</td>
+        <td>Provides fast wireless broadband 3G internet service to your lap via  pcmci slot. You can take the internet with you in your car, airport,  train, anywhere your service provider supports in order to surf the web  at your convenience.</td>
+      </tr>
+      <tr>
+        <td>EWS</td>
+        <td>Early Warning Status</td>
+        <td>System that alerts the host system if drive performance approaches unacceptable reliability levels</td>
+      </tr>
+      <tr>
+        <td>EX</td>
+        <td>exchange </td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A room or building equipped so that telephone lines          terminating there may be interconnected as required. The equipment may include manual or          automatic switching equipment. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A telephone switching center; an aggregate of          traffic-carrying devices, switching stages, controlling and signaling means at a network          node that enables subscriber lines and/or other telecommunication circuits to be          interconnected as required by individual callers. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The territory served by an exchange,          within which local service rates apply; also known as the exchange area or local service          area.  </p></td>
+      </tr>
+      <tr>
+        <td>EXE</td>
+        <td>EXEcutable</td>
+        <td>common filename extension denoting an executable file (a program) in the DOS, OpenVMS, Microsoft Windows, Symbian, and OS/2 operating systems.</td>
+      </tr>
+      <tr>
+        <td>EXIF</td>
+        <td>EXchangeable Image File format</td>
+        <td>Standard for storing interchange information in image files, especially those using JPEG compression. Most digital cameras now use the EXIF format. See also <a href="http://www.exif.org/">http://www.exif.org/</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>E-book readers</td>
+        <td>a class of devices the primary purpose of which is to <br />
+          enable the reading of "trade books"  and other content not dependent on color, 
+          rich graphics or video. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>eBay </td>
+        <td>eBay Inc. (NASDAQ: EBAY) is an American internet consumer-to-consumer (c2c) corporation that manages eBay.com, an online auction and shopping website. <a href="http://www.ebay.com/">http://www.ebay.com/</a></td>
+      </tr>      <tr>
+        <td> </td>
+        <td>Echelon </td>
+        <td>an officially unacknowledged U.S.-led global spy network that operates  an automated system for the interception and relay of electronic  communications. Monitored transmissions are said to include up to 3  billion communications daily.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Eclipse</td>
+        <td> Open-source application development tools, <a href="http://www.eclipse.org">www.eclipse.org</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Electronic paper</td>
+        <td>several reflective display technologies that do not require a 
+          backlight and can be viewed in conditions of moderate to good ambient illumination. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> embed</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> embedded system</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> When adding an element from one document to another document. Example: A   	sound file is created in one document, then it is embedded in an HTML   	document for publication to the Web.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A specialized computer system that is part of a larger  system or machine. Typically, an embedded system is housed on a single  microprocessor board with the programs stored in ROM.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>emulate / emulation</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a program or device that has the ability to imitate   	another.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A method by which an imitating          system can accept the same data, execute the same computer programs and achieve the same          results as the original system.  </p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>encapsulation</td>
+        <td>A software design technique in which data and procedures related to the data are undled together within a single entity, 
+          called the object. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>encrpytion</td>
+        <td>The process of converting data into an unreadable format so that unauthorized views of the data can be blocked.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Erlang</td>
+        <td>In telecommunications, a unit of traffic intensity. One Erlang is the  intensity at which one traffic path would be continuously occupied.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>ethernet</td>
+        <td>Baseband LAN specification invented by Xerox  Corporation and developed jointly by Xerox, Intel, and Digital  Equipment Corporation. Ethernet networks use CSMA/CD and run over a  variety of cable types at 10 Mbps. <a href="ethernet_over.htm">more...</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Ethical Hacker</td>
+        <td>The dream job for a generation of hackers: A company paying you to break into its network. By simulating attacks from the net or from an internal source, ethical hackers locate weak spots in a company's network.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>exit plan</td>
+        <td>The plan developed for coping with the end  of the contract -- whether because the term is up or because  termination clauses have been invoked.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>exploit</td>
+        <td>an attack on a computer system, especially one that takes advantage of  a particular vulnerability that the system offers to intruders. Used as  a verb, the term refers to the act of successfully making such an  attack.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>extract</td>
+        <td>A data synopsis from a given system which is passed to another system          to complete processing. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Extranet</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A virtual intranet.  Companies desiring an intranet but not having the internal bearer  network on which to provide it, can look to an external service  provider to supply it.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Two or more autonomous and separately owned intranets,  connected together in order to form an extended intranet. For example,  a car manufacturer and its suppliers may each have their own Intranets,  accessible only to their respective employees.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>eyeballs</td>
+        <td>an industry term for the raw number of people who look at a website.</td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.93795895576 -->
+</html>

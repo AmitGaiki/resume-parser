@@ -1,0 +1,2269 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - D for DNS</title>
+<meta name="keywords" content="digital, data, definition, deep, dr, dia, du, dos, desktop, data mining, dpi, dna, delivery, dms, directx, direct x, direct, dec, dap, download, dafont, dell, drop, dropbox">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page159" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm771" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable on"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-d">D</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >D</h1><div class="marker" ></div>
+<div id="pm622" class="tile  m1215 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>D for DNS</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm736" class="tile  m1453 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+      <tr>
+        <th scope="col">abbreviation / acronyms </th>
+        <th scope="col">Term</th>
+        <th scope="col">Definition</th>
+      </tr>
+      <tr>
+        <td>d-channel / D channel</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> delta channel</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> data channel</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In <a href="i">ISDN</a>,  a common channel used for signaling and management of the network.</p>
+        <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> used for common channel signaling by both the telephone company switch  and the customer equipment; provides the call signals that set up B  channel connections</p></td>
+      </tr>
+      <tr>
+        <td>d-commerce</td>
+        <td>digital commerce</td>
+        <td>form of e-commerce by companies that sell news, documents, subscriptions, or any other content that can be delivered digitally over the Web. Under the ultimate "pay as you go" model, a d-commerce company acts as an electronic middleman: Users establish an account with a d-commerce company to purchase content from a variety publishers</td>
+      </tr>
+      <tr>
+        <td>D&I</td>
+        <td>Drop And Insert</td>
+        <td>Refers to the cross connecting of Time-Division Multiplexing (TDM) circuits. It allows you to take 64Kb DS0 channels from one T1 and digitally cross connect them to 64Kb DS0 channels on another T1</td>
+      </tr>
+      <tr>
+        <td>D2D</td>
+        <td>disk-to-disk</td>
+        <td>backup technologies</td>
+      </tr>
+      <tr>
+        <td>D2D2T</td>
+        <td>disk-to-disk-to-tape</td>
+        <td>backup technologies</td>
+      </tr>
+      <tr>
+        <td>DA</td>
+        <td>Destination Address</td>
+        <td>Information sent in forward direction indicating address               of called station or customer.</td>
+      </tr>
+      <tr>
+        <td>DAA</td>
+        <td>Distributed Application Architecture</td>
+        <td>under design by Hewlett-Packard                                                   and Sun. A distributed object                                                   management environment that will                                                   allow applications to be developed                                                   independent of operating system,                                                   network or windowing system.</td>
+      </tr>
+      <tr>
+        <td>DaaS</td>
+        <td>desktops-as-a-service</td>
+        <td>virtual desktop hosting</td>
+      </tr>
+      <tr>
+        <td><a href="digital_radio_dab.htm">DAB</a></td>
+        <td><a href="digital_radio_dab.htm">Digital Audio Broadcast </a></td>
+        <td> Digital radio  		broadcast, providing better quality and a greater number of channels  		than traditional (analogue) radio.</td>
+      </tr>
+      <tr>
+        <td><a href="digital_to_analog_converter.htm">DAC</a></td>
+        <td><a href="digital_to_analog_converter.htm">digital-to-analog converter </a></td>
+        <td>The digital-to-analog converter is for converting a digital signal into an output analog voltage. </td>
+      </tr>
+      <tr>
+        <td>DAC / DACL</td>
+        <td>Discretionary Access Control List</td>
+        <td>Discretionary Access Control consists of something the user can manage, such as a document password.A DACL consists of a list of security identifiers (which identify users) and specific permissions for each </td>
+      </tr>
+      <tr>
+        <td>DACS</td>
+        <td>Digital Access and Cross Connect System</td>
+        <td>A time-slot switch that allows T1 or E1 lines to be remapped               electronically at the DS-0 (64 Kbps) level. Also called DCS or DXS.</td>
+      </tr>
+      <tr>
+        <td>DAE</td>
+        <td>Disk Array Enclosure</td>
+        <td>The DAE is a JBOD (Just a Bunch Of Disk) enclosure  without a storage processor (SP). The DAE supports up to 10 Fibre  Channel drives per enclosure and is connected by dual Fibre Channel  loops into the DPE.</td>
+      </tr>
+      <tr>
+        <td>Daemon</td>
+        <td>Disk And Execution MONitor</td>
+        <td>Disk And Execution MONitor software</td>
+      </tr>
+      <tr>
+        <td>DAFS</td>
+        <td>Direct Attached File System</td>
+        <td>an advanced methodology of a particular network data storage method.</td>
+      </tr>
+      <tr>
+        <td>DAL</td>
+        <td>Dedicated Advertiser Location</td>
+        <td>A type of iTV ad in development, online advertisers are proposing Simple DALs and Complex DALs. A Simple DAL refers to the data that users reach on the screen, once they leave a video (TV) stream. Viewers will be able to leave a broadcast stream, beyond the duration of an ad, but will then get rapidly returned to it after navigating past some qualifier screens. </td>
+      </tr>
+      <tr>
+        <td>DAM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Database Activity Monitoring </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong>Digital Asset Management </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> a type of governance, risk and compliance 
+          (GRC) control that transparently monitors database activity to identify fraudulent, illegal or other 
+          undesirable behavior. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> the practice and domain of organizing digital files, like images,  documents, videos and presentations. The term asset is used to indicate  that such files have some sort of intrinsic value that makes it  worthwhile to manage them.</p></td>
+      </tr>
+      <tr>
+        <td>DAMA</td>
+        <td>demand assigned multiple access</td>
+        <td><strong> </strong>Allocation of communication satellite time to earth stations as the need arises.</td>
+      </tr>
+      <tr>
+        <td>DAML</td>
+        <td>DARPA Agent Markup Language</td>
+        <td>A language currently in development for presenting information on the <a href="glossary_w.htm">WWW</a> that will allow information objects to be tagged in a  way that allows software applications, computer agents, and virtual  assistants.</td>
+      </tr>
+      <tr>
+        <td>DAO</td>
+        <td>Disk-At-Once</td>
+        <td>This is a single-session method of writing data to a CD-R/RW disc that  creates a disc in a format suitable for commercial duplication.</td>
+      </tr>
+      <tr>
+        <td>DAP</td>
+        <td>Directory Access Protocol</td>
+        <td>A derivative of the X.500 DAP standard,  postulated by the ISO many years ago. DAP and X.500 remained unused for  many years because of the complexity of the DAP access protocol.</td>
+      </tr>
+      <tr>
+        <td>DAR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Data at rest</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Disk ARchive</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> refer to all data in computer storage while  excluding data that is traversing a network or temporarily residing in  computer memory to be read or updated. </p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> a command-line archiving tool</p></td>
+      </tr>
+      <tr>
+        <td>DARPA</td>
+        <td>Defense Advanced Research Project                   Agency </td>
+        <td> the progenitor of the Internet.                   DARPA is where it all began.<a href="http://www.darpa.mil/"> http://www.darpa.mil/</a></td>
+      </tr>
+      <tr>
+        <td>DAS</td>
+        <td>direct-attached storage</td>
+        <td>RAID storage that is internal  and host-attached (both the RAID controller and software technologies  and the hard disk drives are housed within the server)</td>
+      </tr>
+      <tr>
+        <td>DAS</td>
+        <td>distributed antenna system</td>
+        <td>a way to efficiently distribute wireless connections inside a large building where steel columns and layers of concrete can interfere with wireless signals. A DAS can be used to get rid of "dead zones" by routing radio frequency (RF) signals through fiber or copper cabling from a single base station to multiple antennas located throughout the building. </td>
+      </tr>
+      <tr>
+        <td>DASH</td>
+        <td>Desktop and mobile Architecture for System Hardware</td>
+        <td>Suite of specifications that takes full advantage of the  Web Services for Management (WS-Management) specificationdelivering standards-based Web services management for desktop and mobile client systems</td>
+      </tr>
+      <tr>
+        <td>DAST</td>
+        <td>Dynamic Application Security Testing </td>
+        <td>technologies  designed to detect 
+          conditions indicative of a security vulnerability in an application in its running state</td>
+      </tr>
+      <tr>
+        <td>DAT</td>
+        <td>digital audio tape</td>
+        <td>A magnetic tape that stores audio data in digital form.</td>
+      </tr>
+      <tr>
+        <td>DAVID</td>
+        <td>Digital Audio Video Interactive Decoder</td>
+        <td>Digital Audio Video Interactive Decoder</td>
+      </tr>
+      <tr>
+        <td>db</td>
+        <td>Decibel</td>
+        <td>A unit of power (sound, optical                           or electrical) increase or decrease that is proportional                           to the exponential increase or decrease of power.</td>
+      </tr>
+      <tr>
+        <td>DB</td>
+        <td>Database</td>
+        <td>A collection of data organized in a structured manner so that information can     be readily retrieved.</td>
+      </tr>
+      <tr>
+        <td>DB2</td>
+        <td>Database 2</td>
+        <td>IBM's RDBMS offering,  originally built for Multiple Virtual Storage (MVS) systems. It uses  SQL as its data manipulation and definition  language. IBM has released versions of DB2 for several other operating  systems, such as Windows and Unix.</td>
+      </tr>
+      <tr>
+        <td>DB9</td>
+        <td>D sub-miniature 9</td>
+        <td>Also called Dsub9, a 9 pin connector shaped like the leter ‘D’. They are used to 
+          connect serial devices together with a serial cable. </td>
+      </tr>
+      <tr>
+        <td>DBA</td>
+        <td>database administrator</td>
+        <td>The person responsible for managing data, namely data set placement,  database performance, and data recovery and integrity at a physical  level. Also known as a "data administrator."</td>
+      </tr>
+      <tr>
+        <td>DBCS</td>
+        <td>Double-Byte Character Set</td>
+        <td>One of a number of character sets defined for representing Chinese,               Japanese, or Korean text. These               character sets are often encoded in such a way as to allow               double-byte character encodings to be mixed with single-byte               character encodings.</td>
+      </tr>
+      <tr>
+        <td>dBm</td>
+        <td>decibels milliwatt</td>
+        <td>used to
+          measure signal strength on telephone lines</td>
+      </tr>
+      <tr>
+        <td>DBMS</td>
+        <td>Database Management System</td>
+        <td><div align="justify">In  short, a DBMS is a database program. Technically speaking, it is a  software system that uses a standard method of cataloging, retrieving,  and running queries on data. The DBMS manages incoming data, organizes  it, and provides ways for the data to be modified or extracted by users  or other programs.</div></td>
+      </tr>
+      <tr>
+        <td>DBS</td>
+        <td>direct broadcast satellite</td>
+        <td>A wireless technology for broadcasting by transmitting a compressed high-speed signal via satellite.</td>
+      </tr>
+      <tr>
+        <td>DCAP</td>
+        <td>Data Link Switching Client Access Protocol</td>
+        <td>Data Link Switching Client Access Protocol</td>
+      </tr>
+      <tr>
+        <td>DCB</td>
+        <td>Data Center Bridging </td>
+        <td>a set of IEEE industry 
+          standards that delivers end-to-end congestion 
+          notification and quality of service throughout the 
+          network which allows customers to configure traffic 
+          classes and priorities to deliver a lossless Ethernet 
+          fabric such as Open FCoE.</td>
+      </tr>
+      <tr>
+        <td>DCBU</td>
+        <td>D-channel backup</td>
+        <td>An ISDN NFAS  configuration where two of the T1 facilities have a D-channel, one of which  is used for signaling, and the other as a backup in case the other fails.</td>
+      </tr>
+      <tr>
+        <td>DCC</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Data Country Code</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Digital Command Control</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Direct Client-to-Client</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Specifies country in which address is registered. Codes               are given in ISO 3166. Field length is two octets. Digits are encoded               in <a href="glossary_b.htm">BCD</a> syntax.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> systems  used to operate locomotives on a model railroad</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a feature of some <a href="glossary_i.htm">IRC</a> client software, allowing users to communicate messages and files directly, bypassing a server. </p></td>
+      </tr>
+      <tr>
+        <td>DCCP</td>
+        <td>Datagram Congestion Control Protocol</td>
+        <td>a minimal general purpose transport-layer protocol that minimizes the overhead of packet  header size or end-node processing as much as possible.</td>
+      </tr>
+      <tr>
+        <td>DCE</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Data Communications Equipment</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Distributed Computing Environment </p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Devices that provide  the functions required to establish, maintain and <br />
+          terminate a data transmission connection. Normally it refers to a modem. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In network computing, a set of services and tools that supports the  creation, use, and maintenance of distributed applications across heterogeneous  operating systems and networks.</p></td>
+      </tr>
+      <tr>
+        <td>DCO</td>
+        <td>Device Configuration Overlay</td>
+        <td>Allows system vendors to purchase HDDs from different manufacturers with potentially different sizes, and then configure all HDDs to have the same number of sectors </td>
+      </tr>
+      <tr>
+        <td>DCOM</td>
+        <td>Distributed Component Object Model</td>
+        <td>A version of Microsoft's <a href="glossary_c.htm">COM</a> that enables  application components to be distributed over several computers through  the use of a remote procedure call (RPC).</td>
+      </tr>
+      <tr>
+        <td>DCS</td>
+        <td>Desktop color separation </td>
+        <td>An image format consisting of four separate CMYK PostScript files at full resolution, together with a fifth EPS master for placement in documents.</td>
+      </tr>
+      <tr>
+        <td>DCT</td>
+        <td>Digital Cordless Telephone </td>
+        <td>A cordless telephone that uses digital transmission technology to provide  more security and better sound quality than a traditional analog cordless  telephone.</td>
+      </tr>
+      <tr>
+        <td>DDAP</td>
+        <td>Digital Distribution of Advertising for Publications</td>
+        <td>User-driven organization working towards enabling the universal exchange of digital ads throughopen process integration and the use of accredited standards. See <a href="http://www.ddap.org">http://www.ddap.org</a></td>
+      </tr>
+      <tr>
+        <td>DDBMS</td>
+        <td>Distributed database management system</td>
+        <td>A database management system (DBMS) that enables end users or  application programmers to view a collection of physically separate  databases as a logical single-system image. The concept that is most  fundamental to the DDBMS is location transparency, meaning the user  should not be conscious of the actual location of data.</td>
+      </tr>
+      <tr>
+        <td>DDCMP</td>
+        <td>Digital Data Communications Message Protocol</td>
+        <td>A byte-oriented, link layer  protocol that supports half- or full-duplex modes and either  point-to-point or multipoint lines in a Digital Network Architecture  network.</td>
+      </tr>
+      <tr>
+        <td>DDD</td>
+        <td>Data Display Debugger</td>
+        <td>a popular graphical user interface for command-line debuggers such as  GDB, DBX, JDB, WDB, XDB, the Perl debugger, and the Python debugger.DDD  is licensed under the GNU GPL and is open source.</td>
+      </tr>
+      <tr>
+        <td>DDE</td>
+        <td>Dynamic Data Exchange</td>
+        <td>A method of exchanging data between applications on MacOS, Windows, and OS/2 operating systems. </td>
+      </tr>
+      <tr>
+        <td>DDI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Device Driver Interface</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Direct Dialling-In</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> DNS, DHCP & IP address</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An interface that facilitates driver portability across different UNIX system versions on SPARC hardware. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A facility enabling telephone users to dial direct into a firm's PABX  extensions as if they were normal public telephone numbers. Known as  DID in the USA, not to be confused with DIA.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> solutions that complement internal DNS & DHCP implementation.</p></td>
+      </tr>
+      <tr>
+        <td>DDL</td>
+        <td>Data Definition Language</td>
+        <td>A  language for describing data and its relationships in a database.</td>
+      </tr>
+      <tr>
+        <td>DDN</td>
+        <td>Digital Data Network</td>
+        <td>A network service established in China in 1994, connecting Beijing,  Tianjin, Shanghai and other provincial capitals. Each post and  telecommunications administration in China has a department regulating  DDN service in its region.</td>
+      </tr>
+      <tr>
+        <td>DDNS</td>
+        <td>Dynamic Domain Name System</td>
+        <td>A technology that automatically updates the logical names of  dynamically assigned <a href="glossary_i.htm">IP</a> addresses in the DNS server of an IP network. Specifications for a  standard approach to DDNS were defined in Request for Comment 2136,  introduced in 1997</td>
+      </tr>
+      <tr>
+        <td>DDoS</td>
+        <td>Distributed Denial of Service </td>
+        <td> attack uses many computers to launch a coordinated DoS 
+          attack against one or more targets. Using client/server technology, the perpetrator is able to 
+          multiply the effectiveness of the Denial of Service significantly by harnessing the resources of 
+          multiple unwitting accomplice computers, which serve as attack platforms. </td>
+      </tr>
+      <tr>
+        <td>DDP</td>
+        <td>Datagram Delivery Protocol </td>
+        <td>In AppleTalk networks, a protocol that provides network connectivity by means  of connectionless socket-to-socket delivery service on the internet layer.</td>
+      </tr>
+      <tr>
+        <td>DDR</td>
+        <td>double-data-rate</td>
+        <td>A type of SDRAM that doubles the data burst cycle, improving system performance.</td>
+      </tr>
+      <tr>
+        <td>DDS</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Dataphone digital service</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> digital data service</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Digital Data Storage</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> AT&T line service that allows the customer to transmit data on the  line in a digital format.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A dedicated data transmission service that operates over interconnected digital private lines.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The technology  that allows binary information to be recorded to a4mm  DAT. The drive mechanism uses 4 heads - two to write and two to read.  The tape makes contact with the heads at a 90 degree angle to produce  an angled track known as a helical scan.</p></td>
+      </tr>
+      <tr>
+        <td>DDSA</td>
+        <td>digital data service adapter </td>
+        <td>In data communications, a device used when sending and receiving data using  a nonswitched digital data service.</td>
+      </tr>
+      <tr>
+        <td>DDT</td>
+        <td>Disk-to-Disk-to-Tape</td>
+        <td>Data      storage and archive strategy. Data is initially stored on disk then,      according to some criteria, it is copied to a secondary disk store pending      archiving to tape.</td>
+      </tr>
+      <tr>
+        <td>DEA</td>
+        <td>Data Encryption Algorithm</td>
+        <td> In Cryptographic Support, the equivalent to the Data Encryption Standard.</td>
+      </tr>
+      <tr>
+        <td>DEC</td>
+        <td>Digital Equipment Corporation</td>
+        <td>a company whose products
+          included the PDP-8, PDP-11, and VAX minicomputers, the VT-100 terminal, and the Alpha microprocessor. In 1998, Digital Equipment
+          Corporation was aquired by Compaq, now part of Hewlett-Packard. </td>
+      </tr>
+      <tr>
+        <td>DECT</td>
+        <td>Digital Enhanced Cordless Telecommunications </td>
+        <td><div align="justify">An interface specification for              digital mobile telephony. DECT employs 10   carrier frequencies between 1.88 GHz              and 1.9GHz, and has a   transmission speed of 144 Kbps.<br />
+        </div></td>
+      </tr>
+      <tr>
+        <td>defrag</td>
+        <td>defragment </td>
+        <td>To optimize your hard drive, usually with a program that "cleans it up"</td>
+      </tr>
+      <tr>
+        <td>DEK</td>
+        <td>data encryption key</td>
+        <td>Used for the encryption of message text and for the computation of message integrity checks (signatures). </td>
+      </tr>
+      <tr>
+        <td>DEL</td>
+        <td>DELETE</td>
+        <td> the DELETE key on a computer keyboard</td>
+      </tr>
+      <tr>
+        <td>Demarc</td>
+        <td>Demarcation Point</td>
+        <td>The point, jack or                           cross connect panel, at which ownership or responsibility                           for operating and maintaining facilities passes from one                           party to another.</td>
+      </tr>
+      <tr>
+        <td>Demux</td>
+        <td>demultiplexer</td>
+        <td>A logic circuit that takes a single input and sends it to one of several outputs.</td>
+      </tr>
+      <tr>
+        <td>DEN</td>
+        <td>Directory Enabled Network</td>
+        <td>term used in conjunction with an architecture and  grouping of networking capabilities that are developed and driven by a  central directory.</td>
+      </tr>
+      <tr>
+        <td>DEP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Data Execution Prevention </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> dynamic enterprise publishing</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> OS feature that's new in Windows 2003 SP1 & Windows XP SP2. It serves to prevent viruses and other malicious code from ever executing </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> combine data from an organization's CRM and other enterprise applications with 
+              content from its content management systems and other sources according to <br />
+              business rules to dynamically generate attractive, personalized customer 
+              communications for delivery </p></td>
+      </tr>
+      <tr>
+        <td>DES</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Data Encryption Standard</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Dynamic Energy Saver</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An  encryption algorithm, developed by the US government, that allows the  use of variable-length keys. The longer the key, the more difficult it  is to break the algorithm</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> GIGABYTE Dynamic Energy Saver is  a revolutionary technology that delivers unparalleled power savings  with the simple click of a button.</p></td>
+      </tr>
+      <tr>
+        <td>DET</td>
+        <td>Directory Entry Table</td>
+        <td>A table on every network volume that contains directory entries for each file on the volume. The table, stored in the server's memory, enables quick access to the location of every file</td>
+      </tr>
+      <tr>
+        <td>DFM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> design for manufacturability</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Device Fault Manager</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Digital Flash Media</p></td>
+        <td><p><strong> </strong><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> An approach for designing products in ways that optimize their manufacture.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Provides real-time fault analysis for Cisco devices</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> a generalization for all type of digital media devices such as but not limited to CF (CompactFlash), Memory Stick (MS), MMC, Secure Digital (SD), SmartMedia (SM), USB Flash Drive (USBFD) and x D Picture Card (x D). </p></td>
+      </tr>
+      <tr>
+        <td>DFI</td>
+        <td>Design for Innovation</td>
+        <td>DFI Inc. (Design for Innovation)</td>
+      </tr>
+      <tr>
+        <td>DFL</td>
+        <td>design for logistics</td>
+        <td><strong> </strong>A product design approach that considers logistical issues, such the manner in which the product will be stored or transported.</td>
+      </tr>
+      <tr>
+        <td>DGC</td>
+        <td>Distributed garbage collection </td>
+        <td>garbage collection in a system where objects might not reside in the same address space or even on the same machine.</td>
+      </tr>
+      <tr>
+        <td>DHA</td>
+        <td>directory harvest attack </td>
+        <td> an attempt to determine the valid e-mail addresses associated with an e-mail server so that they can be added to a spam database. </td>
+      </tr>
+      <tr>
+        <td>DHCP</td>
+        <td>Dynamic Host Configuration Protocol</td>
+        <td><div align="justify">A  network server uses this protocol to dynamically assign IP addresses to  networked computers. The DHCP server waits for a computer to connect to  it, then assigns it an IP address from a master list stored on the  server.</div></td>
+      </tr>
+      <tr>
+        <td>DHTML</td>
+        <td>Dynamic HyperText Markup Language</td>
+        <td><em>web pages</em> that use a combination of <em>HTML</em>, <em>JavaScript</em>, and <em>CSS</em> to create features such as letting the user drag items around on the web page, some simple kinds of animation, and many more. </td>
+      </tr>
+      <tr>
+        <td>DHX</td>
+        <td>Diffie-Hellman Exchange</td>
+        <td>an authentication method 
+          used by the Apple file service of Mac OS X Server.</td>
+      </tr>
+      <tr>
+        <td>DIA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> data  integration  and 
+          access</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Dedicated Internet Access</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> need of enterprises for better integrated data for operational efficiency and business intelligence</p>
+          <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> a highly reliable, predictable, and guaranteed  bandwidth <em>Internet</em> connection.</p></td>
+      </tr>
+      <tr>
+        <td>DICOM</td>
+        <td>Digital Imaging and Communications in Medicine</td>
+        <td>a standard for handling, storing, printing, and transmitting information in medical imaging. </td>
+      </tr>
+      <tr>
+        <td>DID</td>
+        <td>direct inward dial</td>
+        <td>Allows a user outside  a company to dial an internal extension number without needing to pass  through an operator or an attendant. The dialed digits are passed to  the PBX, which then completes the call.</td>
+      </tr>
+      <tr>
+        <td>DI/DO</td>
+        <td>Dispatch In/ Dispatch Out </td>
+        <td><p>Refers to the source of a reported trouble on a telephone circuit: </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Dispatch In signifies the problem is likely within the central office and that an inside technician may be assigned to troubleshoot and fix the problem</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Dispatch Out signifies the problem is likely on the loop portion of the circuit and that an outside technician has been assigned the problem.</p></td>
+      </tr>
+      <tr>
+        <td>DIF</td>
+        <td>Directory Interoperability Forum</td>
+        <td>Coalition formed in 1999 by IBM, Novell, Oracle, Lotus Development and  Isocor to promote the use of <a href="glossary_l.htm">LDAP</a> by developers, and to accelerate directory interoperability  standards.</td>
+      </tr>
+      <tr>
+        <td>DiffServ</td>
+        <td>Differentiated Services</td>
+        <td>A protocol that helps support network quality of service. DiffServ  enables data packet fields to carry information about the specific  level of service a packet should receive on the network.</td>
+      </tr>
+      <tr>
+        <td>Digerati</td>
+        <td>digital version of literati (Italian)</td>
+        <td>a reference to a vague cloud of people seen to be knowledgeable, hip,  or otherwise in-the-know in regardsto the digital revolution. </td>
+      </tr>
+      <tr>
+        <td>DIIOp</td>
+        <td>Dominio Internet Inter-Orb Protocol</td>
+        <td>allows external programs to attach to, and manipulate Domino databases</td>
+      </tr>
+      <tr>
+        <td>DIMM</td>
+        <td> Dual In-line Memory Module</td>
+        <td>DIMM is a later version of memory than   	that of its earlier SIMM counterpart. A DIMM module was   	introduced for the Pentium processor because the Pentium processor needed a   	64 bit path. The SIMM module only has a 32 bit path.</td>
+      </tr>
+   <tr>
+        <td>DIP</td>
+        <td>Dual Interface Poll</td>
+        <td>Dual Interface Poll switches allow for either an ON or OFF setting with any number of circuits. DIP switches commonly allow you to change the configuration of a circuit board to suit your particular computer.
+</td>
+      </tr>
+      <tr>
+        <td>DIPP</td>
+        <td>Dual Inline Pin Package</td>
+        <td>Refers to the physical geometry of an integrated circuit or other electronic package; rectangular, with pins on the two longer sides </td>
+      </tr>
+      <tr>
+        <td>DIR</td>
+        <td>DIRectory</td>
+        <td>DIRectory</td>
+      </tr>
+      <tr>
+        <td>Dirid</td>
+        <td>Directory identifier</td>
+        <td>A numeric identifier used within INF files to represent a disk directory. </td>
+      </tr>
+      <tr>
+        <td>DISA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Defense Information Systems Agency</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Data Interchange Standards Association</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="http://www.disa.mil/">Defense                   Information Systems Agency</a></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <a href="http://www.disa.org/">Data                   Interchange Standards Association</a></p></td>
+      </tr>
+      <tr>
+        <td>Disc / Disk</td>
+        <td>DISKETTE</td>
+        <td>A thin, flexible, plastic, circular memory medium,  coated on both sides with metal oxide and enclosed in a protective  jacket. Data is stored magnetically in binary digital form on its  surface(s). </td>
+      </tr>
+      <tr>
+        <td>DIT</td>
+        <td>Directory Information Tree</td>
+        <td>A graphical display of an organization's directory structure, sites, and servers, shown as a branching structure. The top-level (root) directory usually represents the organization level</td>
+      </tr>
+      <tr>
+        <td>DITTO</td>
+        <td>Data Interfile Transfer, Testing and Operations</td>
+        <td>An IBM licensed program that provides  file-to-file services for card I/O, tape, and disk devices.</td>
+      </tr>
+      <tr>
+        <td>Divx</td>
+        <td>DIgital Video Express</td>
+        <td>DVD (DVD-ROM) format being promoted by several large Hollywood companies, including Disney, Dreamworks SKG, Paramount and Universal. The idea was financed mainly by retail electronics giant Circuit City.</td>
+      </tr>
+      <tr>
+        <td>DIX</td>
+        <td>Digital,  Intel ,  Xerox</td>
+        <td>The first letter of the Digital Corp, the Intel Corp, and the Xerox  Corp, which are the leading vendors defined the original Ethernet  standards.</td>
+      </tr>
+      <tr>
+        <td>DKI</td>
+        <td>Driver Kernel Interface</td>
+        <td>An interface between the UNIX system kernel and different types of drivers. DKI consists of a set of driver-defined functions that are called by the kernel. These functions are entry points into a driver.</td>
+      </tr>
+      <tr>
+        <td>DKMS</td>
+        <td>Dynamic Kernel Module Support</td>
+        <td>Designed to create a framework where kernel dependent module source can reside so that it is very easy to rebuild modules as you upgrade kernels</td>
+      </tr>
+      <tr>
+        <td>DL</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> Density Line</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> double-layer</p></td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> An HP brandname for the ProLiant Density Line, which are servers in
+          one-, two- and four-socket designs, optimized for rack-mounted server
+          environments.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> describing a DVD or similar disc recorded in two layers from the same side, giving twice as much capacity as a single layer.</p></td>
+      </tr>
+      <tr>
+        <td>DLC</td>
+        <td><p>data link control</p></td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> A set of  rules used by nodes on a data link (such as an SDLC link or a token ring)  to accomplish an orderly exchange of information.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> protocol layer used by nodes on a data link to accomplish an orderly exchange  of information.</p></td>
+      </tr>
+      <tr>
+        <td>DLC</td>
+        <td>Digital Loop Carrier</td>
+        <td>Digital transmission system designed for subscriber loop               plant. Multiplexes many circuits onto very few wires or onto single               fiber pair.</td>
+      </tr>
+      <tr>
+        <td>DLCI</td>
+        <td>data link connection identifier</td>
+        <td>A number of a private or switched virtual circuit in a Frame Relay network that tells the Frame Relay how to route the data. </td>
+      </tr>
+      <tr>
+        <td>DLDP</td>
+        <td>Device Link Detection Protocol </td>
+        <td>detect the link status of a fiber cable or twisted</td>
+      </tr>
+      <tr>
+        <td>DLE</td>
+        <td>data link escape</td>
+        <td>In <a href="glossary_b.htm">BSC</a>, a transmission control  character used to indicate that the next character is a control character,  not a data character.</td>
+      </tr>
+      <tr>
+        <td>DLL</td>
+        <td>dynamic link library</td>
+        <td>A Windows mechanism that links executable code modules to an  application program or process. A DLL is loaded at runtime by the  application or process that invokes it.</td>
+      </tr>
+      <tr>
+        <td>DLM</td>
+        <td>data life cycle management</td>
+        <td> a policy-based approach to managing the flow of an information system's data throughout its life cycle: from creation and initial storage to the time when it becomes obsolete and is deleted. </td>
+      </tr>
+      <tr>
+        <td>DLOS</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> Direct Line-of-sight</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> Desktop Line-of-sight</p></td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> where the points of a circuit have a physically proven clear and unobstructed view of each other</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> an initial survey conducted on a computer with specialised planning  software which allows the user to ascertain if the two points of a  circuit have probable line-of-sight</p></td>
+      </tr>
+      <tr>
+        <td>DLP</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> data leak prevention</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> Digital Light Processing</p></td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> The term used to describe a system that is put in place to stop the unauthorised loss of outside of the control of an organisation. Data loss is a prevalent  problem that has resulted in significant reputational and legal issues  for many organisations. </p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> A video projection technology that uses hundreds of thousands of rotating   	mirrors to project high quality, high definition images. DLP was originally   	developed by Texas Instruments.</p></td>
+      </tr>
+      <tr>
+        <td>DLPBC</td>
+        <td>Dual Loop Port Bypass Circuitry</td>
+        <td>routing circuitry that makes it possible to add and  remove nodes without disrupting the network.</td>
+      </tr>
+      <tr>
+        <td>DLPI</td>
+        <td>Data Link Provider Interface</td>
+        <td>The SVR4 STREAMS-based kernel-level interface that supports the services of the Data Link Layer for both connection-mode and connectionless-mode services</td>
+      </tr>
+      <tr>
+        <td>DLR</td>
+        <td>Design Layout Record</td>
+        <td>The layout for the                           local portion of a circuit at a particular location.</td>
+      </tr>
+      <tr>
+        <td>DLT</td>
+        <td>Digital Linear Tape</td>
+        <td>A magnetic tape technology that uses half-inch, single-hub  cartridges,writes 128 or 208 linear tracks, and provides capacities from 40  to80GB. A technology designed by DEC and sold to Quantum </td>
+      </tr>
+      <tr>
+        <td>DM</td>
+        <td>Data Mining</td>
+        <td>Generic term for identifying possible relationships and trends between data items.      Typically data mining is the statistical analysis of data to identify commonalities and      patterns.</td>
+      </tr>
+      <tr>
+        <td>DMA</td>
+        <td>Direct Memory Access </td>
+        <td>A technique of transferring data between the computer memory and a device on the computer bus without the
+          intervention of the microprocessor.</td>
+      </tr>
+      <tr>
+        <td>DMAA</td>
+        <td>Discrete Mathematics, Algorithms and Applications</td>
+        <td>Discrete Mathematics, Algorithms and Applications</td>
+      </tr>
+      <tr>
+        <td>DMB</td>
+        <td>Dhtml Menu Builder</td>
+        <td>Used to idetify a DHTML/Javascript menu building tool called DHTML Menu Builder. Also used in the extension of the application's project files</td>
+      </tr>
+      <tr>
+        <td>DMCA</td>
+        <td>Digital Millennium Copyright Act</td>
+        <td>A controversial reform of the U.S. copyright laws that is the first  attempt to update those laws for the age of digital technology.</td>
+      </tr>
+      <tr>
+        <td>DME</td>
+        <td>distributed management environment </td>
+        <td>A specification of the Open Software Foundation (OSF) for managing open  systems.</td>
+      </tr>
+      <tr>
+        <td>DMI</td>
+        <td> Desktop Management Interface</td>
+        <td> an API to enable  software to collect information about a computer environment.</td>
+      </tr>
+      <tr>
+        <td>DML</td>
+        <td>Data Manipulation Language </td>
+        <td>a family of computer languages used by computer programs or database  users to retrieve, insert, delete and update data in a database. The  currently most popular Data manipulation language is that of SQL, which  is used to retrieve and manipulate data in a Relational database.</td>
+      </tr>
+      <tr>
+        <td>DMO</td>
+        <td>Distributed Management Object</td>
+        <td>This OLE server exposes representations of SQL Server database objects (tables, stored procedures, server properties, and so on), many of which are usually modified through Transact-SQL</td>
+      </tr>
+      <tr>
+        <td>DMS</td>
+        <td>Digital Multiplex Systems</td>
+        <td>System that combines number of digital circuits. </td>
+      </tr>
+      <tr>
+        <td>DMT</td>
+        <td>Discrete Multi-Tone</td>
+        <td>an ADSL modulation technique that splits bandwidth usage  usage into sub-channels for maximum data transfer. A channel is then  optimized for modulation if certain channels cannot transmit data.</td>
+      </tr>
+      <tr>
+        <td>DMZ</td>
+        <td>demilitarized zone</td>
+        <td> a computer host or small   network inserted as a "neutral zone" between a company's private network and the   outside public network. It prevents outside users from getting direct access to   a server that has company data. The term comes from the geographic buffer zone   that was set up between North Korea and South Korea following the UN "police   action" in the early 1950s.</td>
+      </tr>
+      <tr>
+        <td>DNA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Deoxyribonucleic acid</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Distributed Network Architecture</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> the genetic or hereditary material in humans and most of the other  living organisms. DNAs are mostly stored in the nucleus of cells and  can replicate themselves.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Arrangement of networked computers in which several processors (the CPUs) are located on scattered machines, but are capable of working both independently and jointly as required.</p><p>DNA is also Delivery Network Accelerator (BitTorrent), Dynamic Network Administration (Ericsson), Dynamic Network Analyzer (Lucent)</td>
+      </tr>
+      <tr>
+        <td>DNIC</td>
+        <td>data network identification code</td>
+        <td>A 4-digit code that specifies the X.21 call format used by a network  in its International Data Number to call another station.</td>
+      </tr>
+      <tr>
+        <td>DNLC</td>
+        <td>Directory Name Lookup Cache</td>
+        <td>Unix file cache</td>
+      </tr>
+      <tr>
+        <td>DNR</td>
+        <td>Digital Noise Reduction</td>
+        <td><div>
+          <p>Ensures superior  picture quality by "cleaning" images and reducing picture "noise".  Particularly useful for older movies where the source master has  picture noise.</p>
+        </div></td>
+      </tr>
+      <tr>
+        <td><a href="dns_server.htm">DNS</a></td>
+        <td><a href="dns_server.htm">Domain Name Service / Server / System</a></td>
+        <td><div align="justify">the way that Internet domain names are  located and translated into IP addresses. A domain  name is a meaningful and easy-to-remember "handle" for an Internet  address.</div></td>
+      </tr>
+      <tr>
+        <td>DNSBL</td>
+        <td>DNS Based List, DNS Blacklist, or DNS Blocklist. </td>
+        <td>A published list of IP addresses that can be queried through the Internet. DNSBLs are used to publish IP addresses associated with  e-mail spam and spamming.</td>
+      </tr>
+      <tr>
+        <td>DNSSEC</td>
+        <td>Domain Name System SECurity extensions </td>
+        <td>Technique for securing the Domain Name System. It is a set of extensions to DNS, which provide end-to-end authenticity  and integrity and was designed to protect the Internet from certain attacks. See also <a href="http://www.dnssec.net/">http://www.dnssec.net/</a></td>
+      </tr>
+      <tr>
+        <td>DOA</td>
+        <td>Dead On Arrival</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Service to replace malfunctioning devices.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> In CRM, DOA report tells users which products are the most error-prone or receive the most complaints from customers.T</p></td>
+      </tr>
+      <tr>
+        <td> DoCoMo</td>
+        <td>Do Communication over the Mobile network</td>
+        <td>DoCoMo (meaning "anywhere" in Japanese) is a NTT subsidiary and Japan's biggest mobile service provider</td>
+      </tr>
+      <tr>
+        <td>DOCSIS</td>
+        <td>Data-over-Cable Service Interface Specifications</td>
+        <td>Defines technical specifications for equipment at  both subscriber locations and cable operators' headends. Adoption of  DOCSIS will accelerate the deployment of data-over-cable services and  will ensure interoperability of equipment throughout system operators'  infrastructures. </td>
+      </tr>
+      <tr>
+        <td>DO-IT</td>
+        <td>Disabilities, Opportunities, Internetworking and Technology</td>
+        <td>Disabilities, Opportunities, Internetworking and Technology</td>
+      </tr>
+      <tr>
+        <td>Dolly</td>
+        <td>Digital Dolly</td>
+        <td>a program that can quickly clone (copy) drives  to drives, drives to files, files to drives, or files to files. It is  similar to the Symantec product known as Ghost.</td>
+      </tr>
+      <tr>
+        <td>DOM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> distributed output management</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Document Object Model</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Middleware that drives the output process and supports the automated creation and delivery of documents.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> A platform-neutral and language-neutral interface that allows programs and scripts to access and update the content, structure, and style of documents dynamically. </p></td>
+      </tr>
+      <tr>
+        <td>DOMAIN</td>
+        <td>Distributed Operating Multi Access Interactive Network</td>
+        <td>Distributed Operating Multi Access Interactive Network</td>
+      </tr>
+      <tr>
+        <td>DOP</td>
+        <td>Dilution  Of  Precision</td>
+        <td>One  of  many  quality  measurements  to  evaluate  solutions  derived  by  a 
+          positioning receiver.  This is a numeric value that relates relative geometries between positioning satellites as 
+          well as the geometries between the satellites and the receiver.</td>
+      </tr>
+      <tr>
+        <td>DoS</td>
+        <td>denial of service</td>
+        <td>The inability of a Web site or other server to respond to legitimate  connections. DoS attacks are used to block access to a target Internet  site.</td>
+      </tr>
+      <tr>
+        <td>DOS</td>
+        <td>Disk Operating System</td>
+        <td>A command-driven PC OS that resides in main memory  and uses disks for data storage. It was once the standard OS for  IBM-compatible PCs. Early versions of Microsoft Windows ran on top of  DOS.</td>
+      </tr>
+      <tr>
+        <td>DOV</td>
+        <td>Data-Over-Voice</td>
+        <td> A technique used in <a href="glossary_f.htm">FDM</a> allowing the  combination of voice and data on the same line. DOV usually employs  twisted pair cables assigning some of the unused bandwidth for data  transmission.</td>
+      </tr>
+      <tr>
+        <td>DPA</td>
+        <td><dl>
+            <dt id="x2053630"> Document Printing Application</dt>
+        </dl></td>
+        <td>An OSI standard (ISO/IEC 10175) that addresses those aspects of  document processing that enable users in a distributed open systems  environment to send electronic documents to shared, possibly  geographically-dispersed, printers.</td>
+      </tr>
+      <tr>
+        <td>DPC</td>
+        <td>Destination Point Code </td>
+        <td><p>The part of a routing label that identifies where an SS7 signaling message should be sent.</p></td>
+      </tr>
+      <tr>
+        <td>DPF</td>
+        <td>Database Partitioning Feature </td>
+        <td>A feature that can be used to improve the management of a large database by  dividing it into multiple database partitions that are physically placed on  one or more servers.</td>
+      </tr>
+      <tr>
+        <td>DPI</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong><a href="http://www.consp.com/deep-packet-inspection-dpi">deep packet inspection</a></p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> Distributed Protocal Interface</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> An advanced form of firewall technology that looks deeper into the  packet stream than traditional packet inspection approaches to identify  attempts at malicious behavior and block them.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> <strong></strong> An extension to the SNMP agent that permits  users to dynamically add, delete, or replace management variables in the local  MIB without requiring recompilation of the SNMP  agent.</p></td>
+      </tr>
+      <tr>
+        <td>dpi</td>
+        <td> Dots Per Inch</td>
+        <td>An image measurement standard that measures an   	images resolution as it applies to printers. It measures the images pixels   	in one square inch. The higher the number the better the images resolution   	or quality.</td>
+      </tr>
+      <tr>
+        <td>DPMA</td>
+        <td>Dynamic Power Management Architecture </td>
+        <td>This architecture allows computers to have a variety of advanced power management features.</td>
+      </tr>
+      <tr>
+        <td>DPMI</td>
+        <td>Dos Protected Mode                   Interface</td>
+        <td>allow                   DOS programs to access the extended memory of PC architecture                   computers while maintaining system protection. DPMI defines a                   specific subset of DOS and BIOS calls that can be made by protected                   mode DOS programs. </td>
+      </tr>
+      <tr>
+        <td>DPN</td>
+        <td>Data Packet Network</td>
+        <td>Network in which “bundles of information are transmitted,               one after another. Differs from circuit network, in which entire circuit               is dedicated to particular user.</td>
+      </tr>
+      <tr>
+        <td>DPtoTP</td>
+        <td>Display Coordinates TO Tablet Coordinates</td>
+        <td>Coordinates conversion</td>
+      </tr>
+      <tr>
+        <td>DPV</td>
+        <td>Distributed Partitioned View</td>
+        <td>Joins horizontally partitioned data from a set of member tables across one or more servers, making the data appear as if from one table </td>
+      </tr>
+      <tr>
+        <td>DPW</td>
+        <td>Digital Pulse Wireless</td>
+        <td>also known as Ultra Wideband Radio. It is the  revolutionary wireless technology for transmitting large amounts of  digital data over a wide electromagnetic radiation spectrum of  frequency bands with very low power. </td>
+      </tr>
+      <tr>
+        <td>DQM</td>
+        <td>Data Quality Manager </td>
+        <td>Oracle CDH engine</td>
+      </tr>
+      <tr>
+        <td>DR</td>
+        <td>disaster recovery</td>
+        <td>Methods and procedures for returning a system, network or data center  to full operation after a catastrophic interruption — including the  recovery of lost data, the use of alternative network channels if the  primary channels are disconnected or malfunctioning.</td>
+      </tr>
+      <tr>
+        <td>DRAC</td>
+        <td>Dell Remote Assistant Card</td>
+        <td>Interface card from Dell Inc that provides out-of-band management facilities. The controller has its own processor, memory, battery, network connection, and access to the system bus</td>
+      </tr>
+      <tr>
+        <td>DRAM</td>
+        <td>Dynamic Random Access Memory</td>
+        <td>This is a common type of random access memory   	that is used in personal computing. The "dynamic" in its name is due to the   	fact that this memory needs to be refreshed as opposed to other SRAM that is   	"static". The DRAM is refreshed by the use of electrical current pulses that   	pass through all memory cells. DRAM needs to be periodically refreshed to   	retain the stored data.</td>
+      </tr>
+      <tr>
+        <td>DRE</td>
+        <td>Document Rendering Engine</td>
+        <td>Collection of Java classes that can be used to define an abstract document and render it in PDF or HTML. A document consists of a collection of elements such as text, lists (bulleted, numbered, plain), tables, images, fonts, color, etc. </td>
+      </tr>
+      <tr>
+        <td>DRF</td>
+        <td>Data Recovery Field</td>
+        <td>In NTFS file encryption keys are stored there</td>
+      </tr>
+      <tr>
+        <td>DRi</td>
+        <td>Disaster Recovery Institute </td>
+        <td><a href="http://www.drii.org/DRII">DRI International</a> was founded in  1988 in order to develop a base of knowledge in contingency planning  and the management of risk, a rapidly growing profession. </td>
+      </tr>
+      <tr>
+        <td>DRM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Data Relationship Management</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> digital rights management</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Oracle Hyperion technology to provide strong hierarchy visualization and management capabilities</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Trusted exchange of digital information over the Internet whereby the  user is granted only the privileges that the document sender allows.</p></td>
+      </tr>
+      <tr>
+        <td>DROP</td>
+        <td>delivery of real-time execution information protocol</td>
+        <td>feature of various <a href="http://nasdaq.com">NASDAQ</a> (National Association of Securities Dealers Automated Quotations) protocols that allows a subscriber to continuously view vital information about trades including the date and time, the participants (by symbol or icon), order identification data, condensed descriptions, the exchange prices and relevant commissions.</td>
+      </tr>
+      <tr>
+        <td>DRP</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Disaster Recovery Plan</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Distribution and Replication Protocol</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> refer to DR</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The goal of the DRP protocol is to significantly improve the efficiency and reliability of data distribution over HTTP</p></td>
+      </tr>
+      <tr>
+        <td>DRU</td>
+        <td>Disc Remastering Utility</td>
+        <td>Tool designed to create a customized copy of the Ubuntu Linux Distribution</td>
+      </tr>
+      <tr>
+        <td>DRW</td>
+        <td>Defect Remediation Window</td>
+        <td> How long it takes to fx or “close” 
+          a defect</td>
+      </tr>
+      <tr>
+        <td>DS</td>
+        <td>Differentiated Service</td>
+        <td>A IETF standard for a small, well-defined set of per-packet building blocks from which a variety of services may be built, thereby providing a framework for delivering <a href="glossary_q.htm">QoS</a> in networks</td>
+      </tr>
+      <tr>
+        <td>DS0</td>
+        <td>Digital Subscriber Level Zero</td>
+        <td>A 64 Kbps unit of transmission bandwidth. A worldwide               standard speed for digitizing one voice conversation, and more recently,               for data transmission. Twenty-four DS0s (24x64 Kbps) equal one Digital               Signal Level 1 (DS1).</td>
+      </tr>
+      <tr>
+        <td>DS1</td>
+        <td>Digital Signal Level 1</td>
+        <td>Framing specification used in transmitting digital signals               at 1.544 Mbps on a T1 facility or 2.048 Mbps on an E1 facility.</td>
+      </tr>
+      <tr>
+        <td height="37">DSn</td>
+        <td>digital signal level n</td>
+        <td>A classification of digital circuits. The DS technically refers 
+          to  the rate and the format of the signal, whereas the T designation refers  to the equipment providing the signals. In practice, DS and T are used  synonymously; 
+          for example, DS1 and T1, DS3 and T3. </td>
+      </tr>
+      <tr>
+        <td>DSA</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Digital Signature Algorithm </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Distributed Systems Architecture</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> An asymmetric cryptographic algorithm that produces a  digital signature in the form of a pair of large numbers. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The networking architecture developed by Honeywell-Bull for the GCOS environment</p></td>
+      </tr>
+      <tr>
+        <td>DSAP</td>
+        <td>Destination Service Access Point</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> In OSI, a service access point used to receive data.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> In  SNA and TCP/IP, a logical address that allows a system to route data from  a remote device to the appropriate communications support. </p></td>
+      </tr>
+      <tr>
+        <td>DSBM</td>
+        <td>Designated Subnet Bandwidth Manager</td>
+        <td>A device on a managed subnetwork that acts as the Subnet Bandwidth Manager for the subnetwork to which it is attached </td>
+      </tr>
+      <tr>
+        <td>DSE</td>
+        <td>Directory Services Environment</td>
+        <td>Contains a list of Naming Contexts and Application Partitions maintained by a Domain Controller</td>
+      </tr>
+      <tr>
+        <td>DSI</td>
+        <td>Dynamic Systems Initiative</td>
+        <td>Microsoft's technology strategy for products and solutions that help businesses enhance the dynamic capability of its people, process, and IT infrastructure using technology </td>
+      </tr>
+      <tr>
+        <td height="37">DSL</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Digital Subscriber Line </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Domain-Specific Language</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Dual Stress Liner</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> It  is medium for transferring data over regular phone lines and can be  used to connect to the Internet.</p>
+            <p> <img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a natural extension of and 
+              complement to UML. DSL is helping to remove the semantic gap between problem and solution 
+              domains by using tailor-made syntax and semantics.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Technology by AMD and IBM to strain silicon chips to enhance their performance</p></td>
+      </tr>
+      <tr>
+        <td height="37">DSLAM</td>
+        <td>DSL Access Multiplexer</td>
+        <td>a device that joins a high-speed computer network to a set of ordinary telephone lines in a telephone company central office.</td>
+      </tr>
+      <tr>
+        <td height="37">DSM</td>
+        <td>dependency structure matrix</td>
+        <td>Excellence tools Kit For Development Projects</td>
+      </tr>
+      <tr>
+        <td height="37">DSM-CC</td>
+        <td>Digital storage media command and control</td>
+        <td>a toolkit for developing control channels associated with MPEG-1 and MPEG-2 streams. </td>
+      </tr>
+      <tr>
+        <td height="37">DSML</td>
+        <td>Directory Service Markup Language</td>
+        <td>combines directory services technology (LDAP ) with XML syntax to provide an easy way to share and use personalized data across company and technology boundaries. </td>
+      </tr>
+      <tr>
+        <td height="37">DSN</td>
+        <td>dealer software network</td>
+        <td><p> A network-resident, standards-based environment that interconnects chains of applications and services.</p></td>
+      </tr>
+      <tr>
+        <td>DSO</td>
+        <td>data source object </td>
+        <td>A DSO exploit is a form of spyware that takes advantage of data binding to gain access to the hard drive of a computer connected to the Internet. Such spyware can be difficult to detect and eradicate, and if it is successfully removed, it often returns. </td>
+      </tr>
+      <tr>
+        <td height="37">DSOM</td>
+        <td>Distributed System Object Model</td>
+        <td>a version of SOM that supports sharing binary objects across networks. DSOM is similar to Microsoft's competing standard called DCOM. </td>
+      </tr>
+      <tr>
+        <td height="37">DSP</td>
+        <td>digital signal processor</td>
+        <td>A specialized computer chip optimized for high data rates needed to  process digitized wave forms, particularly those derived from analog  sources. Often used in equipment requiring voice digitization.</td>
+      </tr>
+      <tr>
+        <td height="37">DSR</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Data Set Ready</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Dynamic Source Routing</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A serial connectivity term, used primarily with printers  and modems in modern systems. DSR is the primary computer signal line  for hardware handshaking over a serial interface; connects to the DTR  line at the computer.</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a self-maintaining routing protocol for  wireless networks. The protocol can also function with cellular  telephone systems and mobile networks with up to about 200 nodes.</p></td>
+      </tr>
+      <tr>
+        <td height="37">DSS</td>
+        <td>igital Signature Standard</td>
+        <td>The US Government standard that specifies the Digital Signature Algorithm (DSA), which involves asymmetric cryptography.</td>
+      </tr>
+      <tr>
+        <td height="37">DSSA</td>
+        <td>Distributed System Security Architecture</td>
+        <td>a computer security architecture that provides a suite of functions including login, authentication, and access control in a distributed system. </td>
+      </tr>
+      <tr>
+        <td height="37">DSSS</td>
+        <td>Direct Sequence Spread Spectrum</td>
+        <td>A spread spectrum transmission method which is also         used by IEEE802.11b compatible devices. One bit of the signal is transmitted         as a code word, which is equivalent to multiplying the transmission rate         (spreading the transmission rate).</td>
+      </tr>
+      <tr>
+        <td height="37">DSTN</td>
+        <td>Double-layer Supertwist Nematic</td>
+        <td>This is a form of passive matrix <a href="glossary_l.htm">LCD</a> screen.</td>
+      </tr>
+      <tr>
+        <td height="37">DSTP</td>
+        <td>Data Space Transfer Protocol</td>
+        <td>used to index and categorize data using a XML based catalog. </td>
+      </tr>
+      <tr>
+        <td height="37">DSU</td>
+        <td>data service unit</td>
+        <td>A simplified modem for the transmission of digital data over a private  line or for limited-distance communications over the <a href="glossary_p.htm">PSTN</a>, where it is not necessary to comply with all  the requirements for a high-speed modem.</td>
+      </tr>
+      <tr>
+        <td height="37">DSU</td>
+        <td>Digital Service Unit</td>
+        <td>A user device interfacing to a digital circuit, such               as DDS or T1 when com-bined with a CSU. The               DSU converts the user’s data stream to bipolar format for transmission.</td>
+      </tr>
+      <tr>
+        <td height="37">DSVD</td>
+        <td>Digital Simultaneous Voice and Data</td>
+        <td>An all-digital technology for concurrent voice and data (SVD) transmission over a single analog telephone line. DSVD is endorsed by Intel, Hayes, U.S. Robotics</td>
+      </tr>
+      <tr>
+        <td height="37">DSX</td>
+        <td>Digital System Cross-connect frame</td>
+        <td>Digital System Cross-connect frame. DSX1: Digital Signal Cross-connect level 1</td>
+      </tr>
+      <tr>
+        <td height="37">DTD</td>
+        <td>Document Type Definition</td>
+        <td>a type of file associated with SGML and XML documents that defines how the markup tags should be interpreted by the application presenting the document. </td>
+      </tr>
+      <tr>
+        <td height="37">DTDS</td>
+        <td>Disaster Tolerant Disk Systems</td>
+        <td> term from the RAID advisory  board which describes server systems which must be divisible into two  or more zones which cooperate to protect against loss of access to data  in the event of one system's complete failure. </td>
+      </tr>
+      <tr>
+        <td height="37">DTE</td>
+        <td>Data Terminal Equipment</td>
+        <td>Devices acting as data source, data sink, or both</td>
+      </tr>
+      <tr>
+        <td height="37">DTM</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Document Table Model</p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Dynamic synchronous Transfer Mode</p></td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> Interface to a document model designed specifically for the needs of Apache's XPath and XSLT implementations. The motivation behind this model is to optimize performance and minimize storage </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> a specification that was unanimously approved by the members of ETSI.</p></td>
+      </tr>
+      <tr>
+        <td height="37">DTMF</td>
+        <td>Data Tone Multiple Frequency</td>
+        <td>Used with modems to put more data down one line.</td>
+      </tr>
+      <tr>
+        <td height="37">DTML</td>
+        <td>Document Template Mark-up Language</td>
+        <td>a subset of SGML and a superset of HTML used for creating documents that dynamically adapt to external conditions using its own custom tags and a little bit of Python. </td>
+      </tr>
+      <tr>
+        <td height="37">DTN</td>
+        <td>Disruption Tolerant Networking</td>
+        <td>a networking architecture that is designed to provide communications in the most unstable and stressed environments</td>
+      </tr>
+      <tr>
+        <td height="37">DTP</td>
+        <td>Desktop publishing </td>
+        <td>A system that processes the  text and graphics and, by means of page
+          layout  software  and a  laser printer,  produces high-quality pages suitable for printing or in-house
+          reproduction.</td>
+      </tr>
+      <tr>
+        <td height="37">DTS</td>
+        <td>Digital Theater System</td>
+        <td><span id="intelliTxt">Special system used for encoding and decoding an  audio signal on multiple channels, used in cinemas and home-use theater  systems as well. Used for the first time by movie director Steven  Spielberg, DTS' most common channel array comprises 5.1 channels (5  fullrange and one for the subwoofer). Dolby Digital is DTS' most  notable competitor.</span></td>
+      </tr>
+      <tr>
+        <td height="37">DTR</td>
+        <td>Data Terminal Ready</td>
+        <td>It is a primary serial printer signal for hardware handshaking over a serial interface; connects to the DSR pin at the computer.</td>
+      </tr>
+      <tr>
+        <td height="37">DTTV</td>
+        <td>Digital Terestial Televison</td>
+        <td>broadcasts over earthbound circuits so sateliites aren't used for any part of the link between the broadcaster and the end user.</td>
+      </tr>
+      <tr>
+        <td height="37">du</td>
+        <td>disk usage</td>
+        <td>du is a standard Unix program used to estimate the file space usage—space used under a particular directory or files on a file system.</td>
+      </tr>
+      <tr>
+        <td height="37">DUAL</td>
+        <td>Diffusing Update Algorithm</td>
+        <td>Convergence algorithm used in Enhanced IGRP that  provides loop-free operation at every instant throughout a route  computation. Allows routers involved in a topology change to  synchronize at the same time, while not involving routers that are  unaffected by the change.</td>
+      </tr>
+      <tr>
+        <td height="37">DUL</td>
+        <td>Dial Up List </td>
+        <td>a list of                   dialups known to be used by spammers. Networks can use the list                   to automatically block all mail from those dialups. </td>
+      </tr>
+      <tr>
+        <td height="37">DUN</td>
+        <td>Dial-Up Networking</td>
+        <td>Creating a WAN over dial-up internet.</td>
+      </tr>
+      <tr>
+        <td height="37">DUNS</td>
+        <td>Data Universal Numbering System</td>
+        <td>A system in which internationally recognized nine-digit numbers are  assigned and maintained by Dun & Bradstreet to uniquely identify worldwide  businesses.</td>
+      </tr>
+      <tr>
+        <td height="37">DUOW / DUW</td>
+        <td><dl>
+            <dt id="x2001607"> distributed unit of work</dt>
+        </dl></td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> A unit of work that allows SQL statements to be submitted to multiple relational  database management systems, but no more than one system per SQL statement.</p>
+            <p><img src="images/connet_ball.JPG" alt="connet to" width="6" height="6" /> In a distributed process, all processing between two syncpoints  taken by two or more intercommunicating transactions using a two-phase commit  protocol.</p></td>
+      </tr>
+      <tr>
+        <td height="37">DUPS</td>
+        <td>Digital Unbundled Port Services</td>
+        <td><p>An element, not bundled with a loop or transport facility, which  provides digital access to the functionality of a local switching  system.</p></td>
+      </tr>
+      <tr>
+        <td height="37">DUV</td>
+        <td>Data Under Voice</td>
+        <td>The normally unused spectrum at the lower  end of a radio channel used to provide a T1 (1.544 m bps) channel for  digital services.</td>
+      </tr>
+      <tr>
+        <td height="37">DV</td>
+        <td> Digital video</td>
+        <td>A digital tape-recording format using approximately 5:1 compression <br />
+          to produce Betacam quality on a very small cassette.</td>
+      </tr>
+      <tr>
+        <td height="37">DVB-H</td>
+        <td>Digital Video Broadcasting - Handhelds</td>
+        <td>specification for bringing broadcast services to battery-powered  handheld receivers that allows the receiving device to move freely  while receiving the transmission.</td>
+      </tr>
+      <tr>
+        <td height="37">DVB-SH</td>
+        <td>Digital Video Broadcasting - Satellite services to Handhelds</td>
+        <td>a system used to deliver IP based media content and data to handheld  terminals, like mobile phones or PDAs, via satellite. The DVB-SH system  was designed for frequencies below 3 GHz, typically in the S-band.</td>
+      </tr>
+      <tr>
+        <td height="37">DVBMHP</td>
+        <td>Digital Video Broadcasting Multimedia Home Platform</td>
+        <td>Europe and South Korea Interactive TV</td>
+      </tr>
+      <tr>
+        <td height="37">DVCD</td>
+        <td>Double Video CD</td>
+        <td>CD capable of holding up to 99 minutes of video as well as audio data, with quality similar to VHS tape.</td>
+      </tr>
+      <tr>
+        <td height="37">DVD</td>
+        <td>Digital Versatile Disc</td>
+        <td>DVD is a storage medium
+          capable of storing programs and data.</td>
+      </tr>
+      <tr>
+        <td height="37">DVMRP</td>
+        <td>Distance Vector Multicast Routing Protocol</td>
+        <td>an interior gateway protocol based on RIP that supports connectionless multicast data transmission to a group of hosts over a network. </td>
+      </tr>
+      <tr>
+        <td height="37">DVI</td>
+        <td>Digital Video Interface, originally Digital Video Disc</td>
+        <td>A specification for a computer monitor interface capable of carrying  both analog and digital signals. DVI was developed by the Digital  Display Working Group, an industry group formed by Intel and other  vendors. </td>
+      </tr>
+      <tr>
+        <td height="37">DVRs</td>
+        <td>Digital video/Versatile  recorders</td>
+        <td>A hard-drive-equipped set-top box that makes it easy for consumers to record TV programs, pause live TV, and skip commercials.</td>
+      </tr>
+      <tr>
+        <td height="37">DWDM</td>
+        <td>dense wave division multiplexing</td>
+        <td>A technology used to increase fiber-optic transmission capacity. In fiber-optic networks  such as <a href="glossary_s.htm">SONET</a>, <a href="glossary_d.htm">DWDM</a> permits fibers to  carry up to eight wavelengths of light, thus multiplying their capacity  by the number of wavelengths carried.</td>
+      </tr>
+      <tr>
+        <td height="37">DWF</td>
+        <td>Design Web Format</td>
+        <td>Fast, efficient way to distribute design data to anyone who needs it. With Autodesk Express Viewer, a small, free, downloadable application, you can view and print that rich data</td>
+      </tr>
+      <tr>
+        <td height="37">DWM</td>
+        <td>Desktop Windows Manager </td>
+        <td>A windowing system in Windows Vista editions (all except Starter and  Home Basic) that support Aero, which handles drawing of content to the  screen.</td>
+      </tr>
+      <tr>
+        <td height="37">DWS</td>
+        <td>Dialable Wideband Service</td>
+        <td>Alternative name for Multirate ISDN, providing dialed               data connectivity at desired bandwidth on per call basis (from 128               kbps through 1.536 Mbps in 64 kbps increments).</td>
+      </tr>
+      <tr>
+        <td height="37">DX</td>
+        <td>DirectX / Direct X</td>
+        <td>Microsoft DirectX software</td>
+      </tr>
+      <tr>
+        <td height="37">dxdiag</td>
+        <td>directx diagnostics</td>
+        <td>a utility program for testing DirectX under
+          Windows. </td>
+      </tr>
+      <tr>
+        <td height="37">DXF</td>
+        <td>Drawing Interchange Format</td>
+        <td>used for Macintosh graphic files.  The  standard file-exchange format for 3-D and CAD programs.</td>
+      </tr>
+      <tr>
+        <td height="37">DXI</td>
+        <td>Data Exchange Interface</td>
+        <td>A variable length frame-based                                                   ATM interface between a DTE and                                                   a special ATM CSU/DSU. The ATM                                                   CSU/DSU converts between the variable-length                                                   DXI frames and the fixed-length                                                   ATM cells.</td>
+      </tr>
+      <tr>
+        <td height="37">dyld</td>
+        <td>dynamic link editor </td>
+        <td>The library manager for code in the Mach-O executable format. The  dynamic link editor is a dynamic library that “lives” in all Mach-O  programs on the system.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>D-4</td>
+        <td>A digital multiplexer used to convert 24                           voice grade analog or data channels into DS1.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>DaFont</td>
+        <td>DaFont is an archive of freely downloadable fonts. Fonts are categorized by theme, and can also be sorted by name, date, and popularity.<a href="http://www.dafont.com/">http://www.dafont.com/</a></td>
+      </tr>      <tr>
+        <td> </td>
+        <td>dark fiber</td>
+        <td>Fiber-optic cable deployments that are not yet being used to carry  network traffic. (The word "dark" refers to the fact that no light is  passing through the optical fibers.)</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>dashboard</td>
+        <td>A summary view of the status  of multiple service level agreements (SLAs). Or  a Web page that can contain one or more viewers that graphically  represent business data.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Daughter Board</td>
+        <td>A circuit board that plugs into a larger circuit board, or motherboard.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>dBi</td>
+        <td>A unit that is used to represent the gain of an antenna compared to the gain of an isotropic radiator.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>deadlock</td>
+        <td><p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> A condition under which  a transaction cannot proceed</p>
+            <p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> Unresolved contention  for the use of resources.</p>
+          <p><img src="images/connet_ball.JPG" alt="connet" width="6" height="6" /> A condition in which two independent  threads of control are blocked, each waiting for the other to take some action.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>debug</td>
+        <td>To detect, diagnose, and eliminate  errors in programs. Checking the logic of a program to isolate and eliminate the mistakes          from a computer program or other software.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Decryption</td>
+        <td>The act of restoring an encrypted file to its original state. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Deeper Sleep</td>
+        <td><p>an Intel power management technology. It helps to deliver longer  battery life by minimizing the power consumption of the processor  during brief periods of inactivity by the user including microseconds  between keystrokes.</p>          </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Default Route</td>
+        <td><p>Entry in a routing table that can redirect any frames for which the table has no definitive listing for the next hop.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>desktop</td>
+        <td> A computer designed to sit on a desk (as opposed to a laptop). In Windows, it also means the screen you see when you aren't running any programs, with "My Computer", the Recycle Bin and so on. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>dial-up</td>
+        <td>This is a telephone line that is connected to a server. When it is called,   	tones are exchanged between the server and the devise calling in order to   	attach.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>DICT</td>
+        <td> dictionary network protocol created by the <a href="http://www.dict.org/">DICT Development Group</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Dijkstra</td>
+        <td>Algorithm sometimes used to calculate routes given link               and nodal state topology database.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>directX</td>
+        <td>A set of multimedia APIs that Microsoft provides.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>docking (station)</td>
+        <td>A hardware device that enables a mobile computer to function as a  desktop computer.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>domain</td>
+        <td>The unique name that identifies         an internet site. Domain names always have two or more parts separated         by dots.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>drag</td>
+        <td>To move an image or a window from one place on the  screen to another by grabbing it with a mouse or other pointing device  and pulling it to a new location.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>dropbox</td>
+        <td>Dropbox is a Web-based file hosting service operated by Dropbox, Inc. that uses cloud storage to enable users to store and share files and folders with others. <a href="http://www.dropbox.com/">http://www.dropbox.com/</a></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>dual core</td>
+        <td>a <a href="glossary_c.htm">CPU</a> structure. The difference   	between a single core and dual core is that a dual core system has two CPU's   	that are electronically wired together. These two CPU's wired together in   	parallel gives twice the performance than that of its single core   	counterpart.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Due diligence </td>
+        <td>the requirement that organizations must develop and deploy a protection  plan to prevent fraud, abuse, and additional deploy a means to detect  them if they occur.</td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>dump</td>
+        <td><p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A large mass of information that shows the exact contents of computer memory at a particular time. </p>
+            <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> To send a large volume of information to somewhere specific such as a printer or a screen.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A backup or a backup file created by the UNIX dump utility.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> A tape or CD backup in a batch process.</p>
+          <p><img src="http://connet.cc/connet_images/connet.jpg" alt="connet" width="6" height="6" /> The general appearance of a real programmer's work area.</p></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Duplex</td>
+        <td>The ability to send and receive data over the same communications line. </td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td>Dynamic IP </td>
+        <td>Each computer or device connected to the internet needs its own  IP address. Devices and sites that are constantly  connected to the internet usually have a static IP address so the  DNS can reliably route traffic to the right place.</td>
+      </tr>
+    </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.78470206261 -->
+</html>

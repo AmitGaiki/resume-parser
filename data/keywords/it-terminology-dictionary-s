@@ -1,0 +1,2554 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<title>IT Terminology / Dictionary - S for Script</title>
+<meta name="keywords" content="shared, share, speed, science, sd, soa, sla, sql, si, snmp, sbc, sms, sis, sata, sans, space, sonic, sa, soap, supply chain management, six, streaming, source code, source, spam, symbian, sl, sr, search, sos, swat">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/library/public/designs/default/jquery-ui/jquery-ui.css">
+<link rel="stylesheet" href="/main.css">
+
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/jquery/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/_ar/latest/script/ck/ckeditor.js"></script>    
+<script type="text/javascript" src="/_ar/latest/script/ar.js"></script>
+<script>$(document).ready(function(){$AR.init('','latest',false);});</script>
+<!-- head -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = yes"><!--[if IE 7]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript">
+    window.location = "/upgrade-your-browser";
+</script>
+<![endif]--><script>
+$(document).ready(function() {
+    var iframes = document.getElementsByTagName('iframe');
+    
+    for (var i = 0; i < iframes.length; i++) {
+     try {
+        var iframe = iframes[i];
+        var players = /www.youtube.com|player.vimeo.com|maps.google.com/;
+        if(iframe.src.search(players) !== -1) {
+            var videoRatio = (iframe.height / iframe.width) * 100;
+            
+            iframe.style.position = 'absolute';
+            iframe.style.top = '0';
+            iframe.style.left = '0';
+            iframe.width = '100%';
+            iframe.height = '100%';
+            
+            var div = document.createElement('div');
+            div.className = 'video-wrap';
+            div.style.width = '100%';
+            div.style.position = 'relative';
+            div.style.paddingTop = videoRatio + '%';
+            
+            var parentNode = iframe.parentNode;
+            parentNode.insertBefore(div, iframe);
+            div.appendChild(iframe);
+        }
+      } catch(ex){}
+    }
+});
+</script>
+</head>
+<body id="page174" class="normal  not-logged-in "><a name="top"></a><div class="body-start-outer" ><div class="page-width body-start" ><!-- body_start -->
+</div></div>
+<div class="main">
+<div class="above-masthead-outer" ><div class="page-width above-masthead" ><!-- above_masthead -->
+</div></div>
+<div class="masthead-outer" ><div class="page-width" >
+<div class="columns masthead">
+
+<div class="column col-masthead">
+<!-- masthead -->
+<div class="marker" ></div>
+<div id="bp13" class="tile  m465 tile5 i100 content-left">
+<div class="content content12">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp15" class="tile inline-text m467 tile7 i100 content-left">
+<div class="content content999">
+<nav id="nav-2" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-2_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_2" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_3" class=" hoverable"><a href="http://connet.cn" target="_blank" ><div class="icon"></div><div class="text">简体<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_4" class=" hoverable"><a href="http://connet.tw" target="_blank" ><div class="icon"></div><div class="text">繁體<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_5" class=" hoverable"><a href="http://connet.jp" target="_blank" ><div class="icon"></div><div class="text">日本語<!----></div><div class="arrow"></div></a></li>
+<li id="nav-2_6" class=" hoverable"><a href="http://connet.vn/" target="_blank" ><div class="icon"></div><div class="text">tiếng Việt<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp14" class="tile nav-menu-on-phone m466 tile7 i100 content-left">
+<div class="content content12">
+<nav id="nav-1" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-1_1" class=" hoverable parent"><a href="/it-information-technology-service" ><div class="icon"></div><div class="text">IT Service<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_1_1" class=" hoverable"><a href="/network-solutions" ><div class="icon"></div><div class="text">Network<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_2" class=" hoverable"><a href="/mss-managed-security-services" ><div class="icon"></div><div class="text">MSS - Security<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_3" class=" hoverable"><a href="/virtual-it-information-technology" ><div class="icon"></div><div class="text">Virtual IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_4" class=" hoverable"><a href="/it-information-technology-consulting" ><div class="icon"></div><div class="text">IT Consulting<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_5" class=" hoverable"><a href="/it-information-technology-outsourcing-outsourced" ><div class="icon"></div><div class="text">IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_6" class=" hoverable"><a href="/china-it-information-technology" ><div class="icon"></div><div class="text">China IT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_1_7" class=" hoverable"><a href="/green-it-information-technology" ><div class="icon"></div><div class="text">Green IT<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_2" class=" hoverable parent"><a href="/enterprise-it-information-technology" ><div class="icon"></div><div class="text">Enterprise IT<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_2_1" class=" hoverable"><a href="/industry" ><div class="icon"></div><div class="text">Industry<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_2" class=" hoverable"><a href="/sme-smb-small-medium-enterprise-business" ><div class="icon"></div><div class="text">SME<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_3" class=" hoverable"><a href="/wholesale-business" ><div class="icon"></div><div class="text">Wholesale<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_4" class=" hoverable"><a href="/china-isp-enterprise" ><div class="icon"></div><div class="text">China ISP<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_5" class=" hoverable"><a href="/china-it-outsourcing-enterprise" ><div class="icon"></div><div class="text">China IT Outsourcing<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_6" class=" hoverable"><a href="/private-network-ethernet" ><div class="icon"></div><div class="text">Private Network Ethernet<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_7" class=" hoverable"><a href="/private-network-mpls" ><div class="icon"></div><div class="text">Private Network MPLS<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_8" class=" hoverable"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Studies<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_9" class=" hoverable"><a href="/managed-telephony" ><div class="icon"></div><div class="text">Managed Telephony<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_2_10" class=" hoverable"><a href="/281" ><div class="icon"></div><div class="text">Virtualization<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_3" class=" hoverable parent"><a href="/case-study-it-information-technology" ><div class="icon"></div><div class="text">Case Study<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_3_1" class=" hoverable"><a href="/case-study-carlsberg-group" ><div class="icon"></div><div class="text">Carlsberg<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_2" class=" hoverable"><a href="/case-study-str-specialized-technology-resources" ><div class="icon"></div><div class="text">UL STR<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_3" class=" hoverable"><a href="/case-study-fairwood-fast-food" ><div class="icon"></div><div class="text">Fairwood<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_4" class=" hoverable"><a href="/case-study-jetco-joint-electronic-teller" ><div class="icon"></div><div class="text">Jetco<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_5" class=" hoverable"><a href="/case-study-siix-corporation" ><div class="icon"></div><div class="text">SiiX<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_6" class=" hoverable"><a href="/case-study-binatone-telecom" ><div class="icon"></div><div class="text">Binatone<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_7" class=" hoverable"><a href="/case-study-brewer-science" ><div class="icon"></div><div class="text">Brewer Science<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_8" class=" hoverable"><a href="/case-study-choice-well" ><div class="icon"></div><div class="text">Choice Well<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_9" class=" hoverable"><a href="/case-study-clover-group" ><div class="icon"></div><div class="text">Clover<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_10" class=" hoverable"><a href="/case-study-circuit-city-stores" ><div class="icon"></div><div class="text">Circuit City<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_11" class=" hoverable"><a href="/case-study-coach" ><div class="icon"></div><div class="text">Coach<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_12" class=" hoverable"><a href="/case-study-days-healthcare" ><div class="icon"></div><div class="text">Days Healthcare<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_13" class=" hoverable"><a href="/case-study-dsc-direct-sale-centre" ><div class="icon"></div><div class="text">DSC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_14" class=" hoverable"><a href="/case-study-fergas-ab" ><div class="icon"></div><div class="text">Fergas<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_15" class=" hoverable"><a href="/case-study-li-lai-international-hotel-in-vietnam" ><div class="icon"></div><div class="text">Li Lai Hotel<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_16" class=" hoverable"><a href="/case-study-lig-lucky-industrial-group" ><div class="icon"></div><div class="text">LIG<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_17" class=" hoverable"><a href="/case-study-newell-pr-public-relations" ><div class="icon"></div><div class="text">Newell<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_18" class=" hoverable"><a href="/case-study-nyk-line" ><div class="icon"></div><div class="text">Yusen (NYK Line)<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_19" class=" hoverable"><a href="/case-study-photobook-asia" ><div class="icon"></div><div class="text">Photobook Asia<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_20" class=" hoverable"><a href="/case-study-sun-tak-group" ><div class="icon"></div><div class="text">Sun Tak<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_21" class=" hoverable"><a href="/case-study-unitrin" ><div class="icon"></div><div class="text">Unitrin<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_3_22" class=" hoverable"><a href="/case-study-wellpoint" ><div class="icon"></div><div class="text">Wellpoint<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_4" class=" hoverable parent open"><a href="/customer" ><div class="icon"></div><div class="text">Customer<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_4_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_2" class=" hoverable"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_4" class=" hoverable open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_10" class=" hoverable"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_4_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-1_5" class=" hoverable parent"><a href="/about-us-company-profile" ><div class="icon"></div><div class="text">About us<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-1_5_1" class=" hoverable"><a href="/corporate-strategy-2012" ><div class="icon"></div><div class="text">Strategy<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_2" class=" hoverable"><a href="/our-history-timeline" ><div class="icon"></div><div class="text">Timeline<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_3" class=" hoverable"><a href="/office-locations" ><div class="icon"></div><div class="text">Locations<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_4" class=" hoverable"><a href="/media-coverage" ><div class="icon"></div><div class="text">Media Coverage<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_5" class=" hoverable"><a href="/values-4-con" ><div class="icon"></div><div class="text">Values<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_6" class=" hoverable"><a href="/contact-us" ><div class="icon"></div><div class="text">Contact Us<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_7" class=" hoverable"><a href="/tour-our-soc" ><div class="icon"></div><div class="text">Tour Our SOC<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_8" class=" hoverable"><a href="/it-information-technology-consultant" ><div class="icon"></div><div class="text">IT Consultant<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_9" class=" hoverable"><a href="/leadership" ><div class="icon"></div><div class="text">Leadership<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_10" class=" hoverable"><a href="/featured-partners" ><div class="icon"></div><div class="text">Featured Partners<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_11" class=" hoverable"><a href="/career" ><div class="icon"></div><div class="text">Career<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_12" class=" hoverable"><a href="/investor" ><div class="icon"></div><div class="text">Investor<!----></div><div class="arrow"></div></a></li>
+<li id="nav-1_5_13" class=" hoverable"><a href="/associate-company-acme" ><div class="icon"></div><div class="text">Associate<!----></div><div class="arrow"></div></a></li></ul>
+</li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-masthead-outer" ><div class="page-width below-masthead" ><!-- below_masthead -->
+<div class="masthead-bps" ><div class="marker" ></div>
+<div id="bp28" class="tile  m1847 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm28_296" class="tile  m1848 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.A.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.A.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm28_297" class="tile  m1849 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/home/Consp_Main.B.jpg" class=" autogallery" data-preview="/library/public_preview/images/home/Consp_Main.B.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm28_307" class="tile  m1865 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/basil-red-square-moscow-russia.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm28_308" class="tile  m1866 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/blue-coliseum-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/blue-coliseum-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm28_312" class="tile  m1870 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/china-tibet-palace.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/china-tibet-palace.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm28_314" class="tile  m1872 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/club-penguin-jump-antarctica-ice.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm28_317" class="tile  m1875 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/dawn-venice-italy.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/dawn-venice-italy.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm28_318" class="tile  m1876 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/easter-island-chile.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/easter-island-chile.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item9">
+    
+<div id="mm28_319" class="tile  m1877 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/greece-athens-acropolis.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/greece-athens-acropolis.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item10">
+    
+<div id="mm28_320" class="tile  m1878 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" class=" autogallery" data-preview="/library/public_preview/main-images/zebra-flamingo-tanzania.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item11">
+    
+<div id="mm28_321" class="tile  m1879 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Co_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item12">
+    
+<div id="mm28_322" class="tile  m1880 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_Cust_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item13">
+    
+<div id="mm28_323" class="tile  m1881 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_EB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item14">
+    
+<div id="mm28_324" class="tile  m1882 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_SMB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item15">
+    
+<div id="mm28_325" class="tile  m1883 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="pic-outer" ><div class="pic"><a href="/contact-us" class=""><img src="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" class=" autogallery" data-preview="/library/public_preview/images/Main_956/Main_956_WB_2.jpg" alt=""></a>
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp28 = null;
+    window.parent.$AR.m_gallery.init('bp28',{  }, {random: 1,timeout: 8000,fx: 'scrollVert'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div></div>
+<div class="columns cols0">
+
+<div class="column col0">
+<div class="marker" ></div>
+<div id="pm787" class="tile  m1485 tile12 i100 content-left">
+<div class="content content0">
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="middle-outer">
+<div class="page-width middle-content">
+<!-- above_middle -->
+
+
+<div class="columns middle cols110">
+
+<div class="column col1">
+<!-- col1 -->
+<div class="marker" ></div>
+<div id="bp19" class="tile nav-vertical m470 tile12 i100 content-left">
+<div class="content content12">
+<nav id="nav-sub" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-sub_1" class=" hoverable"><a href="/our-valued-customers" ><div class="icon"></div><div class="text">Our Customers<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2" class=" hoverable parent"><a href="/the-event-of-it-information-technology" ><div class="icon"></div><div class="text">Events<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_2_1" class=" hoverable"><a href="/the-event-of-it-archive" ><div class="icon"></div><div class="text">Events Archive<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_2_2" class=" hoverable"><a href="/the-event-webinars" ><div class="icon"></div><div class="text">Webinars<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_3" class=" hoverable"><a href="/isp-it-exchange" ><div class="icon"></div><div class="text">ISP/IT Exchange<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4" class=" hoverable parent open"><a href="/it-information-technology-terminology-dictionary" ><div class="icon"></div><div class="text">IT Terminology<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_4_1" class=" hoverable"><a href="/it-terminology-dictionary-numbers" ><div class="icon"></div><div class="text"># numerics<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_2" class=" hoverable"><a href="/it-terminology-dictionary-a" ><div class="icon"></div><div class="text">A<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_3" class=" hoverable"><a href="/it-terminology-dictionary-b" ><div class="icon"></div><div class="text">B<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_4" class=" hoverable"><a href="/it-terminology-dictionary-c" ><div class="icon"></div><div class="text">C<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_5" class=" hoverable"><a href="/it-terminology-dictionary-d" ><div class="icon"></div><div class="text">D<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_6" class=" hoverable"><a href="/it-terminology-dictionary-e" ><div class="icon"></div><div class="text">E<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_7" class=" hoverable"><a href="/it-terminology-dictionary-f" ><div class="icon"></div><div class="text">F<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_8" class=" hoverable"><a href="/it-terminology-dictionary-g" ><div class="icon"></div><div class="text">G<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_9" class=" hoverable"><a href="/it-terminology-dictionary-h" ><div class="icon"></div><div class="text">H<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_10" class=" hoverable"><a href="/it-terminology-dictionary-i" ><div class="icon"></div><div class="text">I<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_11" class=" hoverable"><a href="/it-terminology-dictionary-j" ><div class="icon"></div><div class="text">J<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_12" class=" hoverable"><a href="/it-terminology-dictionary-k" ><div class="icon"></div><div class="text">K<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_13" class=" hoverable"><a href="/it-terminology-dictionary-l" ><div class="icon"></div><div class="text">L<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_14" class=" hoverable"><a href="/it-terminology-dictionary-m" ><div class="icon"></div><div class="text">M<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_15" class=" hoverable"><a href="/it-terminology-dictionary-n" ><div class="icon"></div><div class="text">N<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_16" class=" hoverable"><a href="/it-terminology-dictionary-o" ><div class="icon"></div><div class="text">O<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_17" class=" hoverable"><a href="/it-terminology-dictionary-p" ><div class="icon"></div><div class="text">P<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_18" class=" hoverable"><a href="/it-terminology-dictionary-q" ><div class="icon"></div><div class="text">Q<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_19" class=" hoverable"><a href="/it-terminology-dictionary-r" ><div class="icon"></div><div class="text">R<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_20" class=" hoverable on"><a href="/it-terminology-dictionary-s" ><div class="icon"></div><div class="text">S<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_21" class=" hoverable"><a href="/it-terminology-dictionary-t" ><div class="icon"></div><div class="text">T<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_22" class=" hoverable"><a href="/it-terminology-dictionary-u" ><div class="icon"></div><div class="text">U<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_23" class=" hoverable"><a href="/it-terminology-dictionary-v" ><div class="icon"></div><div class="text">V<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_24" class=" hoverable"><a href="/it-terminology-dictionary-w" ><div class="icon"></div><div class="text">W<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_25" class=" hoverable"><a href="/it-terminology-dictionary-x" ><div class="icon"></div><div class="text">X<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_26" class=" hoverable"><a href="/it-terminology-dictionary-y" ><div class="icon"></div><div class="text">Y<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_4_27" class=" hoverable"><a href="/it-terminology-dictionary-z" ><div class="icon"></div><div class="text">Z<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_5" class=" hoverable"><a href="/customer-testimonial" ><div class="icon"></div><div class="text">Testimonial<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_6" class=" hoverable"><a href="/it-information-technology-contract" ><div class="icon"></div><div class="text">Contract<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_7" class=" hoverable"><a href="/customer-referral-program" ><div class="icon"></div><div class="text">Referral Program<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_8" class=" hoverable"><a href="/general-terms-and-conditions" ><div class="icon"></div><div class="text">Terms<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_9" class=" hoverable"><a href="/uat-user-acceptance-test" ><div class="icon"></div><div class="text">UAT<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10" class=" hoverable parent"><a href="/sla-service-level-agreement" ><div class="icon"></div><div class="text">SLA<!----></div><div class="arrow"></div></a>
+<ul>
+<li id="nav-sub_10_1" class=" hoverable"><a href="/network-sla-service-level-agreement" ><div class="icon"></div><div class="text">Network SLA<!----></div><div class="arrow"></div></a></li>
+<li id="nav-sub_10_2" class=" hoverable"><a href="/mss-sla-service-level-agreement" ><div class="icon"></div><div class="text">MSS SLA<!----></div><div class="arrow"></div></a></li></ul>
+</li>
+<li id="nav-sub_11" class=" hoverable"><a href="/system-message" ><div class="icon"></div><div class="text">System Message<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="clear" ></div><div class="marker" ></div>
+<div id="bp24" class="tile  m1850 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="m_gallery gallery">
+    
+    <div class="items-outer">
+    <div class="items">
+<div class="item item1">
+    
+<div id="mm24_298" class="tile  m1851 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_A.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_A.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item2">
+    
+<div id="mm24_299" class="tile  m1852 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_B.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_B.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item3">
+    
+<div id="mm24_300" class="tile  m1853 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_C.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_C.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item4">
+    
+<div id="mm24_301" class="tile  m1854 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_D.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_D.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item5">
+    
+<div id="mm24_302" class="tile  m1855 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_E.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_E.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item6">
+    
+<div id="mm24_303" class="tile  m1856 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_F.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_F.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item7">
+    
+<div id="mm24_304" class="tile  m1857 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_G.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_G.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div>
+<div class="item item8">
+    
+<div id="mm24_305" class="tile  m1858 tile12 i100 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+<h2>Security Operations Centres</h2>
+
+
+</div>
+
+<div class="pic-outer" ><div class="pic"><img src="/library/public_preview/images/SOC/gallery_H.jpg" class=" autogallery" data-preview="/library/public_preview/images/SOC/gallery_H.jpg" alt="">
+
+</div></div>
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+    
+</div></div>
+    <a href="#" class="gallery-arrow-a previous"><div></div></a>
+    <a href="#" class="gallery-arrow-a next"><div></div></a>
+    </div>
+    
+    <ul class="nav lower thumbnails"></ul>
+    
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+
+    window.parent.$AR.m_gallery.timers.bp24 = null;
+    window.parent.$AR.m_gallery.init('bp24',{  }, {timeout: 4000,fx: 'fade',arnav: '.lower',art: true,artw: '38',arth: '38'}, false);
+
+});
+</script>
+    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="column col2">
+<!-- col2 -->
+<div class="marker" ></div>
+<div id="bp23" class="tile  m1860 tile12 i100 content-left">
+<div class="content content0">
+<ul class="crumb" ><li><a href="/welcome">Home</a></li><li><a href="/customer">Customer</a></li><li><a href="/it-information-technology-terminology-dictionary">IT Terminology</a></li><li><a href="/it-terminology-dictionary-s">S</a></li></ul>    
+</div>
+</div><div class="clear" ></div><h1 >S</h1><div class="marker" ></div>
+<div id="pm600" class="tile  m1193 tile12 i50 content-left">
+<div class="content content0">
+
+<div class="section m_standard section-cna text-left head-left">
+
+<div class="headings">
+
+<h3>S for Script</h3>
+
+</div>
+
+
+
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+<div id="pm751" class="tile  m1468 tile12 i100 content-left">
+<div class="content content0">
+<table border="1" cellpadding="9" class="ss-text">
+          <tr>
+            <th scope="col">abbreviation / acronyms </th>
+            <th scope="col">term</th>
+            <th scope="col">definition</th>
+          </tr>
+          <tr>
+            <td>S+</td>
+            <td>Security+</td>
+            <td>A CompTIA certification in vendor-neutral computer security training.  One of the required basic certifications mandated by DoD Instruction  8570.01-M for ALL people having access, either as a military member or  as a civilian support person.</td>
+          </tr>
+          <tr>
+            <td>S-Video</td>
+            <td> Super-Video / <em>Sony Video</em></td>
+            <td>a technology for transmitting video signals over a cable  by dividing the video information into two separate signals. One signal  for color (chrominance), and the other for brightness (luminance).</td>
+          </tr>
+          <tr>
+            <td>S3</td>
+            <td>Simple Storage System</td>
+            <td>an online storage web service offered by Amazon Web Services that first  became available in the US in March 2006 and in Europe in November 2007.</td>
+          </tr>
+          <tr>
+            <td>SA</td>
+            <td>System Administrator<p>
+Source-Active</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> The system administrator account installed with Microsoft      <a href="s">SQL</a> Server. This system administrator account has the username "sa".</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> The person  who controls and manages a computer system.</p>
+<p>SA(Source-Active) is Cisco term.
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> In <a href="o">OSI</a>, a person who  controls how the open system resources of a system or enterprise are used.</p></td>
+          </tr>
+          <tr>
+            <td>SAA</td>
+            <td>Systems Application                                                   Architecture</td>
+            <td>IBM's family of                                                   standard interfaces which enable                                                   software to be written independently                                                   of hardware and operating systems.</td>
+          </tr>
+          <tr>
+            <td>SaaS</td>
+            <td><div>software as a service</div></td>
+            <td>SaaS is a software distribution model in which applications are hosted by a  vendor or service provider and made available to customers over a  network,</td>
+          </tr>
+          <tr>
+            <td>SAD</td>
+            <td>Security Association Database</td>
+            <td>In each IPsec implementation there is a nominal Security Association Database, in which each entry defines the parameters associated with one Security Association</td>
+          </tr>
+          <tr>
+            <td>SAIC</td>
+            <td>Science Applications International Corporation</td>
+            <td>Founded by J. Robert Beyster, Ph.D., and a small group of scientists in 1969,  a FORTUNE 500® company <a href="http://www.saic.com">http://www.saic.com</a></td>
+          </tr>
+          <tr>
+            <td>SALT</td>
+            <td>Speech Application Language Tags</td>
+            <td>Lightweight set of extensions to existing markup languages, in particular HTML and XHTML that enable multimodal and telephony access to information, applications and Web services from PCs, telephones, tablet PCs and wireless personal digital assistants</td>
+          </tr>
+          <tr>
+            <td>SAM</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> security account manager</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Serial Access Memory</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> software asset management</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> An integral subsystem that maintains a database of information about  user accounts, including passwords, any account groups a given user  belongs to, the access rights each user is allowed, and any special  privileges a given user has.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> a serial register built into a VRAM to enable it to transfer large quantities of data from the DRAM portion of the device to a graphics controller or frame buffer. </p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A process for making software acquisition and disposal decisions. It  includes strategies that identify and eliminate unused or infrequently  used software, consolidating software licenses or moving toward new  licensing models</p></td>
+          </tr>
+          <tr>
+            <td>SAML</td>
+            <td>Security Assertion Markup Language</td>
+            <td>An <a href="glossary_x.htm">XML</a>-based mechanism that enables  disparate entities to exchange identity-related security information.  This information is presented as assertions about authentication,  authorization or various attributes of the identity in question.</td>
+          </tr>
+          <tr>
+            <td>SAN / SANs</td>
+            <td>Storage Area Network(s)</td>
+            <td><p>A storage network that consists of two tiers: </p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> The first tier — the storage plumbing tier — provides connectivity  between nodes in a network and transports device-oriented commands and  status.</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> The second tier — the software tier — uses software to provide value-added services that operate over the first tier.</p></td>
+          </tr>
+          <tr>
+            <td>SANS</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> SysAdmin, Audit, Network, Security </p>
+                <p> <img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> System Administration, Networking and Security institute</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> the most trusted and by far the largest source for information security training and certification in the world</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Organization that develops, maintains, and makes available at no cost, the largest collection of research documents about various aspects of information security, and it operates the Internet's early warning system - Internet Storm Center.</p></td>
+          </tr>
+          <tr>
+            <td rowspan="2">SAP</td>
+            <td>Service Access Point</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A logical  address that allows a system to route data between a remote device and the  appropriate communications support.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> In OSI architecture, the point at which the services of a layer are provided  by an entity of that layer to an entity of the next higher layer.</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> The protocol and credentials associated with a data center device for authentication  of remote operations.</p></td>
+          </tr>
+          <tr>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Service Advertising Protocol</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Secondary Audio Program</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Systeme, Anwendungen, Produkte</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Novell's Protocol provides information about                        what servers are available on the network. </p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> An NTSC audio channel used for auxiliary transmission, such as foreign language broadcasting or teletext. </p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A german company that produces the leading suite of client-server business software ("Systems, Applications and Products in data processing"). <a href="http://www.sap.com">www.sap.com</a></p></td>
+          </tr>
+          <tr>
+            <td>SAR</td>
+            <td>segmentation and reassembly</td>
+            <td>the process used to fragment and rebuild packets that allows them
+              to be transported across <a href="glossary_a.htm">asynchronous transfer mode (ATM)</a></td>
+          </tr>
+          <tr>
+            <td>SAS</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Secure Attention Sequence</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Serial Attached SCSI</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> single attachment station</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Statistical Analysis System</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A key sequence that begins the process of logging on or off. The default sequence is CTRL+ALT+DEL</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A replacement for the Parallel SCSI physical storage interface. Serial  Attached SCSI offers much faster communication and easier configuration.</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Device attached only to the primary ring of a <a href="glossary_f.htm">FDDI</a> ring. Also known as a Class B station. </p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> SAS Institute, a business intelligence software vendor, founded in 1976 and headquartered in Cary, North Carolina. <a href="http://www.sas.com">www.sas.com</a></p></td>
+          </tr>
+          <tr>
+            <td>SAS 70</td>
+            <td>Statement on Auditing Standards No. 70</td>
+            <td>defines the standards an auditor must employ in order to assess the contracted internal controls <a href="http://www.sas70.com">www.sas70.com</a></td>
+          </tr>
+          <tr>
+            <td>SASL</td>
+            <td> Simple Authentication and Security Layer</td>
+            <td>An extensible authentication scheme 
+              that allows the Open Directory Password Server to support a variety of network user 
+              authentication methods required.</td>
+          </tr>
+          <tr>
+            <td>SAST</td>
+            <td>Static application security testing</td>
+            <td>a set of technologies designed to analyze 
+              application source code, byte code and binaries for coding and design conditions that are 
+              indicative of security vulnerabilities. </td>
+          </tr>
+          <tr>
+            <td>Sat Nav</td>
+            <td>Satellite navigation</td>
+            <td>software which finds your physical geographical location then gives you  directions on which way to travel. This is most commonly used in  specialist hand-held devices as well as mobile phones.</td>
+          </tr>
+          <tr>
+            <td>SATA</td>
+            <td>Serial ATA</td>
+            <td> a disk-interface technology developed by a group of the industry's leading vendors to replace parallel ATA. It is the natural successor to IDE. Serial ATA only requires seven wires per device (4 data and 3 ground) and the cables can be up to 1m long.</td>
+          </tr>
+          <tr>
+            <td>SAV</td>
+            <td>Symantec AntiVirus</td>
+            <td>Previously called <a href="glossary_n.htm">Norton AntiVirus (NAV) </a></td>
+          </tr>
+          <tr>
+            <td>SAX</td>
+            <td>Simple API for XML</td>
+            <td>A public-domain alternative to <a href="glossary_d.htm">DOM</a> for enabling  programming languages to work with XML documents. SAX is <a href="glossary_a.htm">API</a> that uses "start events" and "stop events"  to parse an XML document so that an application can interact with it.</td>
+          </tr>
+          <tr>
+            <td>SB</td>
+            <td>Sound Blaster</td>
+            <td>Sound Blaster brand by Creative Labs</td>
+          </tr>
+          <tr>
+            <td>SBAS</td>
+            <td> Satellite-Based Augmentation System</td>
+            <td>systems 
+    broadcast free correction signals from geo-stationary satellites 
+    to improve the accuracy, integrity and availability of the GPS network</td>
+          </tr>
+          <tr>
+            <td>SBB</td>
+            <td> Storage Bridge Bay</td>
+            <td>specification  created in March 2006 by a nonprofit  working group, including collaborative vendors such as Intel, Dell, EMC  and LSI, which defines SBB as the mechanical/electrical interface  between a passive backplane drive array and the electronics packages  that give the array its personality. </td>
+          </tr>
+          <tr>
+            <td>SBC</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Session Border Controller</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> single-board computer</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> An appliance that simplifies handling of VoIP at the border of a network</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> a complete computer that resides on a single
+                  printed circuit board, usually a small one. </p></td>
+          </tr>
+          <tr>
+            <td>SBCS</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> single-byte character set</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Smart Business Communications <br />
+                  System</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A coded character set in which each character is represented by a 1-byte code.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Cisco  unified communications appliance that provides voice and data communications,
+                  voicemail, automated attendant, video, security, and wireless capabilities while integrating with existing desktop 
+                  applications</p></td>
+          </tr>
+          <tr>
+            <td>SBL</td>
+            <td>Spamhaus Block List</td>
+            <td>Realtime database of IP addresses of verified spam sources and spam operations, maintained by the Spamhaus Project team and supplied as a free service to help email administrators better manage incoming email streams.</td>
+          </tr>
+          <tr>
+            <td>SBLOG</td>
+            <td>spam blog</td>
+            <td>a fake blog created solely to promote  affiliated Web sites, with the intent of skewing search results and  artificially boosting traffic. </td>
+          </tr>
+          <tr>
+            <td>SBM</td>
+            <td>Subnet Bandwidth Manager</td>
+            <td>An IETF proposed standard for handling resource reservations on shared and switched IEEE 802-style local-area media</td>
+          </tr>
+          <tr>
+            <td>SBS</td>
+            <td>Small Business Server</td>
+            <td>Taken to refer to Small Business Server 2003 (or      earlier versions) from Microsoft.
+              <p><a href="http://www.microsoft.com/windowsserver2003/sbs/default.mspx">www.microsoft.com/windowsserver2003/sbs/default.mspx</a> - Windows Small Business Server 2003 Home</p></td>
+          </tr>
+          <tr>
+            <td>SBSD</td>
+            <td>Slow But Sure Death</td>
+            <td> term used by hardware repair people that refers to the  fact that computers are not in question as to IF they will crash and  die; it is only a matter of when. The three lethal factors are heat,  power that is not clean and cigarette smoke residue.</td>
+          </tr>
+          <tr>
+            <td>SCA</td>
+            <td>Service component architecture</td>
+            <td>a collection of specifications (proposed and 
+              published) by a consortium of vendors. </td>
+          </tr>
+          <tr>
+            <td>SCADA</td>
+            <td>Supervisory Control And Data Acquisition</td>
+            <td>Used extensively by power, water, gas and other utility companies to  monitor and manage distribution facilities. They are also used to  monitor and control end user usage levels for purposes such as remote  meter reading and load shedding.</td>
+          </tr>
+          <tr>
+            <td>SCAI</td>
+            <td>Switch-to-Computer Applications Interface</td>
+            <td>Protocol that allows subscriber’s computer to interact               with digital switch, making it possible to coordinate information               in database with incoming and outgoing phone calls to allow company representative to receive customer call and simultaneously               receive customer's file for viewing on desktop workstation.</td>
+          </tr>
+          <tr>
+            <td>SCAM</td>
+            <td>SCSI Configured Auto-Magically</td>
+            <td>This SCAM is actually a good thing. It allows SCSI devices to  automatically  be configured with  an ID number, even if they aren’t assigned one.</td>
+          </tr>
+          <tr>
+            <td>SCCM</td>
+            <td>Software change and configuration  management</td>
+            <td><div>
+                <p>SCCM tools are products and suites that  support the structured approval, assignment, monitoring, execution and  reporting of changes to software products for teams and teams of teams. </p>
+            </div></td>
+          </tr>
+          <tr>
+            <td>SCCP</td>
+            <td>Signaling Connection and Control Part</td>
+            <td>SS7 protocol that provides additional functions to Message               Transfer Part (MTP). Typically supports Transaction Capabilities Application               Part (TCAP).</td>
+          </tr>
+          <tr>
+            <td>SCCS</td>
+            <td>Source Code Control System</td>
+            <td>A suite of utilities to administrate                                                   source code such that only one                                                   person can change any given file                                                   at any given instant.</td>
+          </tr>
+          <tr>
+            <td>SCM</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Service Control Manager </p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Specifc Coverage Metric</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Source Code Management</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Source configuration management</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> supply chain management</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> The Windows component that maintains a database of installed services and manages each service's state.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A code database used to enable the collaborative development of  large projects by multiple engineers. SCM repositories are managed by  specific tools, which manage the  repository and handle check-ins and check-outs of code resources by  engineers.</p>
+              <p> <img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> How much of an application’s 
+                functionality is tested for security</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> a set of activities  to control change by identifying the  software work products that are likely to change, establishing  relationships among them, defining mechanisms for managing different  versions,  and  auditing and reporting.</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> The process of optimizing the delivery of goods, services and  information from supplier to customer. SCM is a set of business  processes that engages a trading-partner community in the common goal  of satisfying the end customer. </p></td>
+          </tr>
+          <tr>
+            <td>SCO</td>
+            <td>Santa Cruz Operation</td>
+            <td>software company based in Santa Cruz, California which was best known for selling three UNIX variants for Intel x86 processors: Xenix, SCO UNIX, and UnixWare. <a href="http://www.sco.com/">http://www.sco.com/</a></td>
+          </tr>
+          <tr>
+            <td>SCOM</td>
+            <td>System Center Operation Manager</td>
+            <td>End-to-end service-management product that is the best choice for Windows because it works seamlessly with Microsoft software and applications, helping organizations increase efficiency while enabling greater control of the IT environment </td>
+          </tr>
+          <tr>
+            <td>SCORM</td>
+            <td>Sharable Courseware Object Reference Model</td>
+            <td>a set           of technical standards that enable Web-based learning systems to find,           import, share, reuse, and export learning content in a standardized           way.</td>
+          </tr>
+          <tr>
+            <td>SCP</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Secure Copy</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Service/Signal Control Point</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A secure protocol for transferring files over a network.</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A part of                           SS7. A SCP is usually a host computer with databases.</p></td>
+          </tr>
+          <tr>
+            <td>SCPC</td>
+            <td>single channel per carrier</td>
+            <td>A transmission system in which a physical channel is allocated solely to one carrier for the duration of the transmission.</td>
+          </tr>
+          <tr>
+            <td>SCR</td>
+            <td>Sustainable Cell Rate</td>
+            <td> an upper bound on the conforming                                                   average rate of an ATM connection                                                   over time scales which are long                                                   relative to those for which the                                                   PCR is defined. </td>
+          </tr>
+          <tr>
+            <td>SCSI</td>
+            <td>Small Computer System Interface</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> An ANSI-standard electronic interface that allows personal computers  to communicate with peripheral hardware</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A peripheral interface for up to seven devices. SCSI provides a  high-speed, parallel data transfer of up to 40 megabits per second  (Mbps).</p></td>
+          </tr>
+          <tr>
+            <td>SCSL</td>
+            <td>Sun Community Source Licensing</td>
+            <td><strong> </strong>The Sun Microsystems license model for Java. The agreement  leverages a community-based development model similar to "open-source  software" initiatives that have existed over the years.</td>
+          </tr>
+          <tr>
+            <td>ScTP</td>
+            <td>screened twisted pair </td>
+            <td>A cable where the twisted pair                                                   is screened from electromagnetic                                                   interference by a thin aluminum                                                   screen. </td>
+          </tr>
+          <tr>
+            <td>SCTP</td>
+            <td> Stream Control Transmission Protocol</td>
+            <td>set of rules for transmitting multiple streams of  data at the same time between two end points  that have an established  network connection.</td>
+          </tr>
+          <tr>
+            <td>SCWCD</td>
+            <td>Sun Certified Web Component Developer</td>
+            <td>A specialty performance-based certification program offered by Sun  Microsystems (part of <a href="http://oracle.com">Oracle</a> Corporation) that targets information  regarding Java components related to Web applications, specifically  Servlets and <a href="glossary_j.htm">JSP</a>.</td>
+          </tr>
+          <tr>
+            <td>SD</td>
+            <td><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Sales and Distribution <p>
+<img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Secure Digital<p>
+<img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> Span Destination</td>
+            <td><img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> SD is SAP term.<p>
+<img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> SD is a type of memory  card used for storing data in devices such as digital cameras, PDAs,  mobile phones, portable music players, and digital voice recorders.<p>
+<img src=http://www.consp.com/library/public/designs/connet/favicon.ico width="6" height="6" /> SD is Cisco term</td>
+          </tr>
+          <tr>
+            <td>SDDL</td>
+            <td>Security Descriptor Definition Language </td>
+            <td> a formal way to specify Microsoft Windows security descriptors or text strings that describe who owns various objects such as files in the system. The security descriptor may also provide an access control list for an object or group of objects. </td>
+          </tr>
+          <tr>
+            <td>SDDS</td>
+            <td>Sony Dynamic Digital Sound</td>
+            <td>Multi-channel (5.1 or 7.1) digital audio format, compressed from PCM at 48 kHz. The data rate can go up to 1280 kbps</td>
+          </tr>
+          <tr>
+            <td>SDDM</td>
+            <td>source distributed data manager </td>
+            <td>In a distributed data management network, programming support that translates  local data management requests for remote files or SQL requests for a remote  database into a DDM request</td>
+          </tr>
+          <tr>
+            <td>SDEP</td>
+            <td>sequential dependent segment</td>
+            <td>A segment of a data entry database that is chained off the root segment and  inserted (last-in first-out) into the last part of a DEDB area.</td>
+          </tr>
+          <tr>
+            <td>SDFI</td>
+            <td>Secure Digital Forensic Imaging</td>
+            <td>Asynchronous method of telemedicine. It denotes a specific process that ensures the fast, safe and secure capture, storage and instant delivery of digital forensic evidence</td>
+          </tr>
+          <tr>
+            <td>SDH</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Synchronous Data Hierarchy</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Synchronous Digital Hierarchy</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> The European standard for using optical media as the               physical transport for high-speed, long-haul networks.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> ITU-TSS International standard, similar to SONET. A  technique for assembling and transmitting component digital signals,  for example for individual phone calls, into a single high bit rate  digital data stream. </p></td>
+          </tr>
+          <tr>
+            <td>SDK</td>
+            <td>software development kit</td>
+            <td>A set of development utilities for writing software applications,  usually associated with specific software environments (for example,  the Java Development Kit).</td>
+          </tr>
+          <tr>
+            <td>SDMA</td>
+            <td>spatial division multiple access</td>
+            <td>a satellite communications mode for using data from antenna arrays in wireless communications systems. </td>
+          </tr>
+          <tr>
+            <td>SDN</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Secondary Directory Number</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Software Defined Network</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A telephone number that is picked up on a telephone set, but which is a PDN on another instrument.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Software Defined Network</p></td>
+          </tr>
+          <tr>
+            <td>SDO</td>
+            <td>Service Data Objects </td>
+            <td>An open  standard for enabling applications to handle data from heterogeneous data  sources in a uniform way, based on the concept of a disconnected data graph.</td>
+          </tr>
+          <tr>
+            <td>SDP</td>
+            <td>Service Delivery Platform</td>
+            <td>Oracle's platfrom  contains the telephony functionality, <br />
+              is geared toward service providers and not toward enterprises. </td>
+          </tr>
+          <tr>
+            <td>SDRAM</td>
+            <td>Synchronous Dynamic Random Access Memory</td>
+            <td>A type of high-speed DRAM that can transfer bursts of non-contiguous  data at 100 MB/second or greater and works with up to 100 MHz processor  speeds.</td>
+          </tr>
+          <tr>
+            <td>SDLC</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Software development life cycle</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Synchronous Data Link Control</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> methodologies are based on the principle 
+              that security implementation shouldn't be an isolated process, but rather part of a comprehensive 
+              software engineering process. </p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A link-level communications protocol used in an IBM SNA network that manages synchronous, code-transparent, serial information transfer over a link connection</p></td>
+          </tr>
+          <tr>
+            <td>SDLT</td>
+            <td>Super Digital Linear Tape</td>
+            <td>A <a href="http://quantum.com">Quantum</a> storage product architecture that extends the capacity and transfer rate of <a href="glossary_d.htm">DLT</a> drives. </td>
+          </tr>
+          <tr>
+            <td>SDO</td>
+            <td>Service Data Objects</td>
+            <td>Framework that simplifies and unifies data application development in a SOA. It supports and integrates XML and incorporates J2EE patterns and best practices </td>
+          </tr>
+          <tr>
+            <td>SDP</td>
+            <td> Session Description Protocol</td>
+            <td>A text file used with QuickTime Streaming Server 
+              that provides information about the format, timing, and authorship of a live streaming 
+              broadcast and gives the user’s computer instructions for tuning in.</td>
+          </tr>
+          <tr>
+            <td>SDR</td>
+            <td>software-defined radio</td>
+            <td>software-defined radio</td>
+          </tr>
+          <tr>
+            <td>SDS</td>
+            <td>Sudden Death Syndrome</td>
+            <td>Used in digital photography when your camera dies a sudden death</td>
+          </tr>
+          <tr>
+            <td>SDSL</td>
+            <td>Symmetric Digital Subscriber Line</td>
+            <td><div align="justify">SDSL  is a type of of DSL, which is used for transferring data over copper  telephone lines. The "symmetric" part of the term means that an SDSL  connection has the same maximum upload and download speeds.</div></td>
+          </tr>
+          <tr>
+            <td>SDTV</td>
+            <td>Standard Definition television </td>
+            <td>the digital television format that provides a video  quality near the equivalent of DVD. SDTV and HDTV are the two  designations of display formats for digital television (DTV)  transmissions, which are standards as of 2004.</td>
+          </tr>
+          <tr>
+            <td>SDVO</td>
+            <td>Serial Digital Video Output</td>
+            <td>Makes it possible to use a 16-lane PCI express slot to add additional  video signaling interfaces such as VGA and DVI monitor outputs, SDTV  and HDTV television outputs, or TV tuner inputs to a system board  containing an integrated Intel 9xx-series graphics processor.</td>
+          </tr>
+          <tr>
+            <td>SDX</td>
+            <td>Storage Data Acceleration</td>
+            <td>This technology was introduced by Western Digital. The idea behind it  is that slower drives such as CD and DVD drives would attach directly  to larger, faster hard drives.</td>
+          </tr>
+          <tr>
+            <td>SE</td>
+            <td>secure element</td>
+            <td><p>a generic term that describes the place where a mobile contactless application is stored securely. </p></td>
+          </tr>
+          <tr>
+            <td>SEA-ME-WE</td>
+            <td>Southeast Asia-Middle East-Western Europe 2</td>
+            <td><strong> </strong>A submarine cable network that went into operation in 1994, linking over one dozen countries from France to Singapore.</td>
+          </tr>
+          <tr>
+            <td>SEA-ME-WE 3</td>
+            <td>Southeast Asia-Middle East-Western Europe 3</td>
+            <td>A fiber-optic submarine cable network that went into service in 1999,  linking over 30 countries between Western Europe and Southeast Asia.</td>
+          </tr>
+          <tr>
+            <td>SEAL</td>
+            <td>simple and efficient AAL</td>
+            <td>method of relaying <a href="glossary_a.htm">ATM</a> cells between
+              ATM Layer and a higher layer</td>
+          </tr>
+          <tr>
+            <td>SEAS</td>
+            <td>SaaS-enabled application server</td>
+            <td>platform middleware that is specially designed with multitenant capabilities in transaction isolation, data access 
+              isolation, and security and performance isolation to support the design and deployment of SaaS-style business applications. </td>
+          </tr>
+          <tr>
+            <td>SEC</td>
+            <td>Siemens Enterprise Communications</td>
+            <td>a joint venture of the <a href="http://www.siemens.com">Siemens</a> parent company and The <a href="http://www.gores.com">Gores 
+              Group</a>, emerging as a significant competitor in the enterprise UC market.</td>
+          </tr>
+          <tr>
+            <td>SECAM</td>
+            <td>Sequential Couleur a Memoire</td>
+            <td>A color television broadcasting system using 625 picture lines and a  50-hertz field frequency, in which the two color-difference signals are  transmitted sequentially instead of simultaneously. It was developed in  France and is also used in the former Soviet Union.</td>
+          </tr>
+          <tr>
+            <td>SEG</td>
+            <td>secure e-mail gateway</td>
+            <td>solutions that provide enterprise message transfer agent (MTA)  capabilities, offer protection against inbound and outbound e-mail  threats</td>
+          </tr>
+          <tr>
+            <td>SEM</td>
+            <td>Strategic Enterprise Management</td>
+            <td>A suite of SAP analytical applications that support integrated  planning, decision making and performance monitoring. SEM uses  multidimensional <a href="glossary_o.htm">OLAP</a> functionality to  process data held in SAP's Business Information Warehouse.</td>
+          </tr>
+          <tr>
+            <td>SEN</td>
+            <td>Siemens Enterprise Communications </td>
+            <td>provides professional business solutions, managed services & unified communications to all business types. <a href="http://www.siemens-enterprise.com">www.siemens-enterprise.com</a></td>
+          </tr>
+          <tr>
+            <td>SEO</td>
+            <td>Search Engine Optimization</td>
+            <td><div align="justify">Just  about every Webmaster wants his or her site to appear in the top  listings of all the major search engines. Say, for example, that Bob  runs an online soccer store. He wants his site to show up in the top  few listings when someone searches for "soccer shoes."</div></td>
+          </tr>
+          <tr>
+            <td>SERK</td>
+            <td>Server Extensions Resource Kit</td>
+            <td>Microsoft Frontpage server extensions additional documentation and software</td>
+          </tr>
+          <tr>
+            <td>SERP</td>
+            <td>Search Engine Results Page</td>
+            <td>the page that you see after you perform a search using a search engine. It includes a list of search results that are relevant to the search phrase or keywords you entered. </td>
+          </tr>
+          <tr>
+            <td>SES</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> SecureEasySetup</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Severely Errored Seconds</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A simple push-button configuration method that automates wireless network connection setup between Linksys routers and wireless devices</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A unit                                                   used to specify the error performance                                                   of T carrier systems. This indicates                                                   a second containing ten or more                                                   errors, usually expressed as SES                                                   per hour, day, or week. </p></td>
+          </tr>
+          <tr>
+            <td>SET</td>
+            <td>Secure Electronic Transaction</td>
+            <td>A standard in conceived 1995 by <a href="http://visa.com">Visa</a> and MasterCard to ensure that all  Internet-based payment transaction details are encrypted, the parties  authenticated, acknowledgments fully recorded and the customer payment  details made available only to the bank.</td>
+          </tr>
+          <tr>
+            <td>SETI</td>
+            <td>Search of Extraterrestrial Intelligence</td>
+            <td>the collective name for a number of activities to detect intelligent  extraterrestrial life. SETI projects survey the sky to detect the  existence of transmissions from a civilization on a distant planet.</td>
+          </tr>
+          <tr>
+            <td>SEX</td>
+            <td>Sun Users' Group & elsewhere </td>
+            <td>A technique invented by the blue-green algae hundreds of millions of years ago to speed up their evolution, which had been terribly slow up until then.</td>
+          </tr>
+          <tr>
+            <td>SFA</td>
+            <td>Sales Force Automation</td>
+            <td>The process of using software to automate the business tasks of sales,  including order processing, contact management, information sharing,  inventory monitoring and control, order tracking, customer management,  sales forecast analysis and employee performance evaluation.</td>
+          </tr>
+          <tr>
+            <td>SFD</td>
+            <td>Start-of-Frame Delimiter</td>
+            <td>A data packet on the wire is called a frame. A frame begins with Preamble and SFD, following which each Ethernet frame features an Ethernet header featuring source and destination MAC addresses.</td>
+          </tr>
+          <tr>
+            <td>SFF</td>
+            <td>Small Form Factor</td>
+            <td>A device that is smaller than others in its field.</td>
+          </tr>
+          <tr>
+            <td>SFP</td>
+            <td>Small Form-factor Pluggable</td>
+            <td>A standard hot swappable small multi-pin conector used mostly for fibre channel optical modules on disk array controllers.</td>
+          </tr>
+          <tr>
+            <td>SFTP</td>
+            <td><p>SSH  File Transfer Protocol</p>
+                <p>(or Program)</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A network protocol providing file transfer and manipulation over a secure data stream.</p>
+                <p> <img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> SFTP client is a command-line program that implements the client part of SFTP , such as that supplied with OpenSSH.</p></td>
+          </tr>
+          <tr>
+            <td>SFU</td>
+            <td> Services For Unix</td>
+            <td>A set of tools to better integrate existing Unix and Windows environments</td>
+          </tr>
+          <tr>
+            <td>SGC</td>
+            <td> Server Gated Cryptology</td>
+            <td>SGC is a technology for another level of transaction and  operation security on the Internet. It is associated with online  banking.</td>
+          </tr>
+          <tr>
+            <td>SGF</td>
+            <td>Structured Graphics Format</td>
+            <td>An application of the <a href="glossary_x.htm">XML</a>, that is used to describe a Web site so that its pages and content can be displayed and accessed in a structured, usually tabular form. </td>
+          </tr>
+          <tr>
+            <td>SGI</td>
+            <td>Silicon Graphics Incorporated</td>
+            <td>SGI was founded by Dr. James Clark in 1982 and had its  initial public offering in 1986. It is best known for products used to  develop computer graphics such as those used to create special effects  and animation in motion pictures. <a href="http://www.sgi.com" target="_blank">HTTP://WWW.SGI.COM</a></td>
+          </tr>
+          <tr>
+            <td>SGML</td>
+            <td>Standard Generalized Markup Language</td>
+            <td>Developed in 1986 SGML provides a rich set of rules for defining new data formats.    A well-known example of using SGML is <em>XML</em>, which is a subset of SGML: The definition of XML is all of SGML minus a couple of dozen items.    SGML is an International Standards Organization (ISO) standard: ISO 8879:1986. </td>
+          </tr>
+          <tr>
+            <td>SGRAM</td>
+            <td>Synchronous Graphics Random Access memory </td>
+            <td> a type of memory that is optimized for graphics use. SGRAM  			is capable of running at much higher speeds than fast page or EDO DRAM. </td>
+          </tr>
+          <tr>
+            <td>SGSN</td>
+            <td>Service GPRS Support Node</td>
+            <td>mediates access to network resources on behalf of mobile subscribers (MS) and implements the packet scheduling policy between different QoS classes.</td>
+          </tr>
+          <tr>
+            <td>SHA</td>
+            <td>Secure Hash Algorithm</td>
+            <td>A hashing algorithm that generates a 160-bit hash value (SHA-1). Used with the Digital Signature Algorithm (DSA) in the Digital Signature Standard (DSS), among other places</td>
+          </tr>
+          <tr>
+            <td>S-HTTP</td>
+            <td>Secure Hypertext Transport Protocol</td>
+            <td>Also known as HTTPS, this is an extension of Hypertext Transport  Protocol (HTTP) that provides security services for transaction  confidentiality, authenticity and integrity between HTTP servers and  clients.</td>
+          </tr>
+          <tr>
+            <td>SI</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> system integration</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> system integrator</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> The process of creating a complex information system. This process may  include designing or building a customized architecture or application,  and integrating it with new or legacy hardware, packaged and custom  software, and communications. </p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> An organization or an individual that performs system integration.  Major system integration projects often require the assistance of a  specialty firm that has the resources and expertise to manage a project  plan that could last over several months or even years. </p></td>
+          </tr>
+          <tr>
+            <td>SID</td>
+            <td>Security Identifier </td>
+            <td>A unique value assigned to an object by which it is identified.  Security zones - A technique used in IE to allow you to assign  different levels of security to different sets of Web sites depending  on where they're located or how much you trust them.</td>
+          </tr>
+          <tr>
+            <td>SIEM (SEM & SIM)</td>
+            <td>Security Information and Event Management</td>
+            <td>Originally tools for regulatory compliance, log management and  analysis, trouble-shooting and forensic analysis. This is spreading  into software and appliances that are beginning to play a big role in  proactive security.</td>
+          </tr>
+          <tr>
+            <td>Sig Block</td>
+            <td>signature block</td>
+            <td>The signature block that automatically appears at the end of every outgoing e-mail 
+              message. </td>
+          </tr>
+          <tr>
+            <td>SIIA</td>
+            <td> Software & Information Industry Association</td>
+            <td>An association for software companies. See also <a href="http://www.siia.net/">http://www.siia.net/</a></td>
+          </tr>
+          <tr>
+            <td>SIIT</td>
+            <td>Stateless Ip/Icmp Translation algorithm</td>
+            <td>Translates between IPv4 and IPv6 packet headers (including ICMP headers) in separate translator "boxes" in the network without requiring any per-connection state in those "boxes"</td>
+          </tr>
+          <tr>
+            <td>SIL</td>
+            <td>Safety Integrity Level </td>
+            <td>a relative level of risk-reduction provided by a safety function, or to specify a target level of risk reduction</td>
+          </tr>
+          <tr>
+            <td>SIM</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Security Information Management</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> subscriber identity module</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Software designed to automate the collection of event log data from security devices and helping users make sense of it through a common management console</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A small, programmable smart card containing a cellular service  subscriber's identity key. The SIM contains codes to identify a  subscriber to a digital mobile service and the details of the special  services the subscriber has elected to use. </p></td>
+          </tr>
+          <tr>
+            <td>SIMD</td>
+            <td>Single Instruction Multiple Data</td>
+            <td>A processor instruction that can perform operations across multiple data instructions. </td>
+          </tr>
+          <tr>
+            <td>SIMM</td>
+            <td>single in-line memory module</td>
+            <td>a small circuit board that can   	hold a group of memory chips. Typically, SIMMs hold up 8 (on Macintoshes) or   	9 (on PCs) RAM chips. On PCs, the ninth chip is often used for parity error   	checking. Unlike memory chips, SIMMs are measured in bytes rather than bits.</td>
+          </tr>
+          <tr>
+            <td>Simulcast</td>
+            <td>simultaneous broadcast</td>
+            <td>A simulcast is a broadcast that can be shared live 
+              with multiple sites. </td>
+          </tr>
+          <tr>
+            <td>SIP</td>
+            <td><p>Session Initiation Protocol</p></td>
+            <td><p align="justify">The IP equivalent of ITU Standard Number 7 Signaling              (SS7). A control   protocol developed within IETF for creating, modifying and terminating   multiparty              sessions, particularly Internet conferencing and Internet   telephony sessions. <br />
+            </p></td>
+          </tr>
+          <tr>
+            <td>SIPP</td>
+            <td>Stable Image Platform Program</td>
+            <td> A program launched by <a href="http://intel.com">Intel</a> in June 2003. SIPP aims to give  PC manufacturers and enterprises greater platform stability and  advanced notice of future PC desktop and notebook changes.</td>
+          </tr>
+          <tr>
+            <td>SiS</td>
+            <td>Silicon Integrated Systems</td>
+            <td>a worldwide leader in the development, manufacturing and marketing of leading-edge logic products, including core logic, multimedia, connectivity and information appliances</td>
+          </tr>
+          <tr>
+            <td>SIS</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Single Instance Store</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> student information system</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Architecture designed to maintain duplicate files with a minimum of disk, cache, and backup media overhead</p>
+                <p><strong> </strong><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A system used in academic environments to enroll and register  students, and to track student information such as prior transcripts,  courses taken, grades received and progress toward a degree.</p></td>
+          </tr>
+          <tr>
+            <td>SISMAPI</td>
+            <td>Siebel Internet Session Network API</td>
+            <td>a proprietary (originally Siebel Systems, now <a href="http://oracle.com">Oracle</a>) message format protocol used for communications between various Siebel application components. </td>
+          </tr>
+          <tr>
+            <td>SITA</td>
+            <td>Societe Internationale de Telecommunications Aeronautiques</td>
+            <td><strong> </strong>A European provider of telecommunications and IT services to the airline industry, headquartered in Geneva.</td>
+          </tr>
+          <tr>
+            <td>SIU</td>
+            <td>smallest installable unit</td>
+            <td>The file or set of files that comprise the atomic (non-aggregated) installable  unit (IU) that is intended to be deployed into a single hosting environment. </td>
+          </tr>
+          <tr>
+            <td>SIX</td>
+            <td>Shared with Intent eXclusive</td>
+            <td>Database management system's locking attribute </td>
+          </tr>
+          <tr>
+            <td>SKMS</td>
+            <td>Service Knowledge Management System</td>
+            <td>Service Knowledge Management System</td>
+          </tr>
+          <tr>
+            <td>SKU</td>
+            <td>Stock Keeping Unit</td>
+            <td><p>The number of each specific product available for sale. For example,  if a hardware device or software package comes in different versions,  there is an SKU for each one. </p></td>
+          </tr>
+          <tr>
+            <td>SL</td>
+            <td>Scientific Linux </td>
+            <td>Scientific Linux (SL) is a Linux distribution produced by Fermi National Accelerator Laboratory and the European Organization for Nuclear Research (CERN).</td>
+          </tr>          <tr>
+            <td>SLA</td>
+            <td>Service Level Agreement</td>
+            <td>Defines how a service should perform and the sanctions if it fails to perform. <a href ="http://www.scientificlinux.org/>www.scientificlinux.org/</a></td>
+          </tr>
+          <tr>
+            <td>SLD</td>
+            <td>second-level domain </td>
+            <td>portion of a Uniform Resource Locator (URL) that identifies the specific and unique administative owner associated with an Internet Protocol address (IP address). </td>
+          </tr>
+          <tr>
+            <td>SLE</td>
+            <td>Simple List Extension</td>
+            <td>Extensions to RSS</td>
+          </tr>
+          <tr>
+            <td>SLED</td>
+            <td>Single Large Expensive Drive</td>
+            <td>Back in the early days of hard disks you had two choices: SLED or RAID.  SLED systems used a single high capacity hard drive to store lots of  data.</td>
+          </tr>
+          <tr>
+            <td>SLF4J</td>
+            <td>Simple Logging Facade For Java</td>
+            <td>Intended to serve as a simple facade for various logging APIs allowing to the end-user to plug in the desired implementation at deployment time. See <a href="http://www.slf4j.org/">http://www.slf4j.org/ </a></td>
+          </tr>
+          <tr>
+            <td>SLI</td>
+            <td>Scalable Link Interface</td>
+            <td>Method for linking two (or more) video cards together to produce a single output. It is an application of parallel processing for computer graphics, meant to increase the processing power available for graphics </td>
+          </tr>
+          <tr>
+            <td>SLIC</td>
+            <td>Subscriber Line Interface Card</td>
+            <td>Interface between home phone lines and <a href="glossary_c.htm">CO</a></td>
+          </tr>
+          <tr>
+            <td>SLIP</td>
+            <td>Serial Line Internet Protocol</td>
+            <td>A standard that was popular in the early 1990's for using a regular telephone line (a serial line) and a <em>modem</em> to connect a computer as a real<em>Internet</em> site. SLIP has largely been replaced by <a href="glossary_p.htm">PPP</a>. </td>
+          </tr>
+          <tr>
+            <td>SLM</td>
+            <td>service level management</td>
+            <td>The  disciplined, proactive methodology used to ensure that adequate levels of  service are delivered to all IT users in accordance with business priorities  and at acceptable cost.</td>
+          </tr>
+          <tr>
+            <td>SLP DA</td>
+            <td> Service Location Protocol Directory Agent</td>
+            <td>A protocol that registers services 
+              available on a network and gives users easy access to them. When a service is added to 
+              the network, the service uses SLP to register itself on the network.</td>
+          </tr>
+          <tr>
+            <td>SLR</td>
+            <td>Scalable Linear Recording</td>
+            <td><strong> </strong>A quarter-inch tape format developed by storage vendor Tanberg Data.</td>
+          </tr>
+          <tr>
+            <td>SLS</td>
+            <td>Softlanding Linux System</td>
+            <td>One of the first Linux distributions, originally shipped on a number of  floppies, that eventually became the Slackware distribution.</td>
+          </tr>
+          <tr>
+            <td>SLSI</td>
+            <td>Super Large Scale of Integration</td>
+            <td>The process of placing from 50,000 to 100,000 circuit components. Also, the quality of their connections</td>
+          </tr>
+          <tr>
+            <td>SM/SI</td>
+            <td>Social Mining and Social Intelligence </td>
+            <td>processes for developing and 
+              applying analytics to social content. These technologies will enable organizations to discover and 
+              make sense of the knowledge, behaviors, affiliations and tendencies of Web communities, 
+              societies and environments.</td>
+          </tr>
+          <tr>
+            <td>SMART</td>
+            <td>Self-Monitoring Analysis And Reporting Technology</td>
+            <td><div align="justify">It  is used to protect and prevent errors in hard drives. The SMART  technology basically monitors and analyzes hard drives (hence the  name), then checks the health of your hard drive and lets you know if  there are any problems.</div></td>
+          </tr>
+          <tr>
+            <td>SMASH</td>
+            <td>Simple, Many And Self-Healing</td>
+            <td>Supercomputing architecture by IBM</td>
+          </tr>
+          <tr>
+            <td>SMATV</td>
+            <td>satellite master antenna television</td>
+            <td>Transmission of television programming to a  Satellite Master Antenna installed on top of an apartment building, a  hotel, or at another central location from where it serves a private  group of viewers. The transmission usually is done in C-band to 1.5 or  2 meter dishes. </td>
+          </tr>
+          <tr>
+            <td>SMB</td>
+            <td>Server Message Block</td>
+            <td>A common format for sharing files, directories and devices in Microsoft's operating systems</td>
+          </tr>
+          <tr>
+            <td>SMBP</td>
+            <td> Server Message Block Protocol</td>
+            <td>This architecture provides a method for client  applications in a computer to read and write to files on and to request  services from server programs in a computer network, local or distant. </td>
+          </tr>
+          <tr>
+            <td>SMD</td>
+            <td>Storage Module Device</td>
+            <td>An industry-standard interface used for large-capacity, high-performance disks</td>
+          </tr>
+          <tr>
+            <td>SMDR</td>
+            <td>station message detail recording </td>
+            <td>A computer generated report showing          internal usage on a telephone system; usually includes extension number, trunk number          used, phone number dialed, time of call, duration and operator involvement.  </td>
+          </tr>
+          <tr>
+            <td>SMDS</td>
+            <td>Switched Multimegabit Data Service</td>
+            <td>public, packet-switched service aimed at  enterprises that need to exchange large amounts of data over the  wide-area network on a nonconstant or "bursty" basis.</td>
+          </tr>
+          <tr>
+            <td>SMF</td>
+            <td>Semantic Modelling Format</td>
+            <td>XML-based language that can be used to persist English Query model information </td>
+          </tr>
+          <tr>
+            <td>SMI</td>
+            <td>Structure of Management Information</td>
+            <td>In the SNMP, the rules used to  define the objects that can be accessed by means of a network management protocol.</td>
+          </tr>
+          <tr>
+            <td>SMiShing </td>
+            <td>SMS phishing</td>
+            <td>a type of phishing attack where mobile phone users receive text messages containing a Web site hyperlink, which, if clicked would download a Trojan horse to the mobile phone. </td>
+          </tr>
+          <tr>
+            <td>SMLT</td>
+            <td>Split Multi-Link Trunking</td>
+            <td>an improvement over Multi-Link Trunking (MLT), a method of link aggregation that allows multiple Ethernet links to be aggregated together, and handled as a single logical trunk. </td>
+          </tr>
+          <tr>
+            <td>SMP</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Simple Management Protocol</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Symetric MultiProcessing</p></td>
+            <td><p> <img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> another name for SNMP2. SNMP2 is an enhanced version of  the SNMP with features required to  support larger networks operating at high data transmission rates. </p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A multiprocessing architecture  developed by Intel and a group of leading PC manufacturers. The  architecture describes how multiple processors in the same server can  share the same system memory and provide increased  performance/scalability.</p></td>
+          </tr>
+          <tr>
+            <td>SMS</td>
+            <td><p> <img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Security Management System</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Short Message Service</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Systems Management Server </p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> TippingPoint Appliance manages multiple  IPS systems</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A bidirectional paging function that is built into <a href="glossary_g.htm">GSM</a> systems. Each message can be up to 160  characters long. The network stores messages for several days   and attempts to deliver the messages  whenever the portable phone is switched on.</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Microsoft's premier remote, large-batch computer management  application. Used to inventory large numbers, determine capabilities of  each, and deploy selected software to systems that are capable of  receiving the software.</p></td>
+          </tr>
+          <tr>
+            <td>SMSC</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Short Messaging Service Center</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Smart Mixed-Signal Connectivity</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> On a wireless network, SMSC allows short text messages to be exchanged between mobile cell telephones and other networks. </p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> global supplier of semiconductor solutions that distribute video,  sound, photos and data in the home, automobile, office and factory. <a href="http://www.smsc.com">www.smsc.com</a></p></td>
+          </tr>
+          <tr>
+            <td>SMSI</td>
+            <td>Simplified Message Service Interface</td>
+            <td>A Lucent Technologies service that transmits out-of-band information  between DirectTalk and certain switches.</td>
+          </tr>
+          <tr>
+            <td><a href="smtp_server.htm">SMTP</a></td>
+            <td><a href="smtp_server.htm">Simple Mail Transfer Protocol</a></td>
+            <td><p>A <a href="glossary_t.htm">TCP/IP</a> protocol governing electronic mail transmission and reception.</p></td>
+          </tr>
+          <tr>
+            <td>SN</td>
+            <td>Sequence Number</td>
+            <td>A cell sent periodically                                                   on each link of an AIMUX to indicate                                                   how many cells have been transmitted                                                   since the previous SN cell. </td>
+          </tr>
+          <tr>
+            <td>S/N</td>
+            <td>Signal-to-Noise</td>
+            <td>The ratio of the signal power to the noise power at a point in a system (usually expressed in decibels).</td>
+          </tr>
+          <tr>
+            <td>SNA</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Social Network Analysis</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Systems Network Architecture</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> a technique for analyzing patterns of relationships 
+              among people in groups, and the roles that individuals play in an informal network. It involves 
+              collecting data from multiple sources, analyzing the data to identify relationships and mining it for 
+              new information.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> An IBM-developed network architecture, with layers similar to those of  the <a href="glossary_o.htm">OSI</a> network reference model</p></td>
+          </tr>
+          <tr>
+            <td>SNAP</td>
+            <td>Sub-Network Access Protocol </td>
+            <td>a standard for the transmission of IP datagrams over IEEE 802 networks.</td>
+          </tr>
+          <tr>
+            <td>SNC</td>
+            <td>Supply Network Collaboration </td>
+            <td>SAP's SCM tool</td>
+          </tr>
+          <tr>
+            <td>SNI</td>
+            <td>Switch Node Interface</td>
+            <td>The link(s) between a PPN and an EPN over which control information is passed.</td>
+          </tr>
+          <tr>
+            <td>SNIPS</td>
+            <td>System & Network Integrated Polling Software</td>
+            <td>a <strong>system and network monitoring software </strong>that runs on        Unix systems and can monitor network and system devices.        It is capable of        monitoring DNS, NTP, TCP or web ports, host performance, syslogs, radius        servers, BGP peers, etc. New monitors can be added easily </td>
+          </tr>
+          <tr>
+            <td>SNMP</td>
+            <td><p>Simple Network Management Protocol</p></td>
+            <td><p align="justify">A  set of standards for communication with devices connected to a <a href="transmission-control-protocol--internet-protocol">TCP/IP</a>  network. Examples of these devices include routers, hubs, and switches.  A device is said to be SNMP compatible if it can be monitored and /or  controlled using SNMP messages. </p></td>
+          </tr>
+          <tr>
+            <td>SNS</td>
+            <td><a href="what-is-social-networking">social networking</a> site</td>
+            <td>any Web site that enables users to create public profiles within that Web site and form relationships with other users of the same Web site who access their profile. Social networking sites can be used to describe community-based Web sites, online discussions forums, chatrooms and other social spaces online.</td>
+          </tr>
+          <tr>
+            <td>SOA</td>
+            <td><a href="service-oriented-architecture-soa">Service Oriented Architecture</a><p>
+Start of Authority</td>
+            <td>When  businesses grow, they often add new products and services. While these  additions may help make the business larger, it is often difficult to  implement them in an efficient manner. The goal of SOA is to make it  easy for businesses to grow and add new services. <a href="service-oriented-architecture-soa">more...</a><p>
+SOA is for domain name system record</td>
+          </tr>
+          <tr>
+            <td>SOAP</td>
+            <td>Simple Object Access Protocol</td>
+            <td><div align="justify">SOAP  is a method of transferring messages, or small amounts of information,  over the Internet. SOAP messages are formatted in XML and are typically  sent using HTTP (hypertext transfer protocol). Both are widely  supported data transmission standards.</div></td>
+          </tr>
+          <tr>
+            <td>SOC</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Security Operation Centre</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Separation Of Concerns</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Security Operation Centre</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Software development technique used in aspect-oriented programming (AOP)</p></td>
+          </tr>
+          <tr>
+            <td>SOCKS</td>
+            <td> SOCKetS</td>
+            <td>protocol for handling <a href="glossary_t.htm">TCP</a> though a proxy server; library of software added to an individual application for secure communication through the firewal</td>
+          </tr>
+          <tr>
+            <td>SODIMM</td>
+            <td>Small Outline Dual Inline Memory Module</td>
+            <td> These memory modules are typically used in laptop and notebook computers   	where space and low power consumption is a major consideration. SODIMM's are   	about half the size of its DIMM counterpart.</td>
+          </tr>
+          <tr>
+            <td>SOH</td>
+            <td>Start Of Header</td>
+            <td>A control character that is used to indicate the start of a header that precedes the messages text.</td>
+          </tr>
+          <tr>
+            <td>SoIP</td>
+            <td>Storage over IP</td>
+            <td>the merging of Fibre Channel technologies with IP-based technology to allow for accessing storage devices over TCP/IP networks</td>
+          </tr>
+          <tr>
+            <td>SOM</td>
+            <td>Self-Organizing Map</td>
+            <td>Algorithm used to visualize and interpret large high-dimensional data sets. Typical applications are visualization of process states or financial results by representing the central dependencies within the data on the map</td>
+          </tr>
+          <tr>
+            <td>SONET</td>
+            <td>Synchronous Optical Network</td>
+            <td>A <a href="glossary_i.htm">ITU</a> standard for high-speed communications over fiber-optic networks. It offers synchronous transmission at speeds up to multigigabit rates and includes features to enable multivendor interoperability, improved troubleshooting and network survivability. </td>
+          </tr>
+          <tr>
+            <td>SONIC</td>
+            <td>Science Of Networks In Communities<p>
+SAC On-Line Interactive Controller</td>
+            <td>SONIC stands for Science Of Networks In Communities<p>
+SONIC stands for SAC On-Line Interactive Controller</td>
+          </tr>          <tr>
+            <td>SORBS</td>
+            <td>Spam and Open Relay Blocking System</td>
+            <td>DNSBL includes more than 3 million listed hosts that are considered to be compromised</td>
+          </tr>
+          <tr>
+            <td>SOS</td>
+            <td>Sophisticated Operating System<p>
+Symbian Operating System<p>
+Secure Object Store</td>
+            <td>SOS is Apple /// OS<p>
+Symbian Operating System<p>
+Lotus Notes database system</td>
+          </tr>          <tr>
+            <td>SOW</td>
+            <td>statement of work</td>
+            <td>A document that provides comprehensive descriptions of required  services — along with realistic information concerning the current  environment — to ensure that vendors deliver what the enterprise needs  at the price that has been negotiated.</td>
+          </tr>
+          <tr>
+            <td>SOX</td>
+            <td>Sarbanes-Oxley Act</td>
+            <td>Most significant piece of corporate securities legislation since the  Securities Act of 1933 and The Securities and Exchange Act of 1934. The  Act's requirements are significant and have brought about substantial  change in the work and role of auditors and the operations and  financial disclosures of publicly traded corporations.</td>
+          </tr>
+          <tr>
+            <td>SP</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Service-Packs</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> storage processor</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A minor software product revision that contains feature updates or bug  fixes, but not enough new code to warrant a new version number. e.g. SP1 or SP2</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> an intelligent RAID controller that is enclosed within a storage device.</p></td>
+          </tr>
+          <tr>
+            <td>SPAN</td>
+            <td>Switched Port Analyzer</td>
+            <td>Feature of the Catalyst 5000 switch that extends  the monitoring capabilities of existing network analyzers into a  switched Ethernet environment. SPAN mirrors the traffic at one switched  segment onto a predefined SPAN port.</td>
+          </tr>
+          <tr>
+            <td>SPARC</td>
+            <td>Scalable Processor ARChitecture</td>
+            <td>Architecture based on a <a href="glossary_r.htm">RISC</a> concept. Sun and its suppliers designed the architecture to significantly improve price and performance</td>
+          </tr>
+          <tr>
+            <td>Sphairon </td>
+            <td>Sphere, luminary, global and Elektron, Technology (vision)</td>
+            <td>One of  the leading producer of <a href="glossary_i.htm">ISDN</a>- NTs worldwide and a specialist for DSL broadband network solutions. website: <a href="http://www.sphairon.com">www.sphairon.com</a></td>
+          </tr>
+          <tr>
+            <td>SPB</td>
+            <td>Stored Procedure Builder</td>
+            <td>Development environment for creating, installing and testing stored procedures</td>
+          </tr>
+          <tr>
+            <td>SPC</td>
+            <td>stored program control </td>
+            <td> A method whereby instructions are placed in the          memory of a common controlled switching unit for use as a reference when processing calls.          Instructions may include: class marks, code conversions, routing and trouble          analysis.  </td>
+          </tr>
+          <tr>
+            <td>SPD</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Serial Presence Detect</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> System Products Division</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> An 8-pin serial EEPROM chip available on some SDRAM memory that keeps  specific information about a <a href="glossary_d.htm">DIMM</a>’s size, speed, voltage, drive  strength, number of row and column addresses, DIMM manufacturer, and <a href="glossary_r.htm">RAM</a> manufacturer.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Proprietary AS/400 I/O bus</p></td>
+          </tr>
+          <tr>
+            <td>S/PDIF</td>
+            <td>Sony/Philips Digital Interface</td>
+            <td>An audio transfer file format that allows the transfer of audio from  one file to another without converting it to and from an analog format,  which could degrade the quality of the file.</td>
+          </tr>
+          <tr>
+            <td>SPE</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Synergistic Processor Element </p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> System Policy Editor</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> In the Cell Broadband Engine architecture, a grouping of multiple Synergistic  Processor Units (SPUs).</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> It provides an administrator with the means to centrally manage Windows desktop environments, and is a flexible alternative to mandatory user profiles</p></td>
+          </tr>
+          <tr>
+            <td>SPF</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Sender Policy Framework</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Shortest Path First</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> allows the e-mail address owner to specify which mail servers they use  to send mail from their domain to prevent sender address forgery.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A routing  algorithm in which each router uses the length of the path to determine the  shortest-path spanning tree. </p></td>
+          </tr>
+          <tr>
+            <td>SPI</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Serial Peripheral                   Interface</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Stateful Packet Inspection </p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> An inexpensive bus for chip interconnection                   that is popular on circuit boards. </p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A firewall mechanism which examines each incoming network packet and only allows through those packets which are for a known open connection.</p></td>
+          </tr>
+          <tr>
+            <td>SPICE</td>
+            <td>Simple Protocol for Independent Computing Environment</td>
+            <td>a hosted virtual desktop protocol and a key part of Red Hat Enterprise Virtualization for Desktops. </td>
+          </tr>
+          <tr>
+            <td>SPIM</td>
+            <td>Spam over Instant Messaging </td>
+            <td>a type of spam that uses IM  	platforms as the transport medium. Users of different public IM systems, who   	use public profiles are quite likely to receive unsolicited advertising   	messages from spammers.</td>
+          </tr>
+          <tr>
+            <td>SPIT</td>
+            <td>Spam over   Internet Telephony</td>
+            <td>SPIT offers   	spammers a low-cost alternative to unsolicited marketing. Mass marketing   	using automated voice messages is accomplished literally with the push   	of a button.</td>
+          </tr>
+          <tr>
+            <td>SPL</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Sender Policy Framework </p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Sound Pressure Level</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> an anti-spam approach in which the Internet domain of an e-mail sender can be authenticated for that sender, thereby discouraging spam mailers, who routinely disguise the origin of their e-mail, a practice known as e-mail spoofing.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A measure in decibels of the sound power produced by an object. It is measured with a sound level meter. </p></td>
+          </tr>
+          <tr>
+            <td>SPM</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Statistical Packet Multiplexing</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> supplier performance management</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Technology to dynamically allocate bandwidth to active circuits</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> products use dashboard and reporting mechanisms to aggregate  information on suppliers, their financial condition, their  certifications and social responsibility performance, and their track  record of meeting requirements</p></td>
+          </tr>
+          <tr>
+            <td>SPML</td>
+            <td>Service Provisioning Markup Language </td>
+            <td>SaaS industry standards</td>
+          </tr>
+          <tr>
+            <td>SPOF</td>
+            <td>Single point of failure</td>
+            <td>a generic phrase for any component of a system that upon failure will  cause a malfunction in the entire system. A SPOF can be a hardware or  electrical component or a software component.</td>
+          </tr>
+          <tr>
+            <td>SPOI</td>
+            <td>Signaling Point Of Interface</td>
+            <td>The demarcation point on the SS7 signaling link between a LEC network and a Wireless Services Provider (WSP) network.</td>
+          </tr>
+          <tr>
+            <td>SPOT</td>
+            <td>Smart Personal Objects Technology</td>
+            <td>SPOT is the result of a Microsoft research project to embed more  intelligence in a variety of everyday devices such as clocks. Microsoft  is by no means the first vendor to  promote such a vision, but the specificity and practicality of  Microsoft's approach sets it apart from many earlier efforts. </td>
+          </tr>
+          <tr>
+            <td>SPREAD</td>
+            <td>Systems Programming, Research, Engineering And Development</td>
+            <td>Systems Programming, Research, Engineering And Development by IBM</td>
+          </tr>
+          <tr>
+            <td>SPSS</td>
+            <td>Statistical Package for the Social Sciences</td>
+            <td>A statistical analysis software package invented in 1968, which became  the founding product of Chicago-based analytical-software firm SPSS,  Inc., acquired by IBM</td>
+          </tr>
+          <tr>
+            <td>SPU</td>
+            <td>Synergistic Processor Unit </td>
+            <td>A 128-bit processor with single-instruction multiple-data (SIMD) capabilities  specialized for computationally-intensive tasks. </td>
+          </tr>
+          <tr>
+            <td>SPX</td>
+            <td>Sequenced Packet Exchange</td>
+            <td>A Novell NetWare session-based communications protocol used to govern  the transport of messages across a network. It is designed to provide  reliable end-to-end data transport, including error detection between  two end-user devices.</td>
+          </tr>
+          <tr>
+            <td><a href="speech_recognition.htm">SR</a></td>
+            <td><a href="speech_recognition.htm"> Speech Recognition</a></td>
+            <td><p align="justify">Speech recognition is the process by which a  computer identifies spoken words. Basically,  it means talking to your computer, AND having it correctly recognize  what you are saying. </p></td>
+          </tr>
+          <tr>
+            <td><a href="sql_server.htm">SQL</a></td>
+            <td><div>Structured Query Language</div></td>
+            <td>SQL is a standardized query language for requesting information from a database. </td>
+          </tr>
+          <tr>
+            <td>SQL PL</td>
+            <td>SQL procedural language</td>
+            <td>A language extension of SQL that consists of statements and language elements  that can be used to implement procedural logic in SQL statements.</td>
+          </tr>
+          <tr>
+            <td>SQR</td>
+            <td>Security to Quality Defect Ratio</td>
+            <td> The ratio of the number of 
+              security defects to the number of all identifed defects</td>
+          </tr>
+          <tr>
+            <td>SR-IOV</td>
+            <td>Single-root I/O virtualization standards</td>
+            <td>developed by the PCI Special Interest Group (PCI-
+              SIG) and enables VM migration. The Intel Ethernet <br>
+              Server Adapter’s implementation assists direct 
+              connectivity from the adapter to the virtual machines to 
+              provide near-native performance.</td>
+          </tr>
+          <tr>
+            <td>SRAM</td>
+            <td>static random access memory</td>
+            <td> a   	type of memory that is faster and more reliable than the more common DRAM. The term static is derived from the fact that it doesn't need   	to be refreshed like dynamic RAM.</td>
+          </tr>
+          <tr>
+            <td>SRAT</td>
+            <td>Static Resource Affinity Table</td>
+            <td>Can be used to describe the physical location of processors and memory in large-scale systems, allowing threads and memory to be grouped in an optimal manner</td>
+          </tr>
+          <tr>
+            <td>SRGS</td>
+            <td>Speech Recognition Grammar Specification</td>
+            <td>Grammar intended for use by speech recognizers and other grammar processors so that developers can specify the words and patterns of words to be listened for by a speech recognizer</td>
+          </tr>
+          <tr>
+            <td>SRL</td>
+            <td>Singing Return Loss </td>
+            <td><p>The frequency-weighted measure of return loss at the edges of the  voiceband (SRL Low, 260 to 500 Hz and SRL High, 2200 to 3400 Hz), where  singing (instability) problems are most likely to occur.</p></td>
+          </tr>
+          <tr>
+            <td>SRM</td>
+            <td>storage resource management</td>
+            <td>SRM refers to software that manages storage from a capacity, utilization, policy and event-management perspective. </td>
+          </tr>
+          <tr>
+            <td>SRS</td>
+            <td>Shared Registry Server</td>
+            <td> The central system for all accredited registrars to access and register/control domain names.</td>
+          </tr>
+          <tr>
+            <td>SRT</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Source Routing Transparent</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> (formerly) Souris River Telecommunications</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> An IETF Bridging Standard combining                                                   Transparent Bridging and Source                                                   Route Bridging.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> the largest telecommunications cooperative in North Dakota, with telephone, wireless phone, broadband Internet, security systems, and cable tv services. <a href="http://www.srt.com/">http://www.srt.com/</a></p></td>
+          </tr>
+          <tr>
+            <td>SRV</td>
+            <td>Service records</td>
+            <td>SRV Records represent a data category in the Domain Name System that  localizes specific domain related services such as FTP and SIP.</td>
+          </tr>
+          <tr>
+            <td>SS7</td>
+            <td><p>Signaling System 7</p></td>
+            <td><p align="justify">Defined by ITU-T, SS7 is an international out-of-band signaling              protocol that   provides two major capabilities: high-speed circuit-switched connections for   faster              call setup and remote database access for transaction processing. SS7   has been deployed              throughout the PSTN.</p></td>
+          </tr>
+          <tr>
+            <td>SSA</td>
+            <td><p><span id="articleBody"><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Social Security Administration</span></p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Survivable Systems Analysis</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> an independent agency of the United States federal government that administers Social Security <a href="http://www.ssa.gov">www.ssa.gov</a></p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Practical engineering process that enables you to systematically assess the survivability properties of proposed systems, existing systems, and modifications to existing systems</p></td>
+          </tr>
+          <tr>
+            <td>SSAP</td>
+            <td>Source Service Access Point</td>
+            <td>part of the LLC LSAP for data type.</td>
+          </tr>
+          <tr>
+            <td>SSB</td>
+            <td>sequential store buffer </td>
+            <td>A sequential store buffer is a technique for dividing the cost of a write-barrier by remembering which objects are modified and updating remembered sets (and so on) at a later stage.</td>
+          </tr>
+          <tr>
+            <td>SSSCE</td>
+            <td>Short Self-Contained Correct (or Compilable) Example</td>
+            <td>Preferred form of code snippets posted in newsgroups and bug reports. <a href="http://sscce.org/">http://sscce.org/</a></td>
+          </tr>
+          <tr>
+            <td>SSD</td>
+            <td>Solid-State Drive</td>
+            <td>a data storage device that uses solid-state memory to store persistent data</td>
+          </tr>
+          <tr>
+            <td>SSE</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Simple Sharing Extension</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Streaming Simd Extensions</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Extensions to RSS</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Xeon CPU extension to the instruction set</p></td>
+          </tr>
+          <tr>
+            <td>SSH</td>
+            <td>Secure Shell</td>
+            <td>A set of applications and protocols to provide secure  		encrypted message transmission between two computers on an insecure  		(e.g. public) network.</td>
+          </tr>
+          <tr>
+            <td>SSI</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Server-Side Includes</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Small Scale Integration </p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Instructs the server to include some dynamic  information in a Web page before it is sent to a client.  This dynamic  information could be current date, an opinion poll, etc.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6">  Chips containing tens of transistors, but not hundreds.</p></td>
+          </tr>
+          <tr>
+            <td>SSID</td>
+            <td>Service Set identifier </td>
+            <td>Identifies a network consisting of one or more access points. Such a network is also known as an Extended Service Set (ESS).</td>
+          </tr>
+          <tr>
+            <td>SSIM</td>
+            <td>Symantec Security Information Manager</td>
+            <td>enables a documented, repeatable process for security threat response  and IT policy compliance via integrated log management and incident  response solutions.</td>
+          </tr>
+          <tr>
+            <td>SSL</td>
+            <td><p>Secure Sockets Layer</p></td>
+            <td><div align="justify">
+                <p>A  protocol designed by Netscape Communications to enable encrypted,  authenticated communications across the internet. SSL used mostly  in communications between web browsers and web  servers. </p>
+            </div></td>
+          </tr>
+          <tr>
+            <td>SSLE</td>
+            <td>sequential systems of linear equations</td>
+            <td> an infeasible QP-free method based on the update of the inverse of the symmetric matrix</td>
+          </tr>
+          <tr>
+            <td>SSMP</td>
+            <td>Simple Screen Management Protocol</td>
+            <td>A communications protocol for text-based terminals.</td>
+          </tr>
+          <tr>
+            <td>SSO</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> single sign-on</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> System Security Officer </p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A term used to describe technology that enables a user to access  multiple computer platforms or application systems after being authenticated just one time.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A person responsible for enforcement or administration of the security policy that applies to the system.</p></td>
+          </tr>
+          <tr>
+            <td>STA</td>
+            <td>Single Threaded Apartment</td>
+            <td>A threading context for components that require  a message queue or thread affinity. Access to components in an STA is by definition synchronized</td>
+          </tr>
+          <tr>
+            <td>STEP</td>
+            <td>Standard for the exchange                                                   of product</td>
+            <td>a draft                                                   ISO standard for the exchange                                                   of CAD data.</td>
+          </tr>
+          <tr>
+            <td>STK</td>
+            <td> Satellite ToolKit</td>
+            <td>Graphical, object-oriented software for satellite and space station orbital and sensor coverage analysis [</td>
+          </tr>
+          <tr>
+            <td>STM</td>
+            <td>scanning tunneling microscopes</td>
+            <td>scanning tunneling microscopes</td>
+          </tr>
+          <tr>
+            <td>STM</td>
+            <td>Synchronous Transport Module</td>
+            <td><p>A system of fiber-optic transmission rates defined in the Synchronous Digital Hierarchy (SDH) scheme (see <strong>SDH</strong>).  STM levels are the European equivalent of Synchronous Optical Network  (SONET) Optical Carrier Level N (OC-N) hierarchy in North America (see <strong>SONET</strong> and <strong>OC-N</strong>). Each level quadruples as follows:</p>
+                <dir>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> STM-4: 622 Mbps</p>
+                  <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> STM-16: 2.5 gigabits per second (Gbps)</p>
+                  <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> STM-64: 10 Gbps</p>
+                  <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> STM-256: 40 Gbps</p>
+                </dir></td>
+          </tr>
+          <tr>
+            <td>STOCK</td>
+            <td>Strategic and Operational <br />
+              Customer Knowledge</td>
+            <td>MDM project that provides a single customer database shared by all 
+              applications managing customer data</td>
+          </tr>
+          <tr>
+            <td>STP</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> shielded twisted pair</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Soa Tools Platform</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Spanning Tree Protocol </p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Straight Through Processing</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Switching Transfer Points or Single Transfer Points</p></td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A cable where the twisted pair                                                   is shielded from electromagnetic                                                   interference. </p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Open source collaborative software development project dedicated to providing a generic, extensible, standards-based tool platform for producing Service Oriented Architecture (SOA) applications</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> provides a loop free topology for any LAN or bridged network.</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Ability to take a financial transaction though complete confirmation automatically</p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> part of SS7. STPs are packet switches.</p></td>
+          </tr>
+          <tr>
+            <td>STS</td>
+            <td>Security Token Service</td>
+            <td>Service  used to issue tokens</td>
+          </tr>
+          <tr>
+            <td>STT</td>
+            <td>Secure Transaction Technology</td>
+            <td>Technology developed by software companies and credit companies to protect financial dealings over the Internet and prevent fraud. </td>
+          </tr>
+          <tr>
+            <td>STUN</td>
+            <td>Session Traversal Utilities for NAT</td>
+            <td>an Internet standards-track suite of methods, including a network protocol, used in NAT traversal for applications of real-time voice, video, messaging.</td>
+          </tr>
+          <tr>
+            <td>STX</td>
+            <td>Start Of Text </td>
+            <td>A control character that is used to  indicate the beginning of a message and is placed immediately behind  the header in a transmit ted block.</td>
+          </tr>
+          <tr>
+            <td>SUA</td>
+            <td>Single User Account</td>
+            <td>Allows multiple users to share a single IP address (either dynamic or static) assigned by your Internet Service Provider (ISP)</td>
+          </tr>
+          <tr>
+            <td>SUS</td>
+            <td>Software Update Services</td>
+            <td>Software update management solution by Microsoft</td>
+          </tr>
+          <tr>
+            <td>SUT</td>
+            <td>System Under Test</td>
+            <td>The real open                                                   system in which the Implementation                                                   Under Test (IUT) resides.</td>
+          </tr>
+          <tr>
+            <td>SVBR</td>
+            <td>Semantics of Business Vocabulary and Business Rules</td>
+            <td> vocabularies exist for specific vertical 
+              industries — for example, Health Level Seven (HL7), the Agency for Co-operation and Research 
+              in Development (ACORD), and the Society for Worldwide Interbank Financial elecommunication <br />
+              (SWIFT).</td>
+          </tr>
+          <tr>
+            <td>SVC</td>
+            <td>Scalable Video Coding</td>
+            <td>traffic handling techniques, an 
+              extension of H.264</td>
+          </tr>
+          <tr>
+            <td>SVC</td>
+            <td>supervisor call</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A request that  serves as the interface into operating system functions, such as allocating  storage.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> An instruction  that interrupts the program being run and passes control to the supervisor  so that it can perform the specific service indicated by the instruction.</p></td>
+          </tr>
+          <tr>
+            <td>SVC</td>
+            <td>Switched Virtual Circuit</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Virtual connection set up only for the duration of a single communications session.</p>
+                <p> <img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> In OSI, a temporary association between  two DTEs that is initiated when one DTE makes a call request to the network.</p></td>
+          </tr>
+          <tr>
+            <td>SVD</td>
+            <td>Secondary Virtual Disk</td>
+            <td>a <a href="glossary_v.htm">VD</a> configured using hybrid <a href="what_is_raid.htm">RAID</a> levels like RAID10 or RAID50. Its elements <br />
+              are BVDs. </td>
+          </tr>
+          <tr>
+            <td>SVG</td>
+            <td><strong>S</strong>calable <strong>V</strong>ector <strong>G</strong>raphics </td>
+            <td>an XML file that is used to hold graphical data that can be resized without loss of quality. SVG data can be kept in its own file, or even embedded within a web page </td>
+          </tr>
+          <tr>
+            <td>SVGA</td>
+            <td>Super Video Graphics Array</td>
+            <td>A display standard defined by the Video Electronics Standards  Association. It provides higher resolution than the 640 x 480 <a href="glossary_v.htm">VGA</a> standard, and supports as many as 16 million  colors, depending on the computer system and amount of available  memory.</td>
+          </tr>
+          <tr>
+            <td>SVPCo</td>
+            <td>Small Value Payments Co.</td>
+            <td><strong> </strong>A banking consortium, formed in July 1998, that is governed  by 12 large U.S. banks SVPCo is concentrating on Electronic Check Presentment (ECP),  which requires cooperation from many banks in order to succeed.</td>
+          </tr>
+          <tr>
+            <td>SW or S/W</td>
+            <td>Software</td>
+            <td>a computer program that enables a computer to perform a specific task,  as opposed to the physical components of the system (hardware).</td>
+          </tr>
+          <tr>
+            <td>SWAP</td>
+            <td>Shared Wireless Access Protocol</td>
+            <td>A protocol used for wireless voice and data networking in the home, developed by the HomeRF Working Group. </td>
+          </tr>
+          <tr>
+            <td>SWAT</td>
+            <td>Samba Web Administration Tool<p>Solutions with Advanced Technologies</td>
+            <td>Samba Web Administration Tool <p> SWAT is Cisco term</td>
+          </tr>
+          <tr>
+            <td>SWIFT</td>
+            <td>Society for Worldwide Interbank Financial Telecommunication</td>
+            <td>A self-describing messaging format used in the banking and finance industry to support electronic funds transfer.</td>
+          </tr>
+          <tr>
+            <td>SWIM</td>
+            <td>System Wide Information Management </td>
+            <td>System Wide Information Management </td>
+          </tr>
+          <tr>
+            <td>SWL</td>
+            <td>short wavelength</td>
+            <td>A type of  fiber optic cabling that is based on 850-mm lasers and supports 1.0625-Gbps  link speeds. </td>
+          </tr>
+          <tr>
+            <td>SWOP</td>
+            <td>Specifications for Web Offset Publications</td>
+            <td>These specifications standardize the submission of materials supplied to web offset publications, and areas of responsibility for each of the involved industry segments. See <a href="http://www.swop.org/">http://www.swop.org/ </a></td>
+          </tr>
+          <tr>
+            <td>SWT</td>
+            <td>Standard Widget Toolkit</td>
+            <td>An  Eclipse toolkit for Java developers that defines a common, portable, user  interface API that uses the native widgets of the underlying operating system. </td>
+          </tr>
+          <tr>
+            <td>Sync</td>
+            <td>Synchronisation </td>
+            <td>pulse ensures that the monitor displaying the information is synchronized at regular 
+              intervals with the device supplying the data, thus displaying the data at the right location.</td>
+          </tr>
+          <tr>
+            <td>syslog</td>
+            <td>system logging </td>
+            <td>Syslog is the system logging facility for Unix systems.</td>
+          </tr>
+          <tr>
+            <td>Sysop</td>
+            <td>System Operator</td>
+            <td>Anyone responsible for the physical operations of a computer system or  network resource. For example, a System Administrator decides how often  backups and maintenance should be performed and the System Operator  performs those tasks. </td>
+          </tr>
+          <tr>
+            <td>SYSVOL</td>
+            <td>System Volume</td>
+            <td>a shared directory that stores the server copy of the domain's public files that must be shared for common access and replication throughout a domain in Microsoft Windows.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>salt</td>
+            <td>In password protection, salt is a random string of data used to modify a password hash. Salt can be added to the hash to prevent a collision by uniquely identifying a user's password, even if another user in the system has selected the same password.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>sandbox</td>
+            <td><div> A trial environment online where you can test something out without breaking anything. </div></td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>SANergy </td>
+            <td>A product  of IBM Tivoli that delivers shared data access at the speed of a SAN, using fibre channel, the SCSI,  or the iSCSI.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>satellite phone</td>
+            <td>They operate both on either GSM/AMPs networks, and via satellite, in areas where there is no coverage.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>scam</td>
+            <td> A fraudulent scheme that is used to attempt to obtain money from a person via the Internet.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>script</td>
+            <td>A series of statements, written in a scripting language such as  AppleScript or Perl, that instruct an application or the operating  system to perform various operations. Interpreter programs translate  scripts.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>seamless</td>
+            <td>In software, it means  that what takes place between the user and the application or  applications accessed by the user is perfectly smooth to the user and  the software being used by the user will work easily with other  software the user is using.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>Server</td>
+            <td>A computer, or a software package, that provides a specific kind of service to <em>client</em> software running on other computers. The term can refer to a particular piece of software, such as a <em>WWW</em> server, or to the machine on which the software is running</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>server farm</td>
+            <td><dl>
+                <dt>Secure facility that hosts a large number of Web servers.</dt>
+            </dl></td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>shadow password</td>
+            <td> A password that’s stored in a secure file on the server and can be 
+              authenticated using a variety of conventional authentication methods </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>Silicon Valley</td>
+            <td>A nickname for the region south of San Francisco that contains an unusually high concentration of computer companies. Silicon is the most common semiconductor material used to produce chips. </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>site license</td>
+            <td>A license that gives a customer permission to use a software package on  more than one system. Site licenses provide a bulk rate to companies  and schools that want to use software on many computers.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>Six Sigma</td>
+            <td>Six Sigma is a disciplined, data-driven approach and methodology for  eliminating defects in any process and is  broadly applied, from manufacturing to transactional processes within  product to service sectors.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>slamming</td>
+            <td>Changing an end user's primary local exchange carrier or Interexchange Carrier without the end user's authorization. </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>slave</td>
+            <td>This usually refers to an <a href="glossary_i.htm">IDE</a> setting on a hard drive or other IDE  device. When two devices are used on a single IDE channel, one is set  to master and the other to slave.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>slot</td>
+            <td>a slot, or expansion slot, is an engineered technique  for adding capability to a computer in the form of connection pinhole  type contact points </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>Smart card</td>
+            <td>A tamper-resistant hardware device the size of a credit card, that can  be used for the storage of secure information such as personal  information, electronic cash and private encryption keys. </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>snapshot</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A copy of the data in a database at         any given point in time.</p>
+                <p> <img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A copy of changed data in the active files  and directories of a file system with the exception of the inode number</p></td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>sniff / sniffer</td>
+            <td><p><strong> </strong><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> The process of listening to network traffic that you are  not authorized to receive.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Sniffer: network management tool that monitors data packets on a  network to help administrators ensure message integrity and service  quality.</p></td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>Social Analytics </td>
+            <td>describes the process of measuring, analyzing and interpreting the 
+              results of interactions and associations among people, topics and ideas. </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>socket</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> a receptacle that provides a   	means of communication between two processes.</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> An identifier that an application uses to uniquely  identify an end point of communication. </p>
+              <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A means for directing data to an application in a <a href="glossary_t.htm">TCP/IP</a> network using a unique  identifier that is a combination of an IP address and a port number.</p></td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>source code</td>
+            <td>Computer programs or operating systems are originally written by a human   	being in a programming language. This is called the source code of the   	software. </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>Southbridge </td>
+            <td>the chip that controls all of the computers I/O functions, such as USB, audio, serial, the system BIOS, the ISA bus, the interrupt controller and the IDE channels. In other words, all of the functions of a processor except memory, PCI and AGP. </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>spam</td>
+            <td>An inappropriate attempt to use a <em>mailing list</em>, or <em>USENET</em> or other networked communications facility as if it was a broadcast  medium (which it is not) by sending the same message to a large number  of people who didn't ask for it.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>spectrum</td>
+            <td><strong> </strong>A continuous range of frequencies, usually wide in extent, within which waves have some specific common characteristics.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>Speech-to-Speech Translation </td>
+            <td> involves translating one spoken language into another.  
+              It combines <a href="speech_recognition.htm">speech recognition</a>, machine translation and text-to-speech technology.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>splitter</td>
+            <td><strong> </strong>A simple device that takes one input and sends it to several  identical ports without amplification.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>spoofing</td>
+            <td><p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> A process whereby a router responds to keep alive messages from a host  rather than passing them on the remote client, thus saving call  charges. Used mainly in <a href="glossary_i.htm">ISDN</a></p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Of an e-mail message or network packet, falsely claiming to be  from an address different from that from which it actually originated.</p></td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>spool / spooler</td>
+            <td><p><strong> </strong><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Temporary storage of batch data until it is ready to be handled (for example, by a processor or printer).</p>
+                <p><img src="http://www.consp.com/library/public/designs/connet/favicon.ico" width="6" height="6"> Spooler: A program that handles print jobs and places them in a queue for distribution and printing on one or more printers. </p></td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>Static IP</td>
+            <td> an IP address that is assigned permanently to a computer.
+              A static IP address is needed for any kind of server that people access
+              through the Internet</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>Streaming </td>
+            <td>Streaming is the transfer of data in a continuous stream over the Web  (usually audio or video) that allows the user to play it as it arrives.  However, to receive this content you must have the right plug-in for  the application such as RealPlayer?, QuickTime? viewer, etc.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>subdomain</td>
+            <td>Subdomain is a way to divide your site into sections  with short and easy to remember names. Other  use of subdomains might be to let somebody else use your account.  </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>submarine cable</td>
+            <td>A cable designed to be laid underwater.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>subnet mask</td>
+            <td>A bit mask used to select bits from an Internet address for subnet addressing.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>switch</td>
+            <td>A device, such as a PBX, that responds                           to originator signals and connects the caller to the desired                           communications destination.</td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td>Symbian</td>
+            <td>A joint venture launched in 1998 by Psion, Ericsson, Nokia and Motorola  to develop Psion's EPOC 32 operating system into a real-time operating  system for handheld phones and PDAs. Matsushita, NTT DoCoMo, Siemens  and Sun Microsystems have since joined.</td>
+          </tr>
+        </table>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div>
+<!-- below_middle -->
+
+</div>
+</div>
+<div class="above-footer-outer" ><div class="page-width above-footer" ><!-- above_footer -->
+</div></div>
+<div class="footer-outer" ><div class="page-width" >
+<div class="columns footer">
+
+<div class="column col-footer">
+<!-- footer -->
+<div class="marker" ></div>
+<div id="bp21" class="tile  m465 tile6 i100 content-left">
+<div class="content content4">
+<a href="/" class="logo-a hoverable "><div><img src="/library/public/designs/default/logo.png" alt="logo"></div></a>    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp16" class="tile  m468 tile6 i100 content-right">
+<div class="content content999">
+<nav id="nav-3" class="disclose ">
+<a href="#" class="disclose-a"><div>Menu</div></a>
+<ul>
+<li id="nav-3_1" class=" hoverable"><a href="/welcome" ><div class="icon"></div><div class="text">Home<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_2" class=" hoverable"><a href="/rss-feed" ><div class="icon"></div><div class="text">RSS feed<!----></div><div class="arrow"></div></a></li>
+<li id="nav-3_3" class=" hoverable"><a href="/search" ><div class="icon"></div><div class="text">Search<!----></div><div class="arrow"></div></a></li></ul>
+<div class="clear"></div>
+</nav> <!-- arnav  -->    
+</div>
+</div><div class="gutter" ></div>
+<div id="bp9" class="tile  m355 tile12 i100 content-left">
+<div class="content content12">
+
+<div class="section m_standard section-cna text-left head-left">
+
+
+<div class="text" ><p><span style="line-height:1.6em">Copyright &copy; 2014 </span><span>Connet, Inc</span><span style="line-height:1.6em">. All Rights Reserved.&nbsp;</span><a href="http://www.agencyofrecord.com" style="line-height: 1.6em;" target="_blank">Create at AgencyofRecord.com</a><span style="line-height:1.6em">.</span></p>
+</div>
+<div class="clear"></div>
+</div>    
+</div>
+</div><div class="clear" ></div>
+</div>
+<div class="columns-clear"><!--  --></div>
+<!--  -->
+</div></div></div>
+<div class="below-footer-outer" ><div class="page-width below-footer" ><!-- below_footer -->
+</div></div>
+</div>
+<!--  -->
+<!-- arCacheTag -->
+<div class="body-end-outer" ><div class="page-width body-end" ><!-- body_end -->
+</div></div>
+<div class="body-screen"></div>
+</body>
+<!-- 1.83365607262 -->
+</html>
